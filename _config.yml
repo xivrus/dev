@@ -1,0 +1,9 @@
+name: XIV Rus Dev
+
+project:
+  description: Неофициальная русская локализация FINAL FANTASY XIV
+  download_url: https://xivrus.ru/download
+  download_text: Скачать
+
+# Build settings
+remote_theme: xivrus/xivrus-theme
