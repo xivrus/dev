@@ -1,0 +1,66 @@
+toc:
+  - title: Разметка
+    subfolderitems:
+      - page: Основной сюжет (MSQ)
+        url: /markdown/msq
+        subsubfolderitems:
+        - page: A Realm Reborn
+          url: /markdown/msq/arr
+        - page: Heavensward
+          url: /markdown/msq/hw
+        - page: Stormblood
+          url: /markdown/msq/sb
+        - page: Shadowbringers
+          url: /markdown/msq/shb
+        - page: Endwalker
+          url: /markdown/msq/ew
+      - page: Хроники новой эры
+        url: /markdown/chronicles
+      - page: Побочный сюжет
+        url: /markdown/sidequests
+      - page: Задания классов и профессий
+        subsubfolderitems:
+        - page: Адепты Битвы
+          url: /markdown/job-quests/dow
+        - page: Адепты Битвы — Профессии
+          url: /markdown/job-quests/dow-job
+        - page: Адепты Магии
+          url: /markdown/job-quests/dom
+        - page: Адепты Магии — Профессии
+          url: /markdown/job-quests/dom-job
+        - page: Роли (Shadowbringers и далее)
+          url: /markdown/job-quests/role
+        - page: Адепты Ремесла
+          url: /markdown/job-quests/doh
+        - page: Адепты Сбора
+          url: /markdown/job-quests/dol
+        - page: Crystalline Mean
+          url: /markdown/job-quests/crystalline
+        - page: Studium
+          url: /markdown/job-quests/studium
+      - page: Сезонные события
+        url: /markdown/seasonal-events
+      - page: Действия и навыки
+        url: /markdown/actions-traits
+      - page: Структура игровых файлов
+        url: /markdown/file-structure
+  - title: Инструкции
+    subfolderitems:
+      - page: Пользование сервером перевода
+        url: /guide/server
+      - page: Перевод заданий
+        url: /guide/translate-quests
+      - page: Указания редакторам
+        url: /guide/editor-guidelines
+      - page: Перевод интерфейса
+        url: /guide/translate-ui
+      - page: Теги и переменные
+        url: /guide/tags-vars
+      - page: Конвертация файлов
+        url: /guide/coversion
+  - title: Инструменты
+    subfolderitems:
+      - page: Скрипты конвертации файлов
+        url: /tools/exd-csv
+      - page: Извлечение игровых файлов
+        url: /tools/dump
