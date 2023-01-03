@@ -1,0 +1,25 @@
+.msq {
+	list-style-image: url("https://xivapi.com/i/061000/061412.png");
+}
+
+.blue-quest {
+	list-style-image: url("https://xivapi.com/i/061000/061419.png");
+}
+
+.yellow-quest {
+	list-style-image: url("https://xivapi.com/i/061000/061411.png");
+}
+
+@media (prefers-color-scheme: dark) {
+	.cutscene_list {
+		color: #8c8c8c;
+	}
+}
+@media (prefers-color-scheme: light) {
+	.cutscene_list {
+		color: #6f6f6f;
+	}
+}
+.cutscene_list {
+	margin-left: 1rem;
+}
