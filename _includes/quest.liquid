@@ -1,0 +1,60 @@
+{{ include.quest }}
+
+{% assign quest_list = page.quest_list %}
+
+{{ quest_list }}
+
+{% assign quest = site.data.quest_lists.{{ quest_list }} %}
+
+{{ quest }}
+
+
+<li class="{{ quest.type }}">Ур. {{ quest.level }} — <strong>{{ quest.name.original }}</strong>{% if quest.name.translated %} / <strong>{{ quest.name.translated }}</strong>{% endif %} — Название (<a href="{{ quest.name.url.journal }}">Журнал</a> / <a href="{{ quest.name.url.quest }}">Не журнал</a>) — <a href="{{ quest.url }}">Квест</a>
+	{%- if quest.cutscenes -%}
+	<p class="cutscene_list">
+		{%- for cutscene in quest.cutscenes -%}
+		<a href="{{ cutscene.url }}">{{ cutscene.name }}</a> - {{ cutscene.start }}–{{ cutscene.end }}
+		{%- endfor -%}
+	</p>
+	{%- endif -%}
+
+	{%- if
+		quest.actors or 
+		quest.enemies or
+		quest.eobjects or
+		quest.fates or
+		quest.quest_items
+	-%}
+	<details>
+		<summary>
+			<p>NPC, предметы и т.д.</p>
+		</summary>
+
+		{%- if quest.actors -%}
+		NPC: 
+			{%- assign actor_string = '' -%}
+			{%- for actor in quest.actors -%}
+				{%- if actor.url -%}
+					{%- if actor.name -%}
+						{%- assign actor_string = actor_string | append: '<a href="{{ actor.url }}">{{ actor.name }}</a>' -%}
+					{%- else -%}
+						{%- assign actor_string = actor_string | append: '<a href="{{ actor.url }}">{{ actor.id }}</a>' -%}
+					{%- endif -%}
+				{%- else -%}
+					{%- assign actor_string = actor_string | append: '{{ actor.id }}, ' -%}
+				{%- endif -%}
+				{%- unless forloop.last %}, {% endunless -%}
+			{%- endfor -%}
+			{{ actor_string }}
+		{%- endif -%}
+		{%- if quest.enemies -%}
+		Вражеские NPC: 
+			{%- for enemy in quest.enemies -%}
+			
+			{%- endfor -%}
+		{%- endif -%}
+		<br />
+		Надписи на земле: <a href="https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d54599c827bb126a">Цель</a>, <a href="https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d2ec9620da9f8a05">Цель</a>, <a href="https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d43bb1b459b6db94">Цель</a>
+	</details>
+	{%- endif -%}
+</li>

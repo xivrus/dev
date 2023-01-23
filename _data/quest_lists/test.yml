@@ -1,0 +1,55 @@
+- name: Griffin, Griffin on the Wall
+  name_translated: Грифон и его Стена
+  level: 60
+  type: msq
+  quest_url: https://translate.xivrus.ru/projects/ffxiv-translationquest-023-heavnf104_02354/
+  quest_name_url: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/checksum=25968ae0b03343e4
+  journal_url: https://translate.xivrus.ru/translate/ffxiv-translation/completejournalru/?checksum=f001d7cbfb831164
+  actors:
+    - name: Ализе
+      id: 1018020
+      url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2097e097f872dd24
+    - name: Югири
+      id: 1018021
+      url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=083cc3353b635a66
+    - id: 1018022
+      url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c5885c76e575fee4
+    - id: 1018359
+  cutscenes:
+    - name: Кат-сцена 1
+      start: "000550"
+      end: "000680"
+      url: https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-035-voiceman_03500/
+    - name: Кат-сцена 2
+      start: "100690"
+      end: "100891"
+      url: https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-035-voiceman_03500/
+    - name: Кат-сцена 3
+      start: "A00900"
+      end: "A01091"
+      url: https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-035-voiceman_03500/
+  eobjects:
+    - id: 2001674
+      url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=570305a442c9e4f8
+    - name: Посадочный мостик
+      id: 2001666
+      url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c4acdfc376d5f5e1
+    - id: 2001667
+  enemies:
+    - id: 5856610
+    - name: Крыса
+      id: 5856611
+  instances:
+    - id: 0
+  fates:
+    - name: Тестовая ЗОНА
+      id: 0
+      url: https://example.com/#1
+      dialog_url: https://example.com/#2
+  quest_items:
+    - name: письмо Генералу
+      desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=9acc2452504de0d2
+      id: 2000456
+      url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=9acc2452504de0d2
+    - id: 2000457
+- name: test 2
