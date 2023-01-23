@@ -4,4 +4,6 @@ title: Тест
 quest_list: test
 ---
 
-{% include quest.liquid quest = 'Griffin, Griffin on the Wall' %}
+<ul markdown="0">
+	{% include quest.liquid quest_name = 'Griffin, Griffin on the Wall' %}
+</ul>

@@ -1,10 +1,12 @@
-- name: Griffin, Griffin on the Wall
-  name_translated: Грифон и его Стена
+- name:
+    original: Griffin, Griffin on the Wall
+    translated: Грифон и его Стена
   level: 60
   type: msq
-  quest_url: https://translate.xivrus.ru/projects/ffxiv-translationquest-023-heavnf104_02354/
-  quest_name_url: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/checksum=25968ae0b03343e4
-  journal_url: https://translate.xivrus.ru/translate/ffxiv-translation/completejournalru/?checksum=f001d7cbfb831164
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translationquest-023-heavnf104_02354/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f001d7cbfb831164
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/checksum=25968ae0b03343e4
   actors:
     - name: Ализе
       id: 1018020
@@ -39,6 +41,7 @@
     - id: 5856610
     - name: Крыса
       id: 5856611
+      url: https://example.com
   instances:
     - id: 0
   fates:
@@ -52,4 +55,5 @@
       id: 2000456
       url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=9acc2452504de0d2
     - id: 2000457
-- name: test 2
+- name:
+    original: test 2

@@ -1,24 +1,26 @@
-{{ include.quest }}
-
-{% assign quest_list = page.quest_list %}
-
-{{ quest_list }}
-
-{% assign quest = site.data.quest_lists.{{ quest_list }} %}
-
-{{ quest }}
-
-
-<li class="{{ quest.type }}">Ур. {{ quest.level }} — <strong>{{ quest.name.original }}</strong>{% if quest.name.translated %} / <strong>{{ quest.name.translated }}</strong>{% endif %} — Название (<a href="{{ quest.name.url.journal }}">Журнал</a> / <a href="{{ quest.name.url.quest }}">Не журнал</a>) — <a href="{{ quest.url }}">Квест</a>
-	{%- if quest.cutscenes -%}
-	<p class="cutscene_list">
-		{%- for cutscene in quest.cutscenes -%}
-		<a href="{{ cutscene.url }}">{{ cutscene.name }}</a> - {{ cutscene.start }}–{{ cutscene.end }}
+{%- for quest_list in site.data.quest_lists -%}
+	{%- if quest_list[0] == page.quest_list -%}
+		{%- for quest_i in quest_list[1] -%}
+			{%- if quest_i.name.original == include.quest_name -%}
+				{%- assign quest = quest_i -%}
+				{%- break -%}
+			{%- endif -%}
 		{%- endfor -%}
-	</p>
+		{%- break -%}
 	{%- endif -%}
+{%- endfor %}
 
-	{%- if
+<li class="{{ quest.type }}">
+	<p>Ур. {{ quest.level }} — <strong>{{ quest.name.original }}</strong>{% if quest.name.translated %} / <strong>{{ quest.name.translated }}</strong>{% endif %} — Название (<a href="{{ quest.url.journal }}">Журнал</a> / <a href="{{ quest.url.quest_name }}">Не журнал</a>) — <a href="{{ quest.url.quest }}">Квест</a></p>
+	{% if quest.cutscenes %}
+	<p class="cutscene_list">
+		{%- for cutscene in quest.cutscenes %}
+		<a href="{{ cutscene.url }}">{{ cutscene.name }}</a> - {{ cutscene.start }}–{{ cutscene.end }}{% unless forloop.last %}<br />{% endunless %}
+		{%- endfor %}
+	</p>
+	{%- endif %}
+
+	{% if
 		quest.actors or 
 		quest.enemies or
 		quest.eobjects or
@@ -30,31 +32,77 @@
 			<p>NPC, предметы и т.д.</p>
 		</summary>
 
-		{%- if quest.actors -%}
-		NPC: 
-			{%- assign actor_string = '' -%}
-			{%- for actor in quest.actors -%}
+		{% if quest.actors -%}
+		<p>NPC: {% for actor in quest.actors -%}
 				{%- if actor.url -%}
 					{%- if actor.name -%}
-						{%- assign actor_string = actor_string | append: '<a href="{{ actor.url }}">{{ actor.name }}</a>' -%}
+						<a href="{{ actor.url }}">{{ actor.name }}</a>
 					{%- else -%}
-						{%- assign actor_string = actor_string | append: '<a href="{{ actor.url }}">{{ actor.id }}</a>' -%}
+						<a href="{{ actor.url }}">{{ actor.id }}</a>
 					{%- endif -%}
 				{%- else -%}
-					{%- assign actor_string = actor_string | append: '{{ actor.id }}, ' -%}
+					{{ actor.id }}
 				{%- endif -%}
 				{%- unless forloop.last %}, {% endunless -%}
 			{%- endfor -%}
-			{{ actor_string }}
-		{%- endif -%}
-		{%- if quest.enemies -%}
-		Вражеские NPC: 
-			{%- for enemy in quest.enemies -%}
-			
+		</p>
+		{%- endif %}
+		{% if quest.enemies -%}
+		<p>Вражеские NPC: {% for enemy in quest.enemies -%}
+				{%- if enemy.url -%}
+					{%- if enemy.name -%}
+						<a href="{{ enemy.url }}">{{ enemy.name }}</a>
+					{%- else -%}
+						<a href="{{ enemy.url }}">{{ enemy.id }}</a>
+					{%- endif -%}
+				{%- else -%}
+					{{ enemy.id }}
+				{%- endif -%}
+				{%- unless forloop.last %}, {% endunless -%}
 			{%- endfor -%}
-		{%- endif -%}
-		<br />
-		Надписи на земле: <a href="https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d54599c827bb126a">Цель</a>, <a href="https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d2ec9620da9f8a05">Цель</a>, <a href="https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d43bb1b459b6db94">Цель</a>
+		</p>
+		{%- endif %}
+		{% if quest.fates -%}
+		<p>ЗОНЫ: {% for fate in quest.fates -%}
+				{%- if fate.url -%}
+					<a href="{{ fate.url }}">{{ fate.name }}</a> (<a href="{{ fate.dialog_url }}">Реплики</a>)
+				{%- else -%}
+					{{ fate.id }}
+				{%- endif -%}
+				{%- unless forloop.last %}, {% endunless -%}
+			{%- endfor -%}
+		</p>
+		{%- endif %}
+		{% if quest.quest_items -%}
+		<p>Предметы: {% for quest_item in quest.quest_items -%}
+				{%- if quest_item.url -%}
+					{%- if quest_item.name -%}
+						<a href="{{ quest_item.url }}">{{ quest_item.name }}</a>
+					{%- else -%}
+						<a href="{{ quest_item.url }}">{{ quest_item.id }}</a>
+					{%- endif -%}
+				{%- else -%}
+					{{ quest_item.id }}
+				{%- endif -%}
+				{%- unless forloop.last %}, {% endunless -%}
+			{%- endfor -%}
+		</p>
+		{%- endif %}
+		{% if quest.eobjects -%}
+		<p>Надписи на земле: {% for eobject in quest.eobjects -%}
+				{%- if eobject.url -%}
+					{%- if eobject.name -%}
+						<a href="{{ eobject.url }}">{{ eobject.name }}</a>
+					{%- else -%}
+						<a href="{{ eobject.url }}">{{ eobject.id }}</a>
+					{%- endif -%}
+				{%- else -%}
+					{{ eobject.id }}
+				{%- endif -%}
+				{%- unless forloop.last %}, {% endunless -%}
+			{%- endfor -%}
+		</p>
+		{%- endif %}
 	</details>
-	{%- endif -%}
+	{%- endif %}
 </li>
