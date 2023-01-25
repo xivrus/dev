@@ -1,0 +1,856 @@
+- name:
+    original: A Recurring Problem
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-010-gaiusd001_01047/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b7cf212cca38e336
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=c124c38c5837fe9d
+  actors:
+  - id: 1006693
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4dab28c287c1135f
+    name: Минфилия
+  - id: 1007478
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
+    name: Урианже
+
+- name:
+    original: Ifrit Bleeds, We Can Kill It
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-010-gaiusd002_01048/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7987092a02152425
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=af031f498c6feb5f
+  actors:
+  - id: 1007534
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=60c4ffbdd5a27fe7
+    name: Танкред
+  - id: 1004576
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1f64b734f93497d4
+    name: Свифт
+  eobjects:
+  - id: 2002581
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c796b4f2b7eaafd6
+    name: Zahar'ak aetheryte
+
+- name:
+    original: In for Garuda Awakening
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-gaiusd003_01157/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7cfc577d7da68d54
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=73c31d989ba768ae
+  actors:
+  - id: 1007531
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d6ea6cd0d65c8a0f
+    name: Папалимо
+  - id: 1000168
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eb796c9f86e22d68
+    name: Ворсель Хелокс
+  eobjects:
+  - id: 2002582
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f8f074e3a07330a6
+    name: Natalan aetheryte
+
+- name:
+    original: In a Titan Spot
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-gaiusd004_01158/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a3c83eaec19ce3c7
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=21a909bd26683fe4
+  actors:
+  - id: 1007533
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a6409b68111d2595
+    name: Я'штола
+  - id: 1003281
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6a5bdf5c296cc099
+    name: Р'айшат Рики
+  eobjects:
+  - id: 2002583
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5d5b3138b68287dd
+    name: U'Ghamaro aetheryte
+
+- name:
+    original: Primal Nature
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-gaiusd011_01194/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=836cb38ac11d8bbe
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=fce463eec2c51670
+  actors:
+  - id: 1007478
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
+    name: Урианже
+  - id: 1000168
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eb796c9f86e22d68
+    name: Ворсель Хелокс
+
+- name:
+    original: Gale-force Warning
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-gaiusd012_01195/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4917f3e95e1cb49e
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=7d7d9454985701eb
+  actors:
+  - id: 1000168
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eb796c9f86e22d68
+    name: Ворсель Хелокс
+  - id: 1007478
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
+    name: Урианже
+  quest_items:
+  - id: 2001139
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=a8851762179e1ce0
+    name: Vortex ritual focus
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=a8851762179e1ce0
+  eobjects:
+  - id: 2003456
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=39945ded833b0a34
+    name: Natalan aetheryte
+
+- name:
+    original: Quake Me Up Before You O'Ghomoro
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-gaiusd013_01196/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b416c4ab0f7920e0
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=828c43a0cec806d3
+  actors:
+  - id: 1007478
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
+    name: Урианже
+  - id: 1003281
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6a5bdf5c296cc099
+    name: Р'айшат Рики
+  quest_items:
+  - id: 2001140
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=0f7d2cd390f03456
+    name: Crag ritual focus
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=0f7d2cd390f03456
+  eobjects:
+  - id: 2003457
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=098adae9c30c3655
+    name: U'Ghamaro aetheryte
+
+- name:
+    original: Ifrit Ain't Broke
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-gaiusd014_01197/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d570c949d91b961e
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=373213235b7f948e
+  actors:
+  - id: 1007478
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
+    name: Урианже
+  - id: 1004576
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1f64b734f93497d4
+    name: Свифт
+  quest_items:
+  - id: 2001141
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=2afe553ae4f64b8d
+    name: Inferno ritual focus
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=2afe553ae4f64b8d
+  eobjects:
+  - id: 2003458
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=6267860851caa956
+    name: Zahar'ak aetheryte
+
+- name:
+    original: To Tussle with Gods
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-gaiusd015_01198/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f568af1510964b60
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=07ea882730679e46
+  actors:
+  - id: 1007478
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
+    name: Урианже
+  - id: 1001304
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96195572aeed6a73
+    name: Ровена
+  - id: 1006951
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e2c968efca0725e5
+    name: Laraina
+  quest_items:
+  - id: 2001142
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=3e0a720f3e50c5da
+    name: Vortex ritual focus
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=3e0a720f3e50c5da
+  - id: 2001143
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=bc480cf9c902856f
+    name: Crag ritual focus
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=bc480cf9c902856f
+  - id: 2001144
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=14379332bc1aacab
+    name: Inferno ritual focus
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=14379332bc1aacab
+
+- name:
+    original: Primal Focus
+  level: 50
+  type: feature-repeatable
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-013-gaiusd016_01309/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e69c9e0bb9911de2
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=770efbb36531ecfa
+  actors:
+  - id: 1006951
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e2c968efca0725e5
+    name: Laraina
+  quest_items:
+  - id: 2001145
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=e3a1d3101aeffe19
+    name: Vortex ritual focus
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=e3a1d3101aeffe19
+  - id: 2001146
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=fad5a3facdbf8f6b
+    name: Crag ritual focus
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=fad5a3facdbf8f6b
+  - id: 2001147
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=363f37d1082d9ff4
+    name: Inferno ritual focus
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=363f37d1082d9ff4
+
+- name:
+    original: The King Lives
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-014-gaiusd017_01412/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=df32b4f80c708be8
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=ab34f84f7cf5b95a
+  actors:
+  - id: 1007478
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
+    name: Урианже
+  - id: 1000168
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eb796c9f86e22d68
+    name: Ворсель Хелокс
+  - id: 1008544
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7373138070d60aa5
+    name: Купло Копп
+  - id: 1008545
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=991ab1edfc40f9b8
+    name: Королевский стражник Двух Змей
+  eobjects:
+  - id: 2004032
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=6511470fcc854fa0
+
+- name:
+    original: Whorl of a Time
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-014-gaiusd018_01413/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=0a9d49bf16291f66
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=7810e66a02134c0b
+  actors:
+  - id: 1007478
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
+    name: Урианже
+  - id: 1003281
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6a5bdf5c296cc099
+    name: Р'айшат Рики
+  - id: 1005409
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ee9d498398003107
+    name: Стирлона
+
+- name:
+    original: Judgment Bolts and Lightning
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-015-gaiusd019_01530/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=30a131cc3f55fca3
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=c670fa4990d8176a
+  actors:
+  - id: 1009294
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=59029ee17f1ddf04
+    name: Scarlet
+  - id: 1000587
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7a11c2235b58dd57
+    name: Деллексия
+  - id: 5010000
+  - id: 1007478
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
+    name: Урианже
+  eobjects:
+  - id: 2004430
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a0c4d8b5a88e9f38
+    name: Sylphlands aetheryte
+
+- name:
+    original: Drop Dead Shiva
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-gaiusd020_00090/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=47af8ccdd68b75ad
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=a948a4db114fc3ca
+  actors:
+  - id: 1007478
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
+    name: Урианже
+  - id: 1006444
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9de063f5c8e871f0
+    name: Дриймон
+  - id: 1010054
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4dcc837eb9d6ef18
+    name: Храмовник-дозорный
+  - id: 5010000
+
+- name:
+    original: Fear and Odin in the Shroud
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-004-subcts902_00433/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=43d07576fd29920b
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=3c3b0c88bdcf6021
+  actors:
+  - id: 1009294
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=59029ee17f1ddf04
+    name: Scarlet
+  - id: 1011250
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ca62afbc78cab021
+    name: О-Апа-Песи
+  - id: 1011251
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=81814c0da7e4038e
+  - id: 1011252
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7981d1ef126e30aa
+  - id: 1011253
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=45fa03f897ea88df
+  - id: 5010000
+
+- name:
+    original: Primal Awakening
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-gaiusd101_01159/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=16056c3fb4a0fa66
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=e9234b9992343605
+  actors:
+  - id: 1007478
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
+    name: Урианже
+  - id: 1007685
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=02b33bff2bb13327
+    name: Ализе
+  - id: 1007627
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c5780e5632a9e0a7
+    name: J'brohka
+  eobjects:
+  - id: 2002609
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8dd0837205d83321
+    name: Exploratory Site gate
+
+- name:
+    original: Alisaie's Pledge
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-gaiusd102_01160/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5dc33e9031ac015c
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=a4590236d28c9e7f
+  cutscenes:
+  - name: Кат-сцена 1
+    start: "100"
+    end: "110"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-gaiusd101_01159/
+  - name: Кат-сцена 2
+    start: "120"
+    end: "128"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-gaiusd101_01159/
+  - name: Кат-сцена 3
+    start: "140"
+    end: "147"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-gaiusd101_01159/
+  - name: Кат-сцена 4
+    start: "160"
+    end: "176"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-gaiusd101_01159/
+  - name: Кат-сцена 5
+    start: "200"
+    end: "208"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-gaiusd101_01159/
+  actors:
+  - id: 1007478
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
+    name: Урианже
+  - id: 1007684
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=29acf0128230849c
+    name: Ализе
+
+- name:
+    original: Another Turn in the Coil
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-013-gaiusd301_01313/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6381d1d41b2a2919
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=9d7827ab449e5824
+  actors:
+  - id: 1007478
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
+    name: Урианже
+  - id: 1008538
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e80459d4564f7358
+    name: Anaelle
+  - id: 1008539
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f330aa847268068e
+    name: sharp-eyed serpent private
+
+- name:
+    original: Alisaie's Resolve
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-013-gaiusd302_01314/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=75e3cb78371f07ad
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=0b6f56b4f8416fba
+  cutscenes:
+  - name: Кат-сцена 1
+    start: "200"
+    end: "220"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/quest-013-gaiusd301_01313/
+  - name: Кат-сцена 2
+    start: "240"
+    end: "261"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/quest-013-gaiusd301_01313/
+  - name: Кат-сцена 3
+    start: "100"
+    end: "105"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/quest-013-gaiusd301_01313/
+  - name: Кат-сцена 4
+    start: "120"
+    end: "133"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/quest-013-gaiusd301_01313/
+  - name: Кат-сцена 5
+    start: "150"
+    end: "155"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/quest-013-gaiusd301_01313/
+  - name: Кат-сцена 6
+    start: "170"
+    end: "182"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/quest-013-gaiusd301_01313/
+  actors:
+  - id: 1008540
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5c21ea015f4e3a93
+    name: Ализе
+  - id: 1007478
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
+    name: Урианже
+
+- name:
+    original: Fragments of Truth
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-gaiusd501_00043/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a3b68eff7f3bd9f7
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=66a49df6e2b7e1b8
+  actors:
+  - id: 1007478
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
+    name: Урианже
+  - id: 1009769
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=76e2a3d8bb519aaf
+    name: Помощник Ализе
+  - id: 1009770
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=17c6457aca271e05
+    name: Помощник Ализе
+  - id: 1009771
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=75cd8468bdd183f0
+    name: Урианже
+  - id: 1010765
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=15832a03e9abad32
+    name: Помощник Ализе
+  - id: 1009772
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=427d9e271a77edeb
+    name: Ализе
+  - id: 1009773
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8a9f04a7df88de82
+    name: Урианже
+  - id: 1009774
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=650bca8d54300bb7
+  - id: 1009775
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7873c62b9c57e00b
+  - id: 1009768
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=db813db859d075d8
+    name: Erkenrad
+  eobjects:
+  - id: 2004607
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=6b5c9b93cae1ea90
+
+- name:
+    original: Alisaie's Path
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-gaiusd502_00044/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e5cf7be1d9fd2487
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=0118fb53dfabbb70
+  cutscenes:
+  - name: Кат-сцена 1
+    start: "400010"
+    end: "400180"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-024-voiceman_02401/
+  - name: Кат-сцена 2
+    start: "500010"
+    end: "500360"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-024-voiceman_02401/
+  - name: Кат-сцена 3
+    start: "501"
+    end: "508"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-gaiusd501_00043/
+  - name: Кат-сцена 4
+    start: "601"
+    end: "621"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-gaiusd501_00043/
+  - name: Кат-сцена 5
+    start: "701"
+    end: "707"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-gaiusd501_00043/
+  - name: Кат-сцена 6
+    start: "300010"
+    end: "300330"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-024-voiceman_02401/
+  - name: Кат-сцена 7
+    start: "600010"
+    end: "600200"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-024-voiceman_02401/
+  - name: Кат-сцена 8
+    start: "700010"
+    end: "700230"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-024-voiceman_02401/
+  actors:
+  - id: 1009777
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=32f323332dbffa62
+    name: Ализе
+  - id: 1009776
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c07db491fd894f5a
+    name: Альфино
+  - id: 1009771
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=75cd8468bdd183f0
+    name: Урианже
+
+- name:
+    original: Legacy of Allag
+    translated: Наследие Аллага
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-017-gaiusx201_01709/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c3ba38fba0ed5dc9
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=dd279468e563ae78
+  cutscenes:
+  - name: Кат-сцена
+    start: "22"
+    end: "23"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-gaiusd201_01199/
+  actors:
+  - id: 1007753
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7514ae8fe456ab05
+    name: Чудаковатый мужик
+  - id: 1006725
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f53781452bc80d2e
+    name: Рамброс
+  enemies:
+  - id: 7625695
+  - id: 7625884
+  - id: 7625951
+  - id: 7626039
+  quest_items:
+  - id: 2002484
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=b6bfcf267cfecf8c
+    name: безупречный кристалл земли
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=b6bfcf267cfecf8c
+  - id: 2002485
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=e62b60133ce0ece4
+    name: безупречный кристалл воды
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=e62b60133ce0ece4
+  - id: 2002486
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=644ab70b24cd5dae
+    name: безупречный кристалл огня
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=644ab70b24cd5dae
+  - id: 2002487
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=5aa1eff5fc2bf2f7
+    name: безупречный кристалл ветра
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=5aa1eff5fc2bf2f7
+  eobjects:
+  - id: 2000075
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=62789b56032e9da9
+    name: Цель
+  - id: 2000076
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=1689aed4f528feaf
+    name: Цель
+  - id: 2000077
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a6be2de5cf999da1
+    name: Цель
+  - id: 2000078
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d677aab60027937f
+    name: Цель
+
+- name:
+    original: Sanding It Down
+    translated: Всё ради полировки
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-012-gaiusd202_01200/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b2252306e9761969
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=b19d28a0a99d7752
+  actors:
+  - id: 1006725
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f53781452bc80d2e
+    name: Рамброс
+  - id: 1004093
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d70d857ad38fef69
+    name: Серендипити
+  - id: 1007755
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d19c9ab339f9381e
+    name: Биггс
+  - id: 1007756
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=681a481c0f4fd6ca
+    name: Опытный искатель приключений
+  - id: 1007757
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d4ae175a78efcf24
+  - id: 1007758
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=804649e4b0454327
+  - id: 1007759
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=58048033b678d752
+    name: Ведж
+  quest_items:
+  - id: 2001099
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=d6387e18afe963d1
+    name: набитый деньгами мешочек
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=d6387e18afe963d1
+  - id: 2001097
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=b0a1d1015215b98c
+    name: горсть заряженного энергией огня эфирного песка
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=b0a1d1015215b98c
+  - id: 2001098
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=c5b3e0205231def9
+    name: горсть заряженного энергией земли эфирного песка
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=c5b3e0205231def9
+  eobjects:
+  - id: 2002892
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5a0d2ac51401d9a9
+    name: Нужный вам свёрток... кажется
+
+- name:
+    original: A Performance for the Ages
+    translated: Спектакль на века
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-012-gaiusd203_01201/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8a95162bb16457f2
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=775d03735497e0ca
+  actors:
+  - id: 1006725
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f53781452bc80d2e
+    name: Рамброс
+  - id: 1000768
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e1a101f02ab56740
+    name: Парсмонтре
+  - id: 1007760
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b85a0cc45186ea20
+  enemies:
+  - id: 4502639
+  - id: 4502640
+  - id: 4502641
+  quest_items:
+  - id: 2001100
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=c96f75e1380b5b10
+    name: горсть заряженного энергией ветра эфирного песка
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=c96f75e1380b5b10
+  - id: 2001101
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=8e1335f7251d9734
+    name: горсть заряженного энергией воды эфирного песка
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=8e1335f7251d9734
+  eobjects:
+  - id: 2002893
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=862f189f5bf97e1d
+    name: Туша кабана
+  - id: 2002894
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=13fbd3190d76a3e0
+    name: Свёрток с эфирным песком
+  - id: 2002895
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f473e1cc16375e33
+  - id: 2002898
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=11dadd446d541419
+  - id: 2002896
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=4d462c444d325447
+    name: Свёрток с эфирным песком
+
+- name:
+    original: Labyrinth of the Ancients
+    translated: Лабиринт Древних
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-012-gaiusd204_01202/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=03f7dc8d7132de84
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=da308817d2936cfe
+  actors:
+  - id: 1007763
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c49b705dccc1d8e1
+    name: Г'раха Тиа
+  eobjects:
+  - id: 2002897
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=9022ca50689feff6
+    name: Цель
+
+- name:
+    original: For Prosperity
+    translated: Всё ради успеха
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-012-gaiusd205_01203/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=716c99c7e0c6a23d
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=b93d8bf3e0cddb45
+  actors:
+  - id: 1007763
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c49b705dccc1d8e1
+    name: Г'раха Тиа
+  - id: 1006725
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f53781452bc80d2e
+    name: Рамброс
+
+- name:
+    original: Syrcus Tower
+    translated: Башня Сиркус
+  level: 50
+  type: raid
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsrog011_00102/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a607fe61b7b42f8c
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=6e900bbcb0f8bc50
+  actors:
+  - id: 1009944
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=226a0971b334fbab
+    name: Лонуорд
+  - id: 1009943
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=878fe4a6ae0c3e6c
+    name: Джеки
+
+- name:
+    original: The World of Darkness
+    translated: Мир Тьмы
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-004-gaiusd601_00494/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3fe7b787efcf0bb0
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=4978c6582481a498
+  actors:
+  - id: 1006725
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f53781452bc80d2e
+    name: Рамброс
+  - id: 1011638
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a4a09b3b2310ceff
+    name: Ведж
+  - id: 1011639
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=376cae41f52a5652
+    name: Биггс
+  - id: 1007763
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c49b705dccc1d8e1
+    name: Г'раха Тиа
+  - id: 1011640
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=99887cf58a6bdcd7
+    name: Г'раха Тиа
+  - id: 5010000
+  - id: 1007754
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5e80ed1f4322ce51
+    name: Сид
+  - id: 1007761
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6a63449863f4cf75
+    name: Биггс
+  - id: 1007762
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9b2e1701a838bd5d
+    name: Ведж
+
+- name:
+    original: The Light of Hope
+    translated: Свет надежды
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-004-gaiusd602_00495/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5a511c01e2d09106
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=5eea6600ee77e810
+  actors:
+  - id: 1006725
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f53781452bc80d2e
+    name: Рамброс
+  - id: 1011641
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=27ccc568a9239c87
+    name: Cын Святого Конаха
+  - id: 1011642
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a6e26b606f1c39a6
+
+- name:
+    original: But I Hardly Noah
+    translated: Только не Ной
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-004-gaiusd701_00497/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c25fa6598f5396c1
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=84ebb70c4184b51c
+  cutscenes:
+  - name: Кат-сцена
+    start: "10"
+    end: "32"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/quest-005-mansea200_00546/
+  actors:
+  - id: 1004349
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=63885092d5b582da
+    name: Сиэль
+  - id: 1011655
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c7b007a15770d493
+    name: Ко Рабнтах
+
+- name:
+    original: The Gift of the Archmagus
+    translated: Дар архимага
+  level: 50
+  type: feature-repeatable
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-004-gaiusd702_00498/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d04f743b873ecea6
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=415a43738f9cdf0c
+  actors:
+  - id: 1011655
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c7b007a15770d493
+    name: Ко Рабнтах
+  - id: 5010000
+  quest_items:
+  - id: 2001552
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=c39e9f4a4583f305
+    name: Жемчужина Лабиринта
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=c39e9f4a4583f305
+  - id: 2001553
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=dd9a5e4fdb3d5db7
+    name: Жемчужина Башни
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=dd9a5e4fdb3d5db7
+  - id: 2001554
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=25faf289989f04b7
+    name: Жемчужина Тьмы
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=25faf289989f04b7
+

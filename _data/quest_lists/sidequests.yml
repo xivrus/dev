@@ -1,0 +1,2877 @@
+- name:
+    original: The Rise and Fall of Gentlemen
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-012-chrhdb101_01204/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=17e9442b5ab3690f
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=caf66abbe6274c06
+  actors:
+  - id: 1001285
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c8c8ac3604bf9f4f
+    name: Вимонд
+  - id: 1005709
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4416016ad0d0eb77
+    name: Нашу Мхакаракка
+  - id: 1005710
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2929298f09dbc922
+    name: Нашу Мхакаракка
+  fates:
+  - id: 555
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/fate/ru/?checksum=58eb3af60be68cc3
+    name: Следы на песке
+    dialog_url: https://translate.xivrus.ru/translate/ffxiv-translation/fateevent/ru/?checksum=58eb3af60be68cc3
+  quest_items:
+  - id: 2001125
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=c632a4116379c000
+    name: любопытный пергамент
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=c632a4116379c000
+
+- name:
+    original: Back in the Saddle
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-012-chrhdb102_01205/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=289343385cdf77e3
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=1a7fb55fd7bc2f22
+  actors:
+  - id: 1005711
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ad681c0d1e551dba
+    name: Хильдибранд
+  - id: 1005710
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2929298f09dbc922
+    name: Нашу Мхакаракка
+  - id: 1004331
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2fe3b5eb865cdb7c
+    name: Серебристая крапива
+  - id: 1001313
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bb908283a2c9a2f0
+    name: Ботульф
+  - id: 1004333
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1d16d3fd8197d12f
+    name: Агнис
+  - id: 1001285
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c8c8ac3604bf9f4f
+    name: Вимонд
+
+- name:
+    original: After Her Own Heart
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-012-chrhdb103_01206/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=206ed073c09f1db7
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=3631785b35c9c082
+  actors:
+  - id: 1001285
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c8c8ac3604bf9f4f
+    name: Вимонд
+  - id: 1001691
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=11ac3da3e672f239
+    name: Жёлтая Луна
+  - id: 1005713
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=33a762ab52cd2f81
+    name: Хильдибранд
+  - id: 1005712
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=01b2f181ae6aae03
+    name: Жёлтая Луна
+  - id: 1005714
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c37685b83911a5c7
+    name: Нашу Мхакаракка
+  - id: 1005894
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6267d16188221763
+  - id: 1005716
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bb1ff047f87750f0
+    name: Хильдибранд
+  - id: 1005715
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=67a53d4a7d2544b2
+    name: Жёлтая Луна
+  - id: 1005717
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0a590b8f62522a1a
+    name: Нашу Мхакаракка
+  - id: 1005735
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2152b5c76a2f5be3
+  - id: 1005718
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d9b9e51c66f49fae
+    name: Взмокший мужчина
+  - id: 1005719
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=179f58b2221e453c
+  - id: 1005720
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=92d1465d3a6287da
+  quest_items:
+  - id: 2001126
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=a1920e09e2fb0689
+    name: супер взрывная бомба
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=a1920e09e2fb0689
+  eobjects:
+  - id: 2002998
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=291587bbdfbd6e21
+  - id: 2002999
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=7da45a536ec52284
+  - id: 2003000
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d40ce93f4f01ab4a
+    name: Выделяющиеся ящики
+  - id: 2003001
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=77391a1e5ab40f97
+    name: Выделяющиеся ящики
+  - id: 2003002
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5c001405a59fb0a4
+  - id: 2003003
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=0e6f8af0b87cc793
+
+- name:
+    original: The Immaculate Deception
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-012-chrhdb104_01207/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=83d99c53a5070654
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=27ca02d18e521f62
+  actors:
+  - id: 1005721
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a31f2dbaf8c3c52b
+    name: Элли
+  - id: 1005722
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ffe430810143031f
+    name: Хамфри
+  - id: 1003939
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1348a33719a857f6
+    name: Бенеджер
+  - id: 1003940
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=95ae441dc8c2ee4a
+    name: Лулуло
+  - id: 1004042
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b65c130bddba931c
+    name: Эббе
+  - id: 1005723
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6e3cceb6c940a265
+    name: Элли
+  - id: 1005725
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3d164118ededfb5c
+    name: Хильдибранд
+  - id: 1005726
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c1008262e56779f1
+    name: Нашу Мхакаракка
+  - id: 1005731
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=efbba09174751dc6
+    name: Элеазар
+  - id: 1005736
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=15b9cc3ecef56575
+  - id: 1005724
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fd3f0b4c8bcd735d
+    name: Чоджонпа
+  - id: 1005741
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a575af558238f19d
+  - id: 1005727
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8bd51f4254908d81
+    name: Хильдибранд
+  - id: 1005728
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b2819f2610d9509c
+    name: Нашу Мхакаракка
+  - id: 1005729
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=029f1fca8c3bc27d
+    name: Элли
+  - id: 1005730
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a60934042becc5b4
+    name: Хильдибранд
+  - id: 1005732
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c616a9a6508c4960
+    name: Хильдибранд
+  - id: 1005733
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ab28ab3bd9113344
+    name: Элли
+  - id: 1005734
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b9f85baad57700c8
+    name: Хамфри
+  quest_items:
+  - id: 2001150
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=f0e22121129e270c
+    name: флакон с маслом саламандры
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=f0e22121129e270c
+  - id: 2001127
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=ee432f3491715c23
+    name: бесполезная бутылка
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=ee432f3491715c23
+  - id: 2001129
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=7609834f1b7b9f07
+    name: бесполезный горшок
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=7609834f1b7b9f07
+  - id: 2001128
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=5cd76b44cd6fa95f
+    name: бесполезный камень
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=5cd76b44cd6fa95f
+  eobjects:
+  - id: 2003004
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ae44fefb2f61cf56
+    name: Мутная бутылка
+  - id: 2003005
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=45f1508d474e66f6
+    name: Дырявый горшок
+  - id: 2003006
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=17c99456101fb076
+    name: Грязный камешек
+
+- name:
+    original: The Science of Deduction
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-013-chrhdb201_01315/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b3d20772a6347e64
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=2b2f910825611a21
+  actors:
+  - id: 1005884
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b949762eb777e933
+    name: Элли
+  - id: 1003931
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d42e6386fbf7f3a6
+    name: Тутуси
+  - id: 1008707
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=27e6bbf4f8c98743
+    name: Элли
+  - id: 1008709
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6465c712e0c0243c
+    name: Дурилда
+  - id: 1008708
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d62ec39ab8972105
+    name: Элли
+  - id: 1008713
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b775fea4d8a2ca48
+    name: Отдыхающий торговец
+  - id: 1002022
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0c4d1fd41a024251
+    name: Ценмин
+  - id: 1008715
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=152697ad91bbc6ce
+    name: Вычурный дурак
+  - id: 1008736
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=26d533b695f02839
+    name: Хильдибранд
+  - id: 1008737
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=583e3e446b7b7168
+  - id: 1008905
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=27020ec410d0d16d
+  - id: 1008714
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ca6a513f62547350
+  - id: 1008762
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2f0f98238ec78b24
+  - id: 1008716
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=752f1f2e3850b43d
+    name: Хильдибранд
+  - id: 1008717
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eed92c1d905932d0
+  - id: 1008718
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2f6a4ce9be219c0e
+  quest_items:
+  - id: 2001219
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=2d0ed8c1bd8b50b4
+    name: веточка элтикской лаванды
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=2d0ed8c1bd8b50b4
+  - id: 2001220
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=808ae13353bab295
+    name: кусок драгоценного горшка
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=808ae13353bab295
+  eobjects:
+  - id: 2003654
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=6db71a0a8968c4e0
+    name: Любопытный объект
+  - id: 2003656
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=3ceea7862651b4fe
+    name: Кусок драгоценного горшка
+  - id: 2003657
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=4d35f64be7d25e4d
+    name: Кусок драгоценного горшка
+  - id: 2003658
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ba6613582a32fc87
+    name: Кусок драгоценного горшка
+  - id: 2003659
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f163dc1e55217f42
+    name: Кусок драгоценного горшка
+
+- name:
+    original: The Hammer
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-013-chrhdb202_01316/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=fb2e331c711f4e5f
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=11f477ae9e56076b
+  actors:
+  - id: 1008716
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=752f1f2e3850b43d
+    name: Хильдибранд
+  - id: 1008715
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=152697ad91bbc6ce
+    name: Вычурный дурак
+  - id: 1008762
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2f0f98238ec78b24
+  - id: 1008717
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eed92c1d905932d0
+  - id: 1008718
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2f6a4ce9be219c0e
+  - id: 1008719
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=85f4209bdd0a69b1
+    name: Нашу Мхакаракка
+  - id: 1008720
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c3beced8b864ce25
+  - id: 1008723
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5a86aa2ca1bdfce6
+  - id: 1008721
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2a40fd1aa3b88425
+    name: Гильгамеш
+  - id: 1008763
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2a2c1ba130fecad8
+  - id: 1008724
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=aa0a62324ed4c43b
+  - id: 1008722
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1c7bdbd15fd6b165
+    name: Хильдибранд
+  - id: 1008725
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0c70ae7eecc0e70c
+  eobjects:
+  - id: 2003664
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=2ef79f1f1e37ee22
+    name: Туша доблина
+  - id: 2003660
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d0009a8e56830c67
+  - id: 2003665
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=2e42ba4c9f2058a5
+    name: Туша василиска
+  - id: 2003661
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a1de2272ec50a618
+  - id: 2003666
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=05018c4efdf53863
+    name: Туша аримана
+  - id: 2003662
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=2222dc44c22f11b0
+
+- name:
+    original: Manderville Men
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-013-chrhdb203_01317/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d2f6213d2e3958a6
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=7a33f812a33d2bd2
+  actors:
+  - id: 1008722
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1c7bdbd15fd6b165
+    name: Хильдибранд
+  - id: 1008725
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0c70ae7eecc0e70c
+  - id: 1008726
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d0a9b0527cae8a8a
+  - id: 1008727
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=83138dd7b26d10e3
+    name: Нашу Мхакаракка
+  - id: 1008728
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1085703de5c8fd7d
+  - id: 1008729
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c508346b7c1933bf
+    name: Гильгамеш
+  - id: 1008764
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c415b0660014a635
+  - id: 1008730
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1e595d8d2f9737dc
+    name: Мария
+  - id: 1008733
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=486de17c66512451
+  - id: 1008710
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=99f4e0f5fa2f096a
+    name: Хильдибранд
+  - id: 1008711
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=011a3cf3189e6196
+  - id: 1008778
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8fafd3f64b9dfdd9
+  - id: 1008937
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=583411454191e685
+  - id: 1008779
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a414c11f5cd5d915
+  - id: 1008780
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7303b9f045268cb9
+  - id: 1008735
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c8843a265dc2fb1d
+    name: Бриардьен
+  - id: 1008734
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e4df76e6431b08f3
+    name: Годберт
+  quest_items:
+  - id: 2001221
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=bbc1a531d9861e14
+    name: восстановленный горшок
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=bbc1a531d9861e14
+  eobjects:
+  - id: 2003668
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=088af4c116777bf2
+  - id: 2003669
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=05ff1f067413b79a
+  - id: 2003667
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=445dd3462fde046d
+    name: Цель
+  - id: 2003904
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=4e7f945264eff45c
+
+- name:
+    original: The Three Collectors
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-013-chrhdb204_01318/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c49bcf95c5d05b21
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=f2ee5de05960f3b3
+  actors:
+  - id: 1008736
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=26d533b695f02839
+    name: Хильдибранд
+  - id: 1008737
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=583e3e446b7b7168
+  - id: 1008738
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d2fdf81f923335fa
+    name: Гильгамеш
+  - id: 1008765
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4d6bdbbb4925ab15
+  - id: 1008739
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a31d9e8cc87e2cc3
+    name: Наёмник-сержант
+  - id: 1008740
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8434bee7908487cb
+  - id: 1008741
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2002d4d043387b1b
+    name: Наёмник-страж
+  - id: 1008744
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e3714d9ae017688c
+    name: Хильдибранд
+  - id: 1008745
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a1650a7717268c76
+  - id: 1008746
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f927db03fff0294d
+    name: Хильдибранд
+  - id: 1008748
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=db25c41fdb55e15c
+    name: Хильдибранд
+  - id: 1008749
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=074de087d46d5737
+    name: Нашу Мхакаракка
+  - id: 1008747
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bf6d7f93e5897f23
+    name: Элли
+  - id: 1008752
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4bcd1c5008fb8e52
+    name: Хильдибранд
+  - id: 1008750
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d1a6242eb7ead691
+    name: Элли
+  - id: 1008751
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1fa00cc3f4a4e21c
+    name: Бриардьен
+  - id: 5010000
+  - id: 1008756
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e2a5742435ae1f00
+    name: Бриардьен
+  - id: 1008753
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9574f57b8b7f9ea7
+    name: Хильдибранд
+  - id: 1008754
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b70591007ea3c5c0
+    name: Нашу Мхакаракка
+  - id: 1008755
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=765443b5d8e22865
+    name: Элли
+  - id: 1008788
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ee88cdffbba28d47
+    name: Дурильда
+  - id: 1008789
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3eb80890949f2624
+  - id: 1008790
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cc378665d7b584c1
+  - id: 1008791
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=26b33962e0386812
+  - id: 1008792
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5ff490f91291ba20
+  eobjects:
+  - id: 2003670
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d81f8ac025240877
+  - id: 2003741
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e95dcbea7f432b68
+    name: Цель
+  - id: 2003742
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=9cec28d4310f48e6
+
+- name:
+    original: The Business of Betrothal
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-014-chrhdb301_01438/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=38d7f62d78eded60
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=84cc56a31b8808f7
+  actors:
+  - id: 1008757
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ee19ff2f43845821
+    name: Элли
+  - id: 1009305
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b08a5ae5d2f300ea
+    name: Гугурему
+  - id: 1009306
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=589be7e94a07867c
+    name: Элли
+  - id: 1009307
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b776694060885554
+    name: Бриардьен
+  - id: 1009308
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=10762e8473cb39e8
+    name: Хильдибранд
+  - id: 1009309
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=04188dd51b04c51e
+    name: Нашу Мхакаракка
+  - id: 1009310
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=678d93fab21a0a94
+    name: Военнопленный
+  - id: 1009311
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5c69ede9a487fa99
+    name: Моргант
+  - id: 1009315
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ced191c197f8410c
+    name: Хильдибранд
+  - id: 1009314
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6e98fd19c8b406b4
+  - id: 1009316
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cd2e023b2991e028
+  - id: 1009317
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6d9113d30bbb2704
+    name: Ялто Нолто
+  - id: 1009321
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e97b60a99494572e
+    name: Хильдибранд
+  - id: 1009322
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5e4a06e1790dfeff
+  - id: 1009320
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8517f0465f743b20
+  - id: 1009323
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ef38c0e4b1f58a7f
+    name: Хильдибранд
+  - id: 1009324
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=22f47ff577902b85
+    name: Нашу Мхакаракка
+  - id: 1009327
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1e54c52b30f91788
+    name: Элли
+  eobjects:
+  - id: 2004318
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=965563efd57cfa25
+  - id: 2004317
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f1c7640c880797a3
+    name: Продукты питания
+  - id: 2004319
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=3cbba27e5485f352
+
+- name:
+    original: A Burst of Inspiration
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-014-chrhdb302_01439/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=41e1b3d4728e3010
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=a79f807a09b41e9c
+  actors:
+  - id: 1009326
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=595e3aea477e8dac
+    name: Бриардьен
+  - id: 1009330
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=25dfbfbd7f6fad0b
+    name: Хильдибранд
+  - id: 1009329
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ce73695cc5673d21
+  - id: 1009325
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=25c2849b662e59d3
+    name: Элли
+  - id: 1009328
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=38e2ace2c15e47a7
+    name: Бриардьен
+  - id: 1009327
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1e54c52b30f91788
+    name: Элли
+  - id: 1009319
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=10932f802f794025
+    name: Левенхарт
+  - id: 1009323
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ef38c0e4b1f58a7f
+    name: Хильдибранд
+  - id: 1009324
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=22f47ff577902b85
+    name: Нашу Мхакаракка
+  - id: 1001023
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=722360a56a239429
+    name: Сундхимал
+  - id: 1009487
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=08fc7116eebed9b8
+  - id: 1009322
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5e4a06e1790dfeff
+  - id: 1009320
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8517f0465f743b20
+  - id: 1009340
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=97bbed5c7d041339
+  - id: 1009331
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c1e15a7891d1cace
+    name: Крохотный торгаш
+  - id: 1009488
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f708269336f24870
+  eobjects:
+  - id: 2004320
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e145549bf1f514c6
+  - id: 2004321
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=323d79ac54fbedcc
+  - id: 2004322
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=df3b1db1360c60ec
+
+- name:
+    original: Seeds of Rebellion
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-014-chrhdb303_01440/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c898c4fc0cba38c6
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=e5530374a9a9188e
+  actors:
+  - id: 1009331
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c1e15a7891d1cace
+    name: Крохотный торгаш
+  - id: 1009488
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f708269336f24870
+  - id: 1009332
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c4cbf719ccf94967
+  - id: 1009333
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0e06bd6e4631c30e
+  - id: 1009334
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0c963f466b13cee8
+  - id: 5010000
+  - id: 1009335
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bad38df55b083b07
+    name: Хильдибранд
+  - id: 1009319
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=10932f802f794025
+    name: Левенхарт
+  - id: 1009321
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e97b60a99494572e
+    name: Хильдибранд
+  - id: 1009322
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5e4a06e1790dfeff
+  - id: 1009320
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8517f0465f743b20
+  - id: 1009340
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=97bbed5c7d041339
+  - id: 1009336
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e5ff5a78682560de
+    name: Левенхарт
+  - id: 1009337
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cfa184f371e54860
+    name: Арабелла
+  - id: 1009338
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ce43b2eb017ce032
+  - id: 1009341
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2f42898be4a8085b
+    name: Хильдибранд
+  - id: 1009342
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=32228a8b3b06e129
+  - id: 1009339
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ae556d99e4d6aecb
+  - id: 1009350
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=094a929125d7c1bb
+  fates:
+  - id: 336
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/fate/ru/?checksum=f4d1b8626ccea20f
+    dialog_url: https://translate.xivrus.ru/translate/ffxiv-translation/fateevent/ru/?checksum=f4d1b8626ccea20f
+  quest_items:
+  - id: 2001343
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=2ffa929d71649d7f
+    name: мешок краденых продуктов
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=2ffa929d71649d7f
+  eobjects:
+  - id: 2004323
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=9e7559b412e81521
+  - id: 2004324
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c770f816e0685436
+    name: Саженец мандрагоры
+  - id: 2004325
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f5548de767153ff5
+    name: Саженец мандрагоры
+  - id: 2004326
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=fdeca2beefab27cd
+    name: Саженец мандрагоры
+
+- name:
+    original: A Case of Indecency
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-014-chrhdb304_01441/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6e454b7bbc1723b6
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=ff8fba3618d78c56
+  actors:
+  - id: 1009341
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2f42898be4a8085b
+    name: Хильдибранд
+  - id: 1009338
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ce43b2eb017ce032
+  - id: 1009342
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=32228a8b3b06e129
+  - id: 1009339
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ae556d99e4d6aecb
+  - id: 1009337
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cfa184f371e54860
+    name: Арабелла
+  - id: 1009350
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=094a929125d7c1bb
+  - id: 1009351
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7800879390369313
+    name: Бриардьен
+  - id: 1009345
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=427ca959a4cc2373
+    name: Хильдибранд
+  - id: 1009346
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6e44d9217d129fd4
+  - id: 1009343
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f3c15b82ff9b8b14
+    name: Элли
+  - id: 1009347
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=632ed982bafbde31
+    name: Слуга поместья Гегеруджу
+  - id: 1009348
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3cc36c4f117c0b78
+    name: Арабелла
+  - id: 1009344
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=28c741d475374fac
+  - id: 1009349
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eabbb8d9ef5f384c
+  quest_items:
+  - id: 2001344
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=5d7a2d6ac322f5e5
+    name: комплект одежды слуги
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=5d7a2d6ac322f5e5
+  - id: 2001345
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=c05d6ebaa71d1439
+    name: завораживающее платье
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=c05d6ebaa71d1439
+  eobjects:
+  - id: 2004330
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=7ad2843519d1a9cf
+  - id: 2004328
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=7c73775a67efd2cb
+    name: Цель
+
+- name:
+    original: Eight-armed and Dangerous
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-chrhdb401_00166/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=26ba5829a7b57e14
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=6c921d72cc38c9e9
+  actors:
+  - id: 1009357
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9f48b5836fbadff7
+    name: Элли
+  - id: 1010160
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8e9eb218edd37e82
+    name: Ганелон
+  - id: 1001857
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3320ec6f5448eb02
+    name: Ююбая
+  - id: 1010186
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0f5564797f655035
+    name: Элли
+  - id: 1010288
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5f808bc1174bd28d
+    name: Хильдибранд
+  - id: 1010289
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e61b8360365a65b7
+  - id: 1010188
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5e784391f13fcc1a
+    name: Бешеная крыса
+  - id: 1010281
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d5402cc10e7f93ba
+    name: Хильдибранд
+  - id: 1010580
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=73e79f49f954df09
+  - id: 1010280
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=af18f736ffeb9c6b
+    name: Элли
+  - id: 1010282
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2644d9cc1b880613
+    name: Нашу Мхакаракка
+  - id: 1010518
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dc6c46fe8fa8fe98
+    name: Ультрос
+  - id: 1010287
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d1cfec7b28622167
+    name: Нашу Мхакаракка
+  - id: 1010286
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=79ad9f496b1c3d1d
+    name: Хильдибранд
+  - id: 1010285
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5123ab596ddba572
+  - id: 1010519
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f1612c51e5f0aaa5
+    name: Ультрос
+  - id: 1010581
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bb1240895b274c2d
+  - id: 1010578
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=aeeafc2d40912c89
+
+- name:
+    original: What Price Victory
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-002-chrhdb402_00202/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=827533dc4434aa7c
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=03b53dba8029c488
+  actors:
+  - id: 1010279
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b2c97e167b81f154
+    name: Хильдибранд
+  - id: 1010805
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f132e9471ae19b0d
+  - id: 1010784
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7ee78aa6be9fd576
+    name: Нашу Мхакаракка
+  - id: 1010523
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fb88bf6d6586e1b0
+    name: Суровый Луг
+  - id: 1010275
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d2d2773a32e3b51b
+    name: Элли
+  - id: 1010273
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=29a3d4562902e6bd
+    name: Нашу Мхакаракка
+  - id: 1010276
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=043450aa8d78bca3
+    name: Хильдибранд
+  - id: 1010293
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=33c36fb2bf1013a0
+    name: Хильдибранд
+  - id: 1010294
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9494d1db7e06589d
+  - id: 1010295
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f1f475a5584c8058
+  - id: 1010524
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2d708cc202a9e557
+  - id: 1010525
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9e010cb591d1a4e4
+  - id: 1010579
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7f588c95920417e9
+  - id: 1010298
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b2360a0b972e6f8c
+    name: Хильдибранд
+  - id: 1010299
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d64f9773961c168c
+  - id: 1010300
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e5c4973d9da494fc
+  - id: 1010310
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=774b871d817c90b6
+    name: Хильдибранд
+  - id: 1010311
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=43e577b7494e5d4c
+  - id: 1010312
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bc2f63874053d6e3
+    name: Элли
+  - id: 1010290
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d06c5cb20fbd9054
+    name: Хильдибранд
+  - id: 1010291
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=56a8e4cb5c3c1cfe
+  - id: 1010292
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7541b9a9de7e4492
+
+- name:
+    original: The Trouble with Truffles
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-002-chrhdb403_00203/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=709b8527f08bbd80
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=d29e0c323a29479f
+  actors:
+  - id: 1010290
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d06c5cb20fbd9054
+    name: Хильдибранд
+  - id: 1010291
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=56a8e4cb5c3c1cfe
+  - id: 1010292
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7541b9a9de7e4492
+  - id: 1010169
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=272f4b8468e8a58d
+    name: Хильдибранд
+  - id: 1010187
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3484eddb790d4022
+  - id: 1010520
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0957b7bc4d7f5995
+    name: Ультрос
+  - id: 1010185
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=753b77291db616e9
+    name: Нашу Мхакаракка
+  - id: 1010316
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ff59c25820753043
+    name: Бриардьен
+  - id: 1010313
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=db79775c0e010048
+    name: Хильдибранд
+  - id: 1010315
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ff92393210fa4be9
+  - id: 1010314
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2cc57ac00b9eb4bc
+    name: Нашу Мхакаракка
+  - id: 1001679
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d46fa775c3c8edfb
+    name: Синтгохт
+  quest_items:
+  - id: 2001508
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=a7cdacfc1ca4c4f8
+    name: ящик с отходами колизея
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=a7cdacfc1ca4c4f8
+  - id: 2001509
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=6dcdd4e38beeb615
+    name: вонючий мешок
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=6dcdd4e38beeb615
+  eobjects:
+  - id: 2004899
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a953f094a4d0b1dd
+    name: Мусор колизея
+  - id: 2004900
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=1604e01220fca12d
+    name: Мусор колизея
+  - id: 2004901
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=03e498f41f588a48
+    name: Мусор колизея
+
+- name:
+    original: The Coliseum Conundrum
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-002-chrhdb404_00204/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d5c4f91bc805b41a
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=10684d8a3c80e0c4
+  actors:
+  - id: 1010317
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0e8110f8a1ced86a
+    name: Бриардьен
+  - id: 1010703
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c77d88b0c2796750
+    name: Хильдибранд
+  - id: 1010704
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2866296849a3235a
+    name: Нашу Мхакаракка
+  - id: 1010705
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=58811957593c9e7e
+    name: Элли
+  - id: 1001679
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d46fa775c3c8edfb
+    name: Синтгохт
+  - id: 1010330
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e52deae424c15a37
+    name: Суровый Луг
+  - id: 1010331
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d337a26ea92b9dfd
+    name: Хильдибранд
+  - id: 1010332
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e70a12fe97629b26
+  - id: 1010333
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8d8736709f13725c
+  - id: 1010334
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bfabb18f301b3938
+    name: Бриардьен
+  - id: 1010772
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=84521b8fbf4927f6
+    name: Бриардьен
+  - id: 1010326
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8bdb197782c0ff5b
+    name: Хильдибранд
+  - id: 1010327
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1650e1f29e2ede2d
+    name: Нашу Мхакаракка
+  - id: 1010771
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=546cd36efa0d4a9b
+  - id: 1010161
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9d5a9cc3741fa7be
+    name: Суровый Луг
+  - id: 1010328
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=89ee5588fa9671f6
+    name: Элли
+  - id: 1010329
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=59cb4260dc8f12b2
+    name: Бриардьен
+  - id: 5010000
+
+- name:
+    original: Shades of Sil'dih
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-004-chrhdb501_00490/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=0a5c1f10b26f677f
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=3136899f2c509dc6
+  actors:
+  - id: 1010708
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f6d6b5bd49db489d
+    name: Элли
+  - id: 1001285
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c8c8ac3604bf9f4f
+    name: Вимонд
+  - id: 1011619
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=776dcc7033575d5b
+    name: Элли
+  - id: 1011620
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5d014e57e15e6240
+    name: Хамфри
+  - id: 1011671
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=354203107ed75662
+    name: Элли
+  - id: 1011672
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7ce340816607d2ef
+    name: Хильдибранд
+  - id: 1011673
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=54c1ac95897e257c
+    name: Нашу Мхакаракка
+  - id: 1011831
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a42ee491f3f153be
+    name: Элли
+  - id: 1011674
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d2d26973db8388ab
+    name: Бриардьен
+  - id: 1011675
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b404343f191792c2
+    name: Филлис
+  - id: 1011677
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ad3e2eefb2fbf1aa
+    name: Хильдибранд
+  - id: 1011678
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a86211965b3e77c1
+    name: Нашу Мхакаракка
+  - id: 1011676
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=26f075489851bec5
+    name: Элли
+  - id: 1011679
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5fe62386bcb3e005
+    name: Бриардьен
+  eobjects:
+  - id: 2005163
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a343dc0e671ec7b8
+
+- name:
+    original: Sibling Strife
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-004-chrhdb502_00491/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=685f6954fdfe1335
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=b8743626ab707f5d
+  actors:
+  - id: 1011677
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ad3e2eefb2fbf1aa
+    name: Хильдибранд
+  - id: 1011676
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=26f075489851bec5
+    name: Элли
+  - id: 1011678
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a86211965b3e77c1
+    name: Нашу Мхакаракка
+  - id: 1011679
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5fe62386bcb3e005
+    name: Бриардьен
+  - id: 1003897
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9ac451677390094e
+    name: Эрасмус
+  - id: 1001294
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9c90d6ecf0a1928f
+    name: Яяроку
+  - id: 1001708
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a08b7f98bcfbf77a
+    name: Кокобуки
+  - id: 1011681
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9c89205e1248aeca
+    name: Ненекко
+  - id: 1011682
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0a69665ef7b0e546
+    name: Хильдибранд
+  - id: 1011683
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e5f8468a2cb3707c
+    name: Гугурия
+  - id: 1011684
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b39a63f051edc696
+    name: Элли
+  - id: 1011686
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6871ca1c55a4e453
+    name: Нашу Мхакаракка
+  - id: 1011687
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8242e956dd4f2818
+    name: Бриардьен
+  - id: 1011685
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=df807e36f35b0e95
+    name: Хильдибранд
+  - id: 1011689
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dfa7ed97ad992f9b
+  - id: 1011690
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c7eb938c790d1598
+  - id: 1011688
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ff51c2fcffa5d82d
+    name: Хоб
+  - id: 1011675
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b404343f191792c2
+    name: Филлис
+  - id: 1011729
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=52668a2bdd3aa143
+    name: Хильдибранд
+  - id: 1011730
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9e11b5ebc0a3052c
+    name: Бриардьен
+  - id: 1011620
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5d014e57e15e6240
+    name: Хамфри
+  eobjects:
+  - id: 2005210
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=bf4f7d286850ccda
+
+- name:
+    original: Beneath the Mask
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-004-chrhdb503_00492/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b35f34d74e4e94d0
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=268ea7d081cdab95
+  actors:
+  - id: 1011691
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a5db9e55e351a944
+    name: Хильдибранд
+  - id: 1011694
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7b8b12b48a5f5189
+    name: Бриардьен
+  - id: 1011695
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=22dd6325a18e5d32
+    name: Филлис
+  - id: 1011693
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=be8c6b1b0d17f0fe
+    name: Нашу Мхакаракка
+  - id: 1011704
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8687bbb7eae97bb2
+    name: Бриардьен
+  - id: 1011705
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3d992e0fb5a70b03
+    name: Филлис
+  - id: 1011697
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cdde6db3124142fe
+    name: Годберт
+  - id: 1011698
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8cadcd4b7471f592
+    name: Маленький мальчик
+  quest_items:
+  - id: 2001566
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=ca6bb4773e11259e
+    name: щепотка разоблачающего порошка
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=ca6bb4773e11259e
+  eobjects:
+  - id: 2005164
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c0fd3a60e3d1932d
+    name: Письмо с водяными знаками
+  - id: 2005165
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8fb96bf8fa42ab44
+    name: Письмо с водяными знаками
+  - id: 2005166
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=b8c091966ec8cbf4
+    name: Письмо с водяными знаками
+  - id: 2005221
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a7aa6d358f133501
+
+- name:
+    original: Truths Untold
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-004-chrhdb504_00493/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8ee1e587b641bdbf
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=218618d7c01c4ebf
+  actors:
+  - id: 1011699
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2f2aec41a1ca8f5d
+    name: Женщина-хьюр
+  - id: 1011691
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a5db9e55e351a944
+    name: Хильдибранд
+  - id: 1011694
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7b8b12b48a5f5189
+    name: Бриардьен
+  - id: 1011695
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=22dd6325a18e5d32
+    name: Филлис
+  - id: 1011697
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cdde6db3124142fe
+    name: Годберт
+  - id: 1011707
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a10c15cb76f41834
+    name: Джулиан
+  - id: 1011701
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=859337e7ecea36a8
+  - id: 1011702
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9560cbcddebf3ffc
+  - id: 1011704
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8687bbb7eae97bb2
+    name: Бриардьен
+  - id: 1011703
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a89d838615339c00
+  - id: 1011706
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=61f7be58d2e05e2d
+  - id: 1011705
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3d992e0fb5a70b03
+    name: Филлис
+  - id: 1011700
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=045cefe032bcbbd0
+  - id: 1001679
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d46fa775c3c8edfb
+    name: Синтгохт
+  - id: 1011708
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ae26662661a4fa02
+  - id: 1011709
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=575d53004d99e9a5
+  - id: 1011712
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=842d51693b3adbd5
+    name: Джест
+  - id: 1011710
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eab0f9ff1382bb33
+  - id: 1011711
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f952adc9d6bad14b
+  - id: 1011713
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=467fde7f0bdcff5e
+  - id: 1011862
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=af4da0e021e97587
+  quest_items:
+  - id: 2001559
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=133c40f37d88e1ac
+    name: куча тряпок души
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=133c40f37d88e1ac
+  - id: 2001560
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=330d04991a104374
+    name: бутылка дважды дистиллированной воды
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=330d04991a104374
+
+- name:
+    original: Her Last Vow
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-005-chrhdb505_00502/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=98ab3b6e6bf96e44
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=3829d014f18d4e0c
+  cutscenes:
+  - name: Кат-сцена 1
+    start: "351"
+    end: "351"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/quest-002-chrhdb404_00204/
+  - name: Кат-сцена 2
+    start: "400010"
+    end: "400040"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-030-voiceman_03000/
+  actors:
+  - id: 1011707
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a10c15cb76f41834
+    name: Джулиан
+  - id: 1011703
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a89d838615339c00
+  - id: 1011714
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b16c5247c0e5a42a
+    name: Филлис
+  - id: 1011715
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=42c5733f3692c4c4
+    name: Сеси
+  - id: 1011716
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eaef15830a2f7d87
+    name: Нашу Мхакаракка
+  - id: 1011717
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=995a740065c7f0d8
+    name: Бриардьен
+  - id: 1011718
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e28c0f3bb346ba3c
+    name: Элли
+  - id: 1011857
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7c93da3f518f1607
+    name: Гильгамеш
+  - id: 1011858
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b119b3385aaa37d1
+  - id: 1011826
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f0ce0416d9f4abfb
+    name: Годберт
+  - id: 1011854
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0449f86c6d575286
+  - id: 1011855
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c13c6b6c6cf37f63
+  - id: 1011856
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e09299c64f5257ce
+  - id: 1011722
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b747dcdf2c5b182b
+    name: Хильдибранд
+  - id: 1011727
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2c315a776ee5fee7
+    name: Нашу Мхакаракка
+  - id: 1011726
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=08e8978bdc7b7da3
+    name: Бриардьен
+  - id: 1011721
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b94b92c9ad6839e3
+    name: Элли
+  - id: 1011719
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=19c92f81de99161a
+    name: Филлис
+  - id: 1011720
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0c5d1857dd70f743
+    name: Сеси
+  - id: 1011859
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9bb96cd9675348da
+    name: Джулиан
+  - id: 1011860
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=991d7e12693918bb
+    name: Хамфри
+  - id: 1011861
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=226f9ea3a0c8cc70
+    name: Годберт
+  - id: 1007574
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2822439668d98451
+    name: Максинн
+  - id: 5010000
+  - id: 1011723
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2e13ec379fd1572a
+    name: Хильдибранд
+  eobjects:
+  - id: 2005168
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8bc550abbf8cf72b
+  - id: 2005188
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f4dc3084fd6ca3a0
+    name: Цель
+
+- name:
+    original: Up in Arms
+    translated: Оружие легендарных воинов
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-014-jobrel001_01435/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=cc87e2051d588ce8
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=699a168e7a4e1083
+  actors:
+  - id: 1003075
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101
+    name: Герольт
+  - id: 1008948
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b77e2ee4fa214dfd
+    name: Джалзан
+
+- name:
+    original: Trials of the Braves
+    translated: Испытания храбрецов
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-014-jobrel002_01436/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=145342be3d1ada5a
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=c49bf2d62892727b
+  actors:
+  - id: 1008948
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b77e2ee4fa214dfd
+    name: Джалзан
+  - id: 1001304
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96195572aeed6a73
+    name: Ровена
+  - id: 1006976
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=03530ec46e4d0a4f
+    name: Г'джусана
+
+- name:
+    original: Celestial Radiance
+    translated: Свет небес
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-014-jobrel003_01462/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5b9f1eb151e2893c
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=f4517bc8a3178cd5
+  actors:
+  - id: 1008948
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b77e2ee4fa214dfd
+    name: Джалзан
+  - id: 1001425
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1151e10104f97e3b
+    name: Мутамикс Булькотел
+  - id: 1009151
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=15b7e25129599460
+    name: Хубайртин
+  - id: 1001304
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96195572aeed6a73
+    name: Ровена
+
+- name:
+    original: Star Light, Star Bright
+    translated: Звёздное сияние, яркая звезда
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-014-jobrel004_01464/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=39cc10bfc506f58d
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=8009bc49f1e3d6cb
+  actors:
+  - id: 1009151
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=15b7e25129599460
+    name: Хубайртин
+  - id: 1008948
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b77e2ee4fa214dfd
+    name: Джалзан
+
+- name:
+    original: Mmmmmm, Soulglazed Relics
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-002-jobrel007_00206/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ec3c89dd41dcf7a0
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=524e6eacc122f9d4
+  actors:
+  - id: 1008948
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b77e2ee4fa214dfd
+    name: Джалзан
+  - id: 1003075
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101
+    name: Герольт
+
+- name:
+    original: Wherefore Art Thou, Zodiac
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-003-jobrel010_00356/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5e71aa80cb8df448
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=f7e48eacf24cb1fc
+  actors:
+  - id: 1008948
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b77e2ee4fa214dfd
+    name: Джалзан
+  - id: 1003075
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101
+    name: Герольт
+
+- name:
+    original: A Ponze of Flesh
+  level: 50
+  type: feature-repeatable
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-003-jobrel011_00357/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2cd078480431fce3
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=74f744f9b0b3115a
+  actors:
+  - id: 1010809
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8b7cead49100a0f1
+    name: Папана
+  - id: 5010000
+  quest_items:
+  - id: 2001528
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=6269bdfd4f881318
+    name: рог зверя
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=6269bdfd4f881318
+  - id: 2001529
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=6551671deac5d32a
+    name: сталь Гобмашины G-VI
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=6551671deac5d32a
+  - id: 2001530
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=94ef2c5a73f942a1
+    name: кожа Нарасимхи
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=94ef2c5a73f942a1
+  - id: 2001531
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=b019d8363052ba72
+    name: серповидный клык
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=b019d8363052ba72
+
+- name:
+    original: Labor of Love
+  level: 50
+  type: feature-repeatable
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-003-jobrel012_00358/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=0d31b5a15fde0986
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=8e7809f0d023ac3b
+  actors:
+  - id: 1006971
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=31c708de2ce6c680
+    name: Путеводная Звезда
+  - id: 5010000
+  quest_items:
+  - id: 2001532
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=aa3f1fe92468e34b
+    name: пироксены
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=aa3f1fe92468e34b
+  - id: 2001533
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=045801a8932fee42
+    name: кусок ткани из бездны
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=045801a8932fee42
+  - id: 2001534
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=2349197ffa20a989
+    name: лист веленя из Амдапора
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=2349197ffa20a989
+  - id: 2001535
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=9b93e8a3bf2d900f
+    name: жемчуг Индиго
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=9b93e8a3bf2d900f
+
+- name:
+    original: Method in His Malice
+  level: 50
+  type: feature-repeatable
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-003-jobrel013_00359/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=30eb8eb224a23f21
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=ac5419d5184cc1b9
+  actors:
+  - id: 1010810
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7b872cef7e4e205f
+    name: Адкин
+  - id: 5010000
+  quest_items:
+  - id: 2001536
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=25afa4711a37d6fa
+    name: пузырёк с кровью Короля-Тонбери
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=25afa4711a37d6fa
+  - id: 2001537
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=e29520a49aef27c8
+    name: пузырёк с Кровью Королевского Гиганта
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=e29520a49aef27c8
+  - id: 2001538
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=a6972d27c182dcce
+    name: бутылка с кровью кракена
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=a6972d27c182dcce
+  - id: 2001539
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=996c858f465c5141
+    name: флакон с кровью Владыки храма
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=996c858f465c5141
+
+- name:
+    original: A Treasured Mother
+  level: 50
+  type: feature-repeatable
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-003-jobrel014_00360/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=63ece99b473290c5
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=a1ad02a03f4abe7e
+  actors:
+  - id: 1006981
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b704a7da5896ec2c
+    name: Брангвин
+  - id: 1010811
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9447684fdf277d82
+    name: Эалдвин
+  - id: 5010000
+  quest_items:
+  - id: 2001540
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=c64359e1d412af1f
+    name: потерянное сокровище Амдапора
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=c64359e1d412af1f
+  - id: 2001541
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=f6c0aaadfe155dc3
+    name: потерянное сокровище Фарос Сириус
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=f6c0aaadfe155dc3
+  - id: 2001542
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=c9fe08f0a861ace7
+    name: потерянное сокровище подземного склепа Там-Тара
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=c9fe08f0a861ace7
+  - id: 2001543
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=78587c6523dc4b21
+    name: lost treasure of the Stone Vigil
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=78587c6523dc4b21
+
+- name:
+    original: His Dark Materia
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-003-jobrel015_00361/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2893461aa5a5abb0
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=673f3138cbaf458e
+  actors:
+  - id: 1003075
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101
+    name: Герольт
+  - id: 1001425
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1151e10104f97e3b
+    name: Мутамикс Булькотел
+  - id: 1008948
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b77e2ee4fa214dfd
+    name: Джалзан
+
+- name:
+    original: Rise and Shine
+  level: 50
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-005-jobrel016_00560/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=31e97e33ca1d96b7
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=1e1170f9ed3bdc73
+  actors:
+  - id: 1008948
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b77e2ee4fa214dfd
+    name: Джалзан
+  - id: 1003075
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101
+    name: Герольт
+  - id: 1001304
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96195572aeed6a73
+    name: Ровена
+  - id: 1011791
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5a464298b4919a8e
+    name: Ремон
+  quest_items:
+  - id: 2001561
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=01ce1200cb54a0b9
+    name: пузырёк сокровенных духов
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=01ce1200cb54a0b9
+
+- name:
+    original: The Vital Title
+  level: 50
+  type: feature
+  id: 561
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-005-jobrel017_00561/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=758cd2374ecc3cfe
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=cd80066166c844ae
+  actors:
+  - id: 1008948
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b77e2ee4fa214dfd
+    name: Джалзан
+  - id: 1003075
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101
+    name: Герольт
+
+- name:
+    original: The Vital Title
+  level: 50
+  type: feature
+  id: 2287
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-022-jobrel099_02287/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ca5fbfd8d49a578e
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=7d8b014000b63c61
+  actors:
+  - id: 1008948
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b77e2ee4fa214dfd
+    name: Джалзан
+  - id: 1003075
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101
+    name: Герольт
+
+- name:
+    original: A Relic Reborn (Curtana)
+  level: 50
+  type: pld
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-jobpld001_01120/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2c1544a928eea82f
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=1e8b7ee5b2e67f93
+  actors:
+  - id: 1003075
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101
+    name: Герольт
+  - id: 5010000
+  - id: 1001304
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96195572aeed6a73
+    name: Ровена
+  - id: 1008161
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee
+    name: Мугл-портной
+  - id: 1004582
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5370aae410f9f23c
+    name: Фафаджони
+  enemies:
+  - id: 739
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0449c036a44e7bee
+    name: Земляной гомункул
+  - id: 740
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=602e101ad6c1ca82
+    name: Электрический гомункул
+  - id: 742
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f4af9fe439f4e172
+    name: Левейн
+  quest_items:
+  - id: 2000989
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=253978112957abf6
+    name: повреждённый Куртана
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=253978112957abf6
+  - id: 2000998
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=3efdbcd9b004391b
+    name: щепотка глинозёмных солей
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=3efdbcd9b004391b
+  - id: 2001007
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=369c9baa999b5cc6
+    name: амдапорский глиф
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=369c9baa999b5cc6
+  - id: 2001016
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=cebbde8ea0e88495
+    name: копия «Песни Тристрама»
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=cebbde8ea0e88495
+  - id: 2001025
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=a5d88581cbf564f7
+    name: раскаленный уголёк
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=a5d88581cbf564f7
+  - id: 2001034
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=d6882504782b3901
+    name: штормовое пёрышко
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=d6882504782b3901
+  - id: 2001043
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=facd12943087de59
+    name: мешочек накалённой руды
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=facd12943087de59
+  eobjects:
+  - id: 2002492
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d494272fc3c3b09d
+    name: Сундук с сокровищами
+
+- name:
+    original: A Relic Reborn (Sphairai)
+  level: 50
+  type: mnk
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-jobmnk001_01121/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c224e54e562cbe8a
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=b5b1bad07a508fb3
+  actors:
+  - id: 1003075
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101
+    name: Герольт
+  - id: 5010000
+  - id: 1001304
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96195572aeed6a73
+    name: Ровена
+  - id: 1008161
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee
+    name: Мугл-портной
+  - id: 1004582
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5370aae410f9f23c
+    name: Фафаджони
+  enemies:
+  - id: 739
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0449c036a44e7bee
+    name: Земляной гомункул
+  - id: 740
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=602e101ad6c1ca82
+    name: Электрический гомункул
+  - id: 741
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a0d75e0477c5f9e5
+    name: Водяной гомункул
+  quest_items:
+  - id: 2000990
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=8613ab9947554cfc
+    name: повреждённые Сфайрай
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=8613ab9947554cfc
+  - id: 2000999
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=6198fcd876fae0bd
+    name: щепотка глинозёмных солей
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=6198fcd876fae0bd
+  - id: 2001008
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=68baff1fe6bbb682
+    name: амдапорский глиф
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=68baff1fe6bbb682
+  - id: 2001017
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=5333533f7a41731a
+    name: копия «Вводная о Куэрлах»
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=5333533f7a41731a
+  - id: 2001026
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=7b7bcc1b2f004458
+    name: раскаленный уголёк
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=7b7bcc1b2f004458
+  - id: 2001035
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=7c97a33887d811fa
+    name: штормовое пёрышко
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=7c97a33887d811fa
+  - id: 2001044
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=53fab87cc42a3b39
+    name: мешочек накалённой руды
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=53fab87cc42a3b39
+  eobjects:
+  - id: 2002493
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=de933387a426c48c
+    name: Сундук с сокровищами
+
+- name:
+    original: A Relic Reborn (Bravura)
+  level: 50
+  type: war
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-jobwar001_01119/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=bb7f75e896435f6f
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=0e280bcdd8fa6a6a
+  actors:
+  - id: 1003075
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101
+    name: Герольт
+  - id: 5010000
+  - id: 1001304
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96195572aeed6a73
+    name: Ровена
+  - id: 1008161
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee
+    name: Мугл-портной
+  - id: 1004582
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5370aae410f9f23c
+    name: Фафаджони
+  enemies:
+  - id: 756
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=55b10e990c24c21e
+    name: Темперамент Алакрана
+  - id: 755
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e5dc66e9a2852ba7
+  - id: 757
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=01f82dfc4c5314b7
+    name: Доброта Алакрана
+  quest_items:
+  - id: 2000988
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=34ec06399f2b4993
+    name: повреждённый Бравура
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=34ec06399f2b4993
+  - id: 2000997
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=3a2987bc3a29d4da
+    name: щепотка глинозёмных солей
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=3a2987bc3a29d4da
+  - id: 2001006
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=c088bfa925c0dabc
+    name: амдапорский глиф
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=c088bfa925c0dabc
+  - id: 2001015
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=5671ed7bb6a4c498
+    name: копия «Внутренний воин»
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=5671ed7bb6a4c498
+  - id: 2001024
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=c7aac1fe745a0a1d
+    name: раскаленный уголёк
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=c7aac1fe745a0a1d
+  - id: 2001033
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=f95e9d75dba0775e
+    name: штормовое пёрышко
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=f95e9d75dba0775e
+  - id: 2001042
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=8c11377dcb6f2762
+    name: мешочек накалённой руды
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=8c11377dcb6f2762
+  eobjects:
+  - id: 2002491
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=9a7f1079598ec43b
+    name: Сундук с сокровищами
+
+- name:
+    original: A Relic Reborn (Gae Bolg)
+  level: 50
+  type: drg
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-jobdrg001_01122/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ced3913530d176d0
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=c537f94e730a47ca
+  actors:
+  - id: 1003075
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101
+    name: Герольт
+  - id: 5010000
+  - id: 1001304
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96195572aeed6a73
+    name: Ровена
+  - id: 1008161
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee
+    name: Мугл-портной
+  - id: 1004582
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5370aae410f9f23c
+    name: Фафаджони
+  enemies:
+  - id: 748
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8306d34ce95b9642
+  - id: 750
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=82455e958ebc8d0f
+    name: ???
+  - id: 749
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=cb29f07448832d03
+  quest_items:
+  - id: 2000991
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=9a989e5176e25618
+    name: повреждённое Гэй Болг
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=9a989e5176e25618
+  - id: 2001000
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=2da387843929dc18
+    name: щепотка глинозёмных солей
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=2da387843929dc18
+  - id: 2001009
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=38a6efa7fd0ff4e9
+    name: амдапорский глиф
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=38a6efa7fd0ff4e9
+  - id: 2001018
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=e145c9d75350c86d
+    name: копия «Книга о Ренет»
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=e145c9d75350c86d
+  - id: 2001027
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=7b218f61ca21fff3
+    name: раскаленный уголёк
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=7b218f61ca21fff3
+  - id: 2001036
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=90d820547c84b326
+    name: штормовое пёрышко
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=90d820547c84b326
+  - id: 2001045
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=eca060a98e4aa191
+    name: мешочек накалённой руды
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=eca060a98e4aa191
+  eobjects:
+  - id: 2002494
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5224bfde60ab8882
+    name: Сундук с сокровищами
+
+- name:
+    original: A Relic Reborn (Artemis Bow)
+  level: 50
+  type: brd
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-jobbrd001_01125/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=56d1c85800f3b2f0
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=d268121563f32fa4
+  actors:
+  - id: 1003075
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101
+    name: Герольт
+  - id: 5010000
+  - id: 1001304
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96195572aeed6a73
+    name: Ровена
+  - id: 1008161
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee
+    name: Мугл-портной
+  - id: 1004582
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5370aae410f9f23c
+    name: Фафаджони
+  enemies:
+  - id: 748
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8306d34ce95b9642
+  - id: 750
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=82455e958ebc8d0f
+    name: ???
+  - id: 747
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d1aacfcc68dcbc86
+  quest_items:
+  - id: 2000994
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=3618b1adf5d2741d
+    name: повреждённый Лук Артемиды
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=3618b1adf5d2741d
+  - id: 2001003
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=aa1edb73befb14a0
+    name: щепотка глинозёмных солей
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=aa1edb73befb14a0
+  - id: 2001012
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=b824f56781e6cdab
+    name: амдапорский глиф
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=b824f56781e6cdab
+  - id: 2001021
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=a4206f8536fa5085
+    name: копия «Лук богов»
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=a4206f8536fa5085
+  - id: 2001030
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=6ddcda8e10f0a5fd
+    name: раскаленный уголёк
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=6ddcda8e10f0a5fd
+  - id: 2001039
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=20c3a95a89b0426f
+    name: штормовое пёрышко
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=20c3a95a89b0426f
+  - id: 2001048
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=87f54db2616e2969
+    name: мешочек накалённой руды
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=87f54db2616e2969
+  eobjects:
+  - id: 2002497
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=1efb875535933ab5
+    name: Сундук с сокровищами
+
+- name:
+    original: A Relic Reborn (Yoshimitsu)
+  level: 50
+  type: nin
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-015-jobnin001_01579/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1b5549b2d31bd32a
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=c871afaeda5610e5
+  actors:
+  - id: 1003075
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101
+    name: Герольт
+  - id: 5010000
+  - id: 1001304
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96195572aeed6a73
+    name: Ровена
+  - id: 1008161
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee
+    name: Мугл-портной
+  - id: 1004582
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5370aae410f9f23c
+    name: Фафаджони
+  enemies:
+  - id: 767
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=89ab0a735e02c6fd
+    name: Стойкий мечник
+  - id: 766
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2a759b44e02e4db8
+    name: Казалось бы, обычный бес
+  - id: 768
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=19d369fbc7da05bf
+    name: Галфрид Храбрый
+  quest_items:
+  - id: 2001451
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=6c2eff55d2bb1508
+    name: повреждённые Ёсимицу
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=6c2eff55d2bb1508
+  - id: 2001452
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=5196364791f9f35b
+    name: щепотка глинозёмных солей
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=5196364791f9f35b
+  - id: 2001453
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=f0eeef2893c3dd67
+    name: амдапорский глиф
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=f0eeef2893c3dd67
+  - id: 2001454
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=2385a9b2fa4d02f2
+    name: копия «Сёнинки»
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=2385a9b2fa4d02f2
+  - id: 2001455
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=b717c70694ba53e0
+    name: раскаленный уголёк
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=b717c70694ba53e0
+  - id: 2001456
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=0603e2e8abf431c4
+    name: штормовое пёрышко
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=0603e2e8abf431c4
+  - id: 2001457
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=b257eb33faddd2aa
+    name: мешочек накалённой руды
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=b257eb33faddd2aa
+  eobjects:
+  - id: 2003951
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=db81f540b1075a8f
+    name: Замотанный сундук
+
+- name:
+    original: A Relic Reborn (Thyrus)
+  level: 50
+  type: whm
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-jobwhm001_01124/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2186db6eadf485eb
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=abf55adabb85678d
+  actors:
+  - id: 1003075
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101
+    name: Герольт
+  - id: 5010000
+  - id: 1001304
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96195572aeed6a73
+    name: Ровена
+  - id: 1008161
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee
+    name: Мугл-портной
+  - id: 1004582
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5370aae410f9f23c
+    name: Фафаджони
+  enemies:
+  - id: 756
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=55b10e990c24c21e
+    name: Темперамент Алакрана
+  - id: 758
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d2e592e9ba673e28
+    name: Кокобуси Серьёзный
+  - id: 757
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=01f82dfc4c5314b7
+    name: Доброта Алакрана
+  quest_items:
+  - id: 2000993
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=97a5c44799253652
+    name: повреждённый Тирс
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=97a5c44799253652
+  - id: 2001002
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=789176898a385f48
+    name: щепотка глинозёмных солей
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=789176898a385f48
+  - id: 2001011
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=66ce3deb8e5f8a49
+    name: амдапорский глиф
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=66ce3deb8e5f8a49
+  - id: 2001020
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=41bbc73d64cba226
+    name: копия «Интервью с паджал»
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=41bbc73d64cba226
+  - id: 2001029
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=f9617bac481f4a42
+    name: раскаленный уголёк
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=f9617bac481f4a42
+  - id: 2001038
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=25e100d54aff3579
+    name: штормовое пёрышко
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=25e100d54aff3579
+  - id: 2001047
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=a6e4782597199f5a
+    name: мешочек накалённой руды
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=a6e4782597199f5a
+  eobjects:
+  - id: 2002496
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=2e8426bcef7b820c
+    name: Сундук с сокровищами
+
+- name:
+    original: A Relic Reborn (Stardust Rod)
+  level: 50
+  type: blm
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-jobblm001_01123/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1a5d147b5865f5ca
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=4e16e0a71ddf6f5e
+  actors:
+  - id: 1003075
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101
+    name: Герольт
+  - id: 5010000
+  - id: 1001304
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96195572aeed6a73
+    name: Ровена
+  - id: 1008161
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee
+    name: Мугл-портной
+  - id: 1004582
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5370aae410f9f23c
+    name: Фафаджони
+  enemies:
+  - id: 756
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=55b10e990c24c21e
+    name: Темперамент Алакрана
+  - id: 758
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d2e592e9ba673e28
+    name: Кокобуси Серьёзный
+  - id: 757
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=01f82dfc4c5314b7
+    name: Доброта Алакрана
+  quest_items:
+  - id: 2000992
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=20843d6903fffe07
+    name: повреждённый Жезл звёздной пыли
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=20843d6903fffe07
+  - id: 2001001
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=b9af2d72fd8833c2
+    name: щепотка глинозёмных солей
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=b9af2d72fd8833c2
+  - id: 2001010
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=8f5333bb48b7284b
+    name: амдапорский глиф
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=8f5333bb48b7284b
+  - id: 2001019
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=6df8132fd7ea218a
+    name: копия «На пруду Верданта»
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=6df8132fd7ea218a
+  - id: 2001028
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=8426e8d042de1d22
+    name: раскаленный уголёк
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=8426e8d042de1d22
+  - id: 2001037
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=90a2491d8591fc10
+    name: штормовое пёрышко
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=90a2491d8591fc10
+  - id: 2001046
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=617b87af4fd3b8c3
+    name: мешочек накалённой руды
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=617b87af4fd3b8c3
+  eobjects:
+  - id: 2002495
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=7b3a62354dbe1835
+    name: Сундук с сокровищами
+
+- name:
+    original: A Relic Reborn (The Veil of Wiyu)
+  level: 50
+  type: smn
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-jobsmn001_01126/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1ddc2bc399e1af6f
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=d3f54017c131d09c
+  actors:
+  - id: 1003075
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101
+    name: Герольт
+  - id: 5010000
+  - id: 1001304
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96195572aeed6a73
+    name: Ровена
+  - id: 1008161
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee
+    name: Мугл-портной
+  - id: 1004582
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5370aae410f9f23c
+    name: Фафаджони
+  enemies:
+  - id: 764
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c13cfca8d74de748
+  - id: 763
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6372421955602739
+    name: Сэр Эоланда Квиверон
+  - id: 762
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f6e43070160155b2
+    name: Болдуин
+  quest_items:
+  - id: 2000995
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=168d57eb7b63f538
+    name: повреждённая Оэлверт
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=168d57eb7b63f538
+  - id: 2001004
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=e559480c1a963063
+    name: щепотка глинозёмных солей
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=e559480c1a963063
+  - id: 2001013
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=727639de6dadd11f
+    name: амдапорский глиф
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=727639de6dadd11f
+  - id: 2001022
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=3adf0f5e3aee62ad
+    name: копия «Под покровом»
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=3adf0f5e3aee62ad
+  - id: 2001031
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=ceca8e6433b9db79
+    name: раскаленный уголёк
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=ceca8e6433b9db79
+  - id: 2001040
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=88c3c728cd4d984d
+    name: штормовое пёрышко
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=88c3c728cd4d984d
+  - id: 2001049
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=cdd60d886299d555
+    name: мешочек накалённой руды
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=cdd60d886299d555
+  eobjects:
+  - id: 2002498
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=fdcd998a58b148ec
+    name: Сундук с сокровищами
+
+- name:
+    original: A Relic Reborn (Omnilex)
+  level: 50
+  type: sch
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-jobsch001_01127/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=368f7edab94fd9d6
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=8d454ed8d116310c
+  actors:
+  - id: 1003075
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101
+    name: Герольт
+  - id: 5010000
+  - id: 1001304
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96195572aeed6a73
+    name: Ровена
+  - id: 1008161
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee
+    name: Мугл-портной
+  - id: 1004582
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5370aae410f9f23c
+    name: Фафаджони
+  enemies:
+  - id: 767
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=89ab0a735e02c6fd
+    name: Стойкий мечник
+  - id: 766
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2a759b44e02e4db8
+    name: Казалось бы, обычный бес
+  - id: 768
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=19d369fbc7da05bf
+    name: Галфрид Храбрый
+  quest_items:
+  - id: 2000996
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=5ab0b96455f52a13
+    name: повреждённый Омнилекс
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=5ab0b96455f52a13
+  - id: 2001005
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=6701956fceac2295
+    name: щепотка глинозёмных солей
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=6701956fceac2295
+  - id: 2001014
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=f407a18e4ccec72c
+    name: амдапорский глиф
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=f407a18e4ccec72c
+  - id: 2001023
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=0e5b094e3ed38f96
+    name: копия «Война Магов»
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=0e5b094e3ed38f96
+  - id: 2001032
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=0e4ce31dccc4a438
+    name: раскаленный уголёк
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=0e4ce31dccc4a438
+  - id: 2001041
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=12ff3d958c0eefd3
+    name: штормовое пёрышко
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=12ff3d958c0eefd3
+  - id: 2001050
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=2d7c9fb99ca9862e
+    name: мешочек накалённой руды
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=2d7c9fb99ca9862e
+  eobjects:
+  - id: 2002499
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=9b93c58a983fad25
+    name: Сундук с сокровищами
+
+- name:
+    original: Seeking Sanctuary
+    translated: В поисках убежища
+  level: 1
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-046-aktkua101_04643/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=863446c8bac5dbb5
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=808eb80d08500b67
+  actors:
+  - id: 1043789
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=46b3ad570b3e16e4
+    name: Невежественный глашатай
+  - id: 1043621
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dc2d0f5c5032c16d
+    name: Балдин
+  - id: 5010000
+  - id: 1043622
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ab122b31a3896a99
+    name: Татару
+  - id: 1043904
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7f57283bee12759d
+    name: Татару
+  - id: 1043623
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=97c604f742db4ce2
+    name: Доброжелательный пушистик
+
+- name:
+    original: The Land, Wind, and Sea
+    translated: Земля, ветер и море
+  level: 1
+  type: side
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-046-aktkua201_04645/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ca27b6441292217c
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=612182f281b18b1c
+  cutscenes:
+  - name: Кат-сцена
+    start: "60"
+    end: "64"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/quest-046-aktkua101_04643/
+  actors:
+  - id: 1044156
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=34c222a495967646
+    name: Любопытный курьер
+  eobjects:
+  - id: 2013035
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=873d157e19e348be
+    name: Цель
+
+- name:
+    original: Treasures and Tribulations
+    translated: Сокровища и страдания
+  level: 36
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-012-subcts802_01211/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=25b5ea6f14e53a11
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=29fda50cbac08c4b
+  actors:
+  - id: 1005526
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fa3e16c746a44ad7
+    name: Х'лунх
+  - id: 1005527
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d607dfb9fb65d0ce
+    name: Усердный землекоп
+  - id: 1005528
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=36c1de7a0ab0c488
+    name: Эалдвин
+  enemies:
+  - id: 4516154
+  - id: 4516155
+  - id: 4516156
+  - id: 4516157
+  quest_items:
+  - id: 2001130
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=425b7d63db6176bc
+    name: рваный кошель
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=425b7d63db6176bc
+  - id: 2001149
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=758d283806c17205
+    name: разбитая бутылка
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=758d283806c17205
+  eobjects:
+  - id: 2003007
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=14abb35072298ab3
+    name: Ветхая шкатулка
+  - id: 2003139
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c87c59ec59948f47
+    name: Ветхая шкатулка
+  - id: 2003305
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=aac40d56b5d22e1d
+
+- name:
+    original: Coming to Gridania
+    translated: Прибытие в Гриданию
+  level: 1
+  type: side
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-manfst001_00039/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=907e60534a0aaa29
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=e441d4d71ed480cf
+  actors:
+  - id: 1001148
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=16f4d49dd9e7808f
+    name: Бертеннант
+  - id: 1001140
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fa91f1d393841f63
+    name: Матушка Миунна
+  eobjects:
+  - id: 2001659
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c5b1d51b1fdcc1dd
+  - id: 2001660
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=18ada224979620c2
+  - id: 2616477
+
+- name:
+    original: A Good Adventurer Is Hard to Find
+    translated: Искатели приключений — на вес золота
+  level: 1
+  type: side
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-subfst010_00001/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=bdcf23c298f0b07e
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=9fbcfae1cbd45355
+  actors:
+  - id: 1000146
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2259e63cd6e98635
+    name: Бернадетта
+  - id: 1000195
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=12e76d5cf6fd8214
+    name: Шанселот
+
+- name:
+    original: Incense and Sensibility
+  level: 1
+  type: side
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-subfst000_00020/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ce6dbd310a087e65
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=dcaa3e48a86b8925
+  actors:
+  - id: 1000786
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7aba69e3ccf8edf0
+    name: Mellaine
+  - id: 1000705
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a859fb8b3c881d27
+    name: Braya
+  quest_items:
+  - id: 2000101
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=0877a2584e66da9e
+    name: флакон розового масла Азимы
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=0877a2584e66da9e
+  eobjects:
+  - id: 2000070
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f464109b88e10eca
+    name: censer
+  - id: 2000071
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f522a88eb4840c96
+    name: censer
+
+- name:
+    original: Coarse Correspondence
+  level: 1
+  type: side
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-subfst001_00024/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e25775ecf58d5bc1
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=2b0dca34813c6504
+  actors:
+  - id: 1000206
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=460af68a9d2efd02
+    name: F'mibhas
+  - id: 1000233
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0ba8e420a812ebc9
+    name: Парнелл
+  quest_items:
+  - id: 2000079
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=f729a1e6f3e7bc9a
+    name: F'mibhas's sealed message
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=f729a1e6f3e7bc9a
+
+- name:
+    original: Preserving the Past
+  level: 1
+  type: side
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-subfst004_00027/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9ff5801cba8ebbf3
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=9e2074ca448278f4
+  actors:
+  - id: 1000194
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=30f4b916c1129906
+    name: Idele
+  - id: 1000686
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=50ce71992c953a54
+    name: Louhelic
+  - id: 1000789
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cbb6e4784f739bb7
+    name: Artor
+  quest_items:
+  - id: 2000024
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=e156b39425d402e7
+    name: recruit's toolbox
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=e156b39425d402e7
+
+- name:
+    original: I Am Millicent, Hear Me Roar
+  level: 1
+  type: side
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-subfst019_00049/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1a411a5f91702f1a
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=d75380a004772578
+  actors:
+  - id: 1000788
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4c8afec10c9f7401
+    name: Duimessand
+  - id: 1000429
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9e144d53d183c021
+    name: Millicent
+
+- name:
+    original: Parsemontrenomics
+  level: 1
+  type: side
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-subfst012_00038/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c613963ef771dd1f
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=8a80299ee05842d3
+  actors:
+  - id: 1000768
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e1a101f02ab56740
+    name: Парсмонтре
+  - id: 1000214
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a16733643cdd4181
+    name: Gurthcid
+  - id: 1000218
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b894e1b801a841b4
+    name: Admiranda
+  - id: 1000238
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=22611d8065c625ea
+    name: Alaric
+  - id: 1000248
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=857cb01bbb558c16
+    name:  Кенгалед
+  quest_items:
+  - id: 2000081
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=17ba9cfff929ff6e
+    name: bone spearhead
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=17ba9cfff929ff6e
+  - id: 2000082
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=7936234374512bac
+    name: pot of beeswax oil
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=7936234374512bac
+  - id: 2000083
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=dedbef24bca6c6fa
+    name: length of brambleweed rope
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=dedbef24bca6c6fa
+
+- name:
+    original: For Friendship
+  level: 1
+  type: side
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-subfst013_00040/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=03d39cc734f4f2c5
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=3c5d44848cc0b9b4
+  actors:
+  - id: 1000162
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=225b3a8890789e5c
+    name: Nicoliaux
+  - id: 1000161
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=038262c09e2bd855
+    name: Онилль
+
+- name:
+    original: Covered in Roses
+  level: 1
+  type: side
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-subfst014_00041/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9a06a1c4344df0b2
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=849429f9dceee636
+  actors:
+  - id: 1000300
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bd97a83e3e278511
+    name: Samiane
+  quest_items:
+  - id: 2000084
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=dd4bb4d68bca1e5f
+    name: Azeyma rose hip
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=dd4bb4d68bca1e5f
+  eobjects:
+  - id: 2000026
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=278f1b95d2fb047a
+    name: Azeyma rose hip
+  - id: 2000027
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=71b33f8943e90e7f
+    name: Azeyma rose hip
+  - id: 2000028
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=cae80c5cc0b5a835
+    name: Azeyma rose hip
+  - id: 2000029
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=2c8a4cba89343ad6
+    name: Azeyma rose hip
+  - id: 2000030
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=fb5f90a9b23ad7d5
+    name: Azeyma rose hip
+  - id: 2000031
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ccf1e8d0eb51a0dc
+    name: Azeyma rose hip
+
+- name:
+    original: Sylphic Gratitude
+  level: 1
+  type: side
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-subfst015_00042/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=022f3a2b2f58cc14
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=79f6d416cca2cc90
+  actors:
+  - id: 1000286
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=73ffb2631af726aa
+    name: Эстейн
+  eobjects:
+  - id: 2000020
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=3b4aa64b9b7ad731
+    name: vegetable offering
+  - id: 2000021
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a8c48fdf74b4ecbe
+    name: vegetable offering
+  - id: 2000022
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d900c4d4182b8e09
+    name: vegetable offering
+  - id: 2000023
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=fe0ee7be8d91a104
+    name: vegetable offering
+  - id: 2000024
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e156b39425d402e7
+    name: vegetable offering
+  - id: 2000025
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=b52f6277ebda583d
+    name: vegetable offering
+
+- name:
+    original: Quarrels with Squirrels
+  level: 1
+  type: side
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-subfst002_00025/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b38755d533ee7d38
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=d239aa0d6dca5ad4
+  actors:
+  - id: 1000263
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=363b540dc4805462
+    name: Boiselont
+  enemies:
+  - id: 37
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3d0e22173938ea89
+    name: Земляная белка
+
+- name:
+    original: Once Bitten, Twice Shy
+  level: 1
+  type: side
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-subfst003_00026/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5d650e30a930ff49
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=42e21bd38459a331
+  actors:
+  - id: 1000297
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=98322d0c90e74139
+    name: Ethelred
+  - id: 1000315
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=58c0c29b5c742c28
+    name: Waldew
+  quest_items:
+  - id: 2000028
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=cae80c5cc0b5a835
+    name: Azeyma rose
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=cae80c5cc0b5a835
+
+- name:
+    original: Essential Oil
+  level: 1
+  type: side
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-subfst007_00031/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e8dbbe40bac17fe0
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=efc4219bc561d351
+  actors:
+  - id: 1000705
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a859fb8b3c881d27
+    name: Braya
+  enemies:
+  - id: 49
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=afa51a1b6d548e38
+    name: Маленькая божья коровка
+  quest_items:
+  - id: 2000098
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=41abb9089e6bcc74
+    name: phial of scarlet oil
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=41abb9089e6bcc74
+
+- name:
+    original: A Hard Nut to Crack
+  level: 3
+  type: side
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-subfst008_00032/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3a564f630dd7611a
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=232e45c40a4f110a
+  actors:
+  - id: 1000372
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=66326f486061b540
+    name: Tatasosa
+  - id: 1000311
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=81070bd2b02728f1
+    name: Barnabontant
+  - id: 1000629
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=583af6fb4f131ba4
+    name: Bodwine
+  quest_items:
+  - id: 2000029
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=2c8a4cba89343ad6
+    name: iron snaffle
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=2c8a4cba89343ad6
+
+- name:
+    original: Derision of Labor
+  level: 4
+  type: side
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-subfst009_00034/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1076d6c50921cd13
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=4f169a9c51862ee0
+  actors:
+  - id: 1000370
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6d66cc056f0ea366
+    name: Celestine
+  - id: 1000408
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e55fb101c14fb4ae
+    name: Цуб Каназом
+  quest_items:
+  - id: 2000080
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=f711d41c78671504
+    name: bag of basic provisions
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=f711d41c78671504
+
+- name:
+    original: Population Control
+  level: 1
+  type: side
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-subfst011_00037/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=0350949a88f3c4b7
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=9334166e9d3b4c8a
+  actors:
+  - id: 1000195
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=12e76d5cf6fd8214
+    name: Шанселот
+  enemies:
+  - id: 47
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=756b5593dcff2a2b
+    name: Лесная грибница
+
+- name:
+    original: One Man's Trash
+    translated: Грязная карта
+  level: 30
+  type: leve-gsm
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-004-subsea066_00478/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5a61d17ad9e60fdc
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=2f5bd6bb436a3b44
+  actors:
+  - id: 1002591
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=047c1549d1044557
+    name: Skarnmhar
+  - id: 1002678
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4722a678f6296f5f
+    name: Wahoy Mahoy
+  - id: 1002571
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5d69d4d74289b943
+    name: Anaoc
+  enemies:
+  - id: 4014174
+  - id: 4014176
+  - id: 4014178
+  quest_items:
+  - id: 2000430
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=9c80e28d24d5a108
+    name: bundle of raiments
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=9c80e28d24d5a108
+  eobjects:
+  - id: 2001489
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=1d8bfee75eef28dc
+    name: damaged wain
+  - id: 2000450
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=6a713ad17f28b694
+    name: damaged wain
+
+- name:
+    original: So You Want to Be a Jockey
+    translated: Так ты хочешь стать жокеем
+  level: 15
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-004-subgsc101_00436/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=aafecc8426db1132
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=d29156ae95393ce1
+  actors:
+  - id: 1010464
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5c14a31ede3982f7
+    name: race chocobo registrar
+  - id: 1010472
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9f1a682dc4fbcde0
+    name: Кейтерин
+
+- name:
+    original: Hallo Halatali
+    translated: Халатали
+  level: 19
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-006-subwil140_00697/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d43a4fb2bcb0758f
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=2fe1470f727b64d3
+  actors:
+  - id: 1005021
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=09acfa004ec7a1a1
+    name: Недрик Железное Сердце
+  - id: 1004582
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5370aae410f9f23c
+    name: Фафаджони
+
+- name:
+    original: Morbid Motivation
+    translated: Нездоровая мотивация
+  level: 50
+  type: feature-repeatable
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-jobrel006_01141/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6ec4c9d673911647
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=25d3058c81e287c5
+  actors:
+  - id: 1006981
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b704a7da5896ec2c
+    name: Брангвин
+  - id: 5010000
+  quest_items:
+  - id: 2001350
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=aafd1fb816b588af
+    name: мешок с вещами приключенца
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=aafd1fb816b588af
+
