@@ -2,16 +2,25 @@
 	{%- if quest_list[0] == page.quest_list -%}
 		{%- for quest_i in quest_list[1] -%}
 			{%- if quest_i.name.original == include.quest_name -%}
-				{%- assign quest = quest_i -%}
-				{%- break -%}
+				{% unless include.id and quest_i.id != include.id %}
+					{%- assign quest = quest_i -%}
+					{%- break -%}
+				{% endunless %}
 			{%- endif -%}
 		{%- endfor -%}
 		{%- break -%}
 	{%- endif -%}
 {%- endfor %}
 
-<li class="{{ quest.type }}">
-	<p>Ур. {{ quest.level }} — <strong>{{ quest.name.original }}</strong>{% if quest.name.translated %} / <strong>{{ quest.name.translated }}</strong>{% endif %} — Название (<a href="{{ quest.url.journal }}">Журнал</a> / <a href="{{ quest.url.quest_name }}">Не журнал</a>) — <a href="{{ quest.url.quest }}">Квест</a></p>
+<li class="quest-{{ quest.type }}">
+	<p>Ур. {{ quest.level }} — <strong>{% if include.name -%}
+		{{ include.name }}
+	{%- else -%}
+		{{ quest.name.original }}
+		{%- if quest.name.translated -%}
+			</strong> / <strong>{{ quest.name.translated }}
+		{%- endif -%}
+	{%- endif %}</strong> — Название (<a href="{{ quest.url.journal }}">Журнал</a> / <a href="{{ quest.url.quest_name }}">Не журнал</a>) — <a href="{{ quest.url.quest }}">Квест</a></p>
 	{% if quest.cutscenes %}
 	<p class="cutscene_list">
 		{%- for cutscene in quest.cutscenes %}
