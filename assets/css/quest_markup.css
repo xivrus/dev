@@ -1,14 +1,295 @@
-.msq {
-	list-style-image: url("https://xivapi.com/i/061000/061412.png");
+.quest-maelstrom {
+	list-style-image: url("../img/icon/061401.png");
 }
 
-.blue-quest {
-	list-style-image: url("https://xivapi.com/i/061000/061419.png");
+.quest-twin-adder {
+	list-style-image: url("../img/icon/061402.png");
 }
 
-.yellow-quest {
-	list-style-image: url("https://xivapi.com/i/061000/061411.png");
+.quest-immortal-flames {
+	list-style-image: url("../img/icon/061403.png");
 }
+
+.quest-side {
+	list-style-image: url("../img/icon/061411.png");
+}
+
+.quest-main-scenario {
+	list-style-image: url("../img/icon/061412.png");
+}
+
+.quest-repeatable {
+	list-style-image: url("../img/icon/061413.png");
+}
+
+.quest-feature {
+	list-style-image: url("../img/icon/061419.png");
+}
+
+.quest-dungeon {
+	list-style-image: url("../img/icon/061801.png");
+}
+
+.quest-raid {
+	list-style-image: url("../img/icon/061802.png");
+}
+
+.quest-guildhest {
+	list-style-image: url("../img/icon/061803.png");
+}
+
+.quest-trial {
+	list-style-image: url("../img/icon/061804.png");
+}
+
+.quest-deep-dungeon {
+	list-style-image: url("../img/icon/061824.png");
+}
+
+.quest-eureka {
+	list-style-image: url("../img/icon/061833.png");
+}
+
+.quest-bozja {
+	list-style-image: url("../img/icon/061838.png");
+}
+
+.quest-vnc {
+	list-style-image: url("../img/icon/061846.png");
+}
+
+.quest-feature-repeatable {
+	list-style-image: url("../img/icon/061921.png");
+}
+
+.quest-gld {
+	list-style-image: url("../img/icon/062301.png");
+}
+
+.quest-pgl {
+	list-style-image: url("../img/icon/062302.png");
+}
+
+.quest-mrd {
+	list-style-image: url("../img/icon/062303.png");
+}
+
+.quest-lnc {
+	list-style-image: url("../img/icon/062304.png");
+}
+
+.quest-arc {
+	list-style-image: url("../img/icon/062305.png");
+}
+
+.quest-cnj {
+	list-style-image: url("../img/icon/062306.png");
+}
+
+.quest-thm {
+	list-style-image: url("../img/icon/062307.png");
+}
+
+.quest-acn {
+	list-style-image: url("../img/icon/062308.png");
+}
+
+.quest-rog {
+	list-style-image: url("../img/icon/062309.png");
+}
+
+.quest-crp {
+	list-style-image: url("../img/icon/062310.png");
+}
+
+.quest-bsm {
+	list-style-image: url("../img/icon/062311.png");
+}
+
+.quest-arm {
+	list-style-image: url("../img/icon/062312.png");
+}
+
+.quest-gsm {
+	list-style-image: url("../img/icon/062313.png");
+}
+
+.quest-ltw {
+	list-style-image: url("../img/icon/062314.png");
+}
+
+.quest-wvr {
+	list-style-image: url("../img/icon/062315.png");
+}
+
+.quest-alc {
+	list-style-image: url("../img/icon/062316.png");
+}
+
+.quest-cul {
+	list-style-image: url("../img/icon/062317.png");
+}
+
+.quest-min {
+	list-style-image: url("../img/icon/062318.png");
+}
+
+.quest-btn {
+	list-style-image: url("../img/icon/062319.png");
+}
+
+.quest-fsh {
+	list-style-image: url("../img/icon/062320.png");
+}
+
+.quest-pld {
+	list-style-image: url("../img/icon/062401.png");
+}
+
+.quest-mnk {
+	list-style-image: url("../img/icon/062402.png");
+}
+
+.quest-war {
+	list-style-image: url("../img/icon/062403.png");
+}
+
+.quest-drg {
+	list-style-image: url("../img/icon/062404.png");
+}
+
+.quest-brd {
+	list-style-image: url("../img/icon/062405.png");
+}
+
+.quest-whm {
+	list-style-image: url("../img/icon/062406.png");
+}
+
+.quest-blm {
+	list-style-image: url("../img/icon/062407.png");
+}
+
+.quest-smn {
+	list-style-image: url("../img/icon/062408.png");
+}
+
+.quest-sch {
+	list-style-image: url("../img/icon/062409.png");
+}
+
+.quest-nin {
+	list-style-image: url("../img/icon/062410.png");
+}
+
+.quest-mch {
+	list-style-image: url("../img/icon/062411.png");
+}
+
+.quest-drk {
+	list-style-image: url("../img/icon/062412.png");
+}
+
+.quest-ast {
+	list-style-image: url("../img/icon/062413.png");
+}
+
+.quest-sam {
+	list-style-image: url("../img/icon/062414.png");
+}
+
+.quest-rdm {
+	list-style-image: url("../img/icon/062415.png");
+}
+
+.quest-blu {
+	list-style-image: url("../img/icon/062416.png");
+}
+
+.quest-gnb {
+	list-style-image: url("../img/icon/062417.png");
+}
+
+.quest-dnc {
+	list-style-image: url("../img/icon/062418.png");
+}
+
+.quest-rpr {
+	list-style-image: url("../img/icon/062419.png");
+}
+
+.quest-sge {
+	list-style-image: url("../img/icon/062420.png");
+}
+
+.quest-leve-battle {
+	list-style-image: url("../img/icon/062501.png");
+}
+
+.quest-leve-crp {
+	list-style-image: url("../img/icon/062502.png");
+}
+
+.quest-leve-bsm {
+	list-style-image: url("../img/icon/062503.png");
+}
+
+.quest-leve-arm {
+	list-style-image: url("../img/icon/062504.png");
+}
+
+.quest-leve-gsm {
+	list-style-image: url("../img/icon/062505.png");
+}
+
+.quest-leve-ltw {
+	list-style-image: url("../img/icon/062506.png");
+}
+
+.quest-leve-wvr {
+	list-style-image: url("../img/icon/062507.png");
+}
+
+.quest-leve-alc {
+	list-style-image: url("../img/icon/062508.png");
+}
+
+.quest-leve-cul {
+	list-style-image: url("../img/icon/062509.png");
+}
+
+.quest-leve-min {
+	list-style-image: url("../img/icon/062510.png");
+}
+
+.quest-leve-btn {
+	list-style-image: url("../img/icon/062511.png");
+}
+
+.quest-leve-fsh {
+	list-style-image: url("../img/icon/062512.png");
+}
+
+.quest-leve-maelstrom {
+	list-style-image: url("../img/icon/062513.png");
+}
+
+.quest-leve-twin-adder {
+	list-style-image: url("../img/icon/062514.png");
+}
+
+.quest-leve-immortal-flames {
+	list-style-image: url("../img/icon/062515.png");
+}
+
+.quest-studium {
+	list-style-image: url("../img/icon/062521.png");
+}
+
+.quest-role {
+	list-style-image: url("../img/icon/062522.png");
+}
+
 
 @media (prefers-color-scheme: dark) {
 	.cutscene_list {
