@@ -56,6 +56,7 @@
 
 - name:
     original: My First Cane
+    translated: Мой первый жезл
   level: 1
   type: cnj
   url:
@@ -79,6 +80,7 @@
 
 - name:
     original: Trial by Earth
+    translated: Испытание земли
   level: 5
   type: cnj
   url:
@@ -101,6 +103,7 @@
 
 - name:
     original: Trial by Wind
+    translated: Испытание ветра
   level: 10
   type: cnj
   id: 91
@@ -114,7 +117,7 @@
     name: Э-Суми-Ян
   - id: 1000767
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b4087f5749474a0d
-    name: Wulfiue
+    name: Ульфью
   enemies:
   - id: 3768148
   eobjects:
@@ -123,10 +126,11 @@
     name: Цель
   - id: 2000887
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c27c31a5c0138e93
-    name: corrupted air
+    name: Осквернённый воздух
 
 - name:
     original: Trial by Wind
+    translated: Испытание ветра
   level: 10
   type: cnj
   id: 147
@@ -140,7 +144,7 @@
     name: Э-Суми-Ян
   - id: 1000767
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b4087f5749474a0d
-    name: Wulfiue
+    name: Ульфью
   enemies:
   - id: 3768148
   eobjects:
@@ -149,10 +153,11 @@
     name: Цель
   - id: 2001230
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=51d7c7920584f4c1
-    name: corrupted air
+    name: Осквернённый воздух
 
 - name:
     original: Trial by Water
+    translated: Испытание воды
   level: 15
   type: cnj
   url:
@@ -168,7 +173,7 @@
     name: Жоасан
   - id: 1000619
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=de392ce20f9df1bb
-    name: Aniud
+    name: Аниуд
   - id: 1003001
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b9a3387bee897fca
     name: Раненая Лесная Тень
@@ -176,13 +181,13 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9b2e4aa0981669cb
   - id: 1003057
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c39bf0be0b5f5ce0
-    name: harried healer
+    name: Уставший целитель
   - id: 1001213
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2a84bcfa1af7efd4
     name: Лучник Божьих Колчанов
   - id: 1002960
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=10fe2d9d5cd2f671
-    name: Sylphie
+    name: Сильфи
   - id: 1006154
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cf94b28807da73b1
   - id: 1006155
@@ -205,13 +210,13 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f781af67e6cbc0bb
   - id: 1003006
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=12a368282e819b2b
-    name: Sylphie
+    name: Сильфи
   enemies:
   - id: 3799227
   quest_items:
   - id: 2000121
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=55db9209b7ec299c
-    name: flask of pristine water
+    name: Бутылка чистейшей воды
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=55db9209b7ec299c
   eobjects:
   - id: 2000889
@@ -222,6 +227,7 @@
 
 - name:
     original: Sylphie's Trials
+    translated: Испытание Сильфи
   level: 20
   type: cnj
   url:
@@ -234,13 +240,13 @@
     name: Э-Суми-Ян
   - id: 1002961
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=46866bfaf0492579
-    name: Sylphie
+    name: Сильфи
   - id: 1002962
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=30b539df39c03bab
-    name: Sylphie
+    name: Сильфи
   - id: 1002963
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2e913664f0d0207f
-    name: Sylphie
+    name: Сильфи
   enemies:
   - id: 3878392
   - id: 3796339
@@ -248,16 +254,17 @@
   eobjects:
   - id: 2000891
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=27d226851271706e
-    name: corrupted soil
+    name: Осквернённая почва
   - id: 2000893
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=bbcd6ddc5492cd98
-    name: corrupted air
+    name: Осквернённый воздух
   - id: 2000895
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=aa94fa97e1cb9037
-    name: corrupted water
+    name: Осквернённая вода
 
 - name:
     original: Like Mother, Like Daughter
+    translated: Яблочко от яблони
   level: 25
   type: cnj
   url:
@@ -270,7 +277,7 @@
     name: Э-Суми-Ян
   - id: 1008149
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=baccec8cbe06f78d
-    name: Wulfiue
+    name: Ульфью
   - id: 1008147
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=badc590bf66ff393
     name: Ноланель
@@ -279,10 +286,10 @@
     name: Жоасан
   - id: 1008146
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=187ebb630abd37b5
-    name: Sylphie
+    name: Сильфи
   - id: 1008150
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=af3587a000b503b5
-    name: Sylphie
+    name: Сильфи
   - id: 1008151
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=607184afb6d9799f
     name: Ноланель
@@ -291,7 +298,7 @@
     name: Жоасан
   - id: 1008153
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=37f796d5000cf719
-    name: Wulfiue
+    name: Ульфью
   - id: 1008154
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=39f4413a090ba45d
   - id: 1008155
@@ -300,7 +307,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1d1571f52dbf01eb
   - id: 1008157
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f18b962bef3a9cb1
-    name: Sylphie
+    name: Сильфи
   - id: 1008158
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9a36d588e5d2875c
     name: Ноланель
@@ -309,7 +316,7 @@
     name: Жоасан
   - id: 1008160
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2dc7f0a44669340a
-    name: Wulfiue
+    name: Ульфью
   eobjects:
   - id: 2002552
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e6518a8bd6416da6
@@ -320,6 +327,7 @@
 
 - name:
     original: In Nature's Embrace
+    translated: Милость природы
   level: 30
   type: cnj
   url:
@@ -332,16 +340,16 @@
     name: Э-Суми-Ян
   - id: 1002965
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0852aea6cb18e0a5
-    name: Sylphie
+    name: Сильфи
   - id: 1002966
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ea3940e1e3f0cf1d
-    name: Sylphie
+    name: Сильфи
   - id: 1002967
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=04f139063782c864
-    name: Sylphie
+    name: Сильфи
   - id: 1002968
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0536bd73dbf5fa40
-    name: Sylphie
+    name: Сильфи
   enemies:
   - id: 3876178
   - id: 3876179
@@ -349,13 +357,13 @@
   eobjects:
   - id: 2000899
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=bf41f6029edbf925
-    name: corrupted soil
+    name: Осквернённая земля
   - id: 2000901
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=138eb735b0b0f8ae
-    name: corrupted soil
+    name: Осквернённая земля
   - id: 2000906
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=dc74fddf438d8f02
-    name: corrupted soil
+    name: Осквернённая земля
   - id: 2001839
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=99605d0e75938392
 
