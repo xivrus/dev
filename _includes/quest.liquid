@@ -86,7 +86,7 @@
 		<p>Предметы: {% for quest_item in quest.quest_items -%}
 				{%- if quest_item.url -%}
 					{%- if quest_item.name -%}
-						<a href="{{ quest_item.url }}">{{ quest_item.name }}</a>
+						<a href="{{ quest_item.url }}">{{ quest_item.name }}</a> (<a href="{{ quest_item.desc_url }}">Описание</a>)
 					{%- else -%}
 						<a href="{{ quest_item.url }}">{{ quest_item.id }}</a>
 					{%- endif -%}
