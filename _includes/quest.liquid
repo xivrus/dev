@@ -74,7 +74,7 @@
 		{% if quest.fates -%}
 		<p>ЗОНЫ: {% for fate in quest.fates -%}
 				{%- if fate.url -%}
-					<a href="{{ fate.url }}">{{ fate.name }}</a> (<a href="{{ fate.dialog_url }}">Реплики</a>)
+					<a href="{{ fate.url }}">{{ fate.name }}</a>
 				{%- else -%}
 					{{ fate.id }}
 				{%- endif -%}
