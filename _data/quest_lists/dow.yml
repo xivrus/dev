@@ -79,6 +79,7 @@
 
 - name:
     original: Kicking the Hornet's Nest
+    translated: Разворошить осиное гнездо
   level: 5
   type: gld
   url:
@@ -91,16 +92,16 @@
     name: Милла
   - id: 1003984
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=597fe19977e8db6d
-    name: ill-mannered marauder
+    name: Грубый мародёр
   - id: 1003990
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=279ec335aa72a5ed
-    name: menacing marauder
+    name: Угрожающий мародёр
   - id: 1003992
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=39f435f4b4c2b368
-    name: keen-eyed marauder
+    name: Устрашающий мародёр
   - id: 1003994
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2b8de19cb12be9a6
-    name: mocking marauder
+    name: Смеющийся мародёр
   - id: 1003983
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7995a483ba2e2bf9
   - id: 1003991
@@ -111,19 +112,19 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4c708be1ddfa7949
   - id: 1004222
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c11bced4173a7c24
-    name: Pfarmurl
+    name: Фармурл
   - id: 1004236
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d957e6c97832e0ee
-    name: frolicsome dancer
+    name: Игривый танцор
   - id: 1004223
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=642560fb190c2d53
-    name: stately gentleman
+    name: Статный джентльмен
   - id: 1001353
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7744087ade37a3e5
     name: Момоди
   - id: 1003985
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4dbeedb1d090de32
-    name: nervous merchant
+    name: Торговец на взводе
   - id: 1006018
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8933372c3bd85dc6
   enemies:
@@ -132,20 +133,21 @@
   quest_items:
   - id: 2000524
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=a473aaacc7ccea9c
-    name: caravan sack
+    name: Груз с каравана
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=a473aaacc7ccea9c
   eobjects:
   - id: 2001725
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=6826ea15d558063a
   - id: 2001408
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ce09428b4c0c9abb
-    name: caravan sack
+    name: Украденные товары
   - id: 2001409
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=90b8c32ecf3335d4
-    name: caravan sack
+    name: Украденные товары
 
 - name:
     original: Ul'dah's Most Wanted
+    translated: Разыскиваемый в Уль'де
   level: 10
   type: gld
   id: 261
@@ -159,10 +161,10 @@
     name: Милла
   - id: 1002296
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=75b791f65e202184
-    name: gutless gladiator
+    name: Бесхребетный гладиатор
   - id: 1003945
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=10d615562396b10f
-    name: Bruce the Big
+    name: Брюс Здоровяк
   enemies:
   - id: 3976825
   - id: 3976826
@@ -173,6 +175,7 @@
 
 - name:
     original: Ul'dah's Most Wanted
+    translated: Разыскиваемый в Уль'де
   level: 10
   type: gld
   id: 288
@@ -186,10 +189,10 @@
     name: Милла
   - id: 1002296
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=75b791f65e202184
-    name: gutless gladiator
+    name: Бесхребетный гладиатор
   - id: 1003945
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=10d615562396b10f
-    name: Bruce the Big
+    name: Брюс Здоровяк
   enemies:
   - id: 3976825
   - id: 3976826
@@ -200,6 +203,7 @@
 
 - name:
     original: That Old Familiar Feeling
+    translated: То знакомое чувство
   level: 15
   type: gld
   url:
@@ -212,13 +216,13 @@
     name: Милла
   - id: 1004224
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c93e161e5e81ed13
-    name: injured gladiator
+    name: Раненый гладиатор
   - id: 1004090
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b1999ce479a765a6
-    name: nervous merchant
+    name: Торговец на взводе
   - id: 1004091
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b3a81e0eca03f04b
-    name: Aldis
+    name: Альдис
   enemies:
   - id: 3982631
   - id: 3982632
@@ -236,6 +240,7 @@
 
 - name:
     original: The Face of Thal
+    translated: Посланник Талла
   level: 20
   type: gld
   url:
@@ -248,7 +253,7 @@
     name: Милла
   - id: 1004140
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=80394ea4fc9c07d0
-    name: injured gladiator
+    name: Раненый гладиатор
   - id: 1001438
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e64ab4eb87766451
     name: Etfled
@@ -273,12 +278,13 @@
   eobjects:
   - id: 2001434
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e26065c4f51c865f
-    name: point of ambush
+    name: Место засады
   - id: 2001726
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e1cdf0879610a4c9
 
 - name:
     original: On Holy Ground
+    translated: На святой земле
   level: 25
   type: gld
   url:
@@ -291,13 +297,13 @@
     name: Милла
   - id: 1004225
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=56b55a25eb5bae73
-    name: veteran gladiator
+    name: Гладиатор-ветеран
   - id: 1002277
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=206b83d25fdda5e0
     name: Лулуцу
   - id: 1004141
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=153eca2ae8ae38e7
-    name: Aldis
+    name: Альдис
   enemies:
   - id: 3986472
   - id: 3995627
@@ -308,6 +314,7 @@
 
 - name:
     original: The Rematch
+    translated: Реванш
   level: 30
   type: gld
   url:
@@ -323,18 +330,18 @@
     name: Вимонд
   - id: 1004142
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5a1c26e26b349dfb
-    name: Order of Nald'thal priest
+    name: Жрец Ордена Налд'Талла
   - id: 1004143
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1ef6051652ebe675
-    name: Aldis
+    name: Альдис
   - id: 1004144
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2f2bd1432da1bb53
-    name: carnifex
+    name: Хищник
   - id: 1004436
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=527aeae255c1c3e5
   - id: 1004437
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=744a91cb5189211d
-    name: unsettled gladiator
+    name: Беспокойный гладиатор
   enemies:
   - id: 3987754
   - id: 3987753
@@ -345,19 +352,19 @@
   quest_items:
   - id: 2000404
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=2c180fda48c23354
-    name: wrinkled bill of sale
+    name: Помятый лист с записями
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=2c180fda48c23354
   - id: 2000411
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=d1b18233224499d2
-    name: phial of Rhalgr's Bile
+    name: Фиал с «Жельчью Ралгра»
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=d1b18233224499d2
   eobjects:
   - id: 2001435
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=28fc6f554fc12c76
-    name: wrinkled bill of sale
+    name: Помятый лист с записями
   - id: 2001455
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=b717c70694ba53e0
-    name: Rhalgr's bile
+    name: Фиал с «Желчью Ралгра»
   - id: 2001743
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5ea2de5dd84657ab
 
@@ -1518,10 +1525,10 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d7ab8be1107c17fc
   - id: 2000922
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=9c9559c4285bf413
-    name: потухший костёр
+    name: Потухший костёр
   - id: 2000923
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c45292113fad8464
-    name: потухший костёр
+    name: Потухший костёр
 
 - name:
     original: Proof of Might
