@@ -335,6 +335,123 @@
   - id: 5010000
 
 - name:
+    original: Primal Fear
+  level: 46
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-010-gaiusc607_01007/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=96e979476707756f
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=323bc3333419fc7c
+  actors:
+  - id: 1007478
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
+    name: Урианже
+  - id: 1003061
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f9ca653902329fad
+    name: Левин
+  - id: 1000423
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=85439b51667c5a4c
+    name: Лучник Божьих Колчанов
+
+- name:
+    original: Who Was That Man in Black
+  level: 46
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-010-gaiusc608_01008/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1fbf2cc8f321033f
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=dfb591c50ab17edf
+  actors:
+  - id: 1003061
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f9ca653902329fad
+    name: Левин
+  - id: 1000423
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=85439b51667c5a4c
+    name: Лучник Божьих Колчанов
+  - id: 1000195
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=12e76d5cf6fd8214
+    name: Шанселот
+  - id: 1000372
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=66326f486061b540
+    name: Tatasosa
+  - id: 1000122
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=18606046a80032ea
+    name: Онорье
+  - id: 1000156
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=63418f53fa6279bc
+    name: Aedan
+
+- name:
+    original: The Dark Divinity
+  level: 46
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-010-gaiusc609_01009/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=41fd298ca48bb969
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=ba987f8b4fdd8697
+  actors:
+  - id: 1003061
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f9ca653902329fad
+    name: Левин
+  - id: 1000423
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=85439b51667c5a4c
+    name: Лучник Божьих Колчанов
+  - id: 1006584
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f81fe8f4468d0d67
+    name: О-Апа-Песи
+  - id: 1006681
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=694b901ec4068aca
+  - id: 1006682
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9f55fa6e61c359b4
+  - id: 1006683
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c1701fad8ec786fa
+  - id: 1006585
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8039f3afc9826cbe
+    name: Simmie
+  enemies:
+  - id: 4300261
+  - id: 2198
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ec062893385b6f72
+    name: Заколдованный рулевой
+  quest_items:
+  - id: 2000963
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=b44dff1635108ea8
+    name: bottle of water of cleansing
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=b44dff1635108ea8
+  - id: 2000965
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=9734cdd1d4a488ca
+    name: sundered binding stone
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=9734cdd1d4a488ca
+  eobjects:
+  - id: 2002241
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=75162f7675d28982
+    name: Urth's Seal
+  - id: 2002614
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5c3e268431d1776c
+    name: Urth's Seal
+
+- name:
+    original: All You Wanted to Know about Odin
+  level: 46
+  type: feature
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-010-gaiusc612_01012/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5eaad1470ec50e87
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=f82d245305e1ffa3
+  actors:
+  - id: 1006585
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8039f3afc9826cbe
+    name: Simmie
+  - id: 1007478
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
+    name: Урианже
+  quest_items:
+  - id: 2000846
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=287cb22c2206acdc
+    name: report on Odin
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=287cb22c2206acdc
+
+- name:
     original: Primal Awakening
   level: 50
   type: feature

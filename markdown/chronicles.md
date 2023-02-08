@@ -22,7 +22,23 @@ quest_list: chronicles
 	{% include quest.liquid quest_name = "Whorl of a Time" %}
 	{% include quest.liquid quest_name = "Judgment Bolts and Lightning" %}
 	{% include quest.liquid quest_name = "Drop Dead Shiva" %}
+</ul>
+
+_Для продолжения игроку сначала требуется пройти [цепочку заданий по разблокировке Одина](#primals-odin-unlock)._
+
+<ul markdown="0">
 	{% include quest.liquid quest_name = "Fear and Odin in the Shroud" %}
+</ul>
+
+### Разблокировка Одина {#primals-odin-unlock}
+
+![Изображение заданий Одина](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/91/91be70fb8b4300a8de5f4b4fa62566fc825e0fef.png)
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "Primal Fear" %}
+	{% include quest.liquid quest_name = "Who Was That Man in Black" %}
+	{% include quest.liquid quest_name = "The Dark Divinity" %}
+	{% include quest.liquid quest_name = "All You Wanted to Know about Odin" %}
 </ul>
 
 ## Бахамут {#bahamut}
