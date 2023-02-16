@@ -1,5 +1,5 @@
 - name:
-    original: The Transporter
+    original: "The Transporter"
   level: 15
   type: battle
   icon: 62501
@@ -29,7 +29,7 @@
     is_translated: False
 
 - name:
-    original: Stew for Two
+    original: "Stew for Two"
   level: 15
   type: battle
   icon: 62501
@@ -65,7 +65,7 @@
     is_translated: False
 
 - name:
-    original: Ochus Bite, Leaves Bleed
+    original: "Ochus Bite, Leaves Bleed"
   level: 15
   type: battle
   icon: 62501
@@ -89,7 +89,7 @@
     is_translated: False
 
 - name:
-    original: Monkey Business
+    original: "Monkey Business"
   level: 15
   type: battle
   icon: 62501
@@ -113,7 +113,7 @@
     is_translated: False
 
 - name:
-    original: Can't Say No to Gnat
+    original: "Can't Say No to Gnat"
   level: 15
   type: battle
   icon: 62501
@@ -140,7 +140,7 @@
     is_translated: False
 
 - name:
-    original: Something in the Mead
+    original: "Something in the Mead"
   level: 15
   type: battle
   icon: 62501
@@ -167,7 +167,7 @@
     is_translated: False
 
 - name:
-    original: A Guest for Supper
+    original: "A Guest for Supper"
   level: 15
   type: battle
   icon: 62501
@@ -197,7 +197,7 @@
     is_translated: False
 
 - name:
-    original: She's So Mean
+    original: "She's So Mean"
   level: 20
   type: company
   icon: 62514
@@ -227,7 +227,7 @@
     is_translated: False
 
 - name:
-    original: Mortal Munchies
+    original: "Mortal Munchies"
   level: 20
   type: company
   icon: 62514
@@ -267,7 +267,7 @@
     is_translated: False
 
 - name:
-    original: A Little Constructive Exorcism
+    original: "A Little Constructive Exorcism"
   level: 20
   type: company
   icon: 62514
@@ -301,7 +301,7 @@
     is_translated: False
 
 - name:
-    original: Burn It Down
+    original: "Burn It Down"
   level: 20
   type: company
   icon: 62514
@@ -329,7 +329,7 @@
     is_translated: False
 
 - name:
-    original: A Real Wingnut
+    original: "A Real Wingnut"
   level: 25
   type: company
   icon: 62514
@@ -359,7 +359,7 @@
     is_translated: False
 
 - name:
-    original: Blinded by the Wight
+    original: "Blinded by the Wight"
   level: 25
   type: company
   icon: 62514
@@ -399,7 +399,7 @@
     is_translated: False
 
 - name:
-    original: Sylph Strands
+    original: "Sylph Strands"
   level: 25
   type: company
   icon: 62514
@@ -433,7 +433,7 @@
     is_translated: False
 
 - name:
-    original: Go with the Flow
+    original: "Go with the Flow"
   level: 25
   type: company
   icon: 62514
@@ -461,7 +461,7 @@
     is_translated: False
 
 - name:
-    original: The Quick and the Dead
+    original: "The Quick and the Dead"
   level: 15
   type: gathering
   icon: 62511
@@ -478,7 +478,7 @@
     is_translated: False
 
 - name:
-    original: Never Strikes Twice
+    original: "Never Strikes Twice"
   level: 15
   type: gathering
   icon: 62511
@@ -501,7 +501,7 @@
     is_translated: False
 
 - name:
-    original: Briar in the Hole
+    original: "Briar in the Hole"
   level: 15
   type: gathering
   icon: 62511
@@ -518,7 +518,7 @@
     is_translated: False
 
 - name:
-    original: Maple Stories
+    original: "Maple Stories"
   level: 15
   type: gathering
   icon: 62511
@@ -541,13 +541,14 @@
     is_translated: False
 
 - name:
-    original: Driving Up the Wall
+    original: "Driving Up the Wall"
   level: 15
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=705ba0bed77bb6ad
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=0d7cbac9e8f9ac7c
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=68c257d1546915f1
   client:
     id: 7
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=837dd823e362861c
@@ -560,13 +561,14 @@
     qty: 1
 
 - name:
-    original: Nothing to Hide
+    original: "Nothing to Hide"
   level: 15
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=ce994dd15c4abe0f
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3cbc65a9717876ba
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=68c257d1546915f1
   client:
     id: 7
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=837dd823e362861c
@@ -579,13 +581,14 @@
     qty: 1
 
 - name:
-    original: What You Need
+    original: "What You Need"
   level: 15
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=71c4ff5f42db6ad9
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8f74acee87498381
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=68c257d1546915f1
   client:
     id: 7
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=837dd823e362861c
@@ -598,13 +601,14 @@
     qty: 1
 
 - name:
-    original: Back in the Band
+    original: "Back in the Band"
   level: 15
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=99eb876fafe34e48
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e9ae5e0839eca4e3
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=68c257d1546915f1
   client:
     id: 7
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=837dd823e362861c
@@ -617,13 +621,14 @@
     qty: 1
 
 - name:
-    original: On Their Feet Again
+    original: "On Their Feet Again"
   level: 15
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=8abdf559caedae32
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6b6a3ef9c177f0a0
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=68c257d1546915f1
   client:
     id: 7
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=837dd823e362861c
@@ -636,13 +641,14 @@
     qty: 1
 
 - name:
-    original: Skin off Their Backs
+    original: "Skin off Their Backs"
   level: 15
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=d4c655ba895c3f85
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=301a20a4430d8127
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=68c257d1546915f1
   client:
     id: 7
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=837dd823e362861c
@@ -655,7 +661,7 @@
     qty: 1
 
 - name:
-    original: Where the Fur's At
+    original: "Where the Fur's At"
   level: 30
   type: battle
   icon: 62501
@@ -691,7 +697,7 @@
     is_translated: False
 
 - name:
-    original: Woodcross Busydeal
+    original: "Woodcross Busydeal"
   level: 30
   type: battle
   icon: 62501
@@ -721,7 +727,7 @@
     is_translated: False
 
 - name:
-    original: Adamantoise Tears
+    original: "Adamantoise Tears"
   level: 30
   type: battle
   icon: 62501
@@ -757,7 +763,7 @@
     is_translated: False
 
 - name:
-    original: Necrologos: Brand of the Impure
+    original: "Necrologos: Brand of the Impure"
   level: 30
   type: battle
   icon: 62501
@@ -797,7 +803,7 @@
     is_translated: False
 
 - name:
-    original: Black Market Down
+    original: "Black Market Down"
   level: 30
   type: battle
   icon: 62501
@@ -827,7 +833,7 @@
     is_translated: False
 
 - name:
-    original: A Feast in the Forest
+    original: "A Feast in the Forest"
   level: 30
   type: battle
   icon: 62501
@@ -862,7 +868,7 @@
     is_translated: False
 
 - name:
-    original: Dead Man Walking
+    original: "Dead Man Walking"
   level: 30
   type: company
   icon: 62514
@@ -892,7 +898,7 @@
     is_translated: False
 
 - name:
-    original: 援護指令：白狼隊の実戦訓練
+    original: "援護指令：白狼隊の実戦訓練"
   level: 30
   type: company
   icon: 62514
@@ -909,7 +915,7 @@
     is_translated: False
 
 - name:
-    original: It Goes with the Territory
+    original: "It Goes with the Territory"
   level: 30
   type: company
   icon: 62514
@@ -949,7 +955,7 @@
     is_translated: False
 
 - name:
-    original: Creature Feature
+    original: "Creature Feature"
   level: 30
   type: company
   icon: 62514
@@ -983,7 +989,7 @@
     is_translated: False
 
 - name:
-    original: This Is Going to Sting, A Lot
+    original: "This Is Going to Sting, A Lot"
   level: 30
   type: company
   icon: 62514
@@ -1014,7 +1020,7 @@
     is_translated: False
 
 - name:
-    original: It's Hard Being Moogle
+    original: "It's Hard Being Moogle"
   level: 20
   type: battle
   icon: 62501
@@ -1047,7 +1053,7 @@
     is_translated: False
 
 - name:
-    original: It's a Trap
+    original: "It's a Trap"
   level: 20
   type: battle
   icon: 62501
@@ -1086,7 +1092,7 @@
     is_translated: False
 
 - name:
-    original: Killing Beasts Softly
+    original: "Killing Beasts Softly"
   level: 20
   type: battle
   icon: 62501
@@ -1116,7 +1122,7 @@
     is_translated: False
 
 - name:
-    original: The Root of the Problem
+    original: "The Root of the Problem"
   level: 20
   type: battle
   icon: 62501
@@ -1146,7 +1152,7 @@
     is_translated: False
 
 - name:
-    original: What's Yours Is Mine
+    original: "What's Yours Is Mine"
   level: 20
   type: battle
   icon: 62501
@@ -1176,7 +1182,7 @@
     is_translated: False
 
 - name:
-    original: No Leaves Left Behind
+    original: "No Leaves Left Behind"
   level: 20
   type: battle
   icon: 62501
@@ -1206,7 +1212,7 @@
     is_translated: False
 
 - name:
-    original: Belly Up
+    original: "Belly Up"
   level: 20
   type: battle
   icon: 62501
@@ -1230,7 +1236,7 @@
     is_translated: False
 
 - name:
-    original: Treevenge
+    original: "Treevenge"
   level: 20
   type: battle
   icon: 62501
@@ -1262,7 +1268,7 @@
     is_translated: False
 
 - name:
-    original: Necrologos: The Beholders
+    original: "Necrologos: The Beholders"
   level: 25
   type: battle
   icon: 62501
@@ -1295,7 +1301,7 @@
     is_translated: False
 
 - name:
-    original: Rope a 'Lope
+    original: "Rope a 'Lope"
   level: 25
   type: battle
   icon: 62501
@@ -1325,7 +1331,7 @@
     is_translated: False
 
 - name:
-    original: Necrologos: Olidious Separation
+    original: "Necrologos: Olidious Separation"
   level: 25
   type: battle
   icon: 62501
@@ -1359,7 +1365,7 @@
     is_translated: False
 
 - name:
-    original: More than Meets the Eye
+    original: "More than Meets the Eye"
   level: 25
   type: battle
   icon: 62501
@@ -1395,7 +1401,7 @@
     is_translated: False
 
 - name:
-    original: Refugee Raw
+    original: "Refugee Raw"
   level: 25
   type: battle
   icon: 62501
@@ -1422,7 +1428,7 @@
     is_translated: False
 
 - name:
-    original: Revisiting Raimdelle
+    original: "Revisiting Raimdelle"
   level: 25
   type: battle
   icon: 62501
@@ -1446,7 +1452,7 @@
     is_translated: False
 
 - name:
-    original: Up the Creek
+    original: "Up the Creek"
   level: 25
   type: battle
   icon: 62501
@@ -1488,13 +1494,14 @@
     is_translated: False
 
 - name:
-    original: Whatchoo Talking About
+    original: "Whatchoo Talking About"
   level: 20
   type: crafting
   icon: 62507
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=3789ff56b525920c
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=917104c2a5f4902a
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -1507,13 +1514,14 @@
     qty: 1
 
 - name:
-    original: The Telltale Tress
+    original: "The Telltale Tress"
   level: 20
   type: crafting
   icon: 62507
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=83b2ba7cb5756417
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=629b7e97e8cca361
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -1527,13 +1535,14 @@
     qty: 1
 
 - name:
-    original: Getting Handsy
+    original: "Getting Handsy"
   level: 20
   type: crafting
   icon: 62507
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=6d4fe67549c305f5
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ee67792d1c6d17ce
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -1546,13 +1555,14 @@
     qty: 1
 
 - name:
-    original: Bet You Anything
+    original: "Bet You Anything"
   level: 25
   type: crafting
   icon: 62507
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=234d96216d7d2bbf
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8a5a85c98e799861
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -1566,13 +1576,14 @@
     qty: 1
 
 - name:
-    original: Pantser Corps
+    original: "Pantser Corps"
   level: 25
   type: crafting
   icon: 62507
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=0fc31caa978ee746
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8450a6aee7d40f01
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -1585,13 +1596,14 @@
     qty: 1
 
 - name:
-    original: Put a Lid on It
+    original: "Put a Lid on It"
   level: 25
   type: crafting
   icon: 62507
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=fb5814b814ab780d
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2e2f0180b1b6e265
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -1604,13 +1616,14 @@
     qty: 1
 
 - name:
-    original: Hush Little Wailer
+    original: "Hush Little Wailer"
   level: 20
   type: crafting
   icon: 62508
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=7198dbf6b6c21c72
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9ab1dcd6da4126ab
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -1623,13 +1636,14 @@
     qty: 3
 
 - name:
-    original: Blind Man's Bluff
+    original: "Blind Man's Bluff"
   level: 20
   type: crafting
   icon: 62508
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=f20a2dd97be60a02
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2ef03ef5e167ba0c
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -1643,13 +1657,14 @@
     qty: 3
 
 - name:
-    original: Dripping with Venom
+    original: "Dripping with Venom"
   level: 20
   type: crafting
   icon: 62508
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=03415abaf4f6c695
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4437a7f4ccbde442
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -1662,13 +1677,14 @@
     qty: 3
 
 - name:
-    original: You Put Your Left Hand In
+    original: "You Put Your Left Hand In"
   level: 25
   type: crafting
   icon: 62508
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=0a312ee6b945e2af
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=63185d8c482fedf6
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -1681,13 +1697,14 @@
     qty: 1
 
 - name:
-    original: The Wailers' First Law of Potion
+    original: "The Wailers' First Law of Potion"
   level: 25
   type: crafting
   icon: 62508
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=318fc5c40b136f3a
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c8b450e4eb369eae
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -1701,13 +1718,14 @@
     qty: 3
 
 - name:
-    original: Conspicuous Conjuration
+    original: "Conspicuous Conjuration"
   level: 25
   type: crafting
   icon: 62508
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=0b578286f9112f7a
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=afcf9a743257fda9
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -1720,13 +1738,14 @@
     qty: 1
 
 - name:
-    original: For Crumbs' Sake
+    original: "For Crumbs' Sake"
   level: 20
   type: crafting
   icon: 62509
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=8bf5b1c8509db1ac
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d2f10a5781850d77
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -1739,13 +1758,14 @@
     qty: 3
 
 - name:
-    original: Picnic Panic
+    original: "Picnic Panic"
   level: 20
   type: crafting
   icon: 62509
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=4c8a0bf084ee90ea
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=38ebc124cbffb986
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -1759,13 +1779,14 @@
     qty: 3
 
 - name:
-    original: Food Fight
+    original: "Food Fight"
   level: 20
   type: crafting
   icon: 62509
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=64bc9e5107ab8684
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4d8990a4c47ee4b7
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -1778,13 +1799,14 @@
     qty: 3
 
 - name:
-    original: Whirled Peas
+    original: "Whirled Peas"
   level: 25
   type: crafting
   icon: 62509
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=5bb916a39c51a070
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=50824a05818af28a
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -1797,13 +1819,14 @@
     qty: 3
 
 - name:
-    original: Love's Crumpets Lost
+    original: "Love's Crumpets Lost"
   level: 25
   type: crafting
   icon: 62509
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=f1d6378826ee3b2f
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=07349b2b3549785e
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -1816,13 +1839,14 @@
     qty: 3
 
 - name:
-    original: I Love Lamprey
+    original: "I Love Lamprey"
   level: 25
   type: crafting
   icon: 62509
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=1eae742e3e900106
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=cd26073ad5ee5df4
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -1836,7 +1860,7 @@
     qty: 3
 
 - name:
-    original: Elemental Housekeeping
+    original: "Elemental Housekeeping"
   level: 20
   type: gathering
   icon: 62510
@@ -1859,7 +1883,7 @@
     is_translated: False
 
 - name:
-    original: Location, Location, Location
+    original: "Location, Location, Location"
   level: 20
   type: gathering
   icon: 62510
@@ -1882,7 +1906,7 @@
     is_translated: False
 
 - name:
-    original: Rock My Wall
+    original: "Rock My Wall"
   level: 20
   type: gathering
   icon: 62510
@@ -1905,7 +1929,7 @@
     is_translated: False
 
 - name:
-    original: Look How They Shine for You
+    original: "Look How They Shine for You"
   level: 20
   type: gathering
   icon: 62510
@@ -1922,8 +1946,8 @@
     is_translated: False
 
 - name:
-    original: Fool Me Twice
-    translated: Обмани меня дважды
+    original: "Fool Me Twice"
+    translated: "Обмани меня дважды"
   level: 25
   type: gathering
   icon: 62510
@@ -1940,7 +1964,7 @@
     is_translated: False
 
 - name:
-    original: Tag, You're It
+    original: "Tag, You're It"
   level: 25
   type: gathering
   icon: 62510
@@ -1963,7 +1987,7 @@
     is_translated: False
 
 - name:
-    original: Can't Start a Fire
+    original: "Can't Start a Fire"
   level: 25
   type: gathering
   icon: 62510
@@ -1986,7 +2010,7 @@
     is_translated: False
 
 - name:
-    original: Baby, Light My Way
+    original: "Baby, Light My Way"
   level: 25
   type: gathering
   icon: 62510
@@ -2009,7 +2033,7 @@
     is_translated: False
 
 - name:
-    original: Nowhere to Slide
+    original: "Nowhere to Slide"
   level: 20
   type: gathering
   icon: 62511
@@ -2026,7 +2050,7 @@
     is_translated: False
 
 - name:
-    original: Shaken, Not Stirred
+    original: "Shaken, Not Stirred"
   level: 20
   type: gathering
   icon: 62511
@@ -2049,7 +2073,7 @@
     is_translated: False
 
 - name:
-    original: Fueling the Flames
+    original: "Fueling the Flames"
   level: 20
   type: gathering
   icon: 62511
@@ -2072,7 +2096,7 @@
     is_translated: False
 
 - name:
-    original: Just the Artifacts, Madam
+    original: "Just the Artifacts, Madam"
   level: 20
   type: gathering
   icon: 62511
@@ -2095,7 +2119,7 @@
     is_translated: False
 
 - name:
-    original: Mushroom Gobblin'
+    original: "Mushroom Gobblin'"
   level: 25
   type: gathering
   icon: 62511
@@ -2118,7 +2142,7 @@
     is_translated: False
 
 - name:
-    original: Appleanche
+    original: "Appleanche"
   level: 25
   type: gathering
   icon: 62511
@@ -2141,7 +2165,7 @@
     is_translated: False
 
 - name:
-    original: Moon in Rouge
+    original: "Moon in Rouge"
   level: 25
   type: gathering
   icon: 62511
@@ -2164,7 +2188,7 @@
     is_translated: False
 
 - name:
-    original: Over the Underbrush
+    original: "Over the Underbrush"
   level: 25
   type: gathering
   icon: 62511
@@ -2181,13 +2205,14 @@
     is_translated: False
 
 - name:
-    original: Blind Ambition
+    original: "Blind Ambition"
   level: 20
   type: crafting
   icon: 62512
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=d39af90491b7e8ac
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=51815960295270aa
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=338e6718822b6ede
   client:
     id: 144
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=f6cf4abf16d85aef
@@ -2201,13 +2226,14 @@
     qty: 3
 
 - name:
-    original: Food Chain Reaction
+    original: "Food Chain Reaction"
   level: 20
   type: crafting
   icon: 62512
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=377fea9252840d00
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8b2405c7fdca2582
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=338e6718822b6ede
   client:
     id: 144
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=f6cf4abf16d85aef
@@ -2221,13 +2247,14 @@
     qty: 3
 
 - name:
-    original: The Long and the Shortcrust
+    original: "The Long and the Shortcrust"
   level: 20
   type: crafting
   icon: 62512
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=be668d7ae3d5118f
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e2436e3bd6fd6cd7
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=338e6718822b6ede
   client:
     id: 144
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=f6cf4abf16d85aef
@@ -2240,13 +2267,14 @@
     qty: 3
 
 - name:
-    original: Sounds Fishy to Me
+    original: "Sounds Fishy to Me"
   level: 20
   type: crafting
   icon: 62512
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=99b9c0235b0dfe15
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3d5796a8e9559cfa
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=338e6718822b6ede
   client:
     id: 144
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=f6cf4abf16d85aef
@@ -2259,13 +2287,14 @@
     qty: 3
 
 - name:
-    original: A Shocking Soirée
+    original: "A Shocking Soirée"
   level: 25
   type: crafting
   icon: 62512
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=229b2f549cf7de71
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=bf65abbe41fd6990
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=338e6718822b6ede
   client:
     id: 144
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=f6cf4abf16d85aef
@@ -2278,13 +2307,14 @@
     qty: 3
 
 - name:
-    original: The Truth Will Set You Free
+    original: "The Truth Will Set You Free"
   level: 25
   type: crafting
   icon: 62512
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=1ef36e1c3e7147cd
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7f2be368c18f0ae9
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=338e6718822b6ede
   client:
     id: 144
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=f6cf4abf16d85aef
@@ -2298,13 +2328,14 @@
     qty: 3
 
 - name:
-    original: A Watery Web of Lies
+    original: "A Watery Web of Lies"
   level: 25
   type: crafting
   icon: 62512
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=0a63e78c43ee850e
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3db7ecd402ccf480
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=338e6718822b6ede
   client:
     id: 144
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=f6cf4abf16d85aef
@@ -2317,13 +2348,14 @@
     qty: 3
 
 - name:
-    original: Fishing 101
+    original: "Fishing 101"
   level: 25
   type: crafting
   icon: 62512
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=87fd9c9edae4434f
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5e0b01249cc2a5f4
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=338e6718822b6ede
   client:
     id: 144
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=f6cf4abf16d85aef
@@ -2337,13 +2369,14 @@
     qty: 3
 
 - name:
-    original: Polearms Aplenty
+    original: "Polearms Aplenty"
   level: 20
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=afa51a1b6d548e38
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e9f30fd639a5ed48
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -2357,13 +2390,14 @@
     qty: 1
 
 - name:
-    original: Militia on My Mind
+    original: "Militia on My Mind"
   level: 20
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=756b5593dcff2a2b
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=898e45e2c90a6723
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -2376,13 +2410,14 @@
     qty: 1
 
 - name:
-    original: Grinding It Out
+    original: "Grinding It Out"
   level: 20
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=7cd8dd09d156e5d1
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=40170435c20796bc
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -2395,13 +2430,14 @@
     qty: 1
 
 - name:
-    original: Wall Not Found
+    original: "Wall Not Found"
   level: 20
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=1692ee910523a3ce
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ef00f937c35d15d7
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -2414,13 +2450,14 @@
     qty: 1
 
 - name:
-    original: Heal Away
+    original: "Heal Away"
   level: 25
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=68c162497bc07e58
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d4451334262ac323
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -2434,13 +2471,14 @@
     qty: 1
 
 - name:
-    original: Toys of Summer
+    original: "Toys of Summer"
   level: 25
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=6e412b9d7cf6fc45
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9c45bb3618fc625f
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -2453,13 +2491,14 @@
     qty: 1
 
 - name:
-    original: Storm of Swords
+    original: "Storm of Swords"
   level: 25
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=06f9e107e74b72e2
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=40d69c1407cfa541
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -2472,13 +2511,14 @@
     qty: 1
 
 - name:
-    original: Tools for the Tools
+    original: "Tools for the Tools"
   level: 25
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=93e7bac9647dd037
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5da565a3b5805add
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -2491,13 +2531,14 @@
     qty: 1
 
 - name:
-    original: The Devil's Workshop
+    original: "The Devil's Workshop"
   level: 20
   type: crafting
   icon: 62503
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=0799d480afd2e1aa
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e4d6d7cd31fa05f6
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -2511,13 +2552,14 @@
     qty: 1
 
 - name:
-    original: Powderpost Derby
+    original: "Powderpost Derby"
   level: 20
   type: crafting
   icon: 62503
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=ac958d52ddde6135
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c4588f315475b2bf
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -2530,13 +2572,14 @@
     qty: 1
 
 - name:
-    original: When Rhalgr Met Nophica
+    original: "When Rhalgr Met Nophica"
   level: 20
   type: crafting
   icon: 62503
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=1b2b21d95611de86
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d9d9cba226554d94
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -2549,13 +2592,14 @@
     qty: 1
 
 - name:
-    original: I Saw What You Did There
+    original: "I Saw What You Did There"
   level: 25
   type: crafting
   icon: 62503
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=1e48e58ccfcc7d13
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=eee3ca4d2088afa2
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -2568,13 +2612,14 @@
     qty: 1
 
 - name:
-    original: That's Some Fine Grinding
+    original: "That's Some Fine Grinding"
   level: 25
   type: crafting
   icon: 62503
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=351735a0f2494aa0
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c378c3b8c2ef01f5
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -2588,13 +2633,14 @@
     qty: 1
 
 - name:
-    original: Lancers' Creed
+    original: "Lancers' Creed"
   level: 25
   type: crafting
   icon: 62503
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=609b3555c5ff38d3
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=affdae43e40f5043
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -2607,13 +2653,14 @@
     qty: 1
 
 - name:
-    original: I Was a Teenage Wailer
+    original: "I Was a Teenage Wailer"
   level: 20
   type: crafting
   icon: 62504
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=8181b3318fe96c47
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=24a12e137872c967
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -2626,13 +2673,14 @@
     qty: 1
 
 - name:
-    original: Not Enough Headroom
+    original: "Not Enough Headroom"
   level: 20
   type: crafting
   icon: 62504
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=b8ff853d9f050ad2
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e914f395049938c8
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -2646,13 +2694,14 @@
     qty: 1
 
 - name:
-    original: No Hand-me-downs
+    original: "No Hand-me-downs"
   level: 20
   type: crafting
   icon: 62504
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=215d93177b22936c
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=bfc03257aab9b455
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -2665,13 +2714,14 @@
     qty: 1
 
 - name:
-    original: Hot for Teacher
+    original: "Hot for Teacher"
   level: 25
   type: crafting
   icon: 62504
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=fba4dffd88e4bcd2
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=19c9a346cd6b245c
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -2684,13 +2734,14 @@
     qty: 1
 
 - name:
-    original: Get Shirty
+    original: "Get Shirty"
   level: 25
   type: crafting
   icon: 62504
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=8efc2abaa430f874
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=bc51415b07d36119
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -2704,13 +2755,14 @@
     qty: 1
 
 - name:
-    original: Need for Mead
+    original: "Need for Mead"
   level: 25
   type: crafting
   icon: 62504
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=36f8a0d8e3f0f483
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=41c6e634503f5f73
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -2723,13 +2775,14 @@
     qty: 1
 
 - name:
-    original: Music to Their Ears
+    original: "Music to Their Ears"
   level: 20
   type: crafting
   icon: 62505
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=d7d4cd9252ece7cf
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=bad5ccb138d9b376
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -2742,13 +2795,14 @@
     qty: 1
 
 - name:
-    original: One and Only
+    original: "One and Only"
   level: 20
   type: crafting
   icon: 62505
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=b3766adacd563e25
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=aefd4e7ee9eb1539
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -2761,13 +2815,14 @@
     qty: 1
 
 - name:
-    original: Dog Tags Are for Dogs
+    original: "Dog Tags Are for Dogs"
   level: 20
   type: crafting
   icon: 62505
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=05aa2e2cc5baec13
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b7d682d3a6d5c2b2
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -2781,13 +2836,14 @@
     qty: 1
 
 - name:
-    original: Necklet of Champions
+    original: "Necklet of Champions"
   level: 25
   type: crafting
   icon: 62505
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=800295dd4cd87f5a
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=fa644f1cb32ca452
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -2800,13 +2856,14 @@
     qty: 1
 
 - name:
-    original: Dancing with the Stars
+    original: "Dancing with the Stars"
   level: 25
   type: crafting
   icon: 62505
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=1d156ffd98c07118
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=34ebd10d3ad307e4
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -2820,13 +2877,14 @@
     qty: 1
 
 - name:
-    original: Keep the Change
+    original: "Keep the Change"
   level: 25
   type: crafting
   icon: 62505
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=4a681e210f0c9180
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=484e864ccb77cc79
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -2839,13 +2897,14 @@
     qty: 1
 
 - name:
-    original: My Sole to Take
+    original: "My Sole to Take"
   level: 20
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=f27ff09e213ebbe9
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2033339a453334ae
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -2858,13 +2917,14 @@
     qty: 1
 
 - name:
-    original: Hands On
+    original: "Hands On"
   level: 20
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=a97d7b1b4c719270
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3621652ce3a89f42
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -2877,13 +2937,14 @@
     qty: 1
 
 - name:
-    original: Packing a Punch
+    original: "Packing a Punch"
   level: 20
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=3994855a7d92b3f2
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f8cfcd83dc5cf01e
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -2897,13 +2958,14 @@
     qty: 1
 
 - name:
-    original: Open to Attack
+    original: "Open to Attack"
   level: 20
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=ee9478f2a2b5e4c4
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=68f9400e6a197141
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -2916,13 +2978,14 @@
     qty: 1
 
 - name:
-    original: No Risk, No Reward
+    original: "No Risk, No Reward"
   level: 25
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=6d374975624fd6f0
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9af267f7317a12c1
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -2935,13 +2998,14 @@
     qty: 1
 
 - name:
-    original: Campaign in the Membrane
+    original: "Campaign in the Membrane"
   level: 25
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=c9368ccb4428e074
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3b94e06878ee4da4
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -2954,13 +3018,14 @@
     qty: 1
 
 - name:
-    original: Quicker than Sand
+    original: "Quicker than Sand"
   level: 25
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=22f917f8431f128d
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=386a4facff3d2150
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -2974,13 +3039,14 @@
     qty: 1
 
 - name:
-    original: Just Rewards
+    original: "Just Rewards"
   level: 25
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=df22de8056979921
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2d1fe701e6bc254d
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=eada7f401a5dd1e6
   client:
     id: 13
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=d785445ee7d5558a
@@ -2993,13 +3059,14 @@
     qty: 1
 
 - name:
-    original: Knock on Wood
+    original: "Knock on Wood"
   level: 30
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=66292a59974c7935
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a3eb02689e34db4f
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=8c84f3ba38a70822
   client:
     id: 113
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=a2ca70e565c2dfb3
@@ -3012,13 +3079,14 @@
     qty: 1
 
 - name:
-    original: Emergency Patches
+    original: "Emergency Patches"
   level: 30
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=554e1bfb718a7d95
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=79e17577fe53b251
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=8c84f3ba38a70822
   client:
     id: 113
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=a2ca70e565c2dfb3
@@ -3031,7 +3099,7 @@
     qty: 1
 
 - name:
-    original: Meat and Bleat
+    original: "Meat and Bleat"
   level: 35
   type: battle
   icon: 62501
@@ -3068,7 +3136,7 @@
     is_translated: False
 
 - name:
-    original: Now We're Even
+    original: "Now We're Even"
   level: 35
   type: battle
   icon: 62501
@@ -3095,7 +3163,7 @@
     is_translated: False
 
 - name:
-    original: Cower to the People
+    original: "Cower to the People"
   level: 35
   type: battle
   icon: 62501
@@ -3131,7 +3199,7 @@
     is_translated: False
 
 - name:
-    original: Have a Nice Trip
+    original: "Have a Nice Trip"
   level: 35
   type: battle
   icon: 62501
@@ -3164,7 +3232,7 @@
     is_translated: False
 
 - name:
-    original: Necrologos: Cinerary Rite
+    original: "Necrologos: Cinerary Rite"
   level: 35
   type: battle
   icon: 62501
@@ -3197,7 +3265,7 @@
     is_translated: False
 
 - name:
-    original: Little Lost Lamb
+    original: "Little Lost Lamb"
   level: 35
   type: battle
   icon: 62501
@@ -3230,7 +3298,7 @@
     is_translated: False
 
 - name:
-    original: Saving Bessy
+    original: "Saving Bessy"
   level: 35
   type: battle
   icon: 62501
@@ -3267,13 +3335,14 @@
     is_translated: False
 
 - name:
-    original: The Wages of Sin
+    original: "The Wages of Sin"
   level: 35
   type: crafting
   icon: 62507
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=a55bc4b04da6563c
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5613633d2eb1c50b
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=c9ecd6a28e0f3a50
   client:
     id: 122
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=85f6512754655cc9
@@ -3286,13 +3355,14 @@
     qty: 1
 
 - name:
-    original: A Leg Up on the Cold
+    original: "A Leg Up on the Cold"
   level: 35
   type: crafting
   icon: 62507
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=a95f732876c7484d
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=10ef5da2214d96c6
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=c9ecd6a28e0f3a50
   client:
     id: 122
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=85f6512754655cc9
@@ -3306,13 +3376,14 @@
     qty: 1
 
 - name:
-    original: In over Your Head
+    original: "In over Your Head"
   level: 35
   type: crafting
   icon: 62507
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=72dbf21d4381532b
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=869e442eca5d26eb
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=c9ecd6a28e0f3a50
   client:
     id: 122
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=85f6512754655cc9
@@ -3325,13 +3396,14 @@
     qty: 1
 
 - name:
-    original: The Sting of Conscience
+    original: "The Sting of Conscience"
   level: 35
   type: crafting
   icon: 62508
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=0f017d47fcf4cf0e
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d75f63d495d99535
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=c9ecd6a28e0f3a50
   client:
     id: 122
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=85f6512754655cc9
@@ -3344,13 +3416,14 @@
     qty: 3
 
 - name:
-    original: Going Nowhere Fast
+    original: "Going Nowhere Fast"
   level: 35
   type: crafting
   icon: 62508
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=e69b4029da3ac332
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6c167684e26a7c20
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=c9ecd6a28e0f3a50
   client:
     id: 122
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=85f6512754655cc9
@@ -3364,13 +3437,14 @@
     qty: 3
 
 - name:
-    original: Open Your Grimoire to Page 42
+    original: "Open Your Grimoire to Page 42"
   level: 35
   type: crafting
   icon: 62508
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=f23469e024483ed3
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7a34688ee6888a7f
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=c9ecd6a28e0f3a50
   client:
     id: 122
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=85f6512754655cc9
@@ -3383,13 +3457,14 @@
     qty: 1
 
 - name:
-    original: Leek Soup for the Soul
+    original: "Leek Soup for the Soul"
   level: 35
   type: crafting
   icon: 62509
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=07c6d4f0910c692d
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=77cf41349d4d8038
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=c9ecd6a28e0f3a50
   client:
     id: 122
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=85f6512754655cc9
@@ -3403,13 +3478,14 @@
     qty: 3
 
 - name:
-    original: Winter of Our Discontent
+    original: "Winter of Our Discontent"
   level: 35
   type: crafting
   icon: 62509
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=db464684d7b2accb
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a9ed35bdb537000e
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=c9ecd6a28e0f3a50
   client:
     id: 122
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=85f6512754655cc9
@@ -3422,13 +3498,14 @@
     qty: 3
 
 - name:
-    original: Rise and Dine
+    original: "Rise and Dine"
   level: 35
   type: crafting
   icon: 62509
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=7f831d5b6d7752c1
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1c78ac6071319b3e
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=c9ecd6a28e0f3a50
   client:
     id: 122
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=85f6512754655cc9
@@ -3441,7 +3518,7 @@
     qty: 3
 
 - name:
-    original: Rocks for Brains
+    original: "Rocks for Brains"
   level: 35
   type: gathering
   icon: 62510
@@ -3458,7 +3535,7 @@
     is_translated: False
 
 - name:
-    original: Eye for an Eye
+    original: "Eye for an Eye"
   level: 35
   type: gathering
   icon: 62510
@@ -3481,7 +3558,7 @@
     is_translated: False
 
 - name:
-    original: Mythril Madness
+    original: "Mythril Madness"
   level: 35
   type: gathering
   icon: 62510
@@ -3498,7 +3575,7 @@
     is_translated: False
 
 - name:
-    original: There Are No Good Answers
+    original: "There Are No Good Answers"
   level: 35
   type: gathering
   icon: 62510
@@ -3521,7 +3598,7 @@
     is_translated: False
 
 - name:
-    original: A Stash of Herbs
+    original: "A Stash of Herbs"
   level: 35
   type: gathering
   icon: 62511
@@ -3538,7 +3615,7 @@
     is_translated: False
 
 - name:
-    original: Salad Days
+    original: "Salad Days"
   level: 35
   type: gathering
   icon: 62511
@@ -3561,7 +3638,7 @@
     is_translated: False
 
 - name:
-    original: Spear of Heaven
+    original: "Spear of Heaven"
   level: 35
   type: gathering
   icon: 62511
@@ -3584,7 +3661,7 @@
     is_translated: False
 
 - name:
-    original: Catch My Drift
+    original: "Catch My Drift"
   level: 35
   type: gathering
   icon: 62511
@@ -3601,13 +3678,14 @@
     is_translated: False
 
 - name:
-    original: Gathering Light
+    original: "Gathering Light"
   level: 35
   type: crafting
   icon: 62512
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=be71b3e54f55b5bc
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=bfc1a56702cd12f1
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=56b69e9267d9e46d
   client:
     id: 146
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=16daafbf8b3c4e12
@@ -3621,13 +3699,14 @@
     qty: 3
 
 - name:
-    original: The Perks of Politics
+    original: "The Perks of Politics"
   level: 35
   type: crafting
   icon: 62512
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=809a298c1b5aeb41
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=59f05eaa80e798c2
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=56b69e9267d9e46d
   client:
     id: 146
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=16daafbf8b3c4e12
@@ -3640,13 +3719,14 @@
     qty: 3
 
 - name:
-    original: Hands off Our Fish
+    original: "Hands off Our Fish"
   level: 35
   type: crafting
   icon: 62512
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=aecf16fdd70b1419
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c19a3decf5e3578e
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=56b69e9267d9e46d
   client:
     id: 146
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=16daafbf8b3c4e12
@@ -3659,13 +3739,14 @@
     qty: 3
 
 - name:
-    original: Fry Me a River
+    original: "Fry Me a River"
   level: 35
   type: crafting
   icon: 62512
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=209ce5a401a270d8
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ab68675723d424fe
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=56b69e9267d9e46d
   client:
     id: 146
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=16daafbf8b3c4e12
@@ -3679,13 +3760,14 @@
     qty: 3
 
 - name:
-    original: Grippy When Wet
+    original: "Grippy When Wet"
   level: 35
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=a84ecbf32b93e9df
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1c700f272179df6a
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=c9ecd6a28e0f3a50
   client:
     id: 122
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=85f6512754655cc9
@@ -3698,13 +3780,14 @@
     qty: 1
 
 - name:
-    original: Stay on Target
+    original: "Stay on Target"
   level: 35
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=01816764f6014222
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6d9d1bd976ff5493
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=c9ecd6a28e0f3a50
   client:
     id: 122
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=85f6512754655cc9
@@ -3717,13 +3800,14 @@
     qty: 1
 
 - name:
-    original: Bend It Like Durendaire
+    original: "Bend It Like Durendaire"
   level: 35
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=22c98a2217182c51
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=aba68fa4e71dea11
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=c9ecd6a28e0f3a50
   client:
     id: 122
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=85f6512754655cc9
@@ -3737,13 +3821,14 @@
     qty: 1
 
 - name:
-    original: The Cold, Cold Ground
+    original: "The Cold, Cold Ground"
   level: 35
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=7b45ffdfc13e8d3f
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=eb3e957e501d1b18
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=c9ecd6a28e0f3a50
   client:
     id: 122
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=85f6512754655cc9
@@ -3756,13 +3841,14 @@
     qty: 1
 
 - name:
-    original: Colder than Steel
+    original: "Colder than Steel"
   level: 35
   type: crafting
   icon: 62503
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=1585a54e25fe24e6
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=387b16201d40ceb2
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=c9ecd6a28e0f3a50
   client:
     id: 122
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=85f6512754655cc9
@@ -3775,13 +3861,14 @@
     qty: 1
 
 - name:
-    original: Lending a Hand
+    original: "Lending a Hand"
   level: 35
   type: crafting
   icon: 62503
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=820a9f8d53b0e677
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8b6e18783c6be0c8
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=c9ecd6a28e0f3a50
   client:
     id: 122
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=85f6512754655cc9
@@ -3794,13 +3881,14 @@
     qty: 1
 
 - name:
-    original: Seemed Like the Thing to Get
+    original: "Seemed Like the Thing to Get"
   level: 35
   type: crafting
   icon: 62503
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=44260b6256b4b688
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=646b96eaef18ec91
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=c9ecd6a28e0f3a50
   client:
     id: 122
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=85f6512754655cc9
@@ -3814,13 +3902,14 @@
     qty: 1
 
 - name:
-    original: War Is Tough on the Hands
+    original: "War Is Tough on the Hands"
   level: 35
   type: crafting
   icon: 62504
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=254048af3c186bd6
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f7fff1b5574d7843
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=c9ecd6a28e0f3a50
   client:
     id: 122
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=85f6512754655cc9
@@ -3833,13 +3922,14 @@
     qty: 1
 
 - name:
-    original: I've Got You under My Skin
+    original: "I've Got You under My Skin"
   level: 35
   type: crafting
   icon: 62504
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=a2e18edc6e72d197
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5d56006b53e60865
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=c9ecd6a28e0f3a50
   client:
     id: 122
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=85f6512754655cc9
@@ -3853,13 +3943,14 @@
     qty: 1
 
 - name:
-    original: Skillet to the Stars
+    original: "Skillet to the Stars"
   level: 35
   type: crafting
   icon: 62504
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=81ed56cb0101a6d4
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=0b103d455067a328
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=c9ecd6a28e0f3a50
   client:
     id: 122
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=85f6512754655cc9
@@ -3872,13 +3963,14 @@
     qty: 1
 
 - name:
-    original: Dead Can't Defang
+    original: "Dead Can't Defang"
   level: 35
   type: crafting
   icon: 62505
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=c65e506551accfee
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=171d4be67356f9f6
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=c9ecd6a28e0f3a50
   client:
     id: 122
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=85f6512754655cc9
@@ -3891,13 +3983,14 @@
     qty: 1
 
 - name:
-    original: Faith and Fashion
+    original: "Faith and Fashion"
   level: 35
   type: crafting
   icon: 62505
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=d31b7f086364c483
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=0599df779fec57fa
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=c9ecd6a28e0f3a50
   client:
     id: 122
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=85f6512754655cc9
@@ -3911,13 +4004,14 @@
     qty: 1
 
 - name:
-    original: Wear Your Patriotic Pin
+    original: "Wear Your Patriotic Pin"
   level: 35
   type: crafting
   icon: 62505
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=f6e0ad1868c94fba
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=28fde4e083a9d17a
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=c9ecd6a28e0f3a50
   client:
     id: 122
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=85f6512754655cc9
@@ -3930,13 +4024,14 @@
     qty: 1
 
 - name:
-    original: The Righteous Tools for the Job
+    original: "The Righteous Tools for the Job"
   level: 35
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=eaa201da37bb5af9
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=dabd2249f05b3c79
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=c9ecd6a28e0f3a50
   client:
     id: 122
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=85f6512754655cc9
@@ -3949,13 +4044,14 @@
     qty: 1
 
 - name:
-    original: Springtime for Coerthas
+    original: "Springtime for Coerthas"
   level: 35
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=c7e6192a0b56dc77
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7f03d59c49ad166b
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=c9ecd6a28e0f3a50
   client:
     id: 122
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=85f6512754655cc9
@@ -3968,13 +4064,14 @@
     qty: 1
 
 - name:
-    original: Through a Glass Brightly
+    original: "Through a Glass Brightly"
   level: 35
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=45fe354172076af9
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=cd24540487435845
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=c9ecd6a28e0f3a50
   client:
     id: 122
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=85f6512754655cc9
@@ -3987,13 +4084,14 @@
     qty: 1
 
 - name:
-    original: First They Came for the Heretics
+    original: "First They Came for the Heretics"
   level: 35
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=a3bcd64ea6c0888a
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6fff487436829407
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=c9ecd6a28e0f3a50
   client:
     id: 122
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=85f6512754655cc9
@@ -4007,13 +4105,14 @@
     qty: 1
 
 - name:
-    original: In with the New
+    original: "In with the New"
   level: 1
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=64d84c16ffd63cc4
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=820a4c5e0661a652
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4026,13 +4125,14 @@
     qty: 1
 
 - name:
-    original: Gridania's Got Talent
+    original: "Gridania's Got Talent"
   level: 1
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=56b69e9267d9e46d
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c2c9813751630e29
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4045,13 +4145,14 @@
     qty: 1
 
 - name:
-    original: Touch and Heal
+    original: "Touch and Heal"
   level: 1
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=536a8e73fe9e9910
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=73fc70fff5c6d6a9
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4064,13 +4165,14 @@
     qty: 1
 
 - name:
-    original: Shielding Sales
+    original: "Shielding Sales"
   level: 10
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=81ecbf922bbc04b5
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=dd07f4272b8d4314
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4083,13 +4185,14 @@
     qty: 1
 
 - name:
-    original: Citizens' Canes
+    original: "Citizens' Canes"
   level: 10
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=1764f449e76f2fa4
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6e960396c399cd00
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4102,13 +4205,14 @@
     qty: 1
 
 - name:
-    original: On the Move
+    original: "On the Move"
   level: 10
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=664176b2cfafdd92
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=edb83835cad798d4
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4121,13 +4225,14 @@
     qty: 1
 
 - name:
-    original: Bowing to Necessity
+    original: "Bowing to Necessity"
   level: 15
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=4462ddf176636088
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7eca10cf2da4830b
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4140,13 +4245,14 @@
     qty: 1
 
 - name:
-    original: Nightmare on My Street
+    original: "Nightmare on My Street"
   level: 15
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=d73dd3c6862b703c
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f4477fac4e908f56
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4159,13 +4265,14 @@
     qty: 1
 
 - name:
-    original: Re-crating the Scene
+    original: "Re-crating the Scene"
   level: 15
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=43b6ab3156a7287d
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=95d70fa8545f6712
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4178,13 +4285,14 @@
     qty: 1
 
 - name:
-    original: Behind the Mask
+    original: "Behind the Mask"
   level: 20
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=615652eecbbce3d9
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=84e0c955b3fe532e
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4198,13 +4306,14 @@
     qty: 1
 
 - name:
-    original: As the Worm Turns
+    original: "As the Worm Turns"
   level: 20
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=100117bda565e615
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c9fad9b8c79561c1
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4217,13 +4326,14 @@
     qty: 1
 
 - name:
-    original: Daddy's Little Girl
+    original: "Daddy's Little Girl"
   level: 25
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=33c49c8e4f7c488e
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6dd501227a5760dc
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4236,13 +4346,14 @@
     qty: 1
 
 - name:
-    original: Armoires of the Rich and Famous
+    original: "Armoires of the Rich and Famous"
   level: 25
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=d38677cd5e417c01
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=08b8b7dee111ef7c
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4256,13 +4367,14 @@
     qty: 1
 
 - name:
-    original: An Expected Tourney
+    original: "An Expected Tourney"
   level: 30
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=1f7b07f5f3e190e5
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=448ff9589f2b907c
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4275,13 +4387,14 @@
     qty: 1
 
 - name:
-    original: Ceremonial Spears
+    original: "Ceremonial Spears"
   level: 30
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=7fe1a9e1934bcc3c
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=95def469b4ad0aa9
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4295,13 +4408,14 @@
     qty: 1
 
 - name:
-    original: A Tree Grew in Gridania
+    original: "A Tree Grew in Gridania"
   level: 35
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=dd6af2460a8d21de
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6b5f2ba96c743207
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4314,13 +4428,14 @@
     qty: 1
 
 - name:
-    original: Flintstone Fight
+    original: "Flintstone Fight"
   level: 35
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=d392d927467ce970
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=31baec7fb4f6edcd
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4334,13 +4449,14 @@
     qty: 1
 
 - name:
-    original: Spin It Like You Mean It
+    original: "Spin It Like You Mean It"
   level: 40
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=05e42f2e60a9b0fa
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8756addb8231e62f
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4354,13 +4470,14 @@
     qty: 1
 
 - name:
-    original: Greenstone for Greenhorns
+    original: "Greenstone for Greenhorns"
   level: 40
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=e84e420e593e949e
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=65fdeca2a58771de
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4373,13 +4490,14 @@
     qty: 1
 
 - name:
-    original: You Do the Heavy Lifting
+    original: "You Do the Heavy Lifting"
   level: 45
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=c7046385c171a466
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a045c2954f58d2ea
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4393,13 +4511,14 @@
     qty: 1
 
 - name:
-    original: Clogs of War
+    original: "Clogs of War"
   level: 45
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=f33d0432726a0ccf
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=abfd5a142b33b7a0
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4412,13 +4531,14 @@
     qty: 1
 
 - name:
-    original: Bows for the Boys
+    original: "Bows for the Boys"
   level: 5
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=3edd1bdc4870a129
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=649f2c504aabf0b2
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4431,13 +4551,14 @@
     qty: 1
 
 - name:
-    original: Shields for the Serpents
+    original: "Shields for the Serpents"
   level: 5
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=352f5320370b08e4
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ebdca5a6391782c1
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4450,13 +4571,14 @@
     qty: 1
 
 - name:
-    original: Compulsory Conjury
+    original: "Compulsory Conjury"
   level: 5
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=6fd42be296beedf5
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d5e9cc47a0d6c203
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4469,13 +4591,14 @@
     qty: 1
 
 - name:
-    original: Underneath It All
+    original: "Underneath It All"
   level: 1
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=9be3d91a7489ff5b
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1f0dc470cc4b966f
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4488,13 +4611,14 @@
     qty: 1
 
 - name:
-    original: Tan Before the Ban
+    original: "Tan Before the Ban"
   level: 1
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=78a4832b4d1dae31
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=91a2a371c4b131f2
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4507,13 +4631,14 @@
     qty: 1
 
 - name:
-    original: Red in the Head
+    original: "Red in the Head"
   level: 1
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=497cb305ec572504
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2cd8d8c05b92e5cb
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4526,13 +4651,14 @@
     qty: 1
 
 - name:
-    original: Targe Up
+    original: "Targe Up"
   level: 10
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=9ec54e48ce987478
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=74b1845c71852adb
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4545,13 +4671,14 @@
     qty: 1
 
 - name:
-    original: Quelling Bloody Rumors
+    original: "Quelling Bloody Rumors"
   level: 10
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=37b6e2a7027e2386
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=cff58db7ec6000af
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4564,13 +4691,14 @@
     qty: 1
 
 - name:
-    original: The Bards' Guards
+    original: "The Bards' Guards"
   level: 10
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=2e5ec4dde912f483
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d05d57465f59c22a
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4583,13 +4711,14 @@
     qty: 1
 
 - name:
-    original: A Rush on Ringbands
+    original: "A Rush on Ringbands"
   level: 15
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=ef97095f158f6fb8
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2e7cb31539f98026
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4602,13 +4731,14 @@
     qty: 1
 
 - name:
-    original: Heads Up
+    original: "Heads Up"
   level: 15
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=bc7fe9fc0981d88d
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=0d068148ddfee1ab
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4621,13 +4751,14 @@
     qty: 1
 
 - name:
-    original: Choke Hold
+    original: "Choke Hold"
   level: 15
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=08e778e53d1795c4
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=0c168fc03ef0a19a
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4640,13 +4771,14 @@
     qty: 1
 
 - name:
-    original: Fire and Hide
+    original: "Fire and Hide"
   level: 20
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=c66df13c3d6930d9
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=15e9dffd3f6ff97f
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4660,13 +4792,14 @@
     qty: 1
 
 - name:
-    original: Playing the Part
+    original: "Playing the Part"
   level: 20
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=8682bb1d1744ffe7
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=78fe3be6c9564a7e
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4679,13 +4812,14 @@
     qty: 1
 
 - name:
-    original: Breeches Served Cold
+    original: "Breeches Served Cold"
   level: 25
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=a2ca70e565c2dfb3
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6429977f5e02f378
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4699,13 +4833,14 @@
     qty: 1
 
 - name:
-    original: Men Who Scare Up Goats
+    original: "Men Who Scare Up Goats"
   level: 25
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=a3b6171281c5aa13
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a61c9d8722afd274
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4718,13 +4853,14 @@
     qty: 1
 
 - name:
-    original: Quality over Quantity
+    original: "Quality over Quantity"
   level: 30
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=5a2e6eda95baab38
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5754107735028f03
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4737,13 +4873,14 @@
     qty: 1
 
 - name:
-    original: Best Served Toad
+    original: "Best Served Toad"
   level: 30
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=aacc22d239aa5554
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=fcb997b15536c4cd
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4757,13 +4894,14 @@
     qty: 1
 
 - name:
-    original: Supply Side Logic
+    original: "Supply Side Logic"
   level: 35
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=679bd4f0fb0966c0
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=825fe1cbfbda6abf
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4777,13 +4915,14 @@
     qty: 1
 
 - name:
-    original: Soft Shoe Shuffle
+    original: "Soft Shoe Shuffle"
   level: 35
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=203b57975ce6b7c4
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4450a5e69e43dd48
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4796,13 +4935,14 @@
     qty: 1
 
 - name:
-    original: Skirt Chaser
+    original: "Skirt Chaser"
   level: 40
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=fea24454ac28c2d2
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=98c3c5a21aece953
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4815,13 +4955,14 @@
     qty: 1
 
 - name:
-    original: The Tao of Rabbits
+    original: "The Tao of Rabbits"
   level: 40
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=9e1332322f69db79
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7f37dc53b580fa52
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4835,13 +4976,14 @@
     qty: 1
 
 - name:
-    original: Too Hot to Handle
+    original: "Too Hot to Handle"
   level: 45
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=51bef3074854cb4b
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=eeb88aae4802a008
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4854,13 +4996,14 @@
     qty: 1
 
 - name:
-    original: Handle with Care
+    original: "Handle with Care"
   level: 45
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=f74032437c9e2ff2
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1b563bbaaf3f33cc
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4874,13 +5017,14 @@
     qty: 1
 
 - name:
-    original: Mind over Muzzle
+    original: "Mind over Muzzle"
   level: 5
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=0e22813f74552e82
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=0392e979dc6e75fc
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4893,13 +5037,14 @@
     qty: 1
 
 - name:
-    original: Throwing Down the Gauntlet
+    original: "Throwing Down the Gauntlet"
   level: 5
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=7176cf84516d71c5
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e091010574738a51
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4912,13 +5057,14 @@
     qty: 1
 
 - name:
-    original: From the Sands to the Stage
+    original: "From the Sands to the Stage"
   level: 5
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=0d7686809245ce5b
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f2c81a67375b6ff6
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=9d3a4676d8788b21
   client:
     id: 9
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=1a5750074c85a2e8
@@ -4931,7 +5077,7 @@
     qty: 1
 
 - name:
-    original: Got a Gut Feeling about This
+    original: "Got a Gut Feeling about This"
   level: 40
   type: battle
   icon: 62501
@@ -4968,7 +5114,7 @@
     is_translated: False
 
 - name:
-    original: You Look Good Enough to Eat
+    original: "You Look Good Enough to Eat"
   level: 40
   type: battle
   icon: 62501
@@ -5008,7 +5154,7 @@
     is_translated: False
 
 - name:
-    original: The Area's a Bit Sketchy
+    original: "The Area's a Bit Sketchy"
   level: 40
   type: battle
   icon: 62501
@@ -5038,7 +5184,7 @@
     is_translated: False
 
 - name:
-    original: The Tropes of the Trade
+    original: "The Tropes of the Trade"
   level: 40
   type: battle
   icon: 62501
@@ -5067,7 +5213,7 @@
     is_translated: False
 
 - name:
-    original: Pets Are Family Too
+    original: "Pets Are Family Too"
   level: 40
   type: battle
   icon: 62501
@@ -5100,7 +5246,7 @@
     is_translated: False
 
 - name:
-    original: We Can Dismember It for You Wholesale
+    original: "We Can Dismember It for You Wholesale"
   level: 40
   type: battle
   icon: 62501
@@ -5130,7 +5276,7 @@
     is_translated: False
 
 - name:
-    original: Necrologos: Whispers of the Gem
+    original: "Necrologos: Whispers of the Gem"
   level: 40
   type: battle
   icon: 62501
@@ -5163,13 +5309,14 @@
     is_translated: False
 
 - name:
-    original: I'll Swap You
+    original: "I'll Swap You"
   level: 40
   type: crafting
   icon: 62507
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=f79bb5041d7105d4
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5d0cd685dfbf1832
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=a4f4bc27f2019c3b
   client:
     id: 123
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=eaa201da37bb5af9
@@ -5182,13 +5329,14 @@
     qty: 1
 
 - name:
-    original: No Country for Cold Men
+    original: "No Country for Cold Men"
   level: 40
   type: crafting
   icon: 62507
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=93f1062bf2d76aca
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=457dd8650f64f891
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=a4f4bc27f2019c3b
   client:
     id: 123
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=eaa201da37bb5af9
@@ -5201,13 +5349,14 @@
     qty: 1
 
 - name:
-    original: A Matter of Import
+    original: "A Matter of Import"
   level: 40
   type: crafting
   icon: 62507
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=be362bc64fa52603
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8cdcfeaf31a72d6c
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=a4f4bc27f2019c3b
   client:
     id: 123
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=eaa201da37bb5af9
@@ -5221,13 +5370,14 @@
     qty: 1
 
 - name:
-    original: A Real Smooth Move
+    original: "A Real Smooth Move"
   level: 40
   type: crafting
   icon: 62508
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=8c890842f687679f
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=63c3e0f73962ce62
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=a4f4bc27f2019c3b
   client:
     id: 123
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=eaa201da37bb5af9
@@ -5241,13 +5391,14 @@
     qty: 1
 
 - name:
-    original: No Accounting for Waste
+    original: "No Accounting for Waste"
   level: 40
   type: crafting
   icon: 62508
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=0dcc6aa6f7c04c56
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a99cf6117e589d62
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=a4f4bc27f2019c3b
   client:
     id: 123
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=eaa201da37bb5af9
@@ -5260,13 +5411,14 @@
     qty: 1
 
 - name:
-    original: Arcane Arts for Dummies
+    original: "Arcane Arts for Dummies"
   level: 40
   type: crafting
   icon: 62508
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=65f65756c61f770f
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3120599a90426a8d
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=a4f4bc27f2019c3b
   client:
     id: 123
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=eaa201da37bb5af9
@@ -5279,13 +5431,14 @@
     qty: 1
 
 - name:
-    original: Rolanberry Fields Forever
+    original: "Rolanberry Fields Forever"
   level: 40
   type: crafting
   icon: 62509
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=9b70ac4041007368
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8af08a00a63f695e
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=a4f4bc27f2019c3b
   client:
     id: 123
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=eaa201da37bb5af9
@@ -5298,13 +5451,14 @@
     qty: 3
 
 - name:
-    original: Good Eats in Ishgard
+    original: "Good Eats in Ishgard"
   level: 40
   type: crafting
   icon: 62509
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=f73b2a82c998f3d1
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=be8287bf6c177ef1
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=a4f4bc27f2019c3b
   client:
     id: 123
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=eaa201da37bb5af9
@@ -5317,13 +5471,14 @@
     qty: 3
 
 - name:
-    original: Pagan Pastries
+    original: "Pagan Pastries"
   level: 40
   type: crafting
   icon: 62509
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=b71aefdd788b11e4
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=392951f66729152a
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=a4f4bc27f2019c3b
   client:
     id: 123
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=eaa201da37bb5af9
@@ -5337,7 +5492,7 @@
     qty: 3
 
 - name:
-    original: Breach and Build
+    original: "Breach and Build"
   level: 40
   type: gathering
   icon: 62510
@@ -5360,7 +5515,7 @@
     is_translated: False
 
 - name:
-    original: Not Losing Our Heads This Time
+    original: "Not Losing Our Heads This Time"
   level: 40
   type: gathering
   icon: 62510
@@ -5377,7 +5532,7 @@
     is_translated: False
 
 - name:
-    original: Brother in Arms
+    original: "Brother in Arms"
   level: 40
   type: gathering
   icon: 62510
@@ -5400,7 +5555,7 @@
     is_translated: False
 
 - name:
-    original: Nature Is a Monster
+    original: "Nature Is a Monster"
   level: 40
   type: gathering
   icon: 62510
@@ -5417,7 +5572,7 @@
     is_translated: False
 
 - name:
-    original: Plague on Both Our Forests
+    original: "Plague on Both Our Forests"
   level: 40
   type: gathering
   icon: 62511
@@ -5434,7 +5589,7 @@
     is_translated: False
 
 - name:
-    original: Sign of the Crimes
+    original: "Sign of the Crimes"
   level: 40
   type: gathering
   icon: 62511
@@ -5451,7 +5606,7 @@
     is_translated: False
 
 - name:
-    original: Straight and Arrow
+    original: "Straight and Arrow"
   level: 40
   type: gathering
   icon: 62511
@@ -5474,7 +5629,7 @@
     is_translated: False
 
 - name:
-    original: This Old Fort
+    original: "This Old Fort"
   level: 40
   type: gathering
   icon: 62511
@@ -5497,13 +5652,14 @@
     is_translated: False
 
 - name:
-    original: Empire Builder
+    original: "Empire Builder"
   level: 40
   type: crafting
   icon: 62512
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=a59b8fb5ebb824c0
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7f9bb9f1f769e6e0
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=3edd1bdc4870a129
   client:
     id: 147
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=09e46f9fdfaf7102
@@ -5516,13 +5672,14 @@
     qty: 3
 
 - name:
-    original: Rationally Speaking
+    original: "Rationally Speaking"
   level: 40
   type: crafting
   icon: 62512
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=c7e912816bb0e6b6
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5f874d6d49989d43
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=3edd1bdc4870a129
   client:
     id: 147
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=09e46f9fdfaf7102
@@ -5536,13 +5693,14 @@
     qty: 3
 
 - name:
-    original: Make a Fish
+    original: "Make a Fish"
   level: 40
   type: crafting
   icon: 62512
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=bf44353f9988f04d
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2090e4885d890c9f
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=3edd1bdc4870a129
   client:
     id: 147
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=09e46f9fdfaf7102
@@ -5556,13 +5714,14 @@
     qty: 3
 
 - name:
-    original: Laird of the Lakes
+    original: "Laird of the Lakes"
   level: 40
   type: crafting
   icon: 62512
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=4c7e90b156c5a1cb
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c9345f4bec2877ad
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=3edd1bdc4870a129
   client:
     id: 147
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=09e46f9fdfaf7102
@@ -5575,13 +5734,14 @@
     qty: 3
 
 - name:
-    original: The Arsenal of Theocracy
+    original: "The Arsenal of Theocracy"
   level: 40
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=0297670afcc1e0cc
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=dde255b4a8d43614
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=a4f4bc27f2019c3b
   client:
     id: 123
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=eaa201da37bb5af9
@@ -5594,13 +5754,14 @@
     qty: 1
 
 - name:
-    original: A Winning Combo
+    original: "A Winning Combo"
   level: 40
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=24e6149c027299b5
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f29bdb26734a87f9
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=a4f4bc27f2019c3b
   client:
     id: 123
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=eaa201da37bb5af9
@@ -5613,13 +5774,14 @@
     qty: 1
 
 - name:
-    original: The Turning Point
+    original: "The Turning Point"
   level: 40
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=f4d78294aad2ca5d
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=666a98b1068a4528
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=a4f4bc27f2019c3b
   client:
     id: 123
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=eaa201da37bb5af9
@@ -5632,13 +5794,14 @@
     qty: 1
 
 - name:
-    original: Ready for a Rematch
+    original: "Ready for a Rematch"
   level: 40
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=0aa602f1a3504d64
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d91eecd1ea20466b
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=a4f4bc27f2019c3b
   client:
     id: 123
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=eaa201da37bb5af9
@@ -5652,13 +5815,14 @@
     qty: 1
 
 - name:
-    original: Kitchen Casualties
+    original: "Kitchen Casualties"
   level: 40
   type: crafting
   icon: 62503
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=822cff5e11daae54
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=356503f47092b355
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=a4f4bc27f2019c3b
   client:
     id: 123
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=eaa201da37bb5af9
@@ -5671,13 +5835,14 @@
     qty: 1
 
 - name:
-    original: Get Me to the War on Time
+    original: "Get Me to the War on Time"
   level: 40
   type: crafting
   icon: 62503
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=fb1f2db95bec5c84
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f620c900cc75aff6
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=a4f4bc27f2019c3b
   client:
     id: 123
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=eaa201da37bb5af9
@@ -5690,13 +5855,14 @@
     qty: 1
 
 - name:
-    original: Streamlining Operations
+    original: "Streamlining Operations"
   level: 40
   type: crafting
   icon: 62503
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=27c50e401c4dbfeb
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f44ce9ec8c138048
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=a4f4bc27f2019c3b
   client:
     id: 123
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=eaa201da37bb5af9
@@ -5710,13 +5876,14 @@
     qty: 1
 
 - name:
-    original: Metal Fatigue
+    original: "Metal Fatigue"
   level: 40
   type: crafting
   icon: 62504
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=8004a5538769dba2
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=49330215e1c7523c
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=a4f4bc27f2019c3b
   client:
     id: 123
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=eaa201da37bb5af9
@@ -5729,13 +5896,14 @@
     qty: 1
 
 - name:
-    original: Employee Retention
+    original: "Employee Retention"
   level: 40
   type: crafting
   icon: 62504
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=cb30123f612564be
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=101644993cac8d1c
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=a4f4bc27f2019c3b
   client:
     id: 123
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=eaa201da37bb5af9
@@ -5749,13 +5917,14 @@
     qty: 1
 
 - name:
-    original: Family Secrets
+    original: "Family Secrets"
   level: 40
   type: crafting
   icon: 62504
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=35be3e4cffecac2d
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c7c01f0bd838eb5c
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=a4f4bc27f2019c3b
   client:
     id: 123
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=eaa201da37bb5af9
@@ -5768,13 +5937,14 @@
     qty: 1
 
 - name:
-    original: North Ore South
+    original: "North Ore South"
   level: 40
   type: crafting
   icon: 62505
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=405a283349030dbd
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c803af54e836a1d4
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=a4f4bc27f2019c3b
   client:
     id: 123
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=eaa201da37bb5af9
@@ -5787,13 +5957,14 @@
     qty: 1
 
 - name:
-    original: If You've Got It, Flaunt It
+    original: "If You've Got It, Flaunt It"
   level: 40
   type: crafting
   icon: 62505
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=85db34190d5e3f78
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=036911387ca2a3eb
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=a4f4bc27f2019c3b
   client:
     id: 123
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=eaa201da37bb5af9
@@ -5807,13 +5978,14 @@
     qty: 1
 
 - name:
-    original: Tough Job Market
+    original: "Tough Job Market"
   level: 40
   type: crafting
   icon: 62505
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=a66dc32b1ae6fd5e
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=89f482cc34393f54
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=a4f4bc27f2019c3b
   client:
     id: 123
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=eaa201da37bb5af9
@@ -5826,13 +5998,14 @@
     qty: 1
 
 - name:
-    original: It's Not a Job, It's a Calling
+    original: "It's Not a Job, It's a Calling"
   level: 40
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=d266b0c0aa040024
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=07aec18bb98d9350
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=a4f4bc27f2019c3b
   client:
     id: 123
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=eaa201da37bb5af9
@@ -5846,13 +6019,14 @@
     qty: 1
 
 - name:
-    original: Not So Alike in Dignity
+    original: "Not So Alike in Dignity"
   level: 40
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=48650f07c7ac07a2
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=56965b9facbc0bae
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=a4f4bc27f2019c3b
   client:
     id: 123
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=eaa201da37bb5af9
@@ -5865,13 +6039,14 @@
     qty: 1
 
 - name:
-    original: Foot Blues
+    original: "Foot Blues"
   level: 40
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=1486fedd62f6f3a0
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3f783e81a3ce4f2f
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=a4f4bc27f2019c3b
   client:
     id: 123
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=eaa201da37bb5af9
@@ -5884,13 +6059,14 @@
     qty: 1
 
 - name:
-    original: The Birdmen of Ishgard
+    original: "The Birdmen of Ishgard"
   level: 40
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=0bbc1b5c890499c6
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7d5e4a30ff0cd682
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=a4f4bc27f2019c3b
   client:
     id: 123
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=eaa201da37bb5af9
@@ -5903,13 +6079,14 @@
     qty: 1
 
 - name:
-    original: Trident and Error
+    original: "Trident and Error"
   level: 45
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=2063d11e2c15dd71
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=bd1c032cfe69ea70
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=c8627698f339d3e4
   client:
     id: 124
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=203b57975ce6b7c4
@@ -5922,13 +6099,14 @@
     qty: 1
 
 - name:
-    original: Hold On Tight
+    original: "Hold On Tight"
   level: 45
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=e61b79f7788bbd11
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8e5c38e6bd9c6a81
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=c8627698f339d3e4
   client:
     id: 124
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=203b57975ce6b7c4
@@ -5941,7 +6119,7 @@
     qty: 1
 
 - name:
-    original: Nutbreaker Suite
+    original: "Nutbreaker Suite"
   level: 1
   type: battle
   icon: 62501
@@ -5962,7 +6140,7 @@
     is_translated: False
 
 - name:
-    original: Stay for a Vile
+    original: "Stay for a Vile"
   level: 1
   type: battle
   icon: 62501
@@ -5992,7 +6170,7 @@
     is_translated: False
 
 - name:
-    original: Scourge of the Saplings
+    original: "Scourge of the Saplings"
   level: 1
   type: battle
   icon: 62501
@@ -6019,7 +6197,7 @@
     is_translated: False
 
 - name:
-    original: No Bane, No Gain
+    original: "No Bane, No Gain"
   level: 1
   type: battle
   icon: 62501
@@ -6046,7 +6224,7 @@
     is_translated: False
 
 - name:
-    original: Water, Water Everywhere
+    original: "Water, Water Everywhere"
   level: 1
   type: battle
   icon: 62501
@@ -6070,7 +6248,7 @@
     is_translated: False
 
 - name:
-    original: Picking Up the Piercers
+    original: "Picking Up the Piercers"
   level: 1
   type: battle
   icon: 62501
@@ -6112,7 +6290,7 @@
     is_translated: False
 
 - name:
-    original: River Raid
+    original: "River Raid"
   level: 5
   type: battle
   icon: 62501
@@ -6139,7 +6317,7 @@
     is_translated: False
 
 - name:
-    original: Compost with the Most
+    original: "Compost with the Most"
   level: 5
   type: battle
   icon: 62501
@@ -6175,7 +6353,7 @@
     is_translated: False
 
 - name:
-    original: A Full Stomach
+    original: "A Full Stomach"
   level: 5
   type: battle
   icon: 62501
@@ -6205,7 +6383,7 @@
     is_translated: False
 
 - name:
-    original: A Vine Finer than Twine
+    original: "A Vine Finer than Twine"
   level: 5
   type: battle
   icon: 62501
@@ -6232,7 +6410,7 @@
     is_translated: False
 
 - name:
-    original: We Didn't Start the Fire
+    original: "We Didn't Start the Fire"
   level: 5
   type: battle
   icon: 62501
@@ -6256,7 +6434,7 @@
     is_translated: False
 
 - name:
-    original: Wrangling Raptors
+    original: "Wrangling Raptors"
   level: 5
   type: battle
   icon: 62501
@@ -6283,7 +6461,7 @@
     is_translated: False
 
 - name:
-    original: East Bank Story
+    original: "East Bank Story"
   level: 1
   type: gathering
   icon: 62511
@@ -6300,7 +6478,7 @@
     is_translated: False
 
 - name:
-    original: We Couldn't Start the Fire
+    original: "We Couldn't Start the Fire"
   level: 1
   type: gathering
   icon: 62511
@@ -6323,7 +6501,7 @@
     is_translated: False
 
 - name:
-    original: Lovely Latex
+    original: "Lovely Latex"
   level: 1
   type: gathering
   icon: 62511
@@ -6346,7 +6524,7 @@
     is_translated: False
 
 - name:
-    original: Waking Wood
+    original: "Waking Wood"
   level: 1
   type: gathering
   icon: 62511
@@ -6363,7 +6541,7 @@
     is_translated: False
 
 - name:
-    original: If a Tree Falls
+    original: "If a Tree Falls"
   level: 5
   type: gathering
   icon: 62511
@@ -6380,7 +6558,7 @@
     is_translated: False
 
 - name:
-    original: Evil Seeds
+    original: "Evil Seeds"
   level: 5
   type: gathering
   icon: 62511
@@ -6403,7 +6581,7 @@
     is_translated: False
 
 - name:
-    original: No Bark, All Bite
+    original: "No Bark, All Bite"
   level: 5
   type: gathering
   icon: 62511
@@ -6426,7 +6604,7 @@
     is_translated: False
 
 - name:
-    original: Let the Sun Shine In
+    original: "Let the Sun Shine In"
   level: 5
   type: gathering
   icon: 62511
@@ -6443,13 +6621,14 @@
     is_translated: False
 
 - name:
-    original: Got Your Back
+    original: "Got Your Back"
   level: 1
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=b7fd45860c35b702
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d06fab87ce4e3f67
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=837dd823e362861c
   client:
     id: 19
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=a4f4bc27f2019c3b
@@ -6462,13 +6641,14 @@
     qty: 1
 
 - name:
-    original: Bowing Out
+    original: "Bowing Out"
   level: 1
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=338e6718822b6ede
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f75a8bd5ffd29cd9
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=837dd823e362861c
   client:
     id: 19
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=a4f4bc27f2019c3b
@@ -6481,13 +6661,14 @@
     qty: 1
 
 - name:
-    original: A Clogful of Camaraderie
+    original: "A Clogful of Camaraderie"
   level: 1
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=65b8a7072b27eab3
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=fdf2f7a5f3e7d731
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=837dd823e362861c
   client:
     id: 19
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=a4f4bc27f2019c3b
@@ -6500,13 +6681,14 @@
     qty: 1
 
 - name:
-    original: Spears and Sorcery
+    original: "Spears and Sorcery"
   level: 5
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=93fd760a4eee4be1
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a4a4f5da1061a5f4
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=837dd823e362861c
   client:
     id: 19
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=a4f4bc27f2019c3b
@@ -6519,13 +6701,14 @@
     qty: 1
 
 - name:
-    original: Leaving without Leave
+    original: "Leaving without Leave"
   level: 5
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=8ea88598c3b94565
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8286f40d97bd14df
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=837dd823e362861c
   client:
     id: 19
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=a4f4bc27f2019c3b
@@ -6538,13 +6721,14 @@
     qty: 1
 
 - name:
-    original: A Sword in Hand
+    original: "A Sword in Hand"
   level: 5
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=f78e393b327cad3d
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3dad46345c43bab6
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=837dd823e362861c
   client:
     id: 19
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=a4f4bc27f2019c3b
@@ -6557,13 +6741,14 @@
     qty: 1
 
 - name:
-    original: Sole Traders
+    original: "Sole Traders"
   level: 1
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=db866698c5c7b090
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6ba4571cfed40530
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=837dd823e362861c
   client:
     id: 19
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=a4f4bc27f2019c3b
@@ -6576,13 +6761,14 @@
     qty: 1
 
 - name:
-    original: Sticking Their Necks Out
+    original: "Sticking Their Necks Out"
   level: 1
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=a76f39cd54cbdfe5
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=358afdd1b7c87155
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=837dd823e362861c
   client:
     id: 19
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=a4f4bc27f2019c3b
@@ -6595,13 +6781,14 @@
     qty: 1
 
 - name:
-    original: These Boots Are Made for Wailing
+    original: "These Boots Are Made for Wailing"
   level: 1
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=55b9d3d7595ba4e5
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=0175df026389abff
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=837dd823e362861c
   client:
     id: 19
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=a4f4bc27f2019c3b
@@ -6614,13 +6801,14 @@
     qty: 1
 
 - name:
-    original: In Their Shoes
+    original: "In Their Shoes"
   level: 5
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=d71db1de806d0209
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7f44c62b1d6c804c
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=837dd823e362861c
   client:
     id: 19
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=a4f4bc27f2019c3b
@@ -6633,13 +6821,14 @@
     qty: 1
 
 - name:
-    original: A Thorn in One's Hide
+    original: "A Thorn in One's Hide"
   level: 5
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=8ec6534c2d9a0342
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=34ad37b1f986a2f9
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=837dd823e362861c
   client:
     id: 19
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=a4f4bc27f2019c3b
@@ -6652,13 +6841,14 @@
     qty: 1
 
 - name:
-    original: A Place to Call Helm
+    original: "A Place to Call Helm"
   level: 5
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=2daaac1207b3b57f
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e68f31d09b4e1bb1
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=837dd823e362861c
   client:
     id: 19
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=a4f4bc27f2019c3b
@@ -6671,7 +6861,7 @@
     qty: 1
 
 - name:
-    original: Infestation Cessation
+    original: "Infestation Cessation"
   level: 10
   type: battle
   icon: 62501
@@ -6698,7 +6888,7 @@
     is_translated: False
 
 - name:
-    original: Mite and Madness
+    original: "Mite and Madness"
   level: 10
   type: battle
   icon: 62501
@@ -6731,7 +6921,7 @@
     is_translated: False
 
 - name:
-    original: Turning Out the Blight
+    original: "Turning Out the Blight"
   level: 10
   type: battle
   icon: 62501
@@ -6758,7 +6948,7 @@
     is_translated: False
 
 - name:
-    original: Bump in the Night
+    original: "Bump in the Night"
   level: 10
   type: battle
   icon: 62501
@@ -6791,7 +6981,7 @@
     is_translated: False
 
 - name:
-    original: Wail of a Tale
+    original: "Wail of a Tale"
   level: 10
   type: battle
   icon: 62501
@@ -6815,7 +7005,7 @@
     is_translated: False
 
 - name:
-    original: Hog Wild
+    original: "Hog Wild"
   level: 10
   type: battle
   icon: 62501
@@ -6839,7 +7029,7 @@
     is_translated: False
 
 - name:
-    original: Scent of a Roselet
+    original: "Scent of a Roselet"
   level: 10
   type: battle
   icon: 62501
@@ -6863,7 +7053,7 @@
     is_translated: False
 
 - name:
-    original: Going Green
+    original: "Going Green"
   level: 10
   type: battle
   icon: 62501
@@ -6887,7 +7077,7 @@
     is_translated: False
 
 - name:
-    original: A Shroom with a View
+    original: "A Shroom with a View"
   level: 10
   type: battle
   icon: 62501
@@ -6924,8 +7114,8 @@
     is_translated: False
 
 - name:
-    original: Too Close to Home
-    translated: Твой новый дом
+    original: "Too Close to Home"
+    translated: "Твой новый дом"
   level: 10
   type: battle
   icon: 62501
@@ -6952,7 +7142,7 @@
     is_translated: False
 
 - name:
-    original: The Heart of the Hedge
+    original: "The Heart of the Hedge"
   level: 10
   type: gathering
   icon: 62511
@@ -6969,7 +7159,7 @@
     is_translated: False
 
 - name:
-    original: Digging Deep
+    original: "Digging Deep"
   level: 10
   type: gathering
   icon: 62511
@@ -6992,7 +7182,7 @@
     is_translated: False
 
 - name:
-    original: West Bank Story
+    original: "West Bank Story"
   level: 10
   type: gathering
   icon: 62511
@@ -7009,7 +7199,7 @@
     is_translated: False
 
 - name:
-    original: A Chest of Nuts
+    original: "A Chest of Nuts"
   level: 10
   type: gathering
   icon: 62511
@@ -7026,13 +7216,14 @@
     is_translated: False
 
 - name:
-    original: Raise the Roof
+    original: "Raise the Roof"
   level: 10
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=78fc93434d506c9c
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=935bab7d22084979
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=35dbd93d1be1387a
   client:
     id: 5
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=eada7f401a5dd1e6
@@ -7045,13 +7236,14 @@
     qty: 1
 
 - name:
-    original: Life's a Stitch
+    original: "Life's a Stitch"
   level: 10
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=3d0e22173938ea89
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=cd6575b029fcc999
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=35dbd93d1be1387a
   client:
     id: 5
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=eada7f401a5dd1e6
@@ -7064,13 +7256,14 @@
     qty: 1
 
 - name:
-    original: Say It with Spears
+    original: "Say It with Spears"
   level: 10
   type: crafting
   icon: 62502
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=3a7c43e8d8039a5e
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=817b19e17882ebe1
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=35dbd93d1be1387a
   client:
     id: 5
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=eada7f401a5dd1e6
@@ -7083,13 +7276,14 @@
     qty: 1
 
 - name:
-    original: Saddle Sore
+    original: "Saddle Sore"
   level: 10
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=220e3b7ec00e1030
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=0030505ff2dc505f
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=35dbd93d1be1387a
   client:
     id: 5
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=eada7f401a5dd1e6
@@ -7102,13 +7296,14 @@
     qty: 1
 
 - name:
-    original: Only the Best
+    original: "Only the Best"
   level: 10
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=edf126a9ee16c1e1
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2d153314f253a114
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=35dbd93d1be1387a
   client:
     id: 5
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=eada7f401a5dd1e6
@@ -7121,13 +7316,14 @@
     qty: 1
 
 - name:
-    original: Simply the Best
+    original: "Simply the Best"
   level: 10
   type: crafting
   icon: 62506
   url:
     leve: https://translate.xivrus.ru/translate/ffxiv-translation/leve/ru/?checksum=74636bcfa7e3d203
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=dbbb5ffff283797f
+    talk: https://translate.xivrus.ru/translate/ffxiv-translation/craftlevetalk/ru/?checksum=35dbd93d1be1387a
   client:
     id: 5
     url: https://translate.xivrus.ru/translate/ffxiv-translation/leveclient/ru/?checksum=eada7f401a5dd1e6
