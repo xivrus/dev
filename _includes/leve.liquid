@@ -10,9 +10,10 @@
 		{%- endfor -%}
 		{%- break -%}
 	{%- endif -%}
-{%- endfor %}
+{%- endfor -%}
+{%- assign icon_url = "/assets/img/icon/0" | append: leve.icon | append: ".png" -%}
 
-<li style='list-style-image: url("/assets/img/icon/0{{ leve.icon }}.png");'>
+<li style='list-style-image: url("{{ icon_url | relative_url }}");'>
 	<p>Ур. {{ leve.level }} — <strong>{% if include.name -%}
 		{{ include.name }}
 	{%- else -%}
