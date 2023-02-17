@@ -1,5 +1,6 @@
 - name:
-    original: Paladin's Pledge
+    original: "Paladin's Pledge"
+    translated: "Паладинское дело"
   level: 30
   type: pld
   url:
@@ -20,15 +21,15 @@
   quest_items:
   - id: 2000821
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=e55a28559069eb35
-    name: sack of ashkin hearts
+    name: Сердца пепельноликих
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=e55a28559069eb35
   - id: 2000948
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=7ff74520e42a1f00
-    name: pile of ashkin remains
+    name: Останки пепельноликих
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=7ff74520e42a1f00
   - id: 2000822
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=4d2e11b9a506ce1f
-    name: engraved crystal
+    name: Кристалл с гравировкой
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=4d2e11b9a506ce1f
   eobjects:
   - id: 2002344
@@ -39,7 +40,8 @@
     name: Железная жаровня
 
 - name:
-    original: Honor Lost
+    original: "Honor Lost"
+    translated: "Утраченная честь"
   level: 35
   type: pld
   url:
@@ -62,7 +64,8 @@
     name: Железная жаровня
 
 - name:
-    original: Power Struggles
+    original: "Power Struggles"
+    translated: "Идти не оступаясь"
   level: 40
   type: pld
   url:
@@ -85,7 +88,8 @@
     name: Железная жаровня
 
 - name:
-    original: Poisoned Hearts
+    original: "Poisoned Hearts"
+    translated: "Отравленные"
   level: 45
   type: pld
   url:
@@ -108,19 +112,20 @@
   eobjects:
   - id: 2002348
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c880772425d09d61
-    name: Sultansworn coffer
+    name: Сундук Присягнувших
   - id: 2002349
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=dfb72e40a940a23d
-    name: Sultansworn coffer
+    name: Сундук Присягнувших
   - id: 2002350
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=43a697d290049d76
-    name: Sultansworn coffer
+    name: Сундук Присягнувших
   - id: 2002351
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=da8d5dda7341af6b
-    name: Sultansworn coffer
+    name: Сундук Присягнувших
 
 - name:
-    original: Parley in the Sagolii
+    original: "Parley in the Sagolii"
+    translated: "Разговор в Саголи"
   level: 45
   type: pld
   url:
@@ -139,7 +144,8 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=9898c006315d100c
 
 - name:
-    original: Keeping the Oath
+    original: "Keeping the Oath"
+    translated: "Правые и праведные"
   level: 50
   type: pld
   url:
@@ -152,7 +158,7 @@
     name: Дженлинс
   - id: 1007829
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=edf3f3c1af700b3d
-    name: Solkzagyl
+    name: Солкзагил
   - id: 1007830
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4027a735c6d1b343
   - id: 1007831
@@ -168,7 +174,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5058c5a3f2062222
 
 - name:
-    original: A Relic Reborn (Curtana)
+    original: "A Relic Reborn (Curtana)"
   level: 50
   type: pld
   url:
@@ -234,7 +240,7 @@
     name: Сундук с сокровищами
 
 - name:
-    original: An Exemplary Example
+    original: "An Exemplary Example"
   level: 50
   type: pld
   url:
@@ -272,7 +278,7 @@
     name: Цель
 
 - name:
-    original: The Paladin Who Cried Wolf
+    original: "The Paladin Who Cried Wolf"
   level: 52
   type: pld
   url:
@@ -310,7 +316,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ebdcc9d263b07813
 
 - name:
-    original: Big Sollerets to Fill
+    original: "Big Sollerets to Fill"
   level: 54
   type: pld
   url:
@@ -378,7 +384,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=1ad5b5557e53369f
 
 - name:
-    original: Hey Soul Crystal
+    original: "Hey Soul Crystal"
   level: 56
   type: pld
   url:
@@ -409,7 +415,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e24f8f477e3ffacf
 
 - name:
-    original: All According to Plan
+    original: "All According to Plan"
   level: 58
   type: pld
   url:
@@ -500,7 +506,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8ea3f183925b3a3e
 
 - name:
-    original: This Little Sword of Mine
+    original: "This Little Sword of Mine"
   level: 60
   type: pld
   url:
@@ -530,13 +536,13 @@
     name: Constaint
   - id: 1014099
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e53385da7c68ab79
-    name: Solkzagyl
+    name: Солкзагил
   - id: 1014102
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=05409bb5c7c2a8f5
     name: Constaint
   - id: 1014100
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5aadc3eba436a3e2
-    name: Solkzagyl
+    name: Солкзагил
   - id: 1014101
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2ff91fb84ea1eb1d
     name: Дженлинс
@@ -551,7 +557,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f2f75e991cb5bc07
 
 - name:
-    original: Tournament of the Century
+    original: "Tournament of the Century"
   level: 60
   type: pld
   url:
@@ -599,7 +605,7 @@
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=b5d8acd4c8da19c0
 
 - name:
-    original: In Thal's Name
+    original: "In Thal's Name"
   level: 63
   type: pld
   url:
@@ -624,7 +630,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=4f8e7357238284d9
 
 - name:
-    original: In Nald's Name
+    original: "In Nald's Name"
   level: 65
   type: pld
   url:
@@ -656,7 +662,7 @@
     name: Цель
 
 - name:
-    original: Fade to Black Lotus
+    original: "Fade to Black Lotus"
   level: 68
   type: pld
   url:
@@ -700,7 +706,7 @@
   - id: 6854472
 
 - name:
-    original: Raising the Sword
+    original: "Raising the Sword"
   level: 70
   type: pld
   url:
@@ -728,7 +734,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=685d6c15cb08e75a
 
 - name:
-    original: Worth Fighting For
+    original: "Worth Fighting For"
   level: 80
   type: pld
   url:
@@ -750,8 +756,8 @@
     name: Милла
 
 - name:
-    original: Brother from Another Mother
-    translated: Брат от другой матери
+    original: "Brother from Another Mother"
+    translated: "Брат от другой матери"
   level: 30
   type: mnk
   url:
@@ -787,8 +793,8 @@
     name: Эфирометр
 
 - name:
-    original: Insulted Intelligence
-    translated: Ранимый учёный
+    original: "Insulted Intelligence"
+    translated: "Ранимый учёный"
   level: 35
   type: mnk
   url:
@@ -822,8 +828,8 @@
     name: Эфирометр
 
 - name:
-    original: A Slave to the Aether
-    translated: Рабы эфира
+    original: "A Slave to the Aether"
+    translated: "Рабы эфира"
   level: 40
   type: mnk
   url:
@@ -864,8 +870,8 @@
     name: Эфирометр
 
 - name:
-    original: The Pursuit of Power
-    translated: В погоне за силой
+    original: "The Pursuit of Power"
+    translated: "В погоне за силой"
   level: 45
   type: mnk
   url:
@@ -902,8 +908,8 @@
     name: Эфирометр
 
 - name:
-    original: Good Vibrations
-    translated: Хорошая энергетика
+    original: "Good Vibrations"
+    translated: "Хорошая энергетика"
   level: 45
   type: mnk
   url:
@@ -944,8 +950,8 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=effc455518bc5790
 
 - name:
-    original: Five Easy Pieces
-    translated: Великолепная пятёрка
+    original: "Five Easy Pieces"
+    translated: "Великолепная пятёрка"
   level: 50
   type: mnk
   url:
@@ -980,7 +986,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a5c2d37fb6d745ae
 
 - name:
-    original: A Relic Reborn (Sphairai)
+    original: "A Relic Reborn (Sphairai)"
   level: 50
   type: mnk
   url:
@@ -1046,7 +1052,8 @@
     name: Сундук с сокровищами
 
 - name:
-    original: The Legend Continues
+    original: "The Legend Continues"
+    translated: "Легенда продолжается"
   level: 50
   type: mnk
   url:
@@ -1062,10 +1069,10 @@
     name: Видаргелт
   - id: 1013972
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a96e7648abc6e997
-    name: D'zentsa
+    name: Д'зенца
   - id: 1013973
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5766f8a5edbd65e5
-    name: O'tchakha
+    name: О'тчаха
   - id: 1013974
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2ca40521d75a6e88
   - id: 1013975
@@ -1075,35 +1082,36 @@
     name: Видаргелт
   - id: 1013977
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6f54ac9c30c34aaf
-    name: D'zentsa
+    name: Д'зенца
   - id: 1013978
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0d99d672bd4f43c6
-    name: O'tchakha
+    name: О'тчаха
   - id: 1013979
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0fc1263907165caa
-    name: D'zentsa
+    name: Д'зенца
   - id: 1014111
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2c51a907785eb927
     name: Видаргелт
   - id: 1013980
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a380390b68734736
-    name: O'tchakha
+    name: О'тчаха
   - id: 1013981
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=aa9bf1f77ecd0acd
-    name: D'zentsa
+    name: Д'зенца
   - id: 1014003
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=111fd0d167a58523
-    name: D'zentsa
+    name: Д'зенца
   - id: 1014180
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=72dcb134a9499a68
-    name: O'tchakha
+    name: О'тчаха
   enemies:
   - id: 5899793
   - id: 5899799
   - id: 5899800
 
 - name:
-    original: Let's Talk about Sects
+    original: "Let's Talk about Sects"
+    translated: "Поговорим о сектах"
   level: 52
   type: mnk
   url:
@@ -1147,10 +1155,10 @@
     name: Видаргелт
   - id: 1013995
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ec0473a7e34996ee
-    name: D'zentsa
+    name: Д'зенца
   - id: 1013996
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c1ca3a8cdf57a3ea
-    name: O'tchakha
+    name: О'тчаха
   enemies:
   - id: 5899946
   - id: 5899948
@@ -1168,7 +1176,8 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=28d6a18b3e852ee8
 
 - name:
-    original: Against the Shadow
+    original: "Against the Shadow"
+    translated: "Бой с тенью"
   level: 54
   type: mnk
   url:
@@ -1190,7 +1199,8 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=bbb5237248809629
 
 - name:
-    original: Fight the Battle to Win
+    original: "Fight the Battle to Win"
+    translated: "Сражайся, чтобы победить"
   level: 56
   type: mnk
   url:
@@ -1206,16 +1216,16 @@
     name: Видаргелт
   - id: 1014000
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=04b71451f9c56d2d
-    name: O'tchakha
+    name: О'тчаха
   - id: 1014703
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9997757046113e25
-    name: O'tchakha
+    name: О'тчаха
   - id: 1014001
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2b5603b4a18dbca1
     name: Видаргелт
   - id: 1014002
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=29658f9a3c0df14b
-    name: O'tchakha
+    name: О'тчаха
   enemies:
   - id: 5900034
   - id: 5900035
@@ -1226,7 +1236,8 @@
     name: Цель
 
 - name:
-    original: Stop the Senseless Killing
+    original: "Stop the Senseless Killing"
+    translated: "Конец кровопролитию"
   level: 58
   type: mnk
   url:
@@ -1239,7 +1250,7 @@
     name: Видаргелт
   - id: 1014005
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4f139dc1e804dba3
-    name: O'tchakha
+    name: О'тчаха
   - id: 1014004
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=703f52868fb99acc
     name: Видаргелт
@@ -1248,16 +1259,16 @@
     name: Видаргелт
   - id: 1014007
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c642b6ddebfe3f1f
-    name: O'tchakha
+    name: О'тчаха
   - id: 1014008
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4ea2e883def794c3
-    name: H'raha Tia
+    name: Х'раха Тиа
   - id: 1014009
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f2821a8c94282b07
     name: Видаргелт
   - id: 1014010
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b003ede539583d0d
-    name: O'tchakha
+    name: О'тчаха
   enemies:
   - id: 5900052
   - id: 5900053
@@ -1268,7 +1279,8 @@
     name: Цель
 
 - name:
-    original: Appetite for Destruction
+    original: "Appetite for Destruction"
+    translated: "Жажда разрушения"
   level: 60
   type: mnk
   url:
@@ -1281,7 +1293,7 @@
     name: Видаргелт
   - id: 1014012
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1e9df7392acd79ef
-    name: O'tchakha
+    name: О'тчаха
   - id: 1014011
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=001d1e4d47c7164b
     name: Видаргелт
@@ -1290,16 +1302,16 @@
     name: Видаргелт
   - id: 1014015
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bf67dacb70109e47
-    name: D'zentsa
+    name: Д'зенца
   - id: 1014113
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4810b15dd79987c5
-    name: O'tchakha
+    name: О'тчаха
   eobjects:
   - id: 2006184
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=b112b567ab575924
 
 - name:
-    original: A Fistful of Resolve
+    original: "A Fistful of Resolve"
   level: 60
   type: mnk
   url:
@@ -1315,10 +1327,10 @@
     name: Видаргелт
   - id: 1013972
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a96e7648abc6e997
-    name: D'zentsa
+    name: Д'зенца
   - id: 1013973
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5766f8a5edbd65e5
-    name: O'tchakha
+    name: О'тчаха
   - id: 1022372
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e187fd2b75d667e7
     name: Видаргелт
@@ -1330,16 +1342,16 @@
     name: Гундобальд
   - id: 1022374
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a0d677222444e4eb
-    name: D'zentsa
+    name: Д'зенца
   - id: 1022375
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1710de835098faf0
-    name: O'tchakha
+    name: О'тчаха
   - id: 1013998
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ebd38d4ea2db5d49
     name: Эрик
 
 - name:
-    original: Return of the Monk
+    original: "Return of the Monk"
   level: 63
   type: mnk
   url:
@@ -1352,37 +1364,37 @@
     name: Видаргелт
   - id: 1022374
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a0d677222444e4eb
-    name: D'zentsa
+    name: Д'зенца
   - id: 1022375
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1710de835098faf0
-    name: O'tchakha
+    name: О'тчаха
   - id: 1022384
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=12fd08fbde445caa
     name: Видаргелт
   - id: 1022385
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=842dc18b0a7d5a72
-    name: D'zentsa
+    name: Д'зенца
   - id: 1022386
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=605a1e9cb1e21930
-    name: O'tchakha
+    name: О'тчаха
   - id: 1022387
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=453232e63139df77
     name: Видаргелт
   - id: 1022388
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f92012dc86e5c9ae
-    name: D'zentsa
+    name: Д'зенца
   - id: 1022389
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ca48fa0a2d0db677
-    name: O'tchakha
+    name: О'тчаха
   - id: 1022390
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7b2e53f08f8e12dc
     name: Видаргелт
   - id: 1022391
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cb1ce13828108d84
-    name: D'zentsa
+    name: Д'зенца
   - id: 1022392
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cf3a7b3536486ef4
-    name: O'tchakha
+    name: О'тчаха
   - id: 1022393
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4d1aaeedf3127b10
   - id: 1022394
@@ -1403,7 +1415,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=538e05ca03dc2bd3
 
 - name:
-    original: Cross-fist Training
+    original: "Cross-fist Training"
   level: 65
   type: mnk
   url:
@@ -1416,10 +1428,10 @@
     name: Видаргелт
   - id: 1022391
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cb1ce13828108d84
-    name: D'zentsa
+    name: Д'зенца
   - id: 1022392
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cf3a7b3536486ef4
-    name: O'tchakha
+    name: О'тчаха
   - id: 1023700
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=af4e886db3bef60b
   - id: 1023701
@@ -1446,10 +1458,10 @@
     name: Видаргелт
   - id: 1022406
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=264bafa03b5b4baa
-    name: D'zentsa
+    name: Д'зенца
   - id: 1022407
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3d13a383bef73907
-    name: O'tchakha
+    name: О'тчаха
   - id: 1022408
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3496881e54d20a3e
   - id: 1022409
@@ -1482,8 +1494,8 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=3d8a6f7c7398a21a
 
 - name:
-    original: Choices and Paths
-    translated: Решения
+    original: "Choices and Paths"
+    translated: "Решения"
   level: 68
   type: mnk
   url:
@@ -1496,10 +1508,10 @@
     name: Видаргелт
   - id: 1022437
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c9fbdefb3a58b9f9
-    name: O'tchakha
+    name: О'тчаха
   - id: 1022436
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=59624cdc45230a43
-    name: D'zentsa
+    name: Д'зенца
   - id: 1022438
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f894cb3a985a172f
     name: Эрик
@@ -1508,10 +1520,10 @@
     name: Видаргелт
   - id: 1022440
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ad70f0eccdb8c745
-    name: D'zentsa
+    name: Д'зенца
   - id: 1022441
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=08d70642e3624a2a
-    name: O'tchakha
+    name: О'тчаха
   - id: 1022442
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=effdec7a3fa5fc98
     name: Hewerald
@@ -1520,10 +1532,10 @@
     name: Эрик
   - id: 1022444
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2001494ca2ad42fa
-    name: D'zentsa
+    name: Д'зенца
   - id: 1022445
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=be185a9bb88d7693
-    name: O'tchakha
+    name: О'тчаха
   - id: 1022443
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b291db8710a87870
     name: Видаргелт
@@ -1532,16 +1544,16 @@
     name: Видаргелт
   - id: 1022391
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cb1ce13828108d84
-    name: D'zentsa
+    name: Д'зенца
   - id: 1022392
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cf3a7b3536486ef4
-    name: O'tchakha
+    name: О'тчаха
   eobjects:
   - id: 2008510
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=6a9f1a53fcf78e88
 
 - name:
-    original: The Power to Protect
+    original: "The Power to Protect"
   level: 70
   type: mnk
   url:
@@ -1554,10 +1566,10 @@
     name: Видаргелт
   - id: 1022391
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cb1ce13828108d84
-    name: D'zentsa
+    name: Д'зенца
   - id: 1022392
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cf3a7b3536486ef4
-    name: O'tchakha
+    name: О'тчаха
   - id: 1022532
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=39e1044d534a01a7
     name: Theobald
@@ -1570,10 +1582,10 @@
     name: Видаргелт
   - id: 1022533
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8b9df1537c58c9a9
-    name: D'zentsa
+    name: Д'зенца
   - id: 1022534
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d14e60436c144c08
-    name: O'tchakha
+    name: О'тчаха
   - id: 1022427
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f6785a9dc22abc1c
   - id: 1022428
@@ -1602,7 +1614,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a9d4853594ffc3c0
 
 - name:
-    original: A Monk's Legacy
+    original: "A Monk's Legacy"
   level: 80
   type: mnk
   url:
@@ -1627,10 +1639,10 @@
     name: Видаргелт
   - id: 1028412
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d8540003440f1d90
-    name: D'zentsa
+    name: Д'зенца
   - id: 1028413
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5cd948fbe890671f
-    name: O'tchakha
+    name: О'тчаха
   - id: 1028414
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f379e48ee9c082b8
     name: Видаргелт
@@ -1640,7 +1652,7 @@
     name: Цель
 
 - name:
-    original: Pride and Duty (Will Take You from the Mountain)
+    original: "Pride and Duty (Will Take You from the Mountain)"
   level: 30
   type: war
   url:
@@ -1668,7 +1680,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=57eeff45ca36bfdd
 
 - name:
-    original: Embracing the Beast
+    original: "Embracing the Beast"
   level: 35
   type: war
   url:
@@ -1705,7 +1717,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=48b07c3ed085f93d
 
 - name:
-    original: Curious Gorge Goes to Wineport
+    original: "Curious Gorge Goes to Wineport"
   level: 40
   type: war
   url:
@@ -1755,7 +1767,7 @@
     name: Цель
 
 - name:
-    original: Looking the Part
+    original: "Looking the Part"
   level: 45
   type: war
   url:
@@ -1795,7 +1807,7 @@
     name: old wooden chest
 
 - name:
-    original: Proof Is the Pudding
+    original: "Proof Is the Pudding"
   level: 45
   type: war
   url:
@@ -1816,7 +1828,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=6fff0bfc1e6dfc20
 
 - name:
-    original: How to Quit You
+    original: "How to Quit You"
   level: 50
   type: war
   url:
@@ -1856,7 +1868,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=48334749aa8a6a7c
 
 - name:
-    original: A Relic Reborn (Bravura)
+    original: "A Relic Reborn (Bravura)"
   level: 50
   type: war
   url:
@@ -1921,7 +1933,7 @@
     name: Сундук с сокровищами
 
 - name:
-    original: Better Axe Around
+    original: "Better Axe Around"
   level: 50
   type: war
   url:
@@ -1973,7 +1985,7 @@
     name: dig site
 
 - name:
-    original: Duty and the Beast
+    original: "Duty and the Beast"
   level: 52
   type: war
   url:
@@ -2000,7 +2012,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5fd5dc73407294f5
 
 - name:
-    original: The Bear Necessity
+    original: "The Bear Necessity"
   level: 54
   type: war
   url:
@@ -2048,7 +2060,7 @@
     name: Цель
 
 - name:
-    original: Pirates of Shallow Water
+    original: "Pirates of Shallow Water"
   level: 56
   type: war
   url:
@@ -2114,7 +2126,7 @@
   - id: 5872007
 
 - name:
-    original: How to Train Your Warrior
+    original: "How to Train Your Warrior"
   level: 56
   type: war
   url:
@@ -2147,7 +2159,7 @@
     name: Вескаэт
 
 - name:
-    original: Slap an' Chop
+    original: "Slap an' Chop"
   level: 58
   type: war
   url:
@@ -2221,7 +2233,7 @@
   - id: 5872065
 
 - name:
-    original: And My Axe
+    original: "And My Axe"
   level: 64
   type: leve-bsm
   url:
@@ -2238,7 +2250,7 @@
     name: Местный каракул
 
 - name:
-    original: Curious Gorge Meets His Match
+    original: "Curious Gorge Meets His Match"
   level: 60
   type: war
   url:
@@ -2260,7 +2272,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c768b46122c49786
 
 - name:
-    original: Field Training
+    original: "Field Training"
   level: 63
   type: war
   url:
@@ -2314,7 +2326,7 @@
     name: Цель
 
 - name:
-    original: When Push Comes to Shove
+    original: "When Push Comes to Shove"
   level: 65
   type: war
   url:
@@ -2391,7 +2403,7 @@
     name: Цель
 
 - name:
-    original: Going the Distance
+    original: "Going the Distance"
   level: 68
   type: war
   url:
@@ -2432,7 +2444,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=3ff8e31226d38c53
 
 - name:
-    original: The Heart of the Problem
+    original: "The Heart of the Problem"
   level: 70
   type: war
   url:
@@ -2476,7 +2488,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=975e9de20bb0dd74
 
 - name:
-    original: Once, Twice, Three Times a Warrior
+    original: "Once, Twice, Three Times a Warrior"
   level: 80
   type: war
   url:
@@ -2535,8 +2547,8 @@
     name: mossy boulder
 
 - name:
-    original: Eye of the Dragon
-    translated: Око дракона
+    original: "Eye of the Dragon"
+    translated: "Око дракона"
   level: 30
   type: drg
   url:
@@ -2569,8 +2581,8 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=520dd3a594115c27
 
 - name:
-    original: Lance of Fury
-    translated: Неистовство копья
+    original: "Lance of Fury"
+    translated: "Неистовство копья"
   level: 35
   type: drg
   url:
@@ -2588,8 +2600,8 @@
   - id: 4307741
 
 - name:
-    original: Unfading Skies
-    translated: Вечный эмпирей
+    original: "Unfading Skies"
+    translated: "Вечный эмпирей"
   level: 40
   type: drg
   url:
@@ -2611,8 +2623,8 @@
   - id: 4307755
 
 - name:
-    original: Double Dragoon
-    translated: Два драгуна
+    original: "Double Dragoon"
+    translated: "Два драгуна"
   level: 45
   type: drg
   url:
@@ -2655,8 +2667,8 @@
     name: Цель
 
 - name:
-    original: Fatal Seduction
-    translated: Роковое искушение
+    original: "Fatal Seduction"
+    translated: "Роковое искушение"
   level: 45
   type: drg
   url:
@@ -2680,8 +2692,8 @@
     name: Цель
 
 - name:
-    original: Into the Dragon's Maw
-    translated: В драконью пасть
+    original: "Into the Dragon's Maw"
+    translated: "В драконью пасть"
   level: 50
   type: drg
   url:
@@ -2697,7 +2709,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=97815c7293b02dc8
 
 - name:
-    original: A Relic Reborn (Gae Bolg)
+    original: "A Relic Reborn (Gae Bolg)"
   level: 50
   type: drg
   url:
@@ -2761,7 +2773,7 @@
     name: Сундук с сокровищами
 
 - name:
-    original: Sky's the Limit
+    original: "Sky's the Limit"
   level: 50
   type: drg
   url:
@@ -2790,7 +2802,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=eee8a4417a47d4de
 
 - name:
-    original: Days of Azure
+    original: "Days of Azure"
   level: 52
   type: drg
   url:
@@ -2824,7 +2836,7 @@
     name: Цель
 
 - name:
-    original: Heart of Justice
+    original: "Heart of Justice"
   level: 52
   type: drg
   url:
@@ -2845,7 +2857,7 @@
     name: Альберик
 
 - name:
-    original: Sworn Upon a Lance
+    original: "Sworn Upon a Lance"
   level: 54
   type: drg
   url:
@@ -2909,7 +2921,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=1d65571d346e523f
 
 - name:
-    original: Dragoon's Errand
+    original: "Dragoon's Errand"
   level: 56
   type: drg
   url:
@@ -2950,7 +2962,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d5a87d71ca4603f0
 
 - name:
-    original: Sanguine Dragoon
+    original: "Sanguine Dragoon"
   level: 58
   type: drg
   url:
@@ -2998,7 +3010,7 @@
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=4967bb187327beca
 
 - name:
-    original: Dragoon's Fate
+    original: "Dragoon's Fate"
   level: 60
   type: drg
   url:
@@ -3045,7 +3057,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=85e1839f59c12891
 
 - name:
-    original: Friends through Eternity
+    original: "Friends through Eternity"
   level: 60
   type: drg
   url:
@@ -3068,7 +3080,7 @@
     name: Цель
 
 - name:
-    original: Drowsy Dragons
+    original: "Drowsy Dragons"
   level: 63
   type: drg
   url:
@@ -3108,7 +3120,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5ea2a773a7526397
 
 - name:
-    original: Serpent and the Sea of Rubies
+    original: "Serpent and the Sea of Rubies"
   level: 65
   type: drg
   url:
@@ -3144,7 +3156,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=1ff1245a696f7a98
 
 - name:
-    original: Dark as the Night Sky
+    original: "Dark as the Night Sky"
   level: 68
   type: drg
   url:
@@ -3189,7 +3201,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ceda88bf8cb32119
 
 - name:
-    original: Dragon Sound
+    original: "Dragon Sound"
   level: 70
   type: drg
   url:
@@ -3211,7 +3223,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5743d235cc893404
 
 - name:
-    original: Gone but Not Forgiven
+    original: "Gone but Not Forgiven"
   level: 80
   type: drg
   url:
@@ -3242,8 +3254,8 @@
     name: mist lilies
 
 - name:
-    original: A Song of Bards and Bowmen
-    translated: Песнь бардов и стрелков
+    original: "A Song of Bards and Bowmen"
+    translated: "Песнь бардов и стрелков"
   level: 30
   type: brd
   url:
@@ -3271,8 +3283,8 @@
     name: stolen crate
 
 - name:
-    original: The Archer's Anthem
-    translated: Гимн лучника
+    original: "The Archer's Anthem"
+    translated: "Гимн лучника"
   level: 35
   type: brd
   url:
@@ -3293,8 +3305,8 @@
     name: Цель
 
 - name:
-    original: Bard's-eye View
-    translated: Глазами барда
+    original: "Bard's-eye View"
+    translated: "Глазами барда"
   level: 40
   type: brd
   url:
@@ -3314,8 +3326,8 @@
     name: Цель
 
 - name:
-    original: Doing It the Bard Way
-    translated: Тщеславный глупец
+    original: "Doing It the Bard Way"
+    translated: "Тщеславный глупец"
   level: 45
   type: brd
   url:
@@ -3339,8 +3351,8 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=7474a0c13c79fe84
 
 - name:
-    original: Pieces of the Past
-    translated: Фрагменты прошлого
+    original: "Pieces of the Past"
+    translated: "Фрагменты прошлого"
   level: 45
   type: brd
   url:
@@ -3366,8 +3378,8 @@
     name: Потрёпанный мешок
 
 - name:
-    original: Requiem for the Fallen
-    translated: Реквием по павшим
+    original: "Requiem for the Fallen"
+    translated: "Реквием по павшим"
   level: 50
   type: brd
   url:
@@ -3394,7 +3406,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e4c53623d13aecb0
 
 - name:
-    original: A Relic Reborn (Artemis Bow)
+    original: "A Relic Reborn (Artemis Bow)"
   level: 50
   type: brd
   url:
@@ -3458,7 +3470,7 @@
     name: Сундук с сокровищами
 
 - name:
-    original: On the Road Again
+    original: "On the Road Again"
   level: 50
   type: brd
   url:
@@ -3519,7 +3531,7 @@
   - id: 5909714
 
 - name:
-    original: The Stiff and the Spent
+    original: "The Stiff and the Spent"
   level: 52
   type: brd
   url:
@@ -3579,7 +3591,7 @@
     name: Цель
 
 - name:
-    original: Requiem on Ice
+    original: "Requiem on Ice"
   level: 54
   type: brd
   url:
@@ -3659,7 +3671,7 @@
     name: Цель
 
 - name:
-    original: When Gnaths Cry
+    original: "When Gnaths Cry"
   level: 56
   type: brd
   url:
@@ -3714,7 +3726,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=883ab16349e0b638
 
 - name:
-    original: A Saint of Song
+    original: "A Saint of Song"
   level: 58
   type: brd
   url:
@@ -3778,7 +3790,7 @@
     name: Цель
 
 - name:
-    original: The Ballad of Oblivion
+    original: "The Ballad of Oblivion"
   level: 60
   type: brd
   url:
@@ -3840,7 +3852,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5ffc60975177441b
 
 - name:
-    original: Three's a Company
+    original: "Three's a Company"
   level: 60
   type: brd
   url:
@@ -3880,7 +3892,7 @@
     name: Guydelot
 
 - name:
-    original: Masked Motives
+    original: "Masked Motives"
   level: 63
   type: brd
   url:
@@ -3918,7 +3930,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=23a0a4da99c8384e
 
 - name:
-    original: One Autumn's Secret
+    original: "One Autumn's Secret"
   level: 65
   type: brd
   url:
@@ -3955,7 +3967,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a5d73a3044f17f0b
 
 - name:
-    original: Sleeping Truths Lie
+    original: "Sleeping Truths Lie"
   level: 68
   type: brd
   url:
@@ -3988,7 +4000,7 @@
     name: Цель
 
 - name:
-    original: Sweet Dreams Are Made of Peace
+    original: "Sweet Dreams Are Made of Peace"
   level: 70
   type: brd
   url:
@@ -4022,7 +4034,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=81738719d166c220
 
 - name:
-    original: A Harmony from the Heavens
+    original: "A Harmony from the Heavens"
   level: 80
   type: brd
   url:
@@ -4070,7 +4082,7 @@
     name: Цель
 
 - name:
-    original: Peasants by Day, Ninjas by Night
+    original: "Peasants by Day, Ninjas by Night"
   level: 30
   type: nin
   url:
@@ -4130,7 +4142,7 @@
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=974ab1f99c69d99d
 
 - name:
-    original: My First Mudra
+    original: "My First Mudra"
   level: 30
   type: nin
   url:
@@ -4157,7 +4169,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=de14a2a938a3cb5a
 
 - name:
-    original: Killer Combinations
+    original: "Killer Combinations"
   level: 35
   type: nin
   url:
@@ -4173,7 +4185,7 @@
     name: Oboro
 
 - name:
-    original: Once Upon a Time in Doma
+    original: "Once Upon a Time in Doma"
   level: 35
   type: nin
   url:
@@ -4206,7 +4218,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=4b06456b9e6c2903
 
 - name:
-    original: Pirates versus Ninjas
+    original: "Pirates versus Ninjas"
   level: 40
   type: nin
   url:
@@ -4228,7 +4240,7 @@
     name: Tsubame
 
 - name:
-    original: Ninja Bathin'
+    original: "Ninja Bathin'"
   level: 40
   type: nin
   url:
@@ -4293,7 +4305,7 @@
     name: Цель
 
 - name:
-    original: Tough Guys
+    original: "Tough Guys"
   level: 45
   type: nin
   url:
@@ -4360,7 +4372,7 @@
     name: Цель
 
 - name:
-    original: The Crow Knows
+    original: "The Crow Knows"
   level: 45
   type: nin
   url:
@@ -4398,7 +4410,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e6e732c8a381b002
 
 - name:
-    original: Master and Student
+    original: "Master and Student"
   level: 50
   type: nin
   url:
@@ -4430,7 +4442,7 @@
     name: Цель
 
 - name:
-    original: A Relic Reborn (Yoshimitsu)
+    original: "A Relic Reborn (Yoshimitsu)"
   level: 50
   type: nin
   url:
@@ -4496,7 +4508,7 @@
     name: Замотанный сундук
 
 - name:
-    original: Strangers in a Strange Land
+    original: "Strangers in a Strange Land"
   level: 50
   type: nin
   url:
@@ -4555,7 +4567,7 @@
     name: Цель
 
 - name:
-    original: The Impossible Girl
+    original: "The Impossible Girl"
   level: 52
   type: nin
   url:
@@ -4620,7 +4632,7 @@
     name: Цель
 
 - name:
-    original: Ninja Assassin
+    original: "Ninja Assassin"
   level: 54
   type: nin
   url:
@@ -4680,7 +4692,7 @@
     name: Цель
 
 - name:
-    original: Medieval Espionage
+    original: "Medieval Espionage"
   level: 56
   type: nin
   url:
@@ -4736,7 +4748,7 @@
     name: Цель
 
 - name:
-    original: Staying Alive
+    original: "Staying Alive"
   level: 58
   type: nin
   url:
@@ -4811,7 +4823,7 @@
     name: Цель
 
 - name:
-    original: In Her Defense
+    original: "In Her Defense"
   level: 60
   type: nin
   url:
@@ -4861,7 +4873,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=dae53253c314940f
 
 - name:
-    original: Search for the Stolen Scroll
+    original: "Search for the Stolen Scroll"
   level: 60
   type: nin
   url:
@@ -4926,7 +4938,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ea02db64258cf572
 
 - name:
-    original: Ninja Bathin' Redux
+    original: "Ninja Bathin' Redux"
   level: 63
   type: nin
   url:
@@ -4993,7 +5005,7 @@
     name: Цель
 
 - name:
-    original: A Game of Life and Death
+    original: "A Game of Life and Death"
   level: 65
   type: nin
   url:
@@ -5039,7 +5051,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=57d34580ab416fd2
 
 - name:
-    original: True Enlightenment
+    original: "True Enlightenment"
   level: 68
   type: nin
   url:
@@ -5099,7 +5111,7 @@
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=d2eef9fb2d471e3d
 
 - name:
-    original: When Clans Collide
+    original: "When Clans Collide"
   level: 70
   type: nin
   url:
@@ -5122,7 +5134,7 @@
     name: Цель
 
 - name:
-    original: Oboro's Big Idea
+    original: "Oboro's Big Idea"
   level: 80
   type: nin
   url:
@@ -5191,8 +5203,8 @@
     name: Цель
 
 - name:
-    original: A Dark Spectacle
-    translated: Мрачное зрелище
+    original: "A Dark Spectacle"
+    translated: "Мрачное зрелище"
   level: 50
   type: drk
   url:
@@ -5205,8 +5217,8 @@
     name: Горожанин Ишгарда
 
 - name:
-    original: Our End
-    translated: Наш конец
+    original: "Our End"
+    translated: "Наш конец"
   level: 50
   type: drk
   url:
@@ -5230,8 +5242,8 @@
     name: Фрэй
 
 - name:
-    original: Ishgardian Justice
-    translated: Ишгардское правосудие
+    original: "Ishgardian Justice"
+    translated: "Ишгардское правосудие"
   level: 30
   type: drk
   url:
@@ -5276,8 +5288,8 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=dc43ca0d98d6eaa2
 
 - name:
-    original: The Voice in the Abyss
-    translated: Голос во мраке
+    original: "The Voice in the Abyss"
+    translated: "Голос во мраке"
   level: 35
   type: drk
   url:
@@ -5320,8 +5332,8 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=cb4766220ff7aba9
 
 - name:
-    original: Heroic Reprise
-    translated: Геройская реприза
+    original: "Heroic Reprise"
+    translated: "Геройская реприза"
   level: 40
   type: drk
   url:
@@ -5360,8 +5372,8 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f51817083558c4bc
 
 - name:
-    original: Declaration of Blood
-    translated: Кровавая декларация
+    original: "Declaration of Blood"
+    translated: "Кровавая декларация"
   level: 45
   type: drk
   url:
@@ -5407,8 +5419,8 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=722d46332b526968
 
 - name:
-    original: Our Answer
-    translated: Наш ответ
+    original: "Our Answer"
+    translated: "Наш ответ"
   level: 50
   type: drk
   url:
@@ -5449,7 +5461,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=3750cd6e9cd948ec
 
 - name:
-    original: The Wages of Mercy
+    original: "The Wages of Mercy"
   level: 50
   type: drk
   url:
@@ -5478,7 +5490,7 @@
   - id: 5930871
 
 - name:
-    original: The Knight and the Maiden Fair
+    original: "The Knight and the Maiden Fair"
   level: 52
   type: drk
   url:
@@ -5529,7 +5541,7 @@
     name: Цель
 
 - name:
-    original: Kindred Spirits
+    original: "Kindred Spirits"
   level: 54
   type: drk
   url:
@@ -5578,7 +5590,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=296299fa054c57bf
 
 - name:
-    original: Original Sins
+    original: "Original Sins"
   level: 56
   type: drk
   url:
@@ -5621,7 +5633,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=1c3fffe81b750e05
 
 - name:
-    original: The Flame in the Abyss
+    original: "The Flame in the Abyss"
   level: 58
   type: drk
   url:
@@ -5682,7 +5694,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c6217602719109d3
 
 - name:
-    original: Absolution
+    original: "Absolution"
   level: 60
   type: drk
   url:
@@ -5707,7 +5719,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=003fe97e8c2dcd73
 
 - name:
-    original: In Memories We Walked
+    original: "In Memories We Walked"
   level: 60
   type: drk
   url:
@@ -5773,7 +5785,7 @@
     name: swirling abyss
 
 - name:
-    original: The Widow and Her Love
+    original: "The Widow and Her Love"
   level: 63
   type: drk
   url:
@@ -5859,7 +5871,7 @@
     name: swirling abyss
 
 - name:
-    original: The Orphans and the Broken Blade
+    original: "The Orphans and the Broken Blade"
   level: 65
   type: drk
   url:
@@ -5926,7 +5938,7 @@
     name: swirling abyss
 
 - name:
-    original: We Can Never Go Home
+    original: "We Can Never Go Home"
   level: 68
   type: drk
   url:
@@ -6002,7 +6014,7 @@
     name: Цель
 
 - name:
-    original: Our Compromise
+    original: "Our Compromise"
   level: 70
   type: drk
   url:
@@ -6018,7 +6030,7 @@
     name: Resistance guard
   - id: 1019486
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8c34ed1b509b0db9
-    name: Orella
+    name: Орелла
   - id: 1022916
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=00fd11b5fc6576b5
     name: Resistance beast tamer
@@ -6030,7 +6042,7 @@
     name: Sidurgu
   - id: 1019478
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=405d89caafe423d5
-    name: Gilow
+    name: Гилоу
   - id: 1022922
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=205330e493fbb3eb
     name: Sidurgu
@@ -6071,7 +6083,7 @@
     name: where it all began
 
 - name:
-    original: Our Closure
+    original: "Our Closure"
   level: 80
   type: drk
   url:
@@ -6090,7 +6102,7 @@
     name: Patrounade
   - id: 1019486
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8c34ed1b509b0db9
-    name: Orella
+    name: Орелла
   - id: 1006215
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2755b9c937677270
     name: Гундобальд
@@ -6117,7 +6129,7 @@
     name: Цель
 
 - name:
-    original: Savior of Skysteel
+    original: "Savior of Skysteel"
   level: 50
   type: mch
   url:
@@ -6157,7 +6169,7 @@
     name: Joye
 
 - name:
-    original: Master of Marksmanship
+    original: "Master of Marksmanship"
   level: 30
   type: mch
   url:
@@ -6191,7 +6203,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=032830f5286f67ff
 
 - name:
-    original: Always the Last Place You Look
+    original: "Always the Last Place You Look"
   level: 35
   type: mch
   url:
@@ -6231,7 +6243,7 @@
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=ad031f2b8116c68f
 
 - name:
-    original: Rook Before You Reap
+    original: "Rook Before You Reap"
   level: 40
   type: mch
   url:
@@ -6244,7 +6256,7 @@
     name: Стефанивьян
 
 - name:
-    original: Securing the Locks
+    original: "Securing the Locks"
   level: 40
   type: mch
   url:
@@ -6314,7 +6326,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a0033375bfe90146
 
 - name:
-    original: A Suppressive Strategy
+    original: "A Suppressive Strategy"
   level: 45
   type: mch
   url:
@@ -6327,7 +6339,7 @@
     name: Стефанивьян
 
 - name:
-    original: Blood on the Sands
+    original: "Blood on the Sands"
   level: 45
   type: mch
   url:
@@ -6375,7 +6387,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=56dd8e7fb9a6955b
 
 - name:
-    original: Rage against the Machinists
+    original: "Rage against the Machinists"
   level: 50
   type: mch
   url:
@@ -6418,7 +6430,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=9ce4974ccd9b022a
 
 - name:
-    original: The Power of a Tourney
+    original: "The Power of a Tourney"
   level: 50
   type: mch
   url:
@@ -6461,7 +6473,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=bf49ce13658cfca3
 
 - name:
-    original: A Joye-less Celebration
+    original: "A Joye-less Celebration"
   level: 50
   type: mch
   url:
@@ -6492,7 +6504,7 @@
     name: Celestaux
 
 - name:
-    original: Pushing the Brume
+    original: "Pushing the Brume"
   level: 52
   type: mch
   url:
@@ -6557,7 +6569,7 @@
     name: Цель
 
 - name:
-    original: A Joye-ful Reunion
+    original: "A Joye-ful Reunion"
   level: 54
   type: mch
   url:
@@ -6612,7 +6624,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e15933b559516650
 
 - name:
-    original: Wheels of Justice
+    original: "Wheels of Justice"
   level: 56
   type: mch
   url:
@@ -6662,7 +6674,7 @@
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=2a7c360337a4951b
 
 - name:
-    original: Taking the Fall
+    original: "Taking the Fall"
   level: 58
   type: mch
   url:
@@ -6703,7 +6715,7 @@
     name: ×
 
 - name:
-    original: Rusted Steel
+    original: "Rusted Steel"
   level: 58
   type: mch
   url:
@@ -6731,7 +6743,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=039af75d4c6acd59
 
 - name:
-    original: Rise of the Machinists
+    original: "Rise of the Machinists"
   level: 60
   type: mch
   url:
@@ -6787,7 +6799,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5c51cfe66491e704
 
 - name:
-    original: The Machinists' Choice
+    original: "The Machinists' Choice"
   level: 60
   type: mch
   url:
@@ -6830,7 +6842,7 @@
     name: cold-eyed knight
 
 - name:
-    original: The Hrunting Heist
+    original: "The Hrunting Heist"
   level: 63
   type: mch
   url:
@@ -6886,7 +6898,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=577d428c60b90611
 
 - name:
-    original: Release the Hounds
+    original: "Release the Hounds"
   level: 65
   type: mch
   url:
@@ -6939,7 +6951,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5b0549b2c4ef6ade
 
 - name:
-    original: Snouts Down, Tails Up
+    original: "Snouts Down, Tails Up"
   level: 68
   type: mch
   url:
@@ -7009,7 +7021,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5afb80cb8a1c0169
 
 - name:
-    original: The Mongrel and the Knight
+    original: "The Mongrel and the Knight"
   level: 70
   type: mch
   url:
@@ -7037,7 +7049,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=566c597d70866f15
 
 - name:
-    original: Machinists for the Morrow
+    original: "Machinists for the Morrow"
   level: 80
   type: mch
   url:
@@ -7071,8 +7083,8 @@
     name: Цель
 
 - name:
-    original: The Way of the Samurai
-    translated: Путь самурая
+    original: "The Way of the Samurai"
+    translated: "Путь самурая"
   level: 50
   type: sam
   url:
@@ -7097,8 +7109,8 @@
     name: Старик с Дальнего Востока
 
 - name:
-    original: Master Musosai
-    translated: Учитель Мусосай
+    original: "Master Musosai"
+    translated: "Учитель Мусосай"
   level: 50
   type: sam
   url:
@@ -7117,8 +7129,8 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=2eae8c01f968acf9
 
 - name:
-    original: The Sands of Debt
-    translated: Неоплатный долг
+    original: "The Sands of Debt"
+    translated: "Неоплатный долг"
   level: 52
   type: sam
   url:
@@ -7189,8 +7201,8 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c0bd83fd81c71ad1
 
 - name:
-    original: Blood on the Deck
-    translated: Кровь на палубе
+    original: "Blood on the Deck"
+    translated: "Кровь на палубе"
   level: 54
   type: sam
   url:
@@ -7261,8 +7273,8 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f3667873073396a6
 
 - name:
-    original: A Fraudster in the Forest
-    translated: Страшный злодей Священного Леса
+    original: "A Fraudster in the Forest"
+    translated: "Страшный злодей Священного Леса"
   level: 56
   type: sam
   url:
@@ -7321,8 +7333,8 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=dd4b635567cf4b98
 
 - name:
-    original: Tears in the Snow
-    translated: Слёзы на снегу
+    original: "Tears in the Snow"
+    translated: "Слёзы на снегу"
   level: 58
   type: sam
   url:
@@ -7378,8 +7390,8 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=700d044f6c01573e
 
 - name:
-    original: The Face of True Evil
-    translated: Истинное лицо зла
+    original: "The Face of True Evil"
+    translated: "Истинное лицо зла"
   level: 60
   type: sam
   url:
@@ -7407,7 +7419,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=3de1700cd4e47ab3
 
 - name:
-    original: A Dignified Visitor
+    original: "A Dignified Visitor"
   level: 60
   type: sam
   url:
@@ -7439,7 +7451,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=381d8f260b56c8c3
 
 - name:
-    original: Trials of the Sekiseigumi
+    original: "Trials of the Sekiseigumi"
   level: 63
   type: sam
   url:
@@ -7476,7 +7488,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d3911e51e6c15833
 
 - name:
-    original: Matsuba Mayhem
+    original: "Matsuba Mayhem"
   level: 65
   type: sam
   url:
@@ -7530,7 +7542,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=44590269d7217a2f
 
 - name:
-    original: The Hunt for Ugetsu
+    original: "The Hunt for Ugetsu"
   level: 68
   type: sam
   url:
@@ -7569,7 +7581,7 @@
     name: Цель
 
 - name:
-    original: The Battle on Bekko
+    original: "The Battle on Bekko"
   level: 70
   type: sam
   url:
@@ -7637,7 +7649,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ecffb374f4bb1c9d
 
 - name:
-    original: The Legend of Musosai
+    original: "The Legend of Musosai"
   level: 80
   type: sam
   url:
@@ -7668,7 +7680,7 @@
     name: Остиргрейн
 
 - name:
-    original: The Makings of a Gunbreaker
+    original: "The Makings of a Gunbreaker"
   level: 60
   type: gnb
   url:
@@ -7705,7 +7717,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=6c8e8c0b17589341
 
 - name:
-    original: Hired Gunblades
+    original: "Hired Gunblades"
   level: 60
   type: gnb
   url:
@@ -7775,7 +7787,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=272aacdd73175799
 
 - name:
-    original: For Better or Worse
+    original: "For Better or Worse"
   level: 63
   type: gnb
   url:
@@ -7854,7 +7866,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=9eb290d5f0667a50
 
 - name:
-    original: Confessions of a Flaming Mongrel
+    original: "Confessions of a Flaming Mongrel"
   level: 65
   type: gnb
   url:
@@ -7944,7 +7956,7 @@
     name: Цель
 
 - name:
-    original: Of Defectors and Defenders
+    original: "Of Defectors and Defenders"
   level: 68
   type: gnb
   url:
@@ -8021,7 +8033,7 @@
     name: Цель
 
 - name:
-    original: Steel against Steel
+    original: "Steel against Steel"
   level: 70
   type: gnb
   url:
@@ -8055,7 +8067,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=1b4709afc936b0de
 
 - name:
-    original: Gunblades of the Patriots
+    original: "Gunblades of the Patriots"
   level: 80
   type: gnb
   url:
@@ -8104,7 +8116,7 @@
     name: Софи
 
 - name:
-    original: Shall We Dance
+    original: "Shall We Dance"
   level: 60
   type: dnc
   url:
@@ -8136,7 +8148,7 @@
     name: Цель
 
 - name:
-    original: Gamboling for Gil
+    original: "Gamboling for Gil"
   level: 60
   type: dnc
   url:
@@ -8179,7 +8191,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=97d7f511b1e1dc78
 
 - name:
-    original: A Soirée in the Sultanate
+    original: "A Soirée in the Sultanate"
   level: 63
   type: dnc
   url:
@@ -8249,7 +8261,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=1843ece4b4513193
 
 - name:
-    original: Dances with Duskwights
+    original: "Dances with Duskwights"
   level: 65
   type: dnc
   url:
@@ -8327,7 +8339,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a73d27dd06c514b7
 
 - name:
-    original: High-steppin' in the Holy See
+    original: "High-steppin' in the Holy See"
   level: 68
   type: dnc
   url:
@@ -8390,7 +8402,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=9fd656ef8ff20076
 
 - name:
-    original: Save the Last Dance for Me
+    original: "Save the Last Dance for Me"
   level: 70
   type: dnc
   url:
@@ -8421,7 +8433,7 @@
     name: Kuihlud
   - id: 1020841
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c8f329b22bcc3972
-    name: Raganfrid
+    name: Раганфрид
   - id: 1028792
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9127e5024eaa71ed
     name: Ranaa Mihgo
@@ -8436,7 +8448,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c079b8f9d0be145a
 
 - name:
-    original: Rising to the Occasion
+    original: "Rising to the Occasion"
   level: 80
   type: dnc
   url:
@@ -8476,7 +8488,7 @@
     name: Nashmeira
 
 - name:
-    original: The Killer Instinct
+    original: "The Killer Instinct"
   level: 70
   type: rpr
   url:
@@ -8501,7 +8513,7 @@
     name: Друзилла
 
 - name:
-    original: The Harvest Begins
+    original: "The Harvest Begins"
   level: 70
   type: rpr
   url:
@@ -8526,7 +8538,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e686bbd7878898b4
 
 - name:
-    original: On the Hunt
+    original: "On the Hunt"
   level: 73
   type: rpr
   url:
@@ -8569,7 +8581,7 @@
     name: Цель
 
 - name:
-    original: Dark Days
+    original: "Dark Days"
   level: 75
   type: rpr
   url:
@@ -8608,7 +8620,7 @@
     name: Drusilla
 
 - name:
-    original: Thicker than Blood
+    original: "Thicker than Blood"
   level: 78
   type: rpr
   url:
@@ -8643,7 +8655,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=553106eb9a253054
 
 - name:
-    original: The Killing Art
+    original: "The Killing Art"
   level: 80
   type: rpr
   url:
