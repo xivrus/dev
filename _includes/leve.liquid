@@ -1,0 +1,112 @@
+{%- for leve_list in site.data.lists.leves -%}
+	{%- if leve_list[0] == page.leve_list -%}
+		{%- for leve_i in leve_list[1] -%}
+			{%- if leve_i.name.original == include.leve_name -%}
+				{% unless include.id and leve_i.id != include.id %}
+					{%- assign leve = leve_i -%}
+					{%- break -%}
+				{% endunless %}
+			{%- endif -%}
+		{%- endfor -%}
+		{%- break -%}
+	{%- endif -%}
+{%- endfor %}
+
+<li style='list-style-image: url("/assets/img/icon/0{{ leve.icon }}.png");'>
+	<p>Ур. {{ leve.level }} — <strong>{% if include.name -%}
+		{{ include.name }}
+	{%- else -%}
+		{{ leve.name.original }}
+		{%- if leve.name.translated -%}
+			</strong> / <strong>{{ leve.name.translated }}
+		{%- endif -%}
+	{%- endif %}</strong> — <a href="{{ leve.url.journal }}">Журнал</a> — <a href="{{ leve.url.leve }}">Поручение</a></p>
+
+	<details>
+		<summary>
+			<p>Детали</p>
+		</summary>
+
+		<p><a href="{{ leve.client.url }}">{{ leve.client.name }}</a></p>
+		{% if leve.repeats > 1 %}
+		<p>Можно повторить {{ leve.repeats }} раз{% if leve.repeats < 5 %}а{% endif %}.</p>
+		{% endif %}
+		{% if leve.objectives -%}
+		<p>Цели: {% for objective in leve.objectives -%}
+			<a href="{{ objective.url }}">Цель {{ objective.id }}</a> (
+				{%- if objective.is_translated %}Переведена{% else %}Не переведена{% endif -%}
+			)
+			{%- unless forloop.last %}, {% endunless -%}
+			{%- endfor -%}
+		</p>
+		{%- endif %}
+		{% if leve.help_strings -%}
+		<p>Подсказки: {% for help_string in leve.help_strings -%}
+			<a href="{{ help_string.url }}">Подсказка {{ help_string.id }}</a> (
+				{%- if help_string.is_translated %}Переведена{% else %}Не переведена{% endif -%}
+			)
+			{%- unless forloop.last %}, {% endunless -%}
+			{%- endfor %}
+		</p>
+		{%- endif %}
+		{% if leve.enemies -%}
+		<p>Вражеские NPC: {% for enemy in leve.enemies -%}
+				{%- if enemy.url -%}
+					{%- if enemy.name -%}
+						<a href="{{ enemy.url }}">{{ enemy.name }}</a>
+					{%- else -%}
+						<a href="{{ enemy.url }}">{{ enemy.id }}</a>
+					{%- endif -%}
+				{%- else -%}
+					{{ enemy.id }}
+				{%- endif -%}
+				{%- unless forloop.last %}, {% endunless -%}
+			{%- endfor -%}
+		</p>
+		{%- endif %}
+		{% if leve.items -%}
+		<p>Требуется сделать: {% for item in leve.items -%}
+				{%- if item.url -%}
+					<a href="{{ item.url }}">{{ item.name }}</a> (<a href="{{ item.desc_url }}">Описание</a>)
+				{%- else -%}
+					{{ item.id }}
+				{%- endif %} × {{ item.qty }}
+				{%- unless forloop.last %}, {% endunless -%}
+			{%- endfor -%}
+		</p>
+		{%- endif %}
+		{% if leve.leve_items -%}
+		<p>Предметы: {% for leve_item in leve.leve_items -%}
+				{%- if leve_item.url -%}
+					{%- if leve_item.name -%}
+						<a href="{{ leve_item.url }}">{{ leve_item.name }}</a> (<a href="{{ leve_item.desc_url }}">Описание</a>)
+					{%- else -%}
+						<a href="{{ leve_item.url }}">{{ leve_item.id }}</a>
+					{%- endif -%}
+				{%- else -%}
+					{{ leve_item.id }}
+				{%- endif -%}
+				{%- unless forloop.last %}, {% endunless -%}
+			{%- endfor -%}
+		</p>
+		{%- endif %}
+		{% if leve.eobjects -%}
+		<p>Надписи на земле: {% for eobject in leve.eobjects -%}
+				{%- if eobject.url -%}
+					{%- if eobject.name -%}
+						<a href="{{ eobject.url }}">{{ eobject.name }}</a>
+					{%- else -%}
+						<a href="{{ eobject.url }}">{{ eobject.id }}</a>
+					{%- endif -%}
+				{%- else -%}
+					{{ eobject.id }}
+				{%- endif -%}
+				{%- unless forloop.last %}, {% endunless -%}
+			{%- endfor -%}
+		</p>
+		{%- endif %}
+		{% if leve.url.talk -%}
+		<p><a href="{{ leve.url.talk }}">Реплики поручателя</a></p>
+		{%- endif %}
+	</details>
+</li>
