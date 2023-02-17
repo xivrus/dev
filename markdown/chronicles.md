@@ -15,6 +15,7 @@ quest_list: chronicles
 	{% include quest.liquid quest_name = "In a Titan Spot" %}
 	{% include quest.liquid quest_name = "Primal Nature" %}
 	{% include quest.liquid quest_name = "Gale-force Warning" %}
+	{% include quest.liquid quest_name = "Quake Me Up Before You O'Ghomoro" %}
 	{% include quest.liquid quest_name = "Ifrit Ain't Broke" %}
 	{% include quest.liquid quest_name = "To Tussle with Gods" %}
 	{% include quest.liquid quest_name = "Primal Focus" %}
