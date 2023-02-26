@@ -43,16 +43,6 @@
   - id: 1000692
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=006e744b16d9cbfc
     name: Э-Суми-Ян
-  enemies:
-  - id: 37
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3d0e22173938ea89
-    name: Земляная белка
-  - id: 49
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=afa51a1b6d548e38
-    name: Маленькая божья коровка
-  - id: 47
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=756b5593dcff2a2b
-    name: Лесная грибница
 
 - name:
     original: "My First Cane"
@@ -67,16 +57,6 @@
   - id: 1000692
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=006e744b16d9cbfc
     name: Э-Суми-Ян
-  enemies:
-  - id: 37
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3d0e22173938ea89
-    name: Земляная белка
-  - id: 49
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=afa51a1b6d548e38
-    name: Маленькая божья коровка
-  - id: 47
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=756b5593dcff2a2b
-    name: Лесная грибница
 
 - name:
     original: "Trial by Earth"
@@ -95,7 +75,9 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2ecafd2e3eefd034
     name: Ноланель
   enemies:
-  - id: 2320919
+  - id: 134
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d266b0c0aa040024
+    name: Загрязнённый дух земли
   eobjects:
   - id: 2000883
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c688469eb9722e46
@@ -119,7 +101,9 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b4087f5749474a0d
     name: Ульфью
   enemies:
-  - id: 3768148
+  - id: 553
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3ee8770f63d35bfe
+    name: honeybee swarm
   eobjects:
   - id: 2000885
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e2a75dcb80ace512
@@ -146,7 +130,9 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b4087f5749474a0d
     name: Ульфью
   enemies:
-  - id: 3768148
+  - id: 553
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3ee8770f63d35bfe
+    name: honeybee swarm
   eobjects:
   - id: 2001229
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f1dee949b5a5b5f0
@@ -212,7 +198,9 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=12a368282e819b2b
     name: Сильфи
   enemies:
-  - id: 3799227
+  - id: 136
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=51bef3074854cb4b
+    name: Раздражённый водный дух
   quest_items:
   - id: 2000121
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=55db9209b7ec299c
@@ -248,9 +236,15 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2e913664f0d0207f
     name: Сильфи
   enemies:
-  - id: 3878392
-  - id: 3796339
-  - id: 3876177
+  - id: 134
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d266b0c0aa040024
+    name: Загрязнённый дух земли
+  - id: 135
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e61b79f7788bbd11
+    name: Порченый дух воздуха
+  - id: 136
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=51bef3074854cb4b
+    name: Раздражённый водный дух
   eobjects:
   - id: 2000891
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=27d226851271706e
@@ -351,9 +345,15 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0536bd73dbf5fa40
     name: Сильфи
   enemies:
-  - id: 3876178
-  - id: 3876179
-  - id: 3876180
+  - id: 134
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d266b0c0aa040024
+    name: Загрязнённый дух земли
+  - id: 134
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d266b0c0aa040024
+    name: Загрязнённый дух земли
+  - id: 134
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d266b0c0aa040024
+    name: Загрязнённый дух земли
   eobjects:
   - id: 2000899
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=bf41f6029edbf925
@@ -415,16 +415,6 @@
   - id: 1001708
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a08b7f98bcfbf77a
     name: Кокобуки
-  enemies:
-  - id: 351
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a74c118e35cabf2a
-    name: Отчаянный кикирн
-  - id: 385
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=68b356f6e88b9beb
-    name: Траншейный сахаджин
-  - id: 205
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=22cc810a03166508
-    name: Пёстрый тритон
 
 - name:
     original: "My First Scepter"
@@ -439,16 +429,6 @@
   - id: 1001708
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a08b7f98bcfbf77a
     name: Кокобуки
-  enemies:
-  - id: 351
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a74c118e35cabf2a
-    name: Отчаянный кикирн
-  - id: 385
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=68b356f6e88b9beb
-    name: Траншейный сахаджин
-  - id: 205
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=22cc810a03166508
-    name: Пёстрый тритон
 
 - name:
     original: "The Threat of Intimacy"
@@ -473,7 +453,42 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9d7e79fb8dc60d44
     name: Кокобуси
   enemies:
-  - id: 4002289
+  - id: 299
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1f64e288940a11c2
+    name: Гнездящийся канюк
+  - id: 13
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d785445ee7d5558a
+    name: Aрборский канюк
+  - id: 301
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ef10b37140df72d9
+    name: Канюк расщелины
+  - id: 12
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8c84f3ba38a70822
+    name: Северный стервятник
+  - id: 1315
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a4e9a7ece6a175e4
+    name: cattle tyrant
+  - id: 1743
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=64aef7140293de12
+    name: northern buzzard
+  - id: 1122
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=bd3870a40295b129
+    name: bald buzzard
+  - id: 1039
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=cdcf540a8a48c0ab
+    name: blood-eyed buzzard
+  - id: 2011
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2b59b9d0311fcf6c
+    name: restless harrier
+  - id: 1216
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=078bfd5278353f74
+    name: circling vulture
+  - id: 590
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=36a1789c0477e42d
+    name: Северный стервятник
+  - id: 2757
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=aeac3dacf1de4343
+    name: hungry buzzard
   quest_items:
   - id: 2000414
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=840beec5f49aa4af
@@ -515,11 +530,27 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a08b7f98bcfbf77a
     name: Кокобуки
   enemies:
-  - id: 160
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=047d254a97cce0a1
-    name: Рой мошек Края Сильфов
-  - id: 4074126
-  - id: 4184413
+  - id: 245
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4081ae47c973f1ec
+    name: Амал'джа-копейщик
+  - id: 2300
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ff1d88966d16c373
+    name: Flamefang ravager
+  - id: 2155
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=962f39e3c95902f2
+    name: Амал'джа-гарпунёр
+  - id: 1353
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=da5be9dd939a3bd8
+    name: Amalj'aa drakelasher
+  - id: 1177
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2e06926203f9ef04
+    name: Амал'джа-разбойник
+  - id: 259
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8a1d61c4cdd45c78
+    name: Провидец Амал'джа
+  - id: 1177
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2e06926203f9ef04
+    name: Амал'джа-разбойник
   quest_items:
   - id: 2000417
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=7626783e4157b9c8
@@ -563,11 +594,27 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a08b7f98bcfbf77a
     name: Кокобуки
   enemies:
-  - id: 160
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=047d254a97cce0a1
-    name: Рой мошек Края Сильфов
-  - id: 4074136
-  - id: 4184412
+  - id: 245
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4081ae47c973f1ec
+    name: Амал'джа-копейщик
+  - id: 2300
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ff1d88966d16c373
+    name: Flamefang ravager
+  - id: 2155
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=962f39e3c95902f2
+    name: Амал'джа-гарпунёр
+  - id: 1353
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=da5be9dd939a3bd8
+    name: Amalj'aa drakelasher
+  - id: 1177
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2e06926203f9ef04
+    name: Амал'джа-разбойник
+  - id: 259
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8a1d61c4cdd45c78
+    name: Провидец Амал'джа
+  - id: 1177
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2e06926203f9ef04
+    name: Амал'джа-разбойник
   quest_items:
   - id: 2000419
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=0519a7ce70ae4f17
@@ -781,7 +828,9 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7064f0bf0df13892
     name: Кокобоха
   enemies:
-  - id: 4184423
+  - id: 1213
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=98dc541d422aa9cd
+    name: Посланник Мормо
   quest_items:
   - id: 2000426
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=a8ade17fa2691b0a
@@ -836,16 +885,6 @@
   - id: 1000909
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0e1f6e2aafe1dc78
     name: Тубиргейм
-  enemies:
-  - id: 347
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6f7b92b58990081c
-    name: Разбойник чешумели
-  - id: 324
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=907562f0e55aa309
-    name: Падший маг
-  - id: 49
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=afa51a1b6d548e38
-    name: Маленькая божья коровка
 
 - name:
     original: "My First Grimoire"
@@ -860,16 +899,6 @@
   - id: 1000909
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0e1f6e2aafe1dc78
     name: Тубиргейм
-  enemies:
-  - id: 347
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6f7b92b58990081c
-    name: Разбойник чешумели
-  - id: 324
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=907562f0e55aa309
-    name: Падший маг
-  - id: 49
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=afa51a1b6d548e38
-    name: Маленькая божья коровка
 
 - name:
     original: "What's in the Box"
@@ -885,14 +914,42 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0e1f6e2aafe1dc78
     name: Тубиргейм
   enemies:
-  - id: 339
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e95d99ebc1162b49
-    name: Сдержанный оратор
-  - id: 118
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=5a2e6eda95baab38
-    name: Рой мошек
-  - id: 4260926
-  - id: 4260927
+  - id: 39
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=43b6ab3156a7287d
+    name: Древесный слизень
+  - id: 1350
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=78fff21bd5c6913a
+    name: dry slug
+  - id: 188
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=44260b6256b4b688
+    name: saprophagous slug
+  - id: 177
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f59083eab22df592
+    name: leafbleed slug
+  - id: 4046
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a26ef32fe3c4cd68
+    name: Dravanian slug
+  - id: 962
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ab5a203b0e1da905
+    name: shore slug
+  - id: 39
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=43b6ab3156a7287d
+    name: Древесный слизень
+  - id: 1350
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=78fff21bd5c6913a
+    name: dry slug
+  - id: 188
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=44260b6256b4b688
+    name: saprophagous slug
+  - id: 177
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f59083eab22df592
+    name: leafbleed slug
+  - id: 4046
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a26ef32fe3c4cd68
+    name: Dravanian slug
+  - id: 962
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ab5a203b0e1da905
+    name: shore slug
   quest_items:
   - id: 2000796
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=16c602cdfa620524
@@ -944,13 +1001,6 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3cf1df935ab62c19
   - id: 1005207
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c21e635b75902f56
-  enemies:
-  - id: 22
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=536a8e73fe9e9910
-    name: Розлинг
-  - id: 138
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=53e4e234d8d432af
-    name: Дровосек Краснобрюхов
   eobjects:
   - id: 2001890
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=91d723ea3291a7c7
@@ -992,13 +1042,6 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3cf1df935ab62c19
   - id: 1005207
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c21e635b75902f56
-  enemies:
-  - id: 22
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=536a8e73fe9e9910
-    name: Розлинг
-  - id: 138
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=53e4e234d8d432af
-    name: Дровосек Краснобрюхов
   eobjects:
   - id: 2002267
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=243b14ec48cb853b
@@ -1057,8 +1100,24 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=26ac64b066dfcd5f
     name: К'лусия
   enemies:
-  - id: 4261265
-  - id: 4261272
+  - id: 342
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a3e0c1e2299443ba
+    name: shallowtail Reaver
+  - id: 1107
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b37c55796311c5ee
+    name: shifty-eyed vagrant
+  - id: 979
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=81b1e8b472067571
+    name: Мясник Банды Змееглазых
+  - id: 2732
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=20769f8b14aa861a
+    name: Moonshade deckhand
+  - id: 1107
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b37c55796311c5ee
+    name: shifty-eyed vagrant
+  - id: 978
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2420607c86011815
+    name: Лучник Банды Змееглазых
   eobjects:
   - id: 2001896
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=cf1d357507528459
@@ -1150,9 +1209,60 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7ea17143b0cbbaa2
     name: К'лусия
   enemies:
-  - id: 4264454
-  - id: 4264456
-  - id: 4264457
+  - id: 39
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=43b6ab3156a7287d
+    name: Древесный слизень
+  - id: 1350
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=78fff21bd5c6913a
+    name: dry slug
+  - id: 188
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=44260b6256b4b688
+    name: saprophagous slug
+  - id: 177
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f59083eab22df592
+    name: leafbleed slug
+  - id: 4046
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a26ef32fe3c4cd68
+    name: Dravanian slug
+  - id: 962
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ab5a203b0e1da905
+    name: shore slug
+  - id: 39
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=43b6ab3156a7287d
+    name: Древесный слизень
+  - id: 1350
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=78fff21bd5c6913a
+    name: dry slug
+  - id: 188
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=44260b6256b4b688
+    name: saprophagous slug
+  - id: 177
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f59083eab22df592
+    name: leafbleed slug
+  - id: 4046
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a26ef32fe3c4cd68
+    name: Dravanian slug
+  - id: 962
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ab5a203b0e1da905
+    name: shore slug
+  - id: 39
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=43b6ab3156a7287d
+    name: Древесный слизень
+  - id: 1350
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=78fff21bd5c6913a
+    name: dry slug
+  - id: 188
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=44260b6256b4b688
+    name: saprophagous slug
+  - id: 177
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f59083eab22df592
+    name: leafbleed slug
+  - id: 4046
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a26ef32fe3c4cd68
+    name: Dravanian slug
+  - id: 962
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ab5a203b0e1da905
+    name: shore slug
   quest_items:
   - id: 2000883
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=c688469eb9722e46

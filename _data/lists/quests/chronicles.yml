@@ -411,10 +411,9 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8039f3afc9826cbe
     name: Simmie
   enemies:
-  - id: 4300261
-  - id: 2198
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ec062893385b6f72
-    name: Заколдованный рулевой
+  - id: 2062
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=383a251909ca0860
+    name: the last of the Allagans
   quest_items:
   - id: 2000963
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=b44dff1635108ea8
@@ -688,10 +687,18 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f53781452bc80d2e
     name: Рамброс
   enemies:
-  - id: 7625695
-  - id: 7625884
-  - id: 7625951
-  - id: 7626039
+  - id: 7578
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3fe09f499afd1d9a
+    name: kobold rocksplitter
+  - id: 7579
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=813300101ea2c35e
+    name: Sahagin waverider
+  - id: 7580
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4f1aed6f0792263b
+    name: Amalj'aa flame-eater
+  - id: 7581
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=60adb1fa279b7670
+    name: Ixali skycaller
   quest_items:
   - id: 2002484
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=b6bfcf267cfecf8c
@@ -789,9 +796,15 @@
   - id: 1007760
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b85a0cc45186ea20
   enemies:
-  - id: 4502639
-  - id: 4502640
-  - id: 4502641
+  - id: 909
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c1578af02ee05ada
+    name: Ixali limbcutter
+  - id: 910
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=556e5c785361d7b2
+    name: Ixali soilseer
+  - id: 911
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f2142a57cad013b1
+    name: Ixali bolecleaver
   quest_items:
   - id: 2001100
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=c96f75e1380b5b10

@@ -202,10 +202,6 @@
   - id: 1000449
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7714b7cda75bdc13
     name: Монрангин
-  enemies:
-  - id: 43
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=71c4ff5f42db6ad9
-    name: Чигое
   quest_items:
   - id: 2003025
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=1f7b66fb1c9c872e
@@ -271,10 +267,6 @@
   - id: 1000408
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e55fb101c14fb4ae
     name: Цуб Каназом
-  enemies:
-  - id: 142
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ff8f80e41ba52808
-    name: Молодая антилопа-олень
   quest_items:
   - id: 2003026
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=cd21256895724a56
@@ -370,9 +362,6 @@
   - id: 1000748
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e523013481da4ab3
     name: Розелина
-  enemies:
-  - id: 771
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=be668d7ae3d5118f
 
 - name:
     original: "Don't Look Down"
@@ -486,8 +475,78 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b97dda58b04aad71
     name: Лофар
   enemies:
-  - id: 3838969
-  - id: 3838970
+  - id: 299
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1f64e288940a11c2
+    name: Гнездящийся канюк
+  - id: 13
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d785445ee7d5558a
+    name: Aрборский канюк
+  - id: 301
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ef10b37140df72d9
+    name: Канюк расщелины
+  - id: 12
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8c84f3ba38a70822
+    name: Северный стервятник
+  - id: 1315
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a4e9a7ece6a175e4
+    name: cattle tyrant
+  - id: 1743
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=64aef7140293de12
+    name: northern buzzard
+  - id: 1122
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=bd3870a40295b129
+    name: bald buzzard
+  - id: 1039
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=cdcf540a8a48c0ab
+    name: blood-eyed buzzard
+  - id: 2011
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2b59b9d0311fcf6c
+    name: restless harrier
+  - id: 1216
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=078bfd5278353f74
+    name: circling vulture
+  - id: 590
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=36a1789c0477e42d
+    name: Северный стервятник
+  - id: 2757
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=aeac3dacf1de4343
+    name: hungry buzzard
+  - id: 299
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1f64e288940a11c2
+    name: Гнездящийся канюк
+  - id: 13
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d785445ee7d5558a
+    name: Aрборский канюк
+  - id: 301
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ef10b37140df72d9
+    name: Канюк расщелины
+  - id: 12
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8c84f3ba38a70822
+    name: Северный стервятник
+  - id: 1315
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a4e9a7ece6a175e4
+    name: cattle tyrant
+  - id: 1743
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=64aef7140293de12
+    name: northern buzzard
+  - id: 1122
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=bd3870a40295b129
+    name: bald buzzard
+  - id: 1039
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=cdcf540a8a48c0ab
+    name: blood-eyed buzzard
+  - id: 2011
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2b59b9d0311fcf6c
+    name: restless harrier
+  - id: 1216
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=078bfd5278353f74
+    name: circling vulture
+  - id: 590
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=36a1789c0477e42d
+    name: Северный стервятник
+  - id: 2757
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=aeac3dacf1de4343
+    name: hungry buzzard
   eobjects:
   - id: 2001006
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c088bfa925c0dabc
@@ -530,7 +589,24 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c1a707cb2586792c
     name: Кейха
   enemies:
-  - id: 3842567
+  - id: 26
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=56b69e9267d9e46d
+    name: Гайганжаба
+  - id: 216
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=41328e2d70652428
+    name: Ядовитая жаба
+  - id: 217
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c842b54d85395604
+    name: Хохочущая жаба
+  - id: 592
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f9a5b431c886e537
+    name: Древесная жаба
+  - id: 500
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6a88c8c3e03a11dd
+    name: Гипно-жаба
+  - id: 1040
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6873fc73cb133081
+    name: Рассерженная жаба
   quest_items:
   - id: 2000237
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=2030cab8e648d069
@@ -1063,8 +1139,36 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=319b744befb6c8ee
     name: Оссин
   enemies:
-  - id: 3931777
-  - id: 3931779
+  - id: 50
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1692ee910523a3ce
+    name: Гоблин-головорез
+  - id: 551
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0ebbbd1c1e81f8d0
+    name: goblin robber
+  - id: 283
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8d5496553916d42c
+    name: Гоблин-грабитель
+  - id: 1148
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=58444a26fdc41152
+    name: goblin roper
+  - id: 464
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=74a2c2b00695629a
+    name: goblin outlaw
+  - id: 50
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1692ee910523a3ce
+    name: Гоблин-головорез
+  - id: 551
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0ebbbd1c1e81f8d0
+    name: goblin robber
+  - id: 283
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8d5496553916d42c
+    name: Гоблин-грабитель
+  - id: 1148
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=58444a26fdc41152
+    name: goblin roper
+  - id: 464
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=74a2c2b00695629a
+    name: goblin outlaw
   quest_items:
   - id: 2000356
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=9d8c19bffbd4e30a
@@ -1134,13 +1238,6 @@
   - id: 1002626
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7244cd9d3dfbe131
     name: Стаельвирн
-  enemies:
-  - id: 348
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=03415abaf4f6c695
-    name: shalloweye Reaver
-  - id: 349
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f20a2dd97be60a02
-    name: Речная жаба
   quest_items:
   - id: 2000348
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=7c0a94c040743f50
@@ -1226,8 +1323,42 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=29398ce35cb6b385
     name: Ллульф
   enemies:
-  - id: 3927183
-  - id: 3927184
+  - id: 39
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=43b6ab3156a7287d
+    name: Древесный слизень
+  - id: 1350
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=78fff21bd5c6913a
+    name: dry slug
+  - id: 188
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=44260b6256b4b688
+    name: saprophagous slug
+  - id: 177
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f59083eab22df592
+    name: leafbleed slug
+  - id: 4046
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a26ef32fe3c4cd68
+    name: Dravanian slug
+  - id: 962
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ab5a203b0e1da905
+    name: shore slug
+  - id: 39
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=43b6ab3156a7287d
+    name: Древесный слизень
+  - id: 1350
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=78fff21bd5c6913a
+    name: dry slug
+  - id: 188
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=44260b6256b4b688
+    name: saprophagous slug
+  - id: 177
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f59083eab22df592
+    name: leafbleed slug
+  - id: 4046
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a26ef32fe3c4cd68
+    name: Dravanian slug
+  - id: 962
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ab5a203b0e1da905
+    name: shore slug
   quest_items:
   - id: 2000342
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=87802f4060fc5ecc
@@ -1266,7 +1397,42 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c417a864b24b547b
     name: Х'наанза
   enemies:
-  - id: 3929855
+  - id: 17
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=465989fc39c2ce8d
+    name: Огненный шар
+  - id: 132
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1486fedd62f6f3a0
+    name: Дымовой шар
+  - id: 316
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=aff341ebfd8fa232
+    name: Бомба
+  - id: 2743
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=95f09cc8f74affa3
+    name: Хитроумная бомба
+  - id: 2688
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=09caeae00919b4c7
+    name: Разрывная бомба
+  - id: 270
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e244a50d3933ad47
+    name: Граната
+  - id: 2745
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=5c08fefa19f9ff31
+    name: Лимфическая бомба
+  - id: 1120
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a4fef7a1b85d5541
+    name: void flame
+  - id: 1034
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e879f9628379e47a
+    name: Огненная бомба
+  - id: 1742
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d04f743b873ecea6
+    name: Церулеумная бомба
+  - id: 2707
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=78f9c8e42b7729f9
+    name: Световая бомба
+  - id: 963
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f1bd7fe79f4d4181
+    name: Светоч
   quest_items:
   - id: 2000343
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=6ad25fdf3856e540
@@ -1343,9 +1509,96 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5e02c24821fb36f2
     name: Агбирм
   enemies:
-  - id: 3781826
-  - id: 3781831
-  - id: 3781834
+  - id: 351
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a74c118e35cabf2a
+    name: Отчаянный кикирн
+  - id: 219
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=dd58f265470eb98a
+    name: Кикирн-бандит
+  - id: 268
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=18d90725b24e50fb
+    name: Кикирн-беглец
+  - id: 1244
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=9e4d1a8759443683
+    name: Qiqirn trafficker
+  - id: 570
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=034e8beec66d162d
+    name: Пляжный кикирн
+  - id: 2987
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=271e4b50186e7db8
+    name: Qiqirn coddler
+  - id: 2989
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e67dff167f614724
+    name: Qiqirn eggdropper
+  - id: 1072
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=65053c315e949b9a
+    name: Qiqirn truffler
+  - id: 1170
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4e131805daf7dba2
+    name: Qiqirn egglifter
+  - id: 1115
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=82c467d739c48f51
+    name: Qiqirn yolkdrainer
+  - id: 351
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a74c118e35cabf2a
+    name: Отчаянный кикирн
+  - id: 219
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=dd58f265470eb98a
+    name: Кикирн-бандит
+  - id: 268
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=18d90725b24e50fb
+    name: Кикирн-беглец
+  - id: 1244
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=9e4d1a8759443683
+    name: Qiqirn trafficker
+  - id: 570
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=034e8beec66d162d
+    name: Пляжный кикирн
+  - id: 2987
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=271e4b50186e7db8
+    name: Qiqirn coddler
+  - id: 2989
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e67dff167f614724
+    name: Qiqirn eggdropper
+  - id: 1072
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=65053c315e949b9a
+    name: Qiqirn truffler
+  - id: 1170
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4e131805daf7dba2
+    name: Qiqirn egglifter
+  - id: 1115
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=82c467d739c48f51
+    name: Qiqirn yolkdrainer
+  - id: 351
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a74c118e35cabf2a
+    name: Отчаянный кикирн
+  - id: 219
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=dd58f265470eb98a
+    name: Кикирн-бандит
+  - id: 268
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=18d90725b24e50fb
+    name: Кикирн-беглец
+  - id: 1244
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=9e4d1a8759443683
+    name: Qiqirn trafficker
+  - id: 570
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=034e8beec66d162d
+    name: Пляжный кикирн
+  - id: 2987
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=271e4b50186e7db8
+    name: Qiqirn coddler
+  - id: 2989
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e67dff167f614724
+    name: Qiqirn eggdropper
+  - id: 1072
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=65053c315e949b9a
+    name: Qiqirn truffler
+  - id: 1170
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4e131805daf7dba2
+    name: Qiqirn egglifter
+  - id: 1115
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=82c467d739c48f51
+    name: Qiqirn yolkdrainer
   quest_items:
   - id: 2000222
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=cb22b8d46484abbc
@@ -1921,9 +2174,60 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=919c6f10caae2f27
     name: Варин
   enemies:
-  - id: 3785130
-  - id: 3785131
-  - id: 3785134
+  - id: 276
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e059aee392051ac1
+    name: Ржавый коблин
+  - id: 277
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8260f6ae5c89b7fb
+    name: Медный коблин
+  - id: 278
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3e42a20ff0b5650a
+    name: Свинцовый коблин
+  - id: 901
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=274f65cb69fed567
+    name: Призматический коблин
+  - id: 575
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b53834cebd1eb8f1
+    name: Серебряный коблин
+  - id: 1041
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=578ebb83648c57a2
+    name: Пиритовый коблин
+  - id: 276
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e059aee392051ac1
+    name: Ржавый коблин
+  - id: 277
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8260f6ae5c89b7fb
+    name: Медный коблин
+  - id: 278
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3e42a20ff0b5650a
+    name: Свинцовый коблин
+  - id: 901
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=274f65cb69fed567
+    name: Призматический коблин
+  - id: 575
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b53834cebd1eb8f1
+    name: Серебряный коблин
+  - id: 1041
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=578ebb83648c57a2
+    name: Пиритовый коблин
+  - id: 276
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e059aee392051ac1
+    name: Ржавый коблин
+  - id: 277
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8260f6ae5c89b7fb
+    name: Медный коблин
+  - id: 278
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3e42a20ff0b5650a
+    name: Свинцовый коблин
+  - id: 901
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=274f65cb69fed567
+    name: Призматический коблин
+  - id: 575
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b53834cebd1eb8f1
+    name: Серебряный коблин
+  - id: 1041
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=578ebb83648c57a2
+    name: Пиритовый коблин
   quest_items:
   - id: 2000212
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=e77b8f058d2fb2b4
@@ -2050,9 +2354,60 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=86e35beeb8a48b06
     name: Пьяный Олень
   enemies:
-  - id: 3952090
-  - id: 3952281
-  - id: 3952286
+  - id: 276
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e059aee392051ac1
+    name: Ржавый коблин
+  - id: 277
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8260f6ae5c89b7fb
+    name: Медный коблин
+  - id: 278
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3e42a20ff0b5650a
+    name: Свинцовый коблин
+  - id: 901
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=274f65cb69fed567
+    name: Призматический коблин
+  - id: 575
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b53834cebd1eb8f1
+    name: Серебряный коблин
+  - id: 1041
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=578ebb83648c57a2
+    name: Пиритовый коблин
+  - id: 276
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e059aee392051ac1
+    name: Ржавый коблин
+  - id: 277
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8260f6ae5c89b7fb
+    name: Медный коблин
+  - id: 278
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3e42a20ff0b5650a
+    name: Свинцовый коблин
+  - id: 901
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=274f65cb69fed567
+    name: Призматический коблин
+  - id: 575
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b53834cebd1eb8f1
+    name: Серебряный коблин
+  - id: 1041
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=578ebb83648c57a2
+    name: Пиритовый коблин
+  - id: 276
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e059aee392051ac1
+    name: Ржавый коблин
+  - id: 277
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8260f6ae5c89b7fb
+    name: Медный коблин
+  - id: 278
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3e42a20ff0b5650a
+    name: Свинцовый коблин
+  - id: 901
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=274f65cb69fed567
+    name: Призматический коблин
+  - id: 575
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b53834cebd1eb8f1
+    name: Серебряный коблин
+  - id: 1041
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=578ebb83648c57a2
+    name: Пиритовый коблин
   quest_items:
   - id: 2000369
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=67f8004da9e6ef6c
@@ -2085,10 +2440,6 @@
   - id: 1002058
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2925df8b716c39a6
     name: Фафалапа
-  enemies:
-  - id: 136
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=51bef3074854cb4b
-    name: Раздражённый водный дух
 
 - name:
     original: "Last Letter to Lost Hope"
@@ -2131,7 +2482,9 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=67b96a714510d7e7
     name: Леофрик
   enemies:
-  - id: 4142933
+  - id: 328
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7c7d7f71e72843ec
+    name: Барон фон Квиверон III, эсквайр
   eobjects:
   - id: 2001740
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=98366da2b406a007
@@ -2645,8 +2998,42 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=78a8ff52e4e60227
     name: Гниющий труп
   enemies:
-  - id: 4100865
-  - id: 4100866
+  - id: 245
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4081ae47c973f1ec
+    name: Амал'джа-копейщик
+  - id: 2300
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ff1d88966d16c373
+    name: Flamefang ravager
+  - id: 2155
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=962f39e3c95902f2
+    name: Амал'джа-гарпунёр
+  - id: 1353
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=da5be9dd939a3bd8
+    name: Amalj'aa drakelasher
+  - id: 1177
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2e06926203f9ef04
+    name: Амал'джа-разбойник
+  - id: 259
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8a1d61c4cdd45c78
+    name: Провидец Амал'джа
+  - id: 245
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4081ae47c973f1ec
+    name: Амал'джа-копейщик
+  - id: 2300
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ff1d88966d16c373
+    name: Flamefang ravager
+  - id: 2155
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=962f39e3c95902f2
+    name: Амал'джа-гарпунёр
+  - id: 1353
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=da5be9dd939a3bd8
+    name: Amalj'aa drakelasher
+  - id: 1177
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2e06926203f9ef04
+    name: Амал'джа-разбойник
+  - id: 259
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8a1d61c4cdd45c78
+    name: Провидец Амал'джа
   quest_items:
   - id: 2000399
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=2a603a19634d8dbf
@@ -2755,8 +3142,51 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=82eee2c770608bd0
     name: Орсен
   enemies:
-  - id: 4102012
-  - id: 4102013
+  - id: 320
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a2d7e472f963fc8f
+    name: Погибший солдат
+  - id: 319
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f29c8df972ea4b86
+    name: Гниющий труп
+  - id: 321
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0dfc817a3c7ea2a6
+    name: Падший копейщик
+  - id: 1218
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=cef8ed8703375de1
+    name: Гниющий копейщик
+  - id: 1026
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6592dd307659e265
+    name: zombie soldier
+  - id: 493
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a66dc32b1ae6fd5e
+    name: zombie Wailer
+  - id: 182
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2a933569b2fcb72f
+    name: zombie pikeman
+  - id: 2018
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=178ac9ce7417844f
+    name: wandering soldier
+  - id: 323
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4da1cfcd06dd99ea
+    name: Погибший маг
+  - id: 322
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1991145d244cceb4
+    name: Гниющий придворный
+  - id: 324
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=907562f0e55aa309
+    name: Падший маг
+  - id: 19
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a4f4bc27f2019c3b
+    name: zombie mage
+  - id: 1219
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=48b2dfd2faffd152
+    name: Гниющий маг
+  - id: 1025
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=857061918f10df42
+    name: zombie wizard
+  - id: 2019
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=46ab34b51cd4463c
+    name: wandering mage
   eobjects:
   - id: 2001868
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=4460394e8c2685be
@@ -3338,7 +3768,21 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e48bd2c6271e007b
     name: Роза Хоторн
   enemies:
-  - id: 4277224
+  - id: 215
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e003926bf6a48e66
+    name: Заросший жертвенник
+  - id: 165
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=500f39469d52ea91
+    name: Пучок молочного корня
+  - id: 497
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=07057a440140c43b
+    name: Лиственная очу
+  - id: 214
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e9cad6dc282582dd
+    name: Разросшийся плющ
+  - id: 33
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1764f449e76f2fa4
+    name: Очу
   quest_items:
   - id: 2000571
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=cf04beaacedc5985
@@ -3424,13 +3868,6 @@
   - id: 1000580
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=31d9c1f50d5c5556
     name: Комуксио
-  enemies:
-  - id: 179
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=72c3fd7de2ca42df
-    name: Стая лесных пчёл
-  - id: 7
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=837dd823e362861c
-    name: Огромная муха
   quest_items:
   - id: 2003005
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=45f1508d474e66f6
@@ -3473,10 +3910,18 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1f82f5e3ca61efb3
     name: Виктор
   enemies:
-  - id: 4278151
-  - id: 4278153
-  - id: 4278162
-  - id: 4278167
+  - id: 58
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1f7b07f5f3e190e5
+    name: Лакеарий из 3-й когорты
+  - id: 59
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7fe1a9e1934bcc3c
+    name: Экит из 3-й когорты
+  - id: 60
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=96d3fbca363fb291
+    name: Секутор из 3-й когорты
+  - id: 61
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c6f2e86a8a58ade2
+    name: Сигнифер 3-й когорты
   quest_items:
   - id: 2000578
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=71b587a353fe7628
@@ -3617,10 +4062,6 @@
   - id: 1006193
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a5ee83c9c3895cd8
     name: Тетерун
-  enemies:
-  - id: 28
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=352f5320370b08e4
-    name: Щенок куэрла
   quest_items:
   - id: 2003009
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=ef8c5cc960d8240b
@@ -3663,9 +4104,87 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3722426041a0ce79
     name: Баскаррон
   enemies:
-  - id: 4278548
-  - id: 4278551
-  - id: 4278555
+  - id: 57
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=66292a59974c7935
+    name: Декурион из 3-й когорты
+  - id: 1809
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=22e323230e91e1f4
+    name: Гоплит из 5-й когорты
+  - id: 53
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d38677cd5e417c01
+    name: Гоплит из 3-й когорты
+  - id: 1821
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0716d43d9b0885ef
+    name: Гопломах 2-ой когорты
+  - id: 2234
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4d8787d299058994
+    name: Имперский гоплит
+  - id: 1364
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3839e51b59b3871b
+    name: 4th Cohort triarius
+  - id: 1815
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2fdc719edef569a0
+    name: Гоплит из 4-й когорты
+  - id: 2983
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2adab9b1040b77ec
+    name: Эвокат из 5-й когорты
+  - id: 1113
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d4f2f022a64cbcc9
+    name: Имперский тессерарий
+  - id: 3176
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a84addee09114509
+    name: Гоплит из 6-й когорты
+  - id: 3110
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3529a00e2b7689e7
+    name: Гоплит 7-й когорты
+  - id: 1810
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d3124f298caaafd7
+    name: Лакеарий из 5-й когорты
+  - id: 58
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1f7b07f5f3e190e5
+    name: Лакеарий из 3-й когорты
+  - id: 1822
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6839eb0e7e5eebc6
+    name: Лакерий 2-ой когорты
+  - id: 1816
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=793b5bf4b355959a
+    name: Лакеарий из 4-й когорты
+  - id: 2351
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=71185e868903247e
+    name: Имперский инженер
+  - id: 3181
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f50d88fa9230d74a
+    name: Лакеарий из 6-й когорты
+  - id: 2173
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=dd9b33752c59d388
+    name: Оптий из 3-й когорты
+  - id: 1813
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1227bdda1c03379f
+    name: Сигнифер из 5-й когорты
+  - id: 61
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c6f2e86a8a58ade2
+    name: Сигнифер 3-й когорты
+  - id: 1825
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e71a0af090fd1bac
+    name: Знаменосец 2-ой когорты
+  - id: 2236
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=decbfd6e14e429ae
+    name: Имперский сигнифер
+  - id: 1365
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4a188ca0bdec5d83
+    name: 4th Cohort imaginifer
+  - id: 1819
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0d4f41ebc62aa54d
+    name: Сигнифер из 4-й когорты
+  - id: 3180
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0043eaae66b349d9
+    name: Сигнифер из 6-й когорты
+  - id: 3334
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1811d918f7d99cee
+    name: Сигнифер 7-й когорты
+  - id: 2173
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=dd9b33752c59d388
+    name: Оптий из 3-й когорты
   eobjects:
   - id: 2001949
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=48c112e753aa45c9
@@ -3706,7 +4225,30 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2653e35063d6165e
     name: Лаурентис
   enemies:
-  - id: 4293402
+  - id: 1811
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f0a9fa4df8ba5543
+    name: Экит из 5-й когорты
+  - id: 59
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7fe1a9e1934bcc3c
+    name: Экит из 3-й когорты
+  - id: 1823
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=07cf2d98e52264fd
+    name: Эквит 2-ой когорты
+  - id: 1817
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=94eec3992e135eab
+    name: Экит из 4-й когорты
+  - id: 2120
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c4dcd11fac06800e
+    name: Экит 7-й когорты
+  - id: 2238
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ed2bbcefb38184ce
+    name: Имперский экит
+  - id: 3177
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=11d788bafe9eb6be
+    name: Экит из 6-й когорты
+  - id: 2173
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=dd9b33752c59d388
+    name: Оптий из 3-й когорты
   eobjects:
   - id: 2001954
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c9825621a4f24b95
@@ -3867,7 +4409,15 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9ab3286031c7dae3
     name: Хихибару
   enemies:
-  - id: 4279981
+  - id: 331
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ed1af0791c112954
+    name: Борец Банды Мертвецов
+  - id: 1997
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=71700dfaeb04a030
+    name: Боец банды «Мертвецов»
+  - id: 3332
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4c069b17e994d7b5
+    name: Охрана торговца чёрного рынка
   quest_items:
   - id: 2000604
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=c27e05ddca956753
@@ -4006,10 +4556,6 @@
   - id: 1006680
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=59fc21b8b3c2b2ec
     name: Фараманд
-  enemies:
-  - id: 4
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=68c257d1546915f1
-    name: Зрелая антилопа
   quest_items:
   - id: 2000612
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=efb228d2708cc189
@@ -4040,7 +4586,9 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=980d9974e8f8f2f8
     name: Галлиен
   enemies:
-  - id: 4278416
+  - id: 2001
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c37401d236843f29
+    name: Гоблин-грабитель
 
 - name:
     original: "Come Highly Recommended"
@@ -4110,8 +4658,12 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2755b9c937677270
     name: Гундобальд
   enemies:
-  - id: 4279871
-  - id: 4279874
+  - id: 1984
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1cb870b9dd92568c
+    name: Молодой сорвиголова
+  - id: 1984
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1cb870b9dd92568c
+    name: Молодой сорвиголова
 
 - name:
     original: "Big Trouble in Little Ala Mhigo"
@@ -4224,10 +4776,6 @@
   - id: 1006241
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=262e33fc830fb24f
     name: Айдин
-  enemies:
-  - id: 179
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=72c3fd7de2ca42df
-    name: Стая лесных пчёл
 
 - name:
     original: "Rock of Rancor"
@@ -4285,7 +4833,9 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0d5d111eba330d18
     name: Аваро
   enemies:
-  - id: 4285321
+  - id: 1985
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=57caf68c414f2331
+    name: Здоровенный хворемит
   eobjects:
   - id: 2001982
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=4af3c3c69be181d3
@@ -4311,7 +4861,21 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1e8dc9e5cb076868
     name: Ахельмайер
   enemies:
-  - id: 4299601
+  - id: 207
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c8efc8299b0b112e
+    name: Крылатое око
+  - id: 1738
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7e1292200944ecba
+    name: balor's bell
+  - id: 1768
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0e0cdd2fde81d127
+    name: bloodshot eye
+  - id: 242
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8d1ef3853cd2a3ac
+    name: Ариман
+  - id: 467
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4b5b05e6660354cc
+    name: fachan
   quest_items:
   - id: 2000861
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=50b9fe9a400411a6
@@ -4408,11 +4972,21 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=972741015f3cef6d
     name: Трахтум
   enemies:
-  - id: 4291274
-  - id: 4291279
-  - id: 4291283
-  - id: 4291284
-  - id: 4291285
+  - id: 417
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=47e12441da326fbc
+    name: Корабельная крыса
+  - id: 417
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=47e12441da326fbc
+    name: Корабельная крыса
+  - id: 417
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=47e12441da326fbc
+    name: Корабельная крыса
+  - id: 417
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=47e12441da326fbc
+    name: Корабельная крыса
+  - id: 678
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f50b949e202746f4
+    name: Крысиный король
   eobjects:
   - id: 2002033
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=92e57cabcf69f9dc
@@ -4432,7 +5006,9 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=972741015f3cef6d
     name: Трахтум
   enemies:
-  - id: 4291318
+  - id: 1986
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ff2f532e83fe303a
+    name: Гоббуль-фермер
   eobjects:
   - id: 2002034
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=fc235e1c418ab186
@@ -4485,7 +5061,9 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2c0f6905376bb934
     name: Вескаэт
   enemies:
-  - id: 4292674
+  - id: 1976
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=fe2c55d51b41dcf2
+    name: Существо, непохожее на змея
   quest_items:
   - id: 2000636
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=96295ae4f1fc51c2
@@ -4539,7 +5117,9 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=15c289b82af64001
     name: У'одх Нун
   enemies:
-  - id: 4292977
+  - id: 34
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=664176b2cfafdd92
+    name: Адамантитовая черепаха
   quest_items:
   - id: 2003010
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=984e811a50c2ac68
@@ -4570,7 +5150,9 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=15c289b82af64001
     name: У'одх Нун
   enemies:
-  - id: 4293187
+  - id: 1977
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=fe51f766336509f7
+    name: Танадд Гах Каменнопик
   quest_items:
   - id: 2000643
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=5a080d08b7fc3374
@@ -4605,10 +5187,9 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=754125539e272272
     name: Панцирь пустынного удильщика
   enemies:
-  - id: 356
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=318fc5c40b136f3a
-    name: Мшистый гоббуль
-  - id: 4293190
+  - id: 1978
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ea2a45b2cd0be6e1
+    name: Уэллвудский червь
   quest_items:
   - id: 2000645
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=f918268244e59e4e
@@ -4770,10 +5351,6 @@
   - id: 1006312
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a8746e5599a0ac26
     name: Дрест
-  enemies:
-  - id: 136
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=51bef3074854cb4b
-    name: Раздражённый водный дух
 
 - name:
     original: "Battle Scars"
@@ -4827,7 +5404,9 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2c0f6905376bb934
     name: Вескаэт
   enemies:
-  - id: 4293297
+  - id: 2002
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=28bb17341e0bc0f1
+    name: Шезму
   quest_items:
   - id: 2000946
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=d2cce554de845181
@@ -5164,7 +5743,9 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0e2342b2cbb7bee7
     name: Отец Илиуд
   enemies:
-  - id: 4296987
+  - id: 1988
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=70bdd0e75aeefcaa
+    name: Имперский фраментарий
   quest_items:
   - id: 2000850
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=e6ad3736b6990c83
@@ -5235,8 +5816,48 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6de19b73d07d5c76
     name: Форлемо
   enemies:
-  - id: 4289901
-  - id: 4289905
+  - id: 1989
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=605f7358b22ee71d
+    name: Атакующий в капюшоне
+  - id: 650
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=55bafc98ab2c87e5
+    name: Бесстрашный охотник
+  - id: 3894
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b72ba7a7c48ca59b
+    name: Тощий нападающий
+  - id: 2990
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=02e71ab5ec7fcdd2
+    name: rummaging harrier
+  - id: 3182
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=23334507233ce4e0
+    name: Яростный нападающий
+  - id: 5214
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=402c3bcfc494dd9a
+    name: caravan merchant
+  - id: 2230
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=37b1764693a0f176
+    name: ravaging harrier
+  - id: 1989
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=605f7358b22ee71d
+    name: Атакующий в капюшоне
+  - id: 651
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0b26c4fe36c40f57
+    name: Неистовый охотник
+  - id: 3989
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6318ca2f4a18ec93
+    name: Huibairten's harrier
+  - id: 2990
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=02e71ab5ec7fcdd2
+    name: rummaging harrier
+  - id: 3182
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=23334507233ce4e0
+    name: Яростный нападающий
+  - id: 5215
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=12db542202ded5a8
+    name: caravan guard
+  - id: 2228
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=170dacaf1f2ad4a0
+    name: heretical harrier
   eobjects:
   - id: 2002503
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a4aba4e4362767f2
@@ -5275,9 +5896,63 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=148be97d7df99898
     name: Лорд Портелье
   enemies:
-  - id: 4290078
-  - id: 4290079
-  - id: 4290080
+  - id: 1989
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=605f7358b22ee71d
+    name: Атакующий в капюшоне
+  - id: 650
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=55bafc98ab2c87e5
+    name: Бесстрашный охотник
+  - id: 3894
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b72ba7a7c48ca59b
+    name: Тощий нападающий
+  - id: 2990
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=02e71ab5ec7fcdd2
+    name: rummaging harrier
+  - id: 3182
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=23334507233ce4e0
+    name: Яростный нападающий
+  - id: 5214
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=402c3bcfc494dd9a
+    name: caravan merchant
+  - id: 2230
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=37b1764693a0f176
+    name: ravaging harrier
+  - id: 1989
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=605f7358b22ee71d
+    name: Атакующий в капюшоне
+  - id: 651
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0b26c4fe36c40f57
+    name: Неистовый охотник
+  - id: 3989
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6318ca2f4a18ec93
+    name: Huibairten's harrier
+  - id: 2990
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=02e71ab5ec7fcdd2
+    name: rummaging harrier
+  - id: 3182
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=23334507233ce4e0
+    name: Яростный нападающий
+  - id: 5215
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=12db542202ded5a8
+    name: caravan guard
+  - id: 2228
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=170dacaf1f2ad4a0
+    name: heretical harrier
+  - id: 1989
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=605f7358b22ee71d
+    name: Атакующий в капюшоне
+  - id: 652
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d523d3d826ee47e9
+    name: Ведьма-грабительница
+  - id: 4296
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6972646f525de3e7
+    name: heretic maiden
+  - id: 3182
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=23334507233ce4e0
+    name: Яростный нападающий
+  - id: 2229
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7af0f94fccc587cd
+    name: witching harrier
   quest_items:
   - id: 2000693
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=2ccf3735ac83f4ee
@@ -5376,7 +6051,9 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2363e9440b650a2f
     name: Испуганный рыцарь
   enemies:
-  - id: 4293113
+  - id: 1991
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8e40e55f40821e97
+    name: Большой авис
 
 - name:
     original: "Following the Evidence"
@@ -5565,10 +6242,9 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ab78cf400c8f5873
     name: Цинота
   enemies:
-  - id: 4293214
-  - id: 2196
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=403d9e376f2bb603
-    name: Заколдованный капитан
+  - id: 2060
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4ced8c50b15a4c82
+    name: Пятнистый грязеед
   quest_items:
   - id: 2000961
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=ecc040336b04af92
@@ -5604,10 +6280,6 @@
   - id: 1006461
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=24ca5c016ea5c6fe
     name: Сид
-  enemies:
-  - id: 132
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1486fedd62f6f3a0
-    name: Дымовой шар
   quest_items:
   - id: 2003018
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=1906f94c639ac7fc
@@ -5659,9 +6331,33 @@
   - id: 1007631
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=79347d7b823fad10
   enemies:
-  - id: 4297103
-  - id: 4297104
-  - id: 4297106
+  - id: 46
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=615652eecbbce3d9
+    name: Плазмоид
+  - id: 2056
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=eb624db5663e3d3d
+    name: corrupted aether
+  - id: 1703
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6ad7311ee11f205c
+    name: pure energy
+  - id: 46
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=615652eecbbce3d9
+    name: Плазмоид
+  - id: 2056
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=eb624db5663e3d3d
+    name: corrupted aether
+  - id: 1703
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6ad7311ee11f205c
+    name: pure energy
+  - id: 46
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=615652eecbbce3d9
+    name: Плазмоид
+  - id: 2056
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=eb624db5663e3d3d
+    name: corrupted aether
+  - id: 1703
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6ad7311ee11f205c
+    name: pure energy
   quest_items:
   - id: 2000733
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=f4f4f859577e7557
@@ -6040,7 +6736,9 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7635d784806d07dd
     name: Хедин
   enemies:
-  - id: 4300668
+  - id: 1982
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1931c6dd26f5bccd
+    name: Попрыгун
   quest_items:
   - id: 2003019
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=c7f11260191c0784
@@ -6234,9 +6932,60 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=36ec4e2ec7100827
     name: Абели
   enemies:
-  - id: 4301775
-  - id: 4301776
-  - id: 4301778
+  - id: 236
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8efc2abaa430f874
+    name: Неупокоенный
+  - id: 2038
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f9112919d3dcdd33
+    name: deepvoid soul
+  - id: 3344
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ec448da92512ee4f
+    name: Амдапорский призрак
+  - id: 504
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8c9fa6be5b3bf49c
+    name: Болотный жупел
+  - id: 1123
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=655c83de0ce76478
+    name: wicked soul
+  - id: 1785
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=be2089b3ef9ad9e5
+    name: Блуждающая душа
+  - id: 236
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8efc2abaa430f874
+    name: Неупокоенный
+  - id: 2038
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f9112919d3dcdd33
+    name: deepvoid soul
+  - id: 3344
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ec448da92512ee4f
+    name: Амдапорский призрак
+  - id: 504
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8c9fa6be5b3bf49c
+    name: Болотный жупел
+  - id: 1123
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=655c83de0ce76478
+    name: wicked soul
+  - id: 1785
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=be2089b3ef9ad9e5
+    name: Блуждающая душа
+  - id: 236
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8efc2abaa430f874
+    name: Неупокоенный
+  - id: 2038
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f9112919d3dcdd33
+    name: deepvoid soul
+  - id: 3344
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ec448da92512ee4f
+    name: Амдапорский призрак
+  - id: 504
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8c9fa6be5b3bf49c
+    name: Болотный жупел
+  - id: 1123
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=655c83de0ce76478
+    name: wicked soul
+  - id: 1785
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=be2089b3ef9ad9e5
+    name: Блуждающая душа
   eobjects:
   - id: 2002265
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=20e755d188a84f48
@@ -6322,10 +7071,30 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eb0ed47cc209d147
     name: Сид
   enemies:
-  - id: 4301976
-  - id: 4301980
-  - id: 4301981
-  - id: 4301983
+  - id: 43
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=71c4ff5f42db6ad9
+    name: Чигое
+  - id: 181
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b796c337eec0ae67
+    name: Чигое-падальщица
+  - id: 43
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=71c4ff5f42db6ad9
+    name: Чигое
+  - id: 181
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b796c337eec0ae67
+    name: Чигое-падальщица
+  - id: 43
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=71c4ff5f42db6ad9
+    name: Чигое
+  - id: 181
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b796c337eec0ae67
+    name: Чигое-падальщица
+  - id: 43
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=71c4ff5f42db6ad9
+    name: Чигое
+  - id: 181
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b796c337eec0ae67
+    name: Чигое-падальщица
   eobjects:
   - id: 2002201
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=7d8ff0c78329bfc1
@@ -6348,10 +7117,42 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eb0ed47cc209d147
     name: Сид
   enemies:
-  - id: 4300120
-  - id: 4300124
-  - id: 4300125
-  - id: 4300128
+  - id: 46
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=615652eecbbce3d9
+    name: Плазмоид
+  - id: 2056
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=eb624db5663e3d3d
+    name: corrupted aether
+  - id: 1703
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6ad7311ee11f205c
+    name: pure energy
+  - id: 46
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=615652eecbbce3d9
+    name: Плазмоид
+  - id: 2056
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=eb624db5663e3d3d
+    name: corrupted aether
+  - id: 1703
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6ad7311ee11f205c
+    name: pure energy
+  - id: 46
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=615652eecbbce3d9
+    name: Плазмоид
+  - id: 2056
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=eb624db5663e3d3d
+    name: corrupted aether
+  - id: 1703
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6ad7311ee11f205c
+    name: pure energy
+  - id: 46
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=615652eecbbce3d9
+    name: Плазмоид
+  - id: 2056
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=eb624db5663e3d3d
+    name: corrupted aether
+  - id: 1703
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6ad7311ee11f205c
+    name: pure energy
   quest_items:
   - id: 2000766
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=8c89267d0d51c0ef
@@ -6388,8 +7189,72 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=928f9b580437d0d1
     name: Гламон
   enemies:
-  - id: 4300144
-  - id: 4300145
+  - id: 57
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=66292a59974c7935
+    name: Декурион из 3-й когорты
+  - id: 1809
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=22e323230e91e1f4
+    name: Гоплит из 5-й когорты
+  - id: 53
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d38677cd5e417c01
+    name: Гоплит из 3-й когорты
+  - id: 1821
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0716d43d9b0885ef
+    name: Гопломах 2-ой когорты
+  - id: 2234
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4d8787d299058994
+    name: Имперский гоплит
+  - id: 1364
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3839e51b59b3871b
+    name: 4th Cohort triarius
+  - id: 1815
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2fdc719edef569a0
+    name: Гоплит из 4-й когорты
+  - id: 2983
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2adab9b1040b77ec
+    name: Эвокат из 5-й когорты
+  - id: 1113
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d4f2f022a64cbcc9
+    name: Имперский тессерарий
+  - id: 3176
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a84addee09114509
+    name: Гоплит из 6-й когорты
+  - id: 3110
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3529a00e2b7689e7
+    name: Гоплит 7-й когорты
+  - id: 57
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=66292a59974c7935
+    name: Декурион из 3-й когорты
+  - id: 1809
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=22e323230e91e1f4
+    name: Гоплит из 5-й когорты
+  - id: 53
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d38677cd5e417c01
+    name: Гоплит из 3-й когорты
+  - id: 1821
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0716d43d9b0885ef
+    name: Гопломах 2-ой когорты
+  - id: 2234
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4d8787d299058994
+    name: Имперский гоплит
+  - id: 1364
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3839e51b59b3871b
+    name: 4th Cohort triarius
+  - id: 1815
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2fdc719edef569a0
+    name: Гоплит из 4-й когорты
+  - id: 2983
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2adab9b1040b77ec
+    name: Эвокат из 5-й когорты
+  - id: 1113
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d4f2f022a64cbcc9
+    name: Имперский тессерарий
+  - id: 3176
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a84addee09114509
+    name: Гоплит из 6-й когорты
+  - id: 3110
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3529a00e2b7689e7
+    name: Гоплит 7-й когорты
   eobjects:
   - id: 2002238
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8bdecb643150c0e3
@@ -6414,22 +7279,6 @@
   - id: 1006988
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5df5bbe0956f4ce6
     name: Эгинольф
-  enemies:
-  - id: 64
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=dd6af2460a8d21de
-    name: Визжащий сильф
-  - id: 63
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=01816764f6014222
-    name: pudding
-  - id: 62
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=acf3f85a8f3d9ad1
-    name: Птерок
-  - id: 55
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6e412b9d7cf6fc45
-    name: Смертоглаз
-  - id: 61
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c6f2e86a8a58ade2
-    name: Сигнифер 3-й когорты
   quest_items:
   - id: 2003021
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=f50a4bdc4ed2b779
@@ -6461,10 +7310,6 @@
   - id: 1006193
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a5ee83c9c3895cd8
     name: Тетерун
-  enemies:
-  - id: 28
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=352f5320370b08e4
-    name: Щенок куэрла
   quest_items:
   - id: 2000588
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=6adcd700e6d055ba
@@ -6919,7 +7764,21 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=de8d995eee3f7d87
     name: Ф'ламинн
   enemies:
-  - id: 4500980
+  - id: 353
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=969f1ef5562de690
+    name: Гоббуль
+  - id: 1167
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4e8fecedd94a99ab
+    name: Гоббуль-сладкоежка
+  - id: 687
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1e49dacd4b4d3a1d
+    name: Седой гоббуль
+  - id: 1091
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=de7433d2c15d9bc0
+    name: Ненасытный гоббуль
+  - id: 1748
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=074254da3ffdc8f7
+    name: Подтаявший гоббуль
   eobjects:
   - id: 2002841
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=3f1887fbaccf2447
@@ -7071,20 +7930,60 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a00f226c1712c435
     name: Капни Пакк
   enemies:
-  - id: 4515258
-  - id: 4515416
-  - id: 4515569
-  - id: 4515570
-  - id: 4515571
-  - id: 4515572
-  - id: 4515578
-  - id: 4515579
-  - id: 4515587
-  - id: 4515588
-  - id: 4515586
-  - id: 4515582
-  - id: 4515580
-  - id: 4515581
+  - id: 2359
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=024f0e5d39c478ce
+    name: tremulous moogle
+  - id: 47
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=756b5593dcff2a2b
+    name: Лесная грибница
+  - id: 220
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=33baf7f9f1bbd7ef
+    name: Волшебная грибница
+  - id: 141
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a7798de9e29ab481
+    name: Грибница-паразит
+  - id: 699
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=fc611ee929fed83d
+    name: Яростная грибница
+  - id: 199
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7c82d67cf6d825a4
+    name: Спотыкающаяся грибница
+  - id: 700
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4e8831f2c9c73fbb
+    name: Злобная белка
+  - id: 700
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4e8831f2c9c73fbb
+    name: Злобная белка
+  - id: 700
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4e8831f2c9c73fbb
+    name: Злобная белка
+  - id: 701
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=fd1bc82d44cf8a14
+    name: Недобрый примат
+  - id: 702
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=03b18fe589794941
+    name: Жуткая муха
+  - id: 702
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=03b18fe589794941
+    name: Жуткая муха
+  - id: 704
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=de226aa28e1196ca
+    name: Агрессивное растение
+  - id: 704
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=de226aa28e1196ca
+    name: Агрессивное растение
+  - id: 705
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a4c31aabe7b091dd
+    name: Злобный стропер
+  - id: 703
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=cfa0d6e0989b7471
+    name: Злобная очу
+  - id: 702
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=03b18fe589794941
+    name: Жуткая муха
+  - id: 702
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=03b18fe589794941
+    name: Жуткая муха
   eobjects:
   - id: 2003347
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=adc0338c197811a5
@@ -7153,16 +8052,36 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=36f2c08b3865b397
     name: Облачённый в белое асцианец
   enemies:
-  - id: 4502922
-  - id: 4502923
-  - id: 4502924
-  - id: 4502925
-  - id: 4502927
-  - id: 4502928
-  - id: 4502929
-  - id: 4502930
-  - id: 4502931
-  - id: 4502932
+  - id: 692
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=29906a8f1f6de25e
+    name: Атакующий бес
+  - id: 692
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=29906a8f1f6de25e
+    name: Атакующий бес
+  - id: 692
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=29906a8f1f6de25e
+    name: Атакующий бес
+  - id: 693
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=edd182a9e670c9a7
+    name: Огромная горгулья
+  - id: 694
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a2313156b4e608bb
+    name: Горбатая горгулья
+  - id: 694
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a2313156b4e608bb
+    name: Горбатая горгулья
+  - id: 695
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=420a7c9fc57b72c7
+    name: Асцианец-элементалист
+  - id: 695
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=420a7c9fc57b72c7
+    name: Асцианец-элементалист
+  - id: 697
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0dca7ee2da6e7f97
+    name: Асцианец-оккультист
+  - id: 697
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0dca7ee2da6e7f97
+    name: Асцианец-оккультист
   eobjects:
   - id: 2002858
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e6a4f7a0488fe4e2
@@ -7276,10 +8195,24 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=447c38ce9b8c114f
     name: Танкред
   enemies:
-  - id: 4620255
-  - id: 4620256
-  - id: 4620257
-  - id: 4620258
+  - id: 2670
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=618aa912548c5802
+    name: Неизвестный атакующий
+  - id: 3021
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c5ba9be117f4376e
+    name: mysterious assailant
+  - id: 2670
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=618aa912548c5802
+    name: Неизвестный атакующий
+  - id: 3021
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c5ba9be117f4376e
+    name: mysterious assailant
+  - id: 2670
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=618aa912548c5802
+    name: Неизвестный атакующий
+  - id: 2670
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=618aa912548c5802
+    name: Неизвестный атакующий
   eobjects:
   - id: 2003561
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ba7c8ea5708961e3
@@ -7543,7 +8476,9 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a2481d7033d49418
     name: Кикию
   enemies:
-  - id: 4622373
+  - id: 2672
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=61ade58f5e3ea9c8
+    name: Бродячее Око
   eobjects:
   - id: 2003570
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8ff20dd2b5bbef68
@@ -7658,9 +8593,24 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e47bbfa877d93e8
     name: Тело солдата
   enemies:
-  - id: 4628586
-  - id: 4628587
-  - id: 4628588
+  - id: 2677
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=bb58c2b53d48168a
+    name: Перекованный пират
+  - id: 3106
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=91039d0d705d5764
+    name: 2nd Cohort optio
+  - id: 2677
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=bb58c2b53d48168a
+    name: Перекованный пират
+  - id: 2677
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=bb58c2b53d48168a
+    name: Перекованный пират
+  - id: 3101
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b2358ec3a304be63
+    name: Преследовательница Зверолапов
+  - id: 3022
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=54924da4b841f1e5
+    name: Duskwight outlaw
   quest_items:
   - id: 2001214
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=0b0837fcaddae799
@@ -7714,21 +8664,54 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=71e03fcf4e275d05
     name: Мёлвиб
   enemies:
-  - id: 4628675
-  - id: 4628676
-  - id: 4628678
-  - id: 4628679
-  - id: 4628680
-  - id: 4628681
-  - id: 4628682
-  - id: 4628683
-  - id: 4628684
-  - id: 4628685
-  - id: 4628687
-  - id: 4628688
-  - id: 4628692
-  - id: 4628693
-  - id: 4628694
+  - id: 2678
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a3573fedf7f6c94d
+    name: Чешуриф-страж
+  - id: 2679
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3cf5449804e48270
+    name: Когтериф-страж
+  - id: 2678
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a3573fedf7f6c94d
+    name: Чешуриф-страж
+  - id: 2679
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3cf5449804e48270
+    name: Когтериф-страж
+  - id: 2680
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6a0c0efbd0843565
+    name: Шипориф-страж
+  - id: 2678
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a3573fedf7f6c94d
+    name: Чешуриф-страж
+  - id: 2679
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3cf5449804e48270
+    name: Когтериф-страж
+  - id: 2681
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=204550da77af6ee8
+    name: Клыкориф-страж
+  - id: 2680
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6a0c0efbd0843565
+    name: Шипориф-страж
+  - id: 2678
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a3573fedf7f6c94d
+    name: Чешуриф-страж
+  - id: 2679
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3cf5449804e48270
+    name: Когтериф-страж
+  - id: 2681
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=204550da77af6ee8
+    name: Клыкориф-страж
+  - id: 2680
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6a0c0efbd0843565
+    name: Шипориф-страж
+  - id: 2681
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=204550da77af6ee8
+    name: Клыкориф-страж
+  - id: 3894
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b72ba7a7c48ca59b
+    name: Тощий нападающий
+  - id: 2682
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2c8cb83a35169088
+    name: Перекованный мечник
   eobjects:
   - id: 2003591
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=0b11093c61222a55
@@ -8008,13 +8991,33 @@
   - id: 1009054
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=258372cf4e3a1822
   enemies:
-  - id: 4841637
-  - id: 4841638
-  - id: 4841640
-  - id: 4841641
-  - id: 4841642
-  - id: 4841643
-  - id: 4841644
+  - id: 2865
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4da365ce7637f27e
+    name: stern bodyguard
+  - id: 2868
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d62ae0c40cff6981
+    name: Вооружённый повстанец
+  - id: 2865
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4da365ce7637f27e
+    name: stern bodyguard
+  - id: 2868
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d62ae0c40cff6981
+    name: Вооружённый повстанец
+  - id: 2868
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d62ae0c40cff6981
+    name: Вооружённый повстанец
+  - id: 2868
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d62ae0c40cff6981
+    name: Вооружённый повстанец
+  - id: 2868
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d62ae0c40cff6981
+    name: Вооружённый повстанец
+  - id: 2869
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d517d569999363ac
+    name: Наёмник-близнец
+  - id: 2870
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=9df92276320c91b8
+    name: Наёмник-близнец
 
 - name:
     original: "Reap the Whirlwind"
@@ -8513,8 +9516,24 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c0f0caf192d6ec66
     name: Слафборн
   enemies:
-  - id: 4867904
-  - id: 4867905
+  - id: 2864
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=9fd0d7754f36cf4c
+    name: seasoned bodyguard
+  - id: 3894
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b72ba7a7c48ca59b
+    name: Тощий нападающий
+  - id: 2875
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ea411ecce5defa77
+    name: Фанатичный еретик
+  - id: 2863
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f8962c60b1dd6bc4
+    name: murderous mercenary
+  - id: 2875
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ea411ecce5defa77
+    name: Фанатичный еретик
+  - id: 3021
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c5ba9be117f4376e
+    name: mysterious assailant
   eobjects:
   - id: 2004151
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=36ab201876c8218a
@@ -8666,20 +9685,297 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1f23ca475590b409
     name: Алианна
   enemies:
-  - id: 5045805
-  - id: 5045806
-  - id: 5045807
-  - id: 5045957
-  - id: 5045960
-  - id: 5045961
-  - id: 5046029
-  - id: 5046030
-  - id: 5046031
-  - id: 5046037
-  - id: 5046039
-  - id: 5046040
-  - id: 5046042
-  - id: 5046043
+  - id: 1810
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d3124f298caaafd7
+    name: Лакеарий из 5-й когорты
+  - id: 58
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1f7b07f5f3e190e5
+    name: Лакеарий из 3-й когорты
+  - id: 1822
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6839eb0e7e5eebc6
+    name: Лакерий 2-ой когорты
+  - id: 1816
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=793b5bf4b355959a
+    name: Лакеарий из 4-й когорты
+  - id: 2351
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=71185e868903247e
+    name: Имперский инженер
+  - id: 3181
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f50d88fa9230d74a
+    name: Лакеарий из 6-й когорты
+  - id: 2173
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=dd9b33752c59d388
+    name: Оптий из 3-й когорты
+  - id: 1811
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f0a9fa4df8ba5543
+    name: Экит из 5-й когорты
+  - id: 59
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7fe1a9e1934bcc3c
+    name: Экит из 3-й когорты
+  - id: 1823
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=07cf2d98e52264fd
+    name: Эквит 2-ой когорты
+  - id: 1817
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=94eec3992e135eab
+    name: Экит из 4-й когорты
+  - id: 2120
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c4dcd11fac06800e
+    name: Экит 7-й когорты
+  - id: 2238
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ed2bbcefb38184ce
+    name: Имперский экит
+  - id: 3177
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=11d788bafe9eb6be
+    name: Экит из 6-й когорты
+  - id: 2173
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=dd9b33752c59d388
+    name: Оптий из 3-й когорты
+  - id: 1812
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=846d6fadcecd6a59
+    name: Секутор из 5-ой когорты
+  - id: 1824
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=05dde02e46eadd7b
+    name: Секутор 2-ой когорты
+  - id: 2235
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a980b0c9ca7284a6
+    name: Имперский секутор
+  - id: 1818
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=53915376939e2267
+    name: Секутор из 4-й когорты
+  - id: 60
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=96d3fbca363fb291
+    name: Секутор из 3-й когорты
+  - id: 3178
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1b598ab689a36214
+    name: Секутор из 6-й когорты
+  - id: 3118
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=95f191f244fc12e8
+    name: Авангард 7-й когорты
+  - id: 3179
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=eaf671c33661602b
+    name: Авангард из 6-й когорты
+  - id: 1813
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1227bdda1c03379f
+    name: Сигнифер из 5-й когорты
+  - id: 61
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c6f2e86a8a58ade2
+    name: Сигнифер 3-й когорты
+  - id: 1825
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e71a0af090fd1bac
+    name: Знаменосец 2-ой когорты
+  - id: 2236
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=decbfd6e14e429ae
+    name: Имперский сигнифер
+  - id: 1365
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4a188ca0bdec5d83
+    name: 4th Cohort imaginifer
+  - id: 1819
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0d4f41ebc62aa54d
+    name: Сигнифер из 4-й когорты
+  - id: 3180
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0043eaae66b349d9
+    name: Сигнифер из 6-й когорты
+  - id: 3334
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1811d918f7d99cee
+    name: Сигнифер 7-й когорты
+  - id: 2173
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=dd9b33752c59d388
+    name: Оптий из 3-й когорты
+  - id: 1812
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=846d6fadcecd6a59
+    name: Секутор из 5-ой когорты
+  - id: 1824
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=05dde02e46eadd7b
+    name: Секутор 2-ой когорты
+  - id: 2235
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a980b0c9ca7284a6
+    name: Имперский секутор
+  - id: 1818
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=53915376939e2267
+    name: Секутор из 4-й когорты
+  - id: 60
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=96d3fbca363fb291
+    name: Секутор из 3-й когорты
+  - id: 3178
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1b598ab689a36214
+    name: Секутор из 6-й когорты
+  - id: 3118
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=95f191f244fc12e8
+    name: Авангард 7-й когорты
+  - id: 3179
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=eaf671c33661602b
+    name: Авангард из 6-й когорты
+  - id: 3118
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=95f191f244fc12e8
+    name: Авангард 7-й когорты
+  - id: 3179
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=eaf671c33661602b
+    name: Авангард из 6-й когорты
+  - id: 57
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=66292a59974c7935
+    name: Декурион из 3-й когорты
+  - id: 1809
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=22e323230e91e1f4
+    name: Гоплит из 5-й когорты
+  - id: 53
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d38677cd5e417c01
+    name: Гоплит из 3-й когорты
+  - id: 1821
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0716d43d9b0885ef
+    name: Гопломах 2-ой когорты
+  - id: 2234
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4d8787d299058994
+    name: Имперский гоплит
+  - id: 1364
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3839e51b59b3871b
+    name: 4th Cohort triarius
+  - id: 1815
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2fdc719edef569a0
+    name: Гоплит из 4-й когорты
+  - id: 2983
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2adab9b1040b77ec
+    name: Эвокат из 5-й когорты
+  - id: 1113
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d4f2f022a64cbcc9
+    name: Имперский тессерарий
+  - id: 3176
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a84addee09114509
+    name: Гоплит из 6-й когорты
+  - id: 3110
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3529a00e2b7689e7
+    name: Гоплит 7-й когорты
+  - id: 1810
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d3124f298caaafd7
+    name: Лакеарий из 5-й когорты
+  - id: 58
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1f7b07f5f3e190e5
+    name: Лакеарий из 3-й когорты
+  - id: 1822
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6839eb0e7e5eebc6
+    name: Лакерий 2-ой когорты
+  - id: 1816
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=793b5bf4b355959a
+    name: Лакеарий из 4-й когорты
+  - id: 2351
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=71185e868903247e
+    name: Имперский инженер
+  - id: 3181
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f50d88fa9230d74a
+    name: Лакеарий из 6-й когорты
+  - id: 2173
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=dd9b33752c59d388
+    name: Оптий из 3-й когорты
+  - id: 1811
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f0a9fa4df8ba5543
+    name: Экит из 5-й когорты
+  - id: 59
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7fe1a9e1934bcc3c
+    name: Экит из 3-й когорты
+  - id: 1823
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=07cf2d98e52264fd
+    name: Эквит 2-ой когорты
+  - id: 1817
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=94eec3992e135eab
+    name: Экит из 4-й когорты
+  - id: 2120
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c4dcd11fac06800e
+    name: Экит 7-й когорты
+  - id: 2238
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ed2bbcefb38184ce
+    name: Имперский экит
+  - id: 3177
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=11d788bafe9eb6be
+    name: Экит из 6-й когорты
+  - id: 2173
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=dd9b33752c59d388
+    name: Оптий из 3-й когорты
+  - id: 57
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=66292a59974c7935
+    name: Декурион из 3-й когорты
+  - id: 1809
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=22e323230e91e1f4
+    name: Гоплит из 5-й когорты
+  - id: 53
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d38677cd5e417c01
+    name: Гоплит из 3-й когорты
+  - id: 1821
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0716d43d9b0885ef
+    name: Гопломах 2-ой когорты
+  - id: 2234
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4d8787d299058994
+    name: Имперский гоплит
+  - id: 1364
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3839e51b59b3871b
+    name: 4th Cohort triarius
+  - id: 1815
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2fdc719edef569a0
+    name: Гоплит из 4-й когорты
+  - id: 2983
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2adab9b1040b77ec
+    name: Эвокат из 5-й когорты
+  - id: 1113
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d4f2f022a64cbcc9
+    name: Имперский тессерарий
+  - id: 3176
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a84addee09114509
+    name: Гоплит из 6-й когорты
+  - id: 3110
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3529a00e2b7689e7
+    name: Гоплит 7-й когорты
+  - id: 1813
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1227bdda1c03379f
+    name: Сигнифер из 5-й когорты
+  - id: 61
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c6f2e86a8a58ade2
+    name: Сигнифер 3-й когорты
+  - id: 1825
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e71a0af090fd1bac
+    name: Знаменосец 2-ой когорты
+  - id: 2236
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=decbfd6e14e429ae
+    name: Имперский сигнифер
+  - id: 1365
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4a188ca0bdec5d83
+    name: 4th Cohort imaginifer
+  - id: 1819
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0d4f41ebc62aa54d
+    name: Сигнифер из 4-й когорты
+  - id: 3180
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0043eaae66b349d9
+    name: Сигнифер из 6-й когорты
+  - id: 3334
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1811d918f7d99cee
+    name: Сигнифер 7-й когорты
+  - id: 2173
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=dd9b33752c59d388
+    name: Оптий из 3-й когорты
+  - id: 1813
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1227bdda1c03379f
+    name: Сигнифер из 5-й когорты
+  - id: 61
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c6f2e86a8a58ade2
+    name: Сигнифер 3-й когорты
+  - id: 1825
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e71a0af090fd1bac
+    name: Знаменосец 2-ой когорты
+  - id: 2236
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=decbfd6e14e429ae
+    name: Имперский сигнифер
+  - id: 1365
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4a188ca0bdec5d83
+    name: 4th Cohort imaginifer
+  - id: 1819
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0d4f41ebc62aa54d
+    name: Сигнифер из 4-й когорты
+  - id: 3180
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0043eaae66b349d9
+    name: Сигнифер из 6-й когорты
+  - id: 3334
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1811d918f7d99cee
+    name: Сигнифер 7-й когорты
+  - id: 2173
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=dd9b33752c59d388
+    name: Оптий из 3-й когорты
   eobjects:
   - id: 2004643
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=141bd0d18c4347fd
@@ -8860,11 +10156,105 @@
   - id: 1009995
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1efbef8dc69bffc9
   enemies:
-  - id: 5034793
-  - id: 5034794
-  - id: 5034795
-  - id: 5034803
-  - id: 5034804
+  - id: 1989
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=605f7358b22ee71d
+    name: Атакующий в капюшоне
+  - id: 650
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=55bafc98ab2c87e5
+    name: Бесстрашный охотник
+  - id: 3894
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b72ba7a7c48ca59b
+    name: Тощий нападающий
+  - id: 2990
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=02e71ab5ec7fcdd2
+    name: rummaging harrier
+  - id: 3182
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=23334507233ce4e0
+    name: Яростный нападающий
+  - id: 5214
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=402c3bcfc494dd9a
+    name: caravan merchant
+  - id: 2230
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=37b1764693a0f176
+    name: ravaging harrier
+  - id: 1989
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=605f7358b22ee71d
+    name: Атакующий в капюшоне
+  - id: 652
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d523d3d826ee47e9
+    name: Ведьма-грабительница
+  - id: 4296
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6972646f525de3e7
+    name: heretic maiden
+  - id: 3182
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=23334507233ce4e0
+    name: Яростный нападающий
+  - id: 2229
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7af0f94fccc587cd
+    name: witching harrier
+  - id: 1989
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=605f7358b22ee71d
+    name: Атакующий в капюшоне
+  - id: 651
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0b26c4fe36c40f57
+    name: Неистовый охотник
+  - id: 3989
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6318ca2f4a18ec93
+    name: Huibairten's harrier
+  - id: 2990
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=02e71ab5ec7fcdd2
+    name: rummaging harrier
+  - id: 3182
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=23334507233ce4e0
+    name: Яростный нападающий
+  - id: 5215
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=12db542202ded5a8
+    name: caravan guard
+  - id: 2228
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=170dacaf1f2ad4a0
+    name: heretical harrier
+  - id: 1989
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=605f7358b22ee71d
+    name: Атакующий в капюшоне
+  - id: 650
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=55bafc98ab2c87e5
+    name: Бесстрашный охотник
+  - id: 3894
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b72ba7a7c48ca59b
+    name: Тощий нападающий
+  - id: 2990
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=02e71ab5ec7fcdd2
+    name: rummaging harrier
+  - id: 3182
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=23334507233ce4e0
+    name: Яростный нападающий
+  - id: 5214
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=402c3bcfc494dd9a
+    name: caravan merchant
+  - id: 2230
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=37b1764693a0f176
+    name: ravaging harrier
+  - id: 1989
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=605f7358b22ee71d
+    name: Атакующий в капюшоне
+  - id: 651
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0b26c4fe36c40f57
+    name: Неистовый охотник
+  - id: 3989
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6318ca2f4a18ec93
+    name: Huibairten's harrier
+  - id: 2990
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=02e71ab5ec7fcdd2
+    name: rummaging harrier
+  - id: 3182
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=23334507233ce4e0
+    name: Яростный нападающий
+  - id: 5215
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=12db542202ded5a8
+    name: caravan guard
+  - id: 2228
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=170dacaf1f2ad4a0
+    name: heretical harrier
   quest_items:
   - id: 2001470
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=ecf671352b01aff2
@@ -8952,8 +10342,24 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e24e5367a0db17c9
     name: Альфино
   enemies:
-  - id: 5040708
-  - id: 5040710
+  - id: 1989
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=605f7358b22ee71d
+    name: Атакующий в капюшоне
+  - id: 652
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d523d3d826ee47e9
+    name: Ведьма-грабительница
+  - id: 4296
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6972646f525de3e7
+    name: heretic maiden
+  - id: 3182
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=23334507233ce4e0
+    name: Яростный нападающий
+  - id: 2229
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7af0f94fccc587cd
+    name: witching harrier
+  - id: 3182
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=23334507233ce4e0
+    name: Яростный нападающий
   eobjects:
   - id: 2004657
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a39a9040d4a2a8be
@@ -9360,10 +10766,33 @@
   - id: 1010848
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6e29f3ca4e4605fa
   enemies:
-  - id: 5589283
-  - id: 5589284
-  - id: 5589285
-  - id: 5589286
+  - id: 331
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ed1af0791c112954
+    name: Борец Банды Мертвецов
+  - id: 1997
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=71700dfaeb04a030
+    name: Боец банды «Мертвецов»
+  - id: 3332
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4c069b17e994d7b5
+    name: Охрана торговца чёрного рынка
+  - id: 3332
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4c069b17e994d7b5
+    name: Охрана торговца чёрного рынка
+  - id: 333
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=774c82b648a4d2a8
+    name: Corpse Brigade pikedancer
+  - id: 3332
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4c069b17e994d7b5
+    name: Охрана торговца чёрного рынка
+  - id: 2729
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b61fc445de6b93f3
+    name: drowned seaman 3rd class
+  - id: 3333
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f80ece76c991dfca
+    name: Охрана торговца чёрного рынка
+  - id: 2737
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d2ec465a6a95f96e
+    name: Раб Левиафана
   eobjects:
   - id: 2005112
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=dfbf03ae30512c99
@@ -9596,12 +11025,105 @@
   - id: 1010878
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7089936661f924e5
   enemies:
-  - id: 5589314
-  - id: 5589315
-  - id: 5589318
-  - id: 5589325
-  - id: 5589332
-  - id: 5654263
+  - id: 57
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=66292a59974c7935
+    name: Декурион из 3-й когорты
+  - id: 1809
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=22e323230e91e1f4
+    name: Гоплит из 5-й когорты
+  - id: 53
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d38677cd5e417c01
+    name: Гоплит из 3-й когорты
+  - id: 1821
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0716d43d9b0885ef
+    name: Гопломах 2-ой когорты
+  - id: 2234
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4d8787d299058994
+    name: Имперский гоплит
+  - id: 1364
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3839e51b59b3871b
+    name: 4th Cohort triarius
+  - id: 1815
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2fdc719edef569a0
+    name: Гоплит из 4-й когорты
+  - id: 2983
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2adab9b1040b77ec
+    name: Эвокат из 5-й когорты
+  - id: 1113
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d4f2f022a64cbcc9
+    name: Имперский тессерарий
+  - id: 3176
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a84addee09114509
+    name: Гоплит из 6-й когорты
+  - id: 3110
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3529a00e2b7689e7
+    name: Гоплит 7-й когорты
+  - id: 3118
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=95f191f244fc12e8
+    name: Авангард 7-й когорты
+  - id: 3179
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=eaf671c33661602b
+    name: Авангард из 6-й когорты
+  - id: 1813
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1227bdda1c03379f
+    name: Сигнифер из 5-й когорты
+  - id: 61
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c6f2e86a8a58ade2
+    name: Сигнифер 3-й когорты
+  - id: 1825
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e71a0af090fd1bac
+    name: Знаменосец 2-ой когорты
+  - id: 2236
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=decbfd6e14e429ae
+    name: Имперский сигнифер
+  - id: 1365
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4a188ca0bdec5d83
+    name: 4th Cohort imaginifer
+  - id: 1819
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0d4f41ebc62aa54d
+    name: Сигнифер из 4-й когорты
+  - id: 3180
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0043eaae66b349d9
+    name: Сигнифер из 6-й когорты
+  - id: 3334
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1811d918f7d99cee
+    name: Сигнифер 7-й когорты
+  - id: 2173
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=dd9b33752c59d388
+    name: Оптий из 3-й когорты
+  - id: 1811
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f0a9fa4df8ba5543
+    name: Экит из 5-й когорты
+  - id: 59
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7fe1a9e1934bcc3c
+    name: Экит из 3-й когорты
+  - id: 1823
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=07cf2d98e52264fd
+    name: Эквит 2-ой когорты
+  - id: 1817
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=94eec3992e135eab
+    name: Экит из 4-й когорты
+  - id: 2120
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c4dcd11fac06800e
+    name: Экит 7-й когорты
+  - id: 2238
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ed2bbcefb38184ce
+    name: Имперский экит
+  - id: 3177
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=11d788bafe9eb6be
+    name: Экит из 6-й когорты
+  - id: 2173
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=dd9b33752c59d388
+    name: Оптий из 3-й когорты
+  - id: 3118
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=95f191f244fc12e8
+    name: Авангард 7-й когорты
+  - id: 3179
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=eaf671c33661602b
+    name: Авангард из 6-й когорты
+  - id: 3335
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=66da422d9aac5ada
+    name: Жнец 7-й когорты
   eobjects:
   - id: 2005043
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=598cbe082e31cf4f
@@ -9962,18 +11484,162 @@
   - id: 1010968
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=03268ff3185546cf
   enemies:
-  - id: 5607264
-  - id: 5607265
-  - id: 5607266
-  - id: 5607269
-  - id: 5607271
-  - id: 5607272
-  - id: 5607212
-  - id: 5607213
-  - id: 5607214
-  - id: 5607215
-  - id: 5607216
-  - id: 5607217
+  - id: 3572
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=917a6bab1e392a86
+    name: Наблюдающая стрекоза
+  - id: 3589
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4381f5aba13c67c8
+    name: Следящая стрекоза
+  - id: 637
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7fc9ba02e65c310e
+    name: Стрекоза
+  - id: 1638
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2a098379a66a8fad
+    name: Стрекоза-охотник
+  - id: 3338
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e90a6f85695fc097
+    name: Вертлявый дракон
+  - id: 685
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=28cd11243fc8cbbe
+    name: Dravanian outwatch
+  - id: 3572
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=917a6bab1e392a86
+    name: Наблюдающая стрекоза
+  - id: 3589
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4381f5aba13c67c8
+    name: Следящая стрекоза
+  - id: 637
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7fc9ba02e65c310e
+    name: Стрекоза
+  - id: 1638
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2a098379a66a8fad
+    name: Стрекоза-охотник
+  - id: 3338
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e90a6f85695fc097
+    name: Вертлявый дракон
+  - id: 685
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=28cd11243fc8cbbe
+    name: Dravanian outwatch
+  - id: 3572
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=917a6bab1e392a86
+    name: Наблюдающая стрекоза
+  - id: 3589
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4381f5aba13c67c8
+    name: Следящая стрекоза
+  - id: 637
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7fc9ba02e65c310e
+    name: Стрекоза
+  - id: 1638
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2a098379a66a8fad
+    name: Стрекоза-охотник
+  - id: 3338
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e90a6f85695fc097
+    name: Вертлявый дракон
+  - id: 685
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=28cd11243fc8cbbe
+    name: Dravanian outwatch
+  - id: 3339
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0c9242ec9911b8af
+    name: Атакующая виверна
+  - id: 3339
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0c9242ec9911b8af
+    name: Атакующая виверна
+  - id: 3339
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0c9242ec9911b8af
+    name: Атакующая виверна
+  - id: 1849
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a9a01b2a17558906
+    name: Пронорливый эвис
+  - id: 3567
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=53c5e28158585e8c
+    name: Dravanian aevis
+  - id: 3963
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=56e5be8389f52b23
+    name: barb of Tarasque
+  - id: 657
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=154bde7e7ec37bc9
+    name: Трастаевис
+  - id: 1756
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=89630761af0effa2
+    name: red aevis
+  - id: 3336
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d8c4903a13524779
+    name: Разведчик Орды
+  - id: 1849
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a9a01b2a17558906
+    name: Пронорливый эвис
+  - id: 3567
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=53c5e28158585e8c
+    name: Dravanian aevis
+  - id: 3963
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=56e5be8389f52b23
+    name: barb of Tarasque
+  - id: 657
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=154bde7e7ec37bc9
+    name: Трастаевис
+  - id: 1756
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=89630761af0effa2
+    name: red aevis
+  - id: 3336
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d8c4903a13524779
+    name: Разведчик Орды
+  - id: 1849
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a9a01b2a17558906
+    name: Пронорливый эвис
+  - id: 3567
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=53c5e28158585e8c
+    name: Dravanian aevis
+  - id: 3963
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=56e5be8389f52b23
+    name: barb of Tarasque
+  - id: 657
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=154bde7e7ec37bc9
+    name: Трастаевис
+  - id: 1756
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=89630761af0effa2
+    name: red aevis
+  - id: 3336
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d8c4903a13524779
+    name: Разведчик Орды
+  - id: 1849
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a9a01b2a17558906
+    name: Пронорливый эвис
+  - id: 3567
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=53c5e28158585e8c
+    name: Dravanian aevis
+  - id: 3963
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=56e5be8389f52b23
+    name: barb of Tarasque
+  - id: 657
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=154bde7e7ec37bc9
+    name: Трастаевис
+  - id: 1756
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=89630761af0effa2
+    name: red aevis
+  - id: 3336
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d8c4903a13524779
+    name: Разведчик Орды
+  - id: 1849
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a9a01b2a17558906
+    name: Пронорливый эвис
+  - id: 3567
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=53c5e28158585e8c
+    name: Dravanian aevis
+  - id: 3963
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=56e5be8389f52b23
+    name: barb of Tarasque
+  - id: 657
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=154bde7e7ec37bc9
+    name: Трастаевис
+  - id: 1756
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=89630761af0effa2
+    name: red aevis
+  - id: 3336
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d8c4903a13524779
+    name: Разведчик Орды
+  - id: 3337
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=cbff27116d84dbb1
+    name: Могучий дракон Орды
   eobjects:
   - id: 2005062
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a0dbd5ada97dae91
@@ -10133,7 +11799,9 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=23eeeb60a2cb65ae
     name: Минфилия
   enemies:
-  - id: 5584488
+  - id: 3340
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7717ad146da80753
+    name: Моргавр
   eobjects:
   - id: 2005064
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=11e95f6f64dd8db2
@@ -10171,17 +11839,183 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5afbe4e2acb984a9
     name: Хмурый учёный
   enemies:
-  - id: 5607525
-  - id: 5607526
-  - id: 5607527
-  - id: 5607530
-  - id: 5607531
-  - id: 5607534
-  - id: 5607537
-  - id: 5607538
-  - id: 5607540
-  - id: 5607541
-  - id: 5607542
+  - id: 23
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=65b8a7072b27eab3
+    name: Демоническая мухоловка
+  - id: 162
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1ec60d8a2333acc3
+    name: Саженец молочая
+  - id: 175
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1e48e58ccfcc7d13
+    name: poisonous flytrap
+  - id: 1085
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f2ac5d28d7861fbc
+    name: Океаническая каллизия
+  - id: 3341
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6782152f070d7a65
+    name: Мухоловка фиолетов
+  - id: 23
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=65b8a7072b27eab3
+    name: Демоническая мухоловка
+  - id: 162
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1ec60d8a2333acc3
+    name: Саженец молочая
+  - id: 175
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1e48e58ccfcc7d13
+    name: poisonous flytrap
+  - id: 1085
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f2ac5d28d7861fbc
+    name: Океаническая каллизия
+  - id: 3341
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6782152f070d7a65
+    name: Мухоловка фиолетов
+  - id: 23
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=65b8a7072b27eab3
+    name: Демоническая мухоловка
+  - id: 162
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1ec60d8a2333acc3
+    name: Саженец молочая
+  - id: 175
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1e48e58ccfcc7d13
+    name: poisonous flytrap
+  - id: 1085
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f2ac5d28d7861fbc
+    name: Океаническая каллизия
+  - id: 3341
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6782152f070d7a65
+    name: Мухоловка фиолетов
+  - id: 171
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b047b168eb2aa087
+    name: Калонг
+  - id: 112
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=df22de8056979921
+    name: Калонг
+  - id: 3342
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=570fd7861d21d5d3
+    name: Snakemolt bat
+  - id: 171
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b047b168eb2aa087
+    name: Калонг
+  - id: 112
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=df22de8056979921
+    name: Калонг
+  - id: 3342
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=570fd7861d21d5d3
+    name: Snakemolt bat
+  - id: 24
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=338e6718822b6ede
+    name: Энт
+  - id: 232
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=dd2b6d893f46c5bd
+    name: Заражённый энт
+  - id: 163
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=30f4ad324e86ffb9
+    name: Страж Края Сильфов
+  - id: 1136
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c40dc2d193cb95eb
+    name: Заросший энт
+  - id: 233
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6c121b90f5c5b0a0
+    name: Древний энт
+  - id: 508
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a6ac75c2a4b0fa21
+    name: Разъярённый вяз
+  - id: 607
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1154a4167a36ba09
+    name: angered elm
+  - id: 3343
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b1074811e7af9aac
+    name: Солодовый энт
+  - id: 236
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8efc2abaa430f874
+    name: Неупокоенный
+  - id: 2038
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f9112919d3dcdd33
+    name: deepvoid soul
+  - id: 3344
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ec448da92512ee4f
+    name: Амдапорский призрак
+  - id: 504
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8c9fa6be5b3bf49c
+    name: Болотный жупел
+  - id: 1123
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=655c83de0ce76478
+    name: wicked soul
+  - id: 1785
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=be2089b3ef9ad9e5
+    name: Блуждающая душа
+  - id: 236
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8efc2abaa430f874
+    name: Неупокоенный
+  - id: 2038
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f9112919d3dcdd33
+    name: deepvoid soul
+  - id: 3344
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ec448da92512ee4f
+    name: Амдапорский призрак
+  - id: 504
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8c9fa6be5b3bf49c
+    name: Болотный жупел
+  - id: 1123
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=655c83de0ce76478
+    name: wicked soul
+  - id: 1785
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=be2089b3ef9ad9e5
+    name: Блуждающая душа
+  - id: 236
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8efc2abaa430f874
+    name: Неупокоенный
+  - id: 2038
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f9112919d3dcdd33
+    name: deepvoid soul
+  - id: 3344
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ec448da92512ee4f
+    name: Амдапорский призрак
+  - id: 504
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8c9fa6be5b3bf49c
+    name: Болотный жупел
+  - id: 1123
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=655c83de0ce76478
+    name: wicked soul
+  - id: 1785
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=be2089b3ef9ad9e5
+    name: Блуждающая душа
+  - id: 236
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8efc2abaa430f874
+    name: Неупокоенный
+  - id: 2038
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f9112919d3dcdd33
+    name: deepvoid soul
+  - id: 3344
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ec448da92512ee4f
+    name: Амдапорский призрак
+  - id: 504
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8c9fa6be5b3bf49c
+    name: Болотный жупел
+  - id: 1123
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=655c83de0ce76478
+    name: wicked soul
+  - id: 1785
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=be2089b3ef9ad9e5
+    name: Блуждающая душа
+  - id: 236
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8efc2abaa430f874
+    name: Неупокоенный
+  - id: 2038
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f9112919d3dcdd33
+    name: deepvoid soul
+  - id: 3344
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ec448da92512ee4f
+    name: Амдапорский призрак
+  - id: 504
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8c9fa6be5b3bf49c
+    name: Болотный жупел
+  - id: 1123
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=655c83de0ce76478
+    name: wicked soul
+  - id: 1785
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=be2089b3ef9ad9e5
+    name: Блуждающая душа
   eobjects:
   - id: 2005065
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8a9082be4cd2d1a7

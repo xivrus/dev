@@ -356,8 +356,12 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=017bceb949995fa4
     name: Ализе
   enemies:
-  - id: 7021907
-  - id: 7005734
+  - id: 2234
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4d8787d299058994
+    name: Имперский гоплит
+  - id: 6736
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=622f251372812aec
+    name: Имперский хищник
   eobjects:
   - id: 2008157
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=900772b368880fb0
@@ -442,8 +446,12 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=95665e52da7e3761
     name: Ализе
   enemies:
-  - id: 7021908
-  - id: 7021909
+  - id: 5578
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7a934b61a19689c7
+    name: Имперский лакеарий
+  - id: 2236
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=decbfd6e14e429ae
+    name: Имперский сигнифер
   eobjects:
   - id: 2007955
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=09d238d275594e5c
@@ -559,13 +567,6 @@
   - id: 1020842
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=32b6fe1984e78820
     name: Гризельдис
-  enemies:
-  - id: 7447
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d705c575232e6c41
-    name: Старый буйвол
-  - id: 7450
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1ae53b82f0a3519f
-    name: Кусачка Уэла
   quest_items:
   - id: 2002391
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=44a68732c1fcbf5c
@@ -708,11 +709,33 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=530fe82bdca761a4
     name: Меффрид
   enemies:
-  - id: 7021915
-  - id: 7021917
-  - id: 7022968
-  - id: 7005944
-  - id: 7022969
+  - id: 5895
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d91eecd1ea20466b
+    name: Qiqirn eggbiter
+  - id: 5829
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=bc79e8cc9fa788fb
+    name: Кикирн-добытчик
+  - id: 5934
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=5ad84cd51ff49b8f
+    name: Кикирн-разрыватель
+  - id: 5895
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d91eecd1ea20466b
+    name: Qiqirn eggbiter
+  - id: 5829
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=bc79e8cc9fa788fb
+    name: Кикирн-добытчик
+  - id: 5934
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=5ad84cd51ff49b8f
+    name: Кикирн-разрыватель
+  - id: 5829
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=bc79e8cc9fa788fb
+    name: Кикирн-добытчик
+  - id: 5830
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7148e43918ddcc23
+    name: Кикирн-разгрызатель
+  - id: 5829
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=bc79e8cc9fa788fb
+    name: Кикирн-добытчик
   eobjects:
   - id: 2008681
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=854a60c0d335190a
@@ -1570,6 +1593,7 @@
 
 - name:
     original: "Where the Streets Are Paved with Koban"
+    translated: "Правители улиц"
   level: 61
   type: main-scenario
   url:
@@ -1643,6 +1667,7 @@
 
 - name:
     original: "By the Grace of Lord Lolorito"
+    translated: "Милость лорда Лолорито"
   level: 61
   type: main-scenario
   url:
@@ -1706,6 +1731,7 @@
 
 - name:
     original: "A Good Samurai Is Hard to Find"
+    translated: "Хорошего самурая непросто найти"
   level: 61
   type: main-scenario
   url:
@@ -1734,30 +1760,31 @@
   - id: 5010000
   - id: 1018982
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e415641b6f4ad3c5
-    name: Karaku
+    name: Караку
   - id: 1019002
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6feb015ee68b9e8e
-    name: Kotokaze
+    name: Котоказе
   - id: 1020469
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a4be66c08a1a7ab9
-    name: curt captain
+    name: Молчаливый капитан
   - id: 1020470
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=80fb0fd4f1fb1bca
-    name: meticulous merchant
+    name: Хитрый торговец
   - id: 1020471
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=68480d76a3dd6a82
-    name: Hannish spice trader
+    name: Торговец специями из ханства
   - id: 1020472
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2823e7c5c73f928f
     name: Лиз
   quest_items:
   - id: 2002099
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=1af01c9fa9b5e718
-    name: Yugiri and Gosetsu sketch
+    name: Зарисовка Югири и Госэцу
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=1af01c9fa9b5e718
 
 - name:
     original: "It's Probably a Trap"
+    translated: "Возможно, это ловушка"
   level: 61
   type: main-scenario
   url:
@@ -1783,7 +1810,7 @@
     name: Лиз
   - id: 1020473
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=37c81481bf6e99ab
-    name: Gyodo
+    name: Гиодо
   - id: 1020474
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=65dc4350aec34925
     name: Лиз
@@ -1819,7 +1846,7 @@
     name: Ализе
   - id: 1020479
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2f98ebbdb8953908
-    name: Soroban
+    name: Соробан
   - id: 1020480
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c46103ca7e59aea6
     name: Хэнкок
@@ -1829,6 +1856,7 @@
 
 - name:
     original: "Making the Catfish Sing"
+    translated: "Открывает рыба рот"
   level: 61
   type: main-scenario
   url:
@@ -1852,7 +1880,7 @@
     name: Ализе
   - id: 1020479
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2f98ebbdb8953908
-    name: Soroban
+    name: Соробан
   - id: 1020480
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c46103ca7e59aea6
     name: Хэнкок
@@ -1870,10 +1898,10 @@
     name: Ализе
   - id: 1020489
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4efb1f5eae7960f7
-    name: Soroban
+    name: Соробан
   - id: 1020490
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9c9c793a75b735e5
-    name: Gyodo
+    name: Гиодо
   - id: 1020466
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=155a90a9b2b81788
     name: Татару
@@ -1896,6 +1924,7 @@
 
 - name:
     original: "Once More, to the Ruby Sea"
+    translated: "Восход над Рубиновым морем"
   level: 62
   type: main-scenario
   url:
@@ -1925,13 +1954,13 @@
     name: Альфино
   - id: 1020490
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9c9c793a75b735e5
-    name: Gyodo
+    name: Гиодо
   - id: 1020491
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4da859c746192744
-    name: Sekiseigumi blade
+    name: Вояка Сэкисэйгуми
   - id: 1020485
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0f5991c1b7723e85
-    name: Soroban
+    name: Соробан
   - id: 1020488
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0af23d2e80437ce6
     name: Госэцу
@@ -1949,7 +1978,7 @@
     name: Татару
   - id: 1019891
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=56a97676c74c7ad7
-    name: Soroban
+    name: Соробан
   - id: 1019888
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2d98174e392b5bdc
     name: Лиз
@@ -1965,6 +1994,7 @@
 
 - name:
     original: "Open Water"
+    translated: "Открытые воды"
   level: 62
   type: main-scenario
   url:
@@ -1974,7 +2004,7 @@
   actors:
   - id: 1019891
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=56a97676c74c7ad7
-    name: Soroban
+    name: Соробан
   - id: 1019888
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2d98174e392b5bdc
     name: Лиз
@@ -1995,13 +2025,13 @@
     name: Госэцу
   - id: 1019896
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5800e4b9f5377c68
-    name: Soroban
+    name: Соробан
   - id: 1019897
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0d503e2027b3b6cf
     name: Лиз
   - id: 1019898
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f430281e9a019ad3
-    name: Tansui
+    name: Тэнсу
   - id: 1019899
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=61dc643c91ce0633
     name: Лиз
@@ -2013,13 +2043,14 @@
     name: Госэцу
   - id: 1019902
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4013a1c3f4912365
-    name: Soroban
+    name: Соробан
   eobjects:
   - id: 2007845
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=cd130a2377035134
 
 - name:
     original: "Boys with Boats"
+    translated: "Детишки и их лодочки"
   level: 62
   type: main-scenario
   url:
@@ -2034,7 +2065,7 @@
   actors:
   - id: 1019898
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f430281e9a019ad3
-    name: Tansui
+    name: Тэнсу
   - id: 1019899
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=61dc643c91ce0633
     name: Лиз
@@ -2046,7 +2077,7 @@
     name: Госэцу
   - id: 1019902
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4013a1c3f4912365
-    name: Soroban
+    name: Соробан
   - id: 1019903
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=01995b815a5a7712
     name: Лиз
@@ -2058,7 +2089,7 @@
     name: Госэцу
   - id: 1019906
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f557ea13cc3fce6f
-    name: Soroban
+    name: Соробан
   - id: 1019907
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=68c98c190f0ba516
   - id: 1019908
@@ -2080,7 +2111,7 @@
     name: Лиз
   - id: 1023650
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=46fe07465032b224
-    name: Soroban
+    name: Соробан
   - id: 1023647
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9a3b6b9d3c624e84
     name: Лиз
@@ -2099,6 +2130,7 @@
 
 - name:
     original: "To Bend with the Wind"
+    translated: "Кто не гнётся, тот ломается"
   level: 62
   type: main-scenario
   url:
@@ -2113,7 +2145,7 @@
   actors:
   - id: 1023650
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=46fe07465032b224
-    name: Soroban
+    name: Соробан
   - id: 1023647
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9a3b6b9d3c624e84
     name: Лиз
@@ -2125,10 +2157,10 @@
     name: Госэцу
   - id: 1023683
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f37dfce487558745
-    name: proud Confederate
+    name: Гордый конфедерат
   - id: 1019915
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9bb8819abaf99913
-    name: Soroban
+    name: Соробан
   - id: 1019916
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b4b89674945cfa23
     name: Лиз
@@ -2140,7 +2172,7 @@
     name: Госэцу
   - id: 1019919
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8211824165b288aa
-    name: Soroban
+    name: Соробан
   - id: 1019920
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9864c23ac8c637ad
     name: Лиз
@@ -2185,8 +2217,18 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e40cf6d3d8e41b6a
     name: Ализе
   enemies:
-  - id: 6829390
-  - id: 6829391
+  - id: 6721
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=49f0ba4c1fa9d119
+    name: Агрессивный гиуки
+  - id: 6723
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2fc4c51e7ffd8723
+    name: Рычащий гиуки
+  - id: 6721
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=49f0ba4c1fa9d119
+    name: Агрессивный гиуки
+  - id: 6723
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2fc4c51e7ffd8723
+    name: Рычащий гиуки
   eobjects:
   - id: 2007851
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ff60da4bcfe7f60f
@@ -2201,6 +2243,7 @@
 
 - name:
     original: "Confederate Consternation"
+    translated: "Оцепеневшая Конфедерация"
   level: 62
   type: main-scenario
   url:
@@ -2216,7 +2259,7 @@
     name: Лиз
   - id: 1019931
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=88ac1517ca063e8d
-    name: Tansui
+    name: Тэнсу
   - id: 1019933
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=44d822e72bbd4f68
     name: Лиз
@@ -2225,10 +2268,10 @@
     name: Ализе
   - id: 1021505
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5ade89ca27feb1c5
-    name: Rasho
+    name: Рашо
   - id: 1019935
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b4032ff7a7febf7f
-    name: Tansui
+    name: Тэнсу
   - id: 1019936
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cc1f726ee8ada77b
     name: Ализе
@@ -2249,17 +2292,18 @@
     name: Ализе
   - id: 1021508
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7760e20d284bf2a0
-    name: Nawashiro
+    name: Навасиро
   eobjects:
   - id: 2007852
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=48e5a15e7347532e
-    name: arms crate
+    name: Ящик с оружием
   - id: 2007854
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=4319be9132d31631
-    name: stacked crate
+    name: Ящик с припасами
 
 - name:
     original: "The Solace of the Sea"
+    translated: "Милость моря"
   level: 62
   type: main-scenario
   url:
@@ -2269,21 +2313,22 @@
   actors:
   - id: 1021517
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c1bd3d6cf0d1a3b9
-    name: Afumi
+    name: Афуми
   - id: 1021513
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d536baba2476a385
-    name: Aokumo
+    name: Аокумо
   - id: 1022959
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=024efcd932486f00
-    name: seasick Doman recruit
+    name: Страдающий рекрут
   quest_items:
   - id: 2002283
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=f5a3ec67f9cdae66
-    name: sack of landlubber's best mate
+    name: Лекарство для непривыкших к морю
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=f5a3ec67f9cdae66
 
 - name:
     original: "The Arrows of Misfortune"
+    translated: "Стрелы не-удачи"
   level: 62
   type: main-scenario
   url:
@@ -2293,20 +2338,25 @@
   actors:
   - id: 1021507
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=50e61b60f60946e9
-    name: Kajika
+    name: Каджика
   - id: 1023682
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=51aea01c2db05183
-    name: gyuki carcass
+    name: Останки гиуки
   enemies:
-  - id: 7011281
+  - id: 6721
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=49f0ba4c1fa9d119
+    name: Агрессивный гиуки
+  - id: 6723
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2fc4c51e7ffd8723
+    name: Рычащий гиуки
   quest_items:
   - id: 2002387
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=76607ae5e3eeeb07
-    name: unbroken arrow
+    name: неповреждённая стрела
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=76607ae5e3eeeb07
   - id: 2002388
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=622c30fcefb2b851
-    name: cut of gyuki tail meat
+    name: Отрез мяса с хвоста гиуки
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=622c30fcefb2b851
   eobjects:
   - id: 2009002
@@ -2320,6 +2370,7 @@
 
 - name:
     original: "The Last Voyage"
+    translated: "Последнее плавание"
   level: 62
   type: main-scenario
   url:
@@ -2329,10 +2380,10 @@
   actors:
   - id: 1021509
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b9f8cb16b7379ea4
-    name: Aranami
+    name: Аранами
   - id: 1022401
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=57facb369c2105b4
-    name: Confederate recruit
+    name: Рекрут Конфедерации
   eobjects:
   - id: 2008475
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=162fd0016ba0a573
@@ -2352,6 +2403,7 @@
 
 - name:
     original: "Alisaie's Stones"
+    translated: "Ализе показывает зубы"
   level: 62
   type: main-scenario
   url:
@@ -2366,10 +2418,10 @@
   actors:
   - id: 1021511
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=97eb9d6f3fdb22fa
-    name: Hirase
+    name: Эрасэ
   - id: 1019946
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5d8817c22fd11458
-    name: industrious pirate
+    name: Прилежный пират
   - id: 1019944
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=95e58d6ce2a92813
   - id: 1019939
@@ -2380,18 +2432,45 @@
     name: Лиз
   - id: 1020363
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0808f8bd4c6eb57b
-    name: Tansui
+    name: Тэнсу
   - id: 1021505
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5ade89ca27feb1c5
-    name: Rasho
+    name: Рашо
   enemies:
-  - id: 6829455
-  - id: 6829456
-  - id: 6829464
+  - id: 5740
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=df97fc489f57088d
+    name: flying shark
+  - id: 6505
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a2c7298a0960225e
+    name: shark out of water
+  - id: 6722
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=be83c07052c18854
+    name: aggressive shark
+  - id: 5740
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=df97fc489f57088d
+    name: flying shark
+  - id: 6505
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a2c7298a0960225e
+    name: shark out of water
+  - id: 6722
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=be83c07052c18854
+    name: aggressive shark
+  - id: 5743
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=45d2f0c982b0b6ac
+    name: Red bukan
+  - id: 6477
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8df93804922a51ba
+    name: Red ambusher
+  - id: 5832
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0ade41ced936dc68
+    name: sharpshell of the Red
+  - id: 6483
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=df034415d3170d1a
+    name: Redmost raider
   quest_items:
   - id: 2002093
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=2143effba492ad0b
-    name: rotting fish
+    name: Сгнившая рыба
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=2143effba492ad0b
   eobjects:
   - id: 2007911
@@ -2408,6 +2487,7 @@
 
 - name:
     original: "Under the Sea"
+    translated: "В морских глубинах"
   level: 62
   type: main-scenario
   url:
@@ -2422,13 +2502,13 @@
   actors:
   - id: 1021505
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5ade89ca27feb1c5
-    name: Rasho
+    name: Рашо
   - id: 1019936
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cc1f726ee8ada77b
     name: Ализе
   - id: 1020363
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0808f8bd4c6eb57b
-    name: Tansui
+    name: Тэнсу
   - id: 1019951
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=27e4ef6aabd7d49c
     name: Лиз
@@ -2451,13 +2531,14 @@
     name: Лиз
   - id: 1019958
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=93c39b74ae14ee0e
-    name: Soroban
+    name: Соробан
   eobjects:
   - id: 2007914
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=22d004bf58bbaeaf
 
 - name:
     original: "Of Kojin and Kami"
+    translated: "Кодзин и ками"
   level: 62
   type: main-scenario
   url:
@@ -2472,7 +2553,7 @@
   actors:
   - id: 1019958
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=93c39b74ae14ee0e
-    name: Soroban
+    name: Соробан
   - id: 1019956
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9fa97904fec2ddaf
     name: Ализе
@@ -2481,10 +2562,10 @@
     name: Лиз
   - id: 1019178
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=79cfa09fa33645a4
-    name: Bunchin
+    name: Бунчин
   - id: 1019960
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=33dc14edbe3dd681
-    name: Soroban
+    name: Соробан
   - id: 1019961
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4efe0312cd59d850
     name: Ализе
@@ -2497,18 +2578,15 @@
   - id: 1019964
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e8c463a287c31b55
     name: Лиз
-  enemies:
-  - id: 6638
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a646c9c1c68c1824
-    name: canal vanara
   quest_items:
   - id: 2002094
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=03b9750194a4433d
-    name: unkiu carapace
+    name: Панцирь унки
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=03b9750194a4433d
 
 - name:
     original: "In Soroban We Trust"
+    translated: "Соробан не подведёт"
   level: 63
   type: main-scenario
   url:
@@ -2523,7 +2601,7 @@
   actors:
   - id: 1019958
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=93c39b74ae14ee0e
-    name: Soroban
+    name: Соробан
   - id: 1019957
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=643b723a10413dde
     name: Лиз
@@ -2544,10 +2622,11 @@
     name: Ализе
   - id: 1021614
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8860d2c57081290f
-    name: Soroban
+    name: Соробан
 
 - name:
     original: "Forever and Ever Apart"
+    translated: "Разобщённые"
   level: 63
   type: main-scenario
   url:
@@ -2568,7 +2647,7 @@
     name: Ализе
   - id: 1019197
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8e2df4555a4f39ff
-    name: Shiosai
+    name: Шиосай
   - id: 1019973
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d0a4a7e26b1e581c
     name: Лиз
@@ -2578,6 +2657,7 @@
 
 - name:
     original: "In Darkness the Magatama Dreams"
+    translated: "Магатама во тьме"
   level: 63
   type: main-scenario
   url:
@@ -2599,27 +2679,28 @@
     name: Лиз
   - id: 1022365
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=11f980f948088439
-    name: Ihanami
+    name: Иханами
   - id: 1022366
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=09b255b7b3aba8a3
-    name: Yunagi
+    name: Юнаги
   - id: 5010000
   quest_items:
   - id: 2002243
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=6d2f425374dd444f
-    name: enchanted lamp
+    name: Зачарованная лампа
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=6d2f425374dd444f
   - id: 2002095
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=33d3fa6c29d9524b
-    name: Yasakani-no-Magatama
+    name: Ясакани-но-Магатама
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=33d3fa6c29d9524b
   eobjects:
   - id: 2007920
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=80ec73357b1b5d4c
-    name: shimmering object
+    name: Какая-то блестящая фигня
 
 - name:
     original: "The Whims of the Divine"
+    translated: "Причуды богов"
   level: 63
   type: main-scenario
   url:
@@ -2635,10 +2716,10 @@
     name: Лиз
   - id: 1019178
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=79cfa09fa33645a4
-    name: Bunchin
+    name: Бунчин
   - id: 1019960
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=33dc14edbe3dd681
-    name: Soroban
+    name: Соробан
   - id: 1019961
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4efe0312cd59d850
     name: Ализе
@@ -2648,11 +2729,12 @@
   quest_items:
   - id: 2002096
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=93da59d4c2c3c4e0
-    name: Yasakani-no-Magatama
+    name: Ясакани-но-Магатама
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=93da59d4c2c3c4e0
 
 - name:
     original: "Breaking and Delivering"
+    translated: "Доставка со взломом"
   level: 63
   type: main-scenario
   url:
@@ -2679,7 +2761,7 @@
     name: Лиз
   - id: 1019178
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=79cfa09fa33645a4
-    name: Bunchin
+    name: Бунчин
   - id: 1020624
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5692df70760ac4d8
     name: Лиз
@@ -2700,12 +2782,24 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=68598bad7b474cc9
     name: Лиз
   enemies:
-  - id: 6913091
-  - id: 6836836
-  - id: 6836839
-  - id: 6836841
-  - id: 6913092
-  - id: 6913377
+  - id: 5833
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=cd5ec2e093c2564f
+    name: spaeshell of the Red
+  - id: 5832
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0ade41ced936dc68
+    name: sharpshell of the Red
+  - id: 5832
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0ade41ced936dc68
+    name: sharpshell of the Red
+  - id: 5834
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=03fd0c95e7649e38
+    name: softshell of the Red
+  - id: 5834
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=03fd0c95e7649e38
+    name: softshell of the Red
+  - id: 5833
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=cd5ec2e093c2564f
+    name: spaeshell of the Red
   eobjects:
   - id: 2007922
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ace0d6cf8d9dc5d3
@@ -2714,6 +2808,7 @@
 
 - name:
     original: "The Lord of the Revel"
+    translated: "Повелитель поединков"
   level: 63
   type: main-scenario
   url:
@@ -2746,13 +2841,13 @@
     name: Лиз
   - id: 1019990
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=25d8c16f105d4b08
-    name: stupefied senior
+    name: Сбитый с толку командир
   - id: 1019991
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e3784970eb545618
-    name: flustered fisher
+    name: Взволнованный рыбак
   - id: 1019992
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ae62a22a82d86e5d
-    name: industrious pirate
+    name: Предприимчивый пират
   - id: 1019988
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fb984a3a264f7c9b
     name: Лиз
@@ -2762,10 +2857,11 @@
   eobjects:
   - id: 2007853
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5e69760f6a12ad80
-    name: vault door
+    name: Врата хранилища
 
 - name:
     original: "Tide Goes in, Imperials Go Out"
+    translated: "Прилив, сметающий имперцев"
   level: 63
   type: main-scenario
   url:
@@ -2786,22 +2882,23 @@
     name: Ализе
   - id: 1019990
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=25d8c16f105d4b08
-    name: stupefied senior
+    name: Сбитый с толку командир
   - id: 1019991
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e3784970eb545618
-    name: flustered fisher
+    name: Взволнованный рыбак
   - id: 1019992
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ae62a22a82d86e5d
-    name: industrious pirate
+    name: Предприимчивый пират
   - id: 1019993
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=156fd08da057639b
     name: Лиз
   - id: 1019947
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d0c3c51ec2e49a80
-    name: industrious pirate
+    name: Предприимчивый пират
 
 - name:
     original: "A Silence in Three Parts"
+    translated: "Трёхчастная тишина"
   level: 63
   type: main-scenario
   url:
@@ -2848,6 +2945,7 @@
 
 - name:
     original: "Life after Doma"
+    translated: "Жизнь после Домы"
   level: 64
   type: main-scenario
   url:
@@ -2871,7 +2969,7 @@
     name: Лиз
   - id: 1020000
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eb28f46619a74141
-    name: Namai youth
+    name: Молодой селянин
   - id: 1020001
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=36709f01477814f8
     name: Госэцу
@@ -2895,7 +2993,7 @@
     name: Госэцу
   - id: 1020004
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5c60f76cf142dcab
-    name: Liberation Front guard
+    name: Страж Фронта освобождения
   eobjects:
   - id: 2007834
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=04e7b16820c5ec11
@@ -2903,6 +3001,7 @@
 
 - name:
     original: "A Glimpse of Madness"
+    translated: "Глоток безумия"
   level: 64
   type: main-scenario
   url:
@@ -2917,7 +3016,7 @@
   actors:
   - id: 1020004
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5c60f76cf142dcab
-    name: Liberation Front guard
+    name: Страж Фронта освобождения
   - id: 1020007
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c4f791ff0f04712a
     name: Госэцу
@@ -2929,7 +3028,7 @@
     name: Югири
   - id: 1020017
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7d840fc674c35ef4
-    name: Liberation Front infantry
+    name: Боец Фронта освобождения
   - id: 1020009
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=25b8aa115df9ba54
     name: Госэцу
@@ -2939,6 +3038,7 @@
 
 - name:
     original: "The Stubborn Remainder"
+    translated: "Упрямое напоминание"
   level: 64
   type: main-scenario
   url:
@@ -2954,7 +3054,7 @@
     name: Лиз
   - id: 1020017
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7d840fc674c35ef4
-    name: Liberation Front infantry
+    name: Боец Фронта освобождения
   - id: 1020012
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cb4b9a32c45e45e7
     name: Югири
@@ -2963,19 +3063,20 @@
     name: Лиз
   - id: 1020015
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=88f3aa7732ab26ee
-    name: Miyama
+    name: Миама
   - id: 1019263
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4d28fc81c08b26df
-    name: Honami
+    name: Хонами
   - id: 1022719
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2b017007f99b4ff9
-    name: Chigusa
+    name: Чигуза
   - id: 1019259
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=709e3e946d5fbf96
     name: Масатсучи
 
 - name:
     original: "The Ones We Leave Behind"
+    translated: "Оставленные"
   level: 64
   type: main-scenario
   url:
@@ -2991,14 +3092,14 @@
     name: Лиз
   - id: 1020018
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9ab8a4a039ebaa1a
-    name: Azami
+    name: Азами
   - id: 1020071
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=63c527d56d636396
   - id: 1020072
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=29c9bb6a234d9013
   - id: 1020019
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=832928fcefeb8f96
-    name: Azami
+    name: Азами
   - id: 1020020
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2711e402445c316e
     name: Югири
@@ -3006,25 +3107,35 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3cfc4f0e8876d50e
     name: Лиз
   enemies:
-  - id: 6791550
-  - id: 6791551
-  - id: 6791564
+  - id: 5835
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1f3283eb438ce663
+    name: tiny caterpillar
+  - id: 5835
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1f3283eb438ce663
+    name: tiny caterpillar
+  - id: 6507
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1c88f51d59ade63e
+    name: geometer
+  - id: 5836
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0f038895a109a07a
+    name: hungry caterpillar
   quest_items:
   - id: 2002067
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=82f3cfaca500ad78
-    name: bouquet of yellow wildflowers
+    name: Букет жёлтых цветов
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=82f3cfaca500ad78
   eobjects:
   - id: 2007844
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5cc5d34f9f8d4092
   - id: 2007836
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=cefc58ee51fa095a
-    name: golden carnation
+    name: Золотистое растение
   - id: 2007837
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=70fd790836a1e1e6
 
 - name:
     original: "A New Ruby Tithe"
+    translated: "Старые знакомые с Рубинового моря"
   level: 64
   type: main-scenario
   url:
@@ -3090,7 +3201,7 @@
   quest_items:
   - id: 2002068
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=6bc8e10032d7fae6
-    name: blowgun
+    name: Духовая трубка
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=6bc8e10032d7fae6
   eobjects:
   - id: 2007838
@@ -3105,6 +3216,7 @@
 
 - name:
     original: "The Will to Live"
+    translated: "Воля к жизни"
   level: 64
   type: main-scenario
   url:
@@ -3129,13 +3241,13 @@
     name: Югири
   - id: 1020043
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a7c0f6d08ce79f25
-    name: stocky soldier
+    name: Коренастый солдат
   - id: 1020044
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9bb5ce119465f307
-    name: spindly soldier
+    name: Худощавый солдат
   - id: 1020045
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=87ea494a51ec9d4e
-    name: strapping soldier
+    name: Здоровенный солдат
   - id: 1020040
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=34a067e4b72b1de4
     name: Имперский декурион
@@ -3150,20 +3262,21 @@
     name: Имперский солдат
   - id: 1020029
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6c6b4123fdfc3b7b
-    name: captured villager
+    name: Пленный селянин
   eobjects:
   - id: 2007839
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=62f8d0de2180fbd3
     name: Цель
   - id: 2008909
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=15da6fb40c96d773
-    name: bottomless burlap sack
+    name: Бездонный мешок с униформой
   - id: 2008910
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=b23f838cab0b083b
-    name: bottomless burlap sack
+    name: Бездонный мешок с униформой
 
 - name:
     original: "Daughter of the Deep"
+    translated: "Дочь глубин"
   level: 64
   type: main-scenario
   url:
@@ -3204,15 +3317,15 @@
   quest_items:
   - id: 2002070
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=b6fa983748fd77da
-    name: pouch of Yugiri's medicine
+    name: Мешочек с лекарством Югири
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=b6fa983748fd77da
   - id: 2002072
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=1594193b9acb615a
-    name: imperial decurion
+    name: Имперский декурион
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=1594193b9acb615a
   - id: 2002073
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=704e0f63d821214a
-    name: imperial soldier
+    name: Имперский солдат
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=704e0f63d821214a
   eobjects:
   - id: 2007840
@@ -3224,6 +3337,7 @@
 
 - name:
     original: "Path of No Return"
+    translated: "Путь в один конец"
   level: 64
   type: main-scenario
   url:
@@ -3245,6 +3359,7 @@
 
 - name:
     original: "The Time between the Seconds"
+    translated: "Короткое мгновение"
   level: 64
   type: main-scenario
   url:
@@ -3278,7 +3393,7 @@
     name: Госэцу
   - id: 1020059
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b3969da0aa05dd1f
-    name: Isse
+    name: Иссе
   - id: 1020189
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7f0e36d73181910c
     name: Югири
@@ -3324,7 +3439,7 @@
   actors:
   - id: 1020059
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b3969da0aa05dd1f
-    name: Isse
+    name: Иссе
   - id: 1020057
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=411e97f13cbd0c4e
     name: Ализе
@@ -3346,7 +3461,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1146e8898c230b32
   - id: 1020062
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=25ec0a06408b2c87
-    name: Isse
+    name: Иссе
   - id: 1020063
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c5fc2b32608e4544
     name: Югири
@@ -3483,10 +3598,6 @@
   - id: 1020281
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=aa6d84d2975b2ac0
     name: Cirina
-  enemies:
-  - id: 6626
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c6ae72d5d79b1a36
-    name: canal tengu
   quest_items:
   - id: 2002204
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=ef89ff7f6cc84738
@@ -3620,18 +3731,60 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b93da2e3a330f47b
     name: Госэцу
   enemies:
-  - id: 6873256
-  - id: 6873257
-  - id: 6873263
-  - id: 6873264
-  - id: 6905012
-  - id: 6905013
-  - id: 6907208
-  - id: 6907206
-  - id: 6907344
-  - id: 6907346
-  - id: 6907331
-  - id: 6907332
+  - id: 5870
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e9f30fd639a5ed48
+    name: mad weasel
+  - id: 5838
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7d4ff1c6d6c9a525
+    name: wanting gulo gulo
+  - id: 5870
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e9f30fd639a5ed48
+    name: mad weasel
+  - id: 5838
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7d4ff1c6d6c9a525
+    name: wanting gulo gulo
+  - id: 5870
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e9f30fd639a5ed48
+    name: mad weasel
+  - id: 5838
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7d4ff1c6d6c9a525
+    name: wanting gulo gulo
+  - id: 5870
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e9f30fd639a5ed48
+    name: mad weasel
+  - id: 5838
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7d4ff1c6d6c9a525
+    name: wanting gulo gulo
+  - id: 5870
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e9f30fd639a5ed48
+    name: mad weasel
+  - id: 5838
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7d4ff1c6d6c9a525
+    name: wanting gulo gulo
+  - id: 5870
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e9f30fd639a5ed48
+    name: mad weasel
+  - id: 5838
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7d4ff1c6d6c9a525
+    name: wanting gulo gulo
+  - id: 5838
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7d4ff1c6d6c9a525
+    name: wanting gulo gulo
+  - id: 5838
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7d4ff1c6d6c9a525
+    name: wanting gulo gulo
+  - id: 5909
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b6ffbc03ce516f34
+    name: ancient matamata
+  - id: 5838
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7d4ff1c6d6c9a525
+    name: wanting gulo gulo
+  - id: 5909
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b6ffbc03ce516f34
+    name: ancient matamata
+  - id: 5909
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b6ffbc03ce516f34
+    name: ancient matamata
   quest_items:
   - id: 2002199
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=57688b6a91054ac4
@@ -3783,12 +3936,42 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b6b119ff014253a3
     name: Госэцу
   enemies:
-  - id: 6873408
-  - id: 6873409
-  - id: 6873410
-  - id: 6873412
-  - id: 6873414
-  - id: 6873415
+  - id: 5841
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=820a4c5e0661a652
+    name: Budugan warrior
+  - id: 5893
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f29bdb26734a87f9
+    name: Roegadyn attacker
+  - id: 5946
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e5df0e39877c7a91
+    name: Имперский дезертир
+  - id: 5843
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=fdf2f7a5f3e7d731
+    name: Budugan healer
+  - id: 5983
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=baeda3ebe3270fa2
+    name: Oroniri healer
+  - id: 5982
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=bc2530ac0844c8f7
+    name: Oroniri hunter
+  - id: 5981
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ffa263d5ed13828b
+    name: Oroniri warrior
+  - id: 5841
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=820a4c5e0661a652
+    name: Budugan warrior
+  - id: 5981
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ffa263d5ed13828b
+    name: Oroniri warrior
+  - id: 5841
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=820a4c5e0661a652
+    name: Budugan warrior
+  - id: 5843
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=fdf2f7a5f3e7d731
+    name: Budugan healer
+  - id: 5983
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=baeda3ebe3270fa2
+    name: Oroniri healer
   eobjects:
   - id: 2008929
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ebe5535002522078
@@ -4022,9 +4205,15 @@
   - id: 1022085
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f8db3c2d3a9a1636
   enemies:
-  - id: 6875162
-  - id: 6875163
-  - id: 6875164
+  - id: 5804
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=27312af2ec1b36df
+    name: railing manzasiri
+  - id: 5804
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=27312af2ec1b36df
+    name: railing manzasiri
+  - id: 5804
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=27312af2ec1b36df
+    name: railing manzasiri
   eobjects:
   - id: 2008264
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=496383e7376e748e
@@ -4110,9 +4299,24 @@
   - id: 1022076
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9ed554d6bd217dc9
   enemies:
-  - id: 6876837
-  - id: 6876836
-  - id: 7010257
+  - id: 5839
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6c1b1946a24534aa
+    name: gedan corpsestealer
+  - id: 5886
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=31baec7fb4f6edcd
+    name: gaunt gedan
+  - id: 5839
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6c1b1946a24534aa
+    name: gedan corpsestealer
+  - id: 5886
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=31baec7fb4f6edcd
+    name: gaunt gedan
+  - id: 5839
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6c1b1946a24534aa
+    name: gedan corpsestealer
+  - id: 5886
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=31baec7fb4f6edcd
+    name: gaunt gedan
   eobjects:
   - id: 2008484
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=525f1f1471308795
@@ -4617,8 +4821,12 @@
   - id: 1023091
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e29c6aeb5aec840
   enemies:
-  - id: 6848182
-  - id: 6869167
+  - id: 5837
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1f843f16e6285ce5
+    name: Имперский предатель
+  - id: 5837
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1f843f16e6285ce5
+    name: Имперский предатель
   eobjects:
   - id: 2007923
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a10ae13abf351802
@@ -4653,7 +4861,7 @@
     name: Югири
   - id: 1023092
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=49192382aa5d1d9e
-    name: Isse
+    name: Иссе
   - id: 1020231
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b60d5cd6efdd6036
     name: Лиз
@@ -4662,7 +4870,7 @@
     name: Tsuranuki
   - id: 1020233
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=83832f9ae249e534
-    name: Isse
+    name: Иссе
   - id: 1020234
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=08d04d320f851536
     name: Лиз
@@ -4682,7 +4890,7 @@
     name: Tsuranuki
   - id: 1020233
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=83832f9ae249e534
-    name: Isse
+    name: Иссе
   - id: 1020234
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=08d04d320f851536
     name: Лиз
@@ -4751,7 +4959,7 @@
     name: Лиз
   - id: 1020233
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=83832f9ae249e534
-    name: Isse
+    name: Иссе
   - id: 1020232
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=21964acf7e3bad3a
     name: Tsuranuki
@@ -4937,7 +5145,7 @@
     name: Cirina
   - id: 1019976
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1b79eb9908d7a617
-    name: Soroban
+    name: Соробан
   eobjects:
   - id: 2007932
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d122c1b674260397
@@ -4980,10 +5188,10 @@
     name: Cirina
   - id: 1019976
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1b79eb9908d7a617
-    name: Soroban
+    name: Соробан
   - id: 1020255
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=61c9156168ed87e4
-    name: Tansui
+    name: Тэнсу
   - id: 1020256
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5bf1529aa69bf51b
     name: Hien
@@ -5004,22 +5212,22 @@
     name: Cirina
   - id: 1020262
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=39f5fbbba2d53f13
-    name: Soroban
+    name: Соробан
   - id: 1019979
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=871d892fb691b865
     name: Югири
   - id: 1020236
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=79104d3b0854fd2c
-    name: Liberation Front infantry
+    name: Боец Фронта освобождения
   - id: 1021060
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b7dea6c835d40c37
     name: Hien
   - id: 1021062
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0b62cbdfd8d74b58
-    name: Isse
+    name: Иссе
   - id: 1021072
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fd63c83917bbd4e8
-    name: Azami
+    name: Азами
   - id: 1021063
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=db9dba5f36118d14
     name: Tsuranuki
@@ -5028,16 +5236,16 @@
     name: enclave skiff captain
   - id: 1020263
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9983eb2900f78ad1
-    name: Rasho
+    name: Рашо
   - id: 1020264
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1f8328819a72f7d8
-    name: Tansui
+    name: Тэнсу
   - id: 1020265
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=610f805fa2f26ffc
-    name: Rasho
+    name: Рашо
   - id: 1020266
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9e279f65e2865f18
-    name: Tansui
+    name: Тэнсу
   - id: 1020267
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9f2dd1fa4b9573c4
     name: Альфино
@@ -5083,10 +5291,10 @@
     name: Лиз
   - id: 1020265
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=610f805fa2f26ffc
-    name: Rasho
+    name: Рашо
   - id: 1020266
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9e279f65e2865f18
-    name: Tansui
+    name: Тэнсу
   - id: 1020270
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9f10e0c5846e30ac
     name: Татару
@@ -5356,9 +5564,15 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0db14a7cb3659a6a
     name: Ализе
   enemies:
-  - id: 7021911
-  - id: 7021912
-  - id: 7021913
+  - id: 2234
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4d8787d299058994
+    name: Имперский гоплит
+  - id: 5578
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7a934b61a19689c7
+    name: Имперский лакеарий
+  - id: 2236
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=decbfd6e14e429ae
+    name: Имперский сигнифер
   eobjects:
   - id: 2009005
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d05877d0b4f46b95
@@ -5606,6 +5820,7 @@
 
 - name:
     original: "The First of Many"
+    translated: "Первая из многих"
   level: 68
   type: main-scenario
   url:
@@ -5675,6 +5890,7 @@
 
 - name:
     original: "Strong and Unified"
+    translated: "Объединённые силы"
   level: 68
   type: main-scenario
   url:
@@ -5720,6 +5936,7 @@
 
 - name:
     original: "Hells Open"
+    translated: "Ад на земле"
   level: 68
   type: main-scenario
   url:
@@ -5753,10 +5970,18 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ccb69620eab78db8
     name: Пипин
   enemies:
-  - id: 7021918
-  - id: 7021919
-  - id: 7021920
-  - id: 7021921
+  - id: 5578
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7a934b61a19689c7
+    name: Имперский лакеарий
+  - id: 5844
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f75a8bd5ffd29cd9
+    name: Имперский пагнакс
+  - id: 5845
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d06fab87ce4e3f67
+    name: Имперская летающая броня
+  - id: 5846
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c2c9813751630e29
+    name: Имперский разрезатель
   eobjects:
   - id: 2008202
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=773ebdab028d5d52
@@ -5767,6 +5992,7 @@
 
 - name:
     original: "Heavens Weep"
+    translated: "Расколотые небеса"
   level: 68
   type: main-scenario
   url:
@@ -5838,6 +6064,7 @@
 
 - name:
     original: "The Road Home"
+    translated: "Путь домой"
   level: 68
   type: main-scenario
   url:
@@ -5866,16 +6093,16 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=65c77a8ab6dd1eae
   - id: 1020623
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8a4f987d955a9ff9
-    name: wounded Resistance fighter
+    name: Раненый боец Сопротивления
   - id: 1023834
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cd57bf93d9fbd213
-    name: wounded Resistance fighter
+    name: Раненый боец Сопротивления
   - id: 1023835
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9c7803e2850e0ffe
     name: Раненый имперец
   - id: 1023836
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d1723f4e127d785d
-    name: Ala Mhigan Resistance fighter
+    name: Боец Сопротивления
   - id: 1023837
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eea096891661796d
   - id: 1020601
@@ -5905,6 +6132,7 @@
 
 - name:
     original: "For the Living and the Dead"
+    translated: "Ради мёртвых... ради живущих"
   level: 68
   type: main-scenario
   url:
@@ -5951,6 +6179,7 @@
 
 - name:
     original: "Above the Churning Waters"
+    translated: "Спасение от бурных вод"
   level: 68
   type: main-scenario
   url:
@@ -5995,7 +6224,9 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8e8120aa80f1d686
     name: Лиз
   enemies:
-  - id: 7005957
+  - id: 5892
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8756addb8231e62f
+    name: Зверь-страж
   eobjects:
   - id: 2009007
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d9a5e02c6cca9cc0
@@ -6006,6 +6237,7 @@
 
 - name:
     original: "The Path Forward"
+    translated: "Путь вперёд"
   level: 68
   type: main-scenario
   url:
@@ -6052,6 +6284,7 @@
 
 - name:
     original: "With Tired Hands We Toil"
+    translated: "Уставшие, но упорные"
   level: 68
   type: main-scenario
   url:
@@ -6124,9 +6357,15 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94b7e8d470e6149b
     name: Ализе
   enemies:
-  - id: 7021929
-  - id: 7021930
-  - id: 7005949
+  - id: 5578
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7a934b61a19689c7
+    name: Имперский лакеарий
+  - id: 5845
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d06fab87ce4e3f67
+    name: Имперская летающая броня
+  - id: 5848
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ebdca5a6391782c1
+    name: Имперский хексадрон
   eobjects:
   - id: 2009008
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=09ad3aff299d8a67
@@ -6140,6 +6379,7 @@
 
 - name:
     original: "Where Courage Endures"
+    translated: "Смелость превыше всего"
   level: 68
   type: main-scenario
   url:
@@ -6186,6 +6426,7 @@
 
 - name:
     original: "The Price of Freedom"
+    translated: "Цена свободы"
   level: 69
   type: main-scenario
   url:
@@ -6260,12 +6501,24 @@
   - id: 1020652
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7f4cefa2ddebfc35
   enemies:
-  - id: 7021931
-  - id: 7021932
-  - id: 7021933
-  - id: 7021934
-  - id: 7021935
-  - id: 7021936
+  - id: 2234
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4d8787d299058994
+    name: Имперский гоплит
+  - id: 6736
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=622f251372812aec
+    name: Имперский хищник
+  - id: 5578
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7a934b61a19689c7
+    name: Имперский лакеарий
+  - id: 5844
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f75a8bd5ffd29cd9
+    name: Имперский пагнакс
+  - id: 2234
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4d8787d299058994
+    name: Имперский гоплит
+  - id: 5847
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=649f2c504aabf0b2
+    name: Имперский страж
   eobjects:
   - id: 2009011
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=75aa645a99e91079
@@ -6366,9 +6619,42 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e324fe1723917fbf
     name: М'нааго
   enemies:
-  - id: 7005952
-  - id: 7021942
-  - id: 7005954
+  - id: 5841
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=820a4c5e0661a652
+    name: Budugan warrior
+  - id: 5893
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f29bdb26734a87f9
+    name: Roegadyn attacker
+  - id: 5946
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e5df0e39877c7a91
+    name: Имперский дезертир
+  - id: 5862
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0d7cbac9e8f9ac7c
+    name: old guard spear
+  - id: 6720
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=84252ab68c89f5d0
+    name: problematic poacher
+  - id: 5855
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=935bab7d22084979
+    name: Разбойник
+  - id: 5842
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=73fc70fff5c6d6a9
+    name: Budugan hunter
+  - id: 5894
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=666a98b1068a4528
+    name: Hyuran attacker
+  - id: 6713
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=276e5829f9544ebd
+    name: masked lancer
+  - id: 6789
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=03103daa3c11b32a
+    name: Gesi hunter
+  - id: 5880
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=95def469b4ad0aa9
+    name: Gesi hunter
+  - id: 5893
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f29bdb26734a87f9
+    name: Roegadyn attacker
 
 - name:
     original: "The Lady in Red"
@@ -7455,7 +7741,7 @@
     name: Альфино
   - id: 1024743
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a7084fa1a6c46a26
-    name: Soroban
+    name: Соробан
   - id: 1024744
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6d7924757713c137
     name: Югири
@@ -7479,7 +7765,7 @@
     name: Ализе
   - id: 1024825
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f364ddb555ff3eaf
-    name: Soroban
+    name: Соробан
   - id: 1024826
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2fe4a7f691b51b9b
     name: Альфино
@@ -7491,13 +7777,13 @@
     name: Госэцу
   - id: 1024829
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5f5e5b080f839507
-    name: Yotsuyu
+    name: Ёцую
   - id: 1019898
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f430281e9a019ad3
-    name: Tansui
+    name: Тэнсу
   - id: 1021505
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5ade89ca27feb1c5
-    name: Rasho
+    name: Рашо
   - id: 1019167
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4a8c8022b91c3e56
     name: Hiun
@@ -7518,16 +7804,16 @@
     name: Госэцу
   - id: 1024833
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d4c38e35bb5a75eb
-    name: Yotsuyu
+    name: Ёцую
   - id: 1024834
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4cad59e139555251
-    name: Soroban
+    name: Соробан
   - id: 1024835
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=60f324f6a2123dda
     name: Альфино
   - id: 1024836
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=51c73f0e67859c10
-    name: Soroban
+    name: Соробан
   - id: 1024837
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6ff41d6096e46a16
     name: Югири
@@ -7542,7 +7828,7 @@
     name: Госэцу
   - id: 1024841
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5d9ad0f88c847c5f
-    name: Yotsuyu
+    name: Ёцую
   eobjects:
   - id: 2009228
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d8db3bf19106dc69
@@ -7583,7 +7869,7 @@
     name: Госэцу
   - id: 1024841
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5d9ad0f88c847c5f
-    name: Yotsuyu
+    name: Ёцую
   - id: 1024842
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1b67483daf7a0576
     name: Югири
@@ -7788,10 +8074,10 @@
     name: Ализе
   - id: 1019290
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=208f25888b8022e4
-    name: Isse
+    name: Иссе
   - id: 1022709
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=65c06dfaf6582977
-    name: Azami
+    name: Азами
   eobjects:
   - id: 2009288
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e55953c284aff5b9
@@ -8085,13 +8371,13 @@
     name: Югири
   - id: 1025096
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=09ab501a78d33d28
-    name: Yotsuyu
+    name: Ёцую
   - id: 1025097
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d8970b65b8b4b7a6
-    name: Isse
+    name: Иссе
   - id: 1025098
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=18b3e65eb14a0b72
-    name: Azami
+    name: Азами
   - id: 1025099
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d7ae3a8e17eee8b4
   - id: 1025100
@@ -8104,7 +8390,7 @@
     name: Югири
   - id: 1025105
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0815df3b152731d9
-    name: Yotsuyu
+    name: Ёцую
   - id: 1025101
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ce4aecbbca311651
     name: Альфино
@@ -8153,10 +8439,10 @@
     name: Kienkan guardsman
   - id: 1021505
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5ade89ca27feb1c5
-    name: Rasho
+    name: Рашо
   - id: 1019935
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b4032ff7a7febf7f
-    name: Tansui
+    name: Тэнсу
   - id: 1025014
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9a12c69896c5469b
     name: Ализе
@@ -8239,7 +8525,7 @@
     name: Hien
   - id: 1025525
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9a67c08d1407d1a2
-    name: Rasho
+    name: Рашо
   - id: 1025575
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e8effdcd6195dc54
     name: Ализе
@@ -8886,7 +9172,7 @@
     name: Hakuro
   - id: 1026788
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4b31619a9bdcbb8b
-    name: Tansui
+    name: Тэнсу
   - id: 1026789
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b28e1a72d90f3970
     name: Cirina
@@ -8906,7 +9192,7 @@
     name: Kienkan guardsman
   - id: 1019935
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b4032ff7a7febf7f
-    name: Tansui
+    name: Тэнсу
   - id: 1020539
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d2504b5c9d889390
     name: Cirina
@@ -8940,7 +9226,7 @@
     name: Hakuro
   - id: 1026788
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4b31619a9bdcbb8b
-    name: Tansui
+    name: Тэнсу
   - id: 1026789
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b28e1a72d90f3970
     name: Cirina
@@ -8963,7 +9249,7 @@
     name: Kienkan guardsman
   - id: 1019935
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b4032ff7a7febf7f
-    name: Tansui
+    name: Тэнсу
   - id: 1020539
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d2504b5c9d889390
     name: Cirina
@@ -8995,7 +9281,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f65db4190e8aa750
   - id: 1021505
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5ade89ca27feb1c5
-    name: Rasho
+    name: Рашо
 
 - name:
     original: "Parley on the Front Lines"
@@ -9038,7 +9324,7 @@
     name: Kienkan guardsman
   - id: 1026804
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8343035ac25c422f
-    name: Resistance fighter
+    name: Боец Сопротивления
   - id: 1027000
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=78fae6d3dbcff5c5
     name: Hien
@@ -9083,7 +9369,7 @@
     name: Мёлвиб
   - id: 1026984
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c793d473b846abb5
-    name: Resistance fighter
+    name: Боец Сопротивления
   - id: 1026823
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e7287f74327cb83c
     name: Лиз
@@ -9115,7 +9401,7 @@
   - id: 5010000
   - id: 1026804
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8343035ac25c422f
-    name: Resistance fighter
+    name: Боец Сопротивления
   - id: 1026825
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5e78d0ec34794af8
     name: Робанн
@@ -9158,7 +9444,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c179a4fd0987bfc2
   - id: 1026804
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8343035ac25c422f
-    name: Resistance fighter
+    name: Боец Сопротивления
   eobjects:
   - id: 2009667
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=538f3ce08cb2651c
@@ -9203,7 +9489,7 @@
   actors:
   - id: 1026804
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8343035ac25c422f
-    name: Resistance fighter
+    name: Боец Сопротивления
   - id: 1026845
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=71d7fe50c274d977
     name: Робанн
