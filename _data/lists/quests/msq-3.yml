@@ -2,7 +2,7 @@
     original: "Coming to Ishgard"
     translated: "Прибытие в Ишгард"
   level: 50
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-015-heavna101_01580/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=cfc181f86c0e0074
@@ -63,7 +63,7 @@
     original: "Taking in the Sights"
     translated: "Тур по городу"
   level: 50
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-015-heavna102_01581/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=afcffd484f9e5ca6
@@ -123,12 +123,27 @@
   - id: 1012325
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8d7f767cbcde597f
     name: Татару
+  - id: 1012318
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8810038bc3a7d4cf
+    name: Альфино
+  - id: 1012319
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e1ed52ad6a6a0bf6
+    name: Татару
+  - id: 1012321
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bd705185b1146352
+    name: Альфино
+  - id: 1012322
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9b4af6a5e2c180a8
+    name: Татару
+  - id: 1012320
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4bb1e3e3ae313b90
+    name: Дворецкий Фортамов
 
 - name:
     original: "The Better Half"
     translated: "Изнанка города"
   level: 50
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-015-heavna103_01582/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a4fef7a1b85d5541
@@ -179,12 +194,30 @@
   - id: 1012327
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fae9c9c7db438699
     name: Онорье
+  - id: 1012324
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=95dc0666c28229d4
+    name: Альфино
+  - id: 1012325
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8d7f767cbcde597f
+    name: Татару
+  - id: 1012433
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0fd57917eeb641d0
+    name: Наглый пьяница
+  - id: 1013039
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b66db4087a3d2205
+    name: Альфино
+  - id: 1013040
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=24b5c9ed0044cad9
+    name: Татару
+  - id: 1013041
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a679c753e7291842
+    name: Дворецкий Фортамов
 
 - name:
     original: "Over the Wall"
     translated: "За стенами"
   level: 50
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-015-heavna104_01583/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7a03a96c989c6679
@@ -210,12 +243,15 @@
   - id: 1011231
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4a0e2b6839fc4d95
     name: Редвальд
+  - id: 1012497
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7ef866a9a994fd88
+    name: Арторель
 
 - name:
     original: "Work in Progress"
     translated: "К делу"
   level: 50
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-015-heavna105_01584/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=bd3870a40295b129
@@ -264,7 +300,7 @@
     original: "The First and Foremost"
     translated: "Приоритеты"
   level: 50
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-015-heavna106_01585/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=655c83de0ce76478
@@ -276,6 +312,13 @@
   - id: 1011241
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=00dd99e4df324355
     name: Тьермон
+  enemies:
+  - id: 3471
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e3c0148ebc914c12
+    name: Грубоглаз
+  - id: 3684
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=bd7f916cd0d24430
+    name: bloodshot deepeye
   quest_items:
   - id: 2001572
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=77d1938f51de9453
@@ -286,7 +329,7 @@
     original: "From on High"
     translated: "С высоты"
   level: 50
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-015-heavna107_01586/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=72f4542b3ccfaefa
@@ -311,7 +354,7 @@
     original: "Reconnaissance Lost"
     translated: "Разведка в холодных землях"
   level: 50
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-015-heavna108_01587/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=731b4f3d0ec63804
@@ -335,6 +378,9 @@
   - id: 1012340
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=22ec048cd7fc9fd7
     name: Рыцарь из разведотряда
+  - id: 1012463
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5aa9f6f50a8e9a99
+    name: Арторель
   enemies:
   - id: 3894
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b72ba7a7c48ca59b
@@ -359,7 +405,7 @@
     original: "At the End of Our Hope"
     translated: "Крах всех надежд"
   level: 50
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-015-heavna109_01588/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=68a50f0ae3667426
@@ -388,6 +434,15 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2fa4d81dd8033488
   - id: 1012347
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6f743d40d0570432
+  - id: 1012497
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7ef866a9a994fd88
+    name: Арторель
+  - id: 1012473
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=17ac43c11e3154d1
+  - id: 1012474
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4cf69dd435f85e79
+  - id: 1012475
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0a3b7234cb2f1bae
   eobjects:
   - id: 2005408
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=dbce1d7eb501b915
@@ -399,7 +454,7 @@
     original: "Knights Be Not Proud"
     translated: "Не возгордись, рыцарь"
   level: 50
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-015-heavna110_01589/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=13f9ec2e4a46eae4
@@ -421,12 +476,15 @@
   - id: 1012328
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3eb502f4e4580f44
     name: Арторель
+  - id: 1012497
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7ef866a9a994fd88
+    name: Арторель
 
 - name:
     original: "Onwards and Upwards"
     translated: "Вперёд и вверх"
   level: 50
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-015-heavna111_01590/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a08577409714f9b8
@@ -461,12 +519,21 @@
   - id: 1011952
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eac88abb8b412995
     name: Ланьетта
+  - id: 1012327
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fae9c9c7db438699
+    name: Онорье
+  - id: 1013876
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b27fa7f70b895efc
+    name: Эмманельен
+  - id: 1012438
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1ffa0690d667cdfb
+    name: Онорье
 
 - name:
     original: "An Indispensable Ally"
     translated: "Самый незаменимый боец"
   level: 50
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-015-heavna112_01591/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=0dab7457486ed502
@@ -486,7 +553,7 @@
     original: "Meeting the Neighbors"
     translated: "Беспокойные соседи"
   level: 50
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-015-heavna113_01592/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=679436e58168456c
@@ -526,7 +593,7 @@
     original: "Sense of Urgency"
     translated: "Видимость важности"
   level: 50
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-015-heavna114_01593/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=60c4d53eddb62fc2
@@ -552,7 +619,7 @@
     original: "Hope Springs Eternal"
     translated: "Надежда умирает последней"
   level: 50
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-015-heavna115_01594/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6ed83759e839b2d3
@@ -611,7 +678,7 @@
     original: "A Series of Unfortunate Events"
     translated: "Не свезло так не свезло"
   level: 50
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-015-heavna116_01595/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=eaa92bed65c0befe
@@ -650,6 +717,9 @@
   - id: 1012371
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3fef0123692b92a0
     name: Онорье
+  - id: 1012438
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1ffa0690d667cdfb
+    name: Онорье
   eobjects:
   - id: 2005418
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=775037e83569cd81
@@ -659,12 +729,14 @@
     name: Цель
   - id: 2005420
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=4ba3674e4df60beb
+  - id: 2006048
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d3f8e4d8205ae6a8
 
 - name:
     original: "A Reward Long in Coming"
     translated: "Долгожданная награда"
   level: 50
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-015-heavna117_01596/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=df0f85a5427ba7d5
@@ -697,12 +769,24 @@
   - id: 1012327
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fae9c9c7db438699
     name: Онорье
+  - id: 1013876
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b27fa7f70b895efc
+    name: Эмманельен
+  - id: 1007699
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=403ab38ee586b6ba
+    name: Оршефан
+  - id: 1012371
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3fef0123692b92a0
+    name: Онорье
+  - id: 1012327
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fae9c9c7db438699
+    name: Онорье
 
 - name:
     original: "Divine Intervention"
     translated: "Вмешательство свыше"
   level: 50
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-015-heavna118_01597/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b3f7cf1189d6972f
@@ -735,6 +819,17 @@
   - id: 1012381
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3f16dcf0b5c712d7
     name: Оршефан
+  - id: 1012379
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bb492b7862759060
+    name: Оршефан
+  - id: 1013167
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b5f9e5c86d7707be
+    name: Люсия
+  - id: 1012439
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6c397f94120a5fa1
+  - id: 1012440
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=405ff0f258a81b9b
+    name: Стражник
   eobjects:
   - id: 2005421
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ab1d7982133f009a
@@ -743,15 +838,15 @@
     original: "Disclosure"
     translated: "За закрытой дверью"
   level: 50
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-015-heavna119_01598/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c40dc2d193cb95eb
     quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=89fbc1c3fecf846d
   cutscenes:
   - name: Кат-сцена 1
-    start: "A00010"
-    end: "A00210"
+    start: "0"
+    end: "0"
     url: https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-030-voiceman_03001/
   - name: Кат-сцена 2
     start: "B00010"
@@ -785,12 +880,24 @@
   - id: 1013197
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1d84dd6a4cc213db
     name: Татару
+  - id: 1013034
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d43d1b4e5b7b2cf0
+    name: Арторель
+  - id: 1013035
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=98194e245aab988f
+    name: Эмманельен
+  - id: 1013383
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=637796cc5cf9d5b1
+    name: Онорье
+  - id: 1012441
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bd0708bee478f28f
+    name: Дворецкий Фортамов
 
 - name:
     original: "Flame General Affairs"
     translated: "Злоключения генерала Пламени"
   level: 51
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-015-heavna201_01599/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=18cbfaf4ea631152
@@ -828,12 +935,21 @@
   - id: 1002694
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9c04723f6857605f
     name: Мёлвиб
+  - id: 1008183
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8b6f9a568dc98781
+    name: Мёлвиб
+  - id: 1004717
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3a9c486f1ebf1680
+    name: Эйнзар Слафирсин
+  - id: 1008181
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f02e7f0a9c89f8d0
+    name: Альфино
 
 - name:
     original: "In Search of Raubahn"
     translated: "В поисках Робанна"
   level: 51
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna202_01600/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=324291a2c70fdfaf
@@ -871,7 +987,7 @@
     original: "Keeping the Flame Alive"
     translated: "Пламя должно выжить"
   level: 51
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna203_01601/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1e047fc1edbc35b3
@@ -948,6 +1064,26 @@
   - id: 1012843
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=609405aeba38d2fd
     name: Папашан
+  - id: 1013070
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=669cb3e4c9b3463b
+    name: Хигири
+  - id: 1013024
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1ed95764d551fd54
+    name: Хозан
+  - id: 1008181
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f02e7f0a9c89f8d0
+    name: Альфино
+  - id: 1011896
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2e6665d2e391627e
+    name: Югири
+  - id: 1010832
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b1eb58393c243603
+    name: Робанн
+  - id: 1012450
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a4bbb9ada8bbbade
+    name: Мутный тип
+  - id: 1013343
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dee6ba08f251e3e6
   eobjects:
   - id: 2005430
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=9ee8a0f0bc2e8901
@@ -956,7 +1092,7 @@
     original: "To Siege or Not to Siege"
     translated: "Осаждать или не осаждать"
   level: 51
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna301_01602/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=65bbb044d98a99c7
@@ -1001,12 +1137,30 @@
   - id: 1012586
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4713701becd138dd
     name: Татару
+  - id: 1012584
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1ca6bfb407c7c27f
+    name: Граф Эдмонт де Фортам
+  - id: 1012582
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e55235828457479d
+    name: Арторель
+  - id: 1012583
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=51a49d7b720e7633
+    name: Эмманельен
+  - id: 1008181
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f02e7f0a9c89f8d0
+    name: Альфино
+  - id: 1008182
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=84093e1d55782375
+    name: Татару
+  - id: 1012581
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=aaa184e5950a108d
+    name: Оршефан
 
 - name:
     original: "Alphinaud's Way"
     translated: "У Альфино всегда есть план"
   level: 51
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna302_01603/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=90592e5ad907fc5d
@@ -1052,12 +1206,21 @@
   - id: 1012589
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=299a40adb83fc827
     name: Эстиниен
+  - id: 1012586
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4713701becd138dd
+    name: Татару
+  - id: 1012443
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=09c1c7ed130ee8c5
+    name: Эстиниен
+  - id: 1012580
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=319ba40f18435c3f
+    name: Татару
 
 - name:
     original: "In Search of Iceheart"
     translated: "В поисках леди Ледяное Сердце"
   level: 51
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna303_01604/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=fe15f2065ee5251e
@@ -1102,6 +1265,27 @@
   - id: 1012594
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=140b9b8cb737a947
     name: Эстиниен
+  - id: 1008181
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f02e7f0a9c89f8d0
+    name: Альфино
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e80b08befe15c9d
+    name: Альфино
+  - id: 1012443
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=09c1c7ed130ee8c5
+    name: Эстиниен
+  - id: 1012589
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=299a40adb83fc827
+    name: Эстиниен
+  - id: 1013423
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0e7074e04b249ab2
+    name: Альфино
+  - id: 1012593
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3ef7eba8afd20dc9
+    name: Альфино
+  - id: 1008182
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=84093e1d55782375
+    name: Татару
   enemies:
   - id: 3898
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e20de2f826e1a376
@@ -1117,7 +1301,7 @@
     original: "From One Heretic to Another"
     translated: "Еретикам от еретиков"
   level: 51
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna304_01605/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ea1fd03f3330b864
@@ -1143,6 +1327,9 @@
   - id: 1012602
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dcfd5b8071e0df19
     name: Эстиниен
+  - id: 1012594
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=140b9b8cb737a947
+    name: Эстиниен
   quest_items:
   - id: 2001578
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=31989dec2c72b8c4
@@ -1163,7 +1350,7 @@
     original: "Sounding Out the Amphitheatre"
     translated: "Затихший амфитеатр"
   level: 51
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna305_01606/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4fc8cb55e0fde794
@@ -1201,6 +1388,27 @@
   - id: 1013436
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a65489b9e07dcac0
     name: Скучающий лучник
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e80b08befe15c9d
+    name: Альфино
+  - id: 1012443
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=09c1c7ed130ee8c5
+    name: Эстиниен
+  - id: 1012455
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e8a45f4fcfbaad2f
+    name: Жантелон
+  - id: 1011907
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c82fdabedb2c1f4c
+    name: Жантелон
+  - id: 1012602
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dcfd5b8071e0df19
+    name: Эстиниен
+  - id: 1012603
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fc4d009ac387ea57
+    name: Альфино
+  - id: 1012604
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6031edf3096bc5e8
+    name: Эстиниен
   eobjects:
   - id: 2005464
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=7a2116e22b89615b
@@ -1209,7 +1417,7 @@
     original: "Camp of the Convictors"
     translated: "В лагере Судий"
   level: 51
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna306_01607/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=441bfb525497d1b7
@@ -1236,12 +1444,18 @@
   - id: 1012283
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1f697feb5bfa4506
     name: Пиррикэт
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e80b08befe15c9d
+    name: Альфино
+  - id: 1012443
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=09c1c7ed130ee8c5
+    name: Эстиниен
 
 - name:
     original: "Purple Flame, Purple Flame"
     translated: "Фиолетовый дым"
   level: 51
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna307_01608/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f503ce99a1176ff6
@@ -1282,6 +1496,13 @@
   - id: 1012669
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b002564b83f823d3
     name: Альфино
+  - id: 1012763
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=934b18711adb7267
+    name: Альфино
+  enemies:
+  - id: 3479
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8c3138c40c918369
+    name: wooly yak
   quest_items:
   - id: 2001584
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=03867028e5320ebe
@@ -1292,7 +1513,7 @@
     original: "Where the Chocobos Roam"
     translated: "Там, где пасутся чокобо"
   level: 52
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna308_01609/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=cf989d82b62a4aa5
@@ -1324,12 +1545,36 @@
   - id: 1011916
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6e456d34f83b9178
     name: Марсчемп
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e80b08befe15c9d
+    name: Альфино
+  - id: 1012443
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=09c1c7ed130ee8c5
+    name: Эстиниен
+  - id: 1012456
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=55ea2e23085f89f7
+    name: Исель
+  - id: 1012457
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9630b384f3180ecc
+    name: Марсчемп
+  - id: 1014317
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b4ac143bbd3382a5
+    name: Альфино
+  - id: 1014318
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=aec17a6b6e6e4444
+    name: Эстиниен
+  - id: 1012610
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=04b9231638d62a5d
+    name: Альфино
+  - id: 1012611
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=622a7d18d3bb9f96
+    name: Эстиниен
 
 - name:
     original: "Worse than Dragons"
     translated: "Хуже чем драконы"
   level: 52
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna309_01610/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=58444a26fdc41152
@@ -1347,6 +1592,21 @@
   - id: 1012615
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1ab1e3cd741e58b4
     name: Исель
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e80b08befe15c9d
+    name: Альфино
+  - id: 1012443
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=09c1c7ed130ee8c5
+    name: Эстиниен
+  - id: 1012456
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=55ea2e23085f89f7
+    name: Исель
+  - id: 1012613
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4a23fadba73667af
+    name: Альфино
+  - id: 1012614
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e520e1a5627ab2df
+    name: Эстиниен
   enemies:
   - id: 3900
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c427a457a9e928d8
@@ -1382,7 +1642,7 @@
     original: "The Trine Towers"
     translated: "Тройная башня"
   level: 52
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna310_01611/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9bd09e19e1cc8570
@@ -1414,6 +1674,24 @@
   - id: 1012625
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=81995a37c312bdd3
     name: Исель
+  - id: 1012623
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=02d1f293728a428a
+    name: Альфино
+  - id: 1012624
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8996b8b121ca50a1
+    name: Эстиниен
+  - id: 1012617
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6d10c6a699db4de7
+    name: Альфино
+  - id: 1012618
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0b7c6b5693b02215
+    name: Эстиниен
+  - id: 1012620
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e0ebd9c5d48fa3c7
+    name: Альфино
+  - id: 1012621
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b0644c568f0e58f5
+    name: Эстиниен
   - id: 1012623
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=02d1f293728a428a
     name: Альфино
@@ -1467,7 +1745,7 @@
     original: "Gifts for the Outcasts"
     translated: "Дары изгнанникам"
   level: 52
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna311_01612/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1c3929d445d2ba3e
@@ -1494,6 +1772,28 @@
   - id: 1012631
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f628bcfe0a47f66f
     name: Исель
+  - id: 1012626
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ca192dc8da0658f1
+    name: Альфино
+  - id: 1012627
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dce3d5bfe4e0cf90
+    name: Эстиниен
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e80b08befe15c9d
+    name: Альфино
+  - id: 1012443
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=09c1c7ed130ee8c5
+    name: Эстиниен
+  - id: 1012456
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=55ea2e23085f89f7
+    name: Исель
+  - id: 1012457
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9630b384f3180ecc
+    name: Марсчемп
+  enemies:
+  - id: 3570
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=70957ff8ae7ed318
+    name: Чистоводная нанка
   quest_items:
   - id: 2001580
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=f1f93a51d4db43e4
@@ -1504,7 +1804,7 @@
     original: "The Nonmind"
     translated: "Вне-разум"
   level: 52
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna312_01613/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c8650a5987e2300b
@@ -1525,12 +1825,42 @@
   - id: 1011928
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=69113eedb860b453
     name: Летописец Вахов
+  - id: 1012630
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6034cf422c2a7175
+    name: Эстиниен
+  - id: 1012631
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f628bcfe0a47f66f
+    name: Исель
+  - id: 1012458
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f121a0531e98d1df
+    name: Разведчик Вахов
+  - id: 1012459
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2d68668e3b905b74
+    name: Сиблерой
+  - id: 1012460
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=786a1b593b42ac88
+    name: voracious Vath
+  - id: 1012671
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9fac54bddbdec143
+    name: Разведчик Вахов
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e80b08befe15c9d
+    name: Альфино
+  - id: 1012443
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=09c1c7ed130ee8c5
+    name: Эстиниен
+  - id: 1012456
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=55ea2e23085f89f7
+    name: Исель
+  eobjects:
+  - id: 2005951
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=2c38b42c4eddb7a7
 
 - name:
     original: "A Gnathic Deity"
     translated: "Божество гнатов"
   level: 53
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna313_01614/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=60428393a479c453
@@ -1575,6 +1905,28 @@
   - id: 1012672
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7fe031a62329a498
     name: Исель
+  - id: 1012632
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c960a4d32c71a7e3
+    name: Альфино
+  - id: 1012637
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0ef1991ff3943f76
+    name: Эстиниен
+  - id: 1013583
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f97328c24334aa1a
+    name: Эстиниен
+  - id: 1012672
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7fe031a62329a498
+    name: Исель
+  - id: 1011930
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ba506cfb8a5cabdb
+    name: Сиблерой
+  - id: 1012282
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f540a79d271321de
+    name: the Hungerer
+  enemies:
+  - id: 3570
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=70957ff8ae7ed318
+    name: Чистоводная нанка
   quest_items:
   - id: 2001579
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=bcb2aa7fb01e0054
@@ -1585,7 +1937,7 @@
     original: "Breaking into Hives"
     translated: "Вторжение в улей"
   level: 53
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna314_01615/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e51d0bc0fe735258
@@ -1621,6 +1973,15 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=325a5aeb1a2250be
   - id: 1012643
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8ce2fcc93c076665
+  - id: 1013583
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f97328c24334aa1a
+    name: Эстиниен
+  - id: 1012672
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7fe031a62329a498
+    name: Исель
+  - id: 1012456
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=55ea2e23085f89f7
+    name: Исель
   enemies:
   - id: 3900
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c427a457a9e928d8
@@ -1671,7 +2032,7 @@
     original: "Lord of the Hive"
     translated: "Повелитель улья"
   level: 53
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna315_01616/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e27beeb7396a33dd
@@ -1734,6 +2095,22 @@
   - id: 1014545
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6f530991121e5b79
     name: Эстиниен
+  - id: 1012456
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=55ea2e23085f89f7
+    name: Исель
+  - id: 1012496
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e116bd5920fc85b0
+  - id: 1012496
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e116bd5920fc85b0
+  - id: 1012496
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e116bd5920fc85b0
+  - id: 1014627
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=86c0ab42f13c71b4
+  - id: 1014627
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=86c0ab42f13c71b4
+  - id: 1014545
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6f530991121e5b79
+    name: Эстиниен
   eobjects:
   - id: 2005446
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=da9ce6eef27381f6
@@ -1743,7 +2120,7 @@
     original: "Mourn in Passing"
     translated: "Ветер скорби"
   level: 53
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna316_01617/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ab797cf04185e2fe
@@ -1794,6 +2171,21 @@
   - id: 1012663
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=05cea30e4410bfe5
     name: Исель
+  - id: 1014104
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5e9776cd3cb07676
+    name: Альфино
+  - id: 1014105
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9d61d86efa1e0d4f
+    name: Эстиниен
+  - id: 1014106
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b0be7112f6aba751
+    name: Исель
+  - id: 1014545
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6f530991121e5b79
+    name: Эстиниен
+  - id: 1014201
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=45b3622a568f1877
+    name: Исель
   eobjects:
   - id: 2005448
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=765d5d140a82329b
@@ -1803,7 +2195,7 @@
     original: "Beyond the Clouds"
     translated: "Над облаками"
   level: 53
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna317_01618/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ca3742165e382fe0
@@ -1830,6 +2222,20 @@
   - id: 1012664
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e0d7601148798958
     name: Альфино
+  - id: 1012446
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=820c85ef73e8d1c5
+  - id: 1012662
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3f843169c5d26afb
+    name: Эстиниен
+  - id: 1012663
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=05cea30e4410bfe5
+    name: Исель
+  - id: 1012665
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9da5e8eeb66fddb0
+    name: Эстиниен
+  - id: 1012666
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c4c0da5a6f8d9db9
+    name: Исель
   eobjects:
   - id: 2005450
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5fb94e9c25b71f0c
@@ -1845,7 +2251,7 @@
     original: "Mountaintop Diplomacy"
     translated: "Заоблачная дипломатия"
   level: 54
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna318_01619/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3803d547fcac1949
@@ -1875,12 +2281,31 @@
   - id: 1012675
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=821adfb5a8563335
     name: Исель
+  - id: 1012443
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=09c1c7ed130ee8c5
+    name: Эстиниен
+  - id: 1012456
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=55ea2e23085f89f7
+    name: Исель
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e80b08befe15c9d
+    name: Альфино
+  - id: 1008184
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5b47d6f04c93a3b5
+    name: Кан-Э-Сенна
+  - id: 1012461
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f2fd0cd4f6583eec
+  - id: 1012462
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=972934c67aba73bb
+  - id: 1008362
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3c835258833e9d68
+    name: Купло Копп
 
 - name:
     original: "Moghan's Trial"
     translated: "Испытание Могхана"
   level: 54
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna319_01620/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4167e03f9cb52653
@@ -1909,7 +2334,7 @@
     original: "Mogmug's Trial"
     translated: "Испытание Могмуга"
   level: 54
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna320_01621/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1f4ec907d834da95
@@ -1946,7 +2371,7 @@
     original: "Mogwin's Trial"
     translated: "Испытание Могвина"
   level: 54
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna321_01622/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=24cafc36db7fc8be
@@ -1978,7 +2403,7 @@
     original: "Moglin's Judgment"
     translated: "Вердикт Моглина"
   level: 54
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna322_01623/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=11d7d553bc318fa5
@@ -2023,12 +2448,18 @@
   - id: 1012681
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d8059eb62f3e8279
     name: Купло Копп
+  - id: 1013592
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=72cdc906e61f08ec
+    name: Королевская стража Двух Змей
+  - id: 1013591
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=af67264836f52938
+    name: Королевская стража Двух Змей
 
 - name:
     original: "Leaving Moghome"
     translated: "Покидая Муглодом"
   level: 54
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna323_01624/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ce84a80e824db8bc
@@ -2067,12 +2498,27 @@
   - id: 1012684
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=04686c8f03b50e54
     name: Исель
+  - id: 1012664
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e0d7601148798958
+    name: Альфино
+  - id: 1013593
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3d0f6d9110ee0f36
+    name: Исель
+  - id: 1013592
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=72cdc906e61f08ec
+    name: Королевская стража Двух Змей
+  - id: 1013591
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=af67264836f52938
+    name: Королевская стража Двух Змей
+  - id: 1012681
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d8059eb62f3e8279
+    name: Купло Копп
 
 - name:
     original: "The Road to Zenith"
     translated: "К Солнцестоянию"
   level: 54
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna324_01625/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c5415f2aca52afba
@@ -2108,6 +2554,15 @@
   - id: 1012688
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bd2ee25467e10f5b
     name: Исель
+  - id: 1012683
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c95d7bb1275603b4
+    name: Альфино
+  - id: 1012680
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=765e6978c3fce67e
+    name: Эстиниен
+  - id: 1012684
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=04686c8f03b50e54
+    name: Исель
   enemies:
   - id: 3904
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1385bb6463238c09
@@ -2137,7 +2592,7 @@
     original: "Waiting for the Wind to Change"
     translated: "Изменчивые ветра"
   level: 54
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna325_01626/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=fff02d30fe83d5dc
@@ -2170,6 +2625,24 @@
   - id: 1012760
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f2ae98754cc16531
     name: Альфино
+  - id: 1012686
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d105572cfa4d2cc6
+    name: Альфино
+  - id: 1012687
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4d0fe0dcd27f2663
+    name: Эстиниен
+  - id: 1012688
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bd2ee25467e10f5b
+    name: Исель
+  - id: 1012756
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a9ecf70d47f60021
+    name: Альфино
+  - id: 1012757
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e0f7a937060cfd97
+    name: Эстиниен
+  - id: 1012758
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f68ce381edef0380
+    name: Исель
   enemies:
   - id: 3568
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=dd827e2c60c996d0
@@ -2205,15 +2678,15 @@
     original: "Heart of Ice"
     translated: "Сердце из льда"
   level: 54
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna326_01627/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8c0c541fc03e98a8
     quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=b8b6b74733501f10
   cutscenes:
   - name: Кат-сцена 1
-    start: "A00010"
-    end: "A00200"
+    start: "0"
+    end: "0"
     url: https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-030-voiceman_03003/
   - name: Кат-сцена 2
     start: "B00010"
@@ -2251,6 +2724,15 @@
   - id: 1012696
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d13dca9b1c491d38
     name: Исель
+  - id: 1012756
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a9ecf70d47f60021
+    name: Альфино
+  - id: 1012757
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e0f7a937060cfd97
+    name: Эстиниен
+  - id: 1012758
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f68ce381edef0380
+    name: Исель
   eobjects:
   - id: 2005459
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=6dc3365da9409d4e
@@ -2260,7 +2742,7 @@
     original: "The Wyrm's Lair"
     translated: "Логово змия"
   level: 54
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna327_01628/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8e8cf3c1c77c6c08
@@ -2297,6 +2779,9 @@
   - id: 1012697
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ceefd41a9526aa5e
     name: Альфино
+  - id: 1012698
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=50b4005ef766e080
+    name: Эстиниен
   enemies:
   - id: 3906
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7890c563546cf839
@@ -2331,7 +2816,7 @@
     original: "New Winds, Old Friends"
     translated: "Новые преграды, старые друзья"
   level: 54
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna328_01629/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4e8fecedd94a99ab
@@ -2381,12 +2866,27 @@
   - id: 1012716
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=214e3a0f3a41d0fc
     name: Альфино
+  - id: 1012697
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ceefd41a9526aa5e
+    name: Альфино
+  - id: 1014107
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f8c6614f5dae722c
+    name: Альфино
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e80b08befe15c9d
+    name: Альфино
+  - id: 1012710
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=895f231d6f63c1e7
+    name: Биггс
+  - id: 1012711
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4cd71c62fbce80ae
+    name: Ведж
 
 - name:
     original: "A General Summons"
     translated: "Призыв генерала"
   level: 54
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna329_01630/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=dda55b8a4810e441
@@ -2460,12 +2960,18 @@
   - id: 1012730
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eb75494033baaa2e
     name: Югири
+  - id: 1012716
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=214e3a0f3a41d0fc
+    name: Альфино
+  - id: 1012722
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5f4c00747b0a7ea2
+    name: Альфино
 
 - name:
     original: "Awakening in Ul'dah"
     translated: "Пробуждение в Уль'де"
   level: 54
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna330_01631/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=49357794ac7c5da6
@@ -2499,12 +3005,15 @@
   - id: 1012732
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e516c1365b20e9ca
     name: Югири
+  - id: 1012730
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eb75494033baaa2e
+    name: Югири
 
 - name:
     original: "A Brave Resolution"
     translated: "Храбрость и тревога"
   level: 54
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna331_01632/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4e131805daf7dba2
@@ -2525,12 +3034,39 @@
   - id: 1012736
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=867bca8a42c8bc2e
     name: Риол
+  - id: 1011896
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2e6665d2e391627e
+    name: Югири
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e80b08befe15c9d
+    name: Альфино
+  - id: 1011896
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2e6665d2e391627e
+    name: Югири
+  - id: 1012477
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=22ea9ef765847616
+    name: Риол
+  - id: 1012478
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3e4aabb901f88955
+    name: Алианна
+  - id: 1012479
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b0730cc738eb1517
+    name: Эфимия
+  - id: 1012480
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c15a6dae0ffdd914
+    name: Аермхус
+  - id: 1012481
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e43e96f53a3c277f
+    name: Rhesh Polaali
+  - id: 1012735
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5f4eef86e839ace9
+    name: Алианна
 
 - name:
     original: "Ready to Fly"
     translated: "Готовы к вылету"
   level: 55
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna332_01633/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5c54ab40d7bebf9c
@@ -2565,12 +3101,15 @@
   - id: 1012589
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=299a40adb83fc827
     name: Эстиниен
+  - id: 1012735
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5f4eef86e839ace9
+    name: Алианна
 
 - name:
     original: "Into the Aery"
     translated: "Гнездо"
   level: 55
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna333_01634/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=014f58468f360120
@@ -2589,8 +3128,8 @@
     end: "P00100"
     url: https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-030-voiceman_03003/
   - name: Кат-сцена 4
-    start: "Q00010"
-    end: "Q00030"
+    start: "0"
+    end: "0"
     url: https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-030-voiceman_03003/
   actors:
   - id: 1012589
@@ -2614,12 +3153,21 @@
   - id: 1012746
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b85e1afd1960419e
     name: Эстиниен
+  - id: 1013169
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=096e26b46cbebba5
+    name: Биггс
+  - id: 1013170
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0a849b151f41c298
+    name: Ведж
+  - id: 1012745
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5a11d7304881de07
+    name: Эстиниен
 
 - name:
     original: "The Song Begins"
     translated: "Песнь начинается"
   level: 55
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna334_01635/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c9d44880431c390f
@@ -2647,12 +3195,18 @@
   - id: 1014110
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a713d539d5ce2230
     name: Эстиниен
+  - id: 1012746
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b85e1afd1960419e
+    name: Эстиниен
+  - id: 1014110
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a713d539d5ce2230
+    name: Эстиниен
 
 - name:
     original: "Unrest in Ishgard"
     translated: "В Ишгарде неспокойно"
   level: 56
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna335_01636/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1e7ddc010a425b4f
@@ -2688,7 +3242,7 @@
     original: "He Who Would Not Be Denied"
     translated: "Слова того, с кем они считаются"
   level: 56
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna401_01637/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b205c387eaae74cc
@@ -2724,12 +3278,15 @@
   - id: 1012752
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=78a60f53ce026b6e
     name: Эстиниен
+  - id: 1012748
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=267569aaff7dbfc4
+    name: Эстиниен
 
 - name:
     original: "Ill-weather Friends"
     translated: "И в горе, и в радости"
   level: 56
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna402_01638/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=27d1e4d02e27710f
@@ -2771,12 +3328,27 @@
   - id: 1013333
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e5dea6ddec33c9c5
     name: Татару
+  - id: 1012752
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=78a60f53ce026b6e
+    name: Эстиниен
+  - id: 1012753
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=15e36bb7f22d1977
+    name: Люсия
+  - id: 1012754
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e5b6932d9c86229
+    name: Оршефан
+  - id: 1012755
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1aae30139e9baae3
+    name: Граф Эдмонт де Фортам
+  - id: 1013128
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7869eeef69347cff
+    name: Альфино
 
 - name:
     original: "The Spice of Life"
     translated: "Вкус жизни"
   level: 56
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-019-heavna406_01993/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2e06926203f9ef04
@@ -2804,7 +3376,7 @@
     original: "Noble Indiscretions"
     translated: "Произвол"
   level: 56
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-019-heavna407_01994/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=220e6793050addf2
@@ -2826,7 +3398,7 @@
     original: "A Child Apart"
     translated: "Одинокий ребёнок"
   level: 56
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-019-heavna408_01995/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=eb24756d78c2a4b0
@@ -2848,7 +3420,7 @@
     original: "Bloodlines"
     translated: "Родителей не выбирают"
   level: 56
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-019-heavna409_01996/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=db8aee4b686e3f2a
@@ -2868,7 +3440,7 @@
     original: "Fire and Blood"
     translated: "Огонь и кровь"
   level: 57
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna403_01639/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9cace39693d574df
@@ -2944,6 +3516,51 @@
   - id: 1012779
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5784ec5945f2bd1c
     name: Оршефан
+  - id: 1014653
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a80e43c7c6562ac4
+    name: Альфино
+  - id: 1014654
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=58787ea0de7075a2
+    name: Татару
+  - id: 1012769
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a6b58f887a31cf1b
+    name: Мутный оборванец
+  - id: 1012770
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bdbf1e48d9429188
+    name: Немытый оборванец
+  - id: 1012776
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a30433d5755b16e5
+    name: Альфино
+  - id: 1012777
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=826b6508343aa607
+    name: Татару
+  - id: 1012778
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5e65dce7f9329499
+    name: Люсия
+  - id: 1012779
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5784ec5945f2bd1c
+    name: Оршефан
+  - id: 1012781
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a545141d3df5c246
+    name: Мутный оборванец
+  - id: 1012782
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=19c98323801e6293
+    name: Немытый оборванец
+  - id: 1012453
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=51c6fffc69e1b6b5
+    name: Татару
+  - id: 1012434
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ceca06873a66805d
+    name: Мутный оборванец
+  - id: 1012433
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0fd57917eeb641d0
+    name: Наглый пьяница
+  - id: 1013228
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d4bc8c9f61ec6fa9
+    name: Альфино
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e80b08befe15c9d
+    name: Альфино
   eobjects:
   - id: 2005551
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=dc9b689484bf5e04
@@ -2958,7 +3575,7 @@
     original: "A Knight's Calling"
     translated: "Призвание рыцаря"
   level: 57
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna404_01640/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c4d43eb8b2199fcf
@@ -3016,12 +3633,33 @@
   - id: 1012337
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=73755c6dc846482f
     name: Дворецкий Фортамов
+  - id: 1012776
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a30433d5755b16e5
+    name: Альфино
+  - id: 1012777
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=826b6508343aa607
+    name: Татару
+  - id: 1012778
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5e65dce7f9329499
+    name: Люсия
+  - id: 1012779
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5784ec5945f2bd1c
+    name: Оршефан
+  - id: 1012780
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=07026b9aa826b70b
+    name: Хильда
+  - id: 1012781
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a545141d3df5c246
+    name: Мутный оборванец
+  - id: 1012782
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=19c98323801e6293
+    name: Немытый оборванец
 
 - name:
     original: "The Sins of Antiquity"
     translated: "Грехи тысячелетней давности"
   level: 57
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna405_01641/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=cdc67170a396c198
@@ -3032,8 +3670,8 @@
     end: "800030"
     url: https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-030-voiceman_03004/
   - name: Кат-сцена 2
-    start: "A00010"
-    end: "A00070"
+    start: "900010"
+    end: "900030"
     url: https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-030-voiceman_03004/
   - name: Кат-сцена 3
     start: "B00010"
@@ -3065,12 +3703,24 @@
   - id: 1011223
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eb6c435774188b8c
     name: Храмовник-страж
+  - id: 1008193
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2e672267a9137c7e
+    name: Люсия
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e80b08befe15c9d
+    name: Альфино
+  - id: 1012111
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5e02f7660d01eee5
+    name: Эстиниен
+  - id: 1012580
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=319ba40f18435c3f
+    name: Татару
 
 - name:
     original: "In Search of the Soleil"
     translated: "В поисках «Искупления»"
   level: 57
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna501_01642/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4290c7c718851219
@@ -3088,12 +3738,17 @@
   - id: 1013261
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=537953c3abf2f7d2
     name: Сид
+  - id: 1008194
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7f806ccf173bd83c
+    name: Эмерик
+  - id: 1013207
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fcdb0bf412371470
 
 - name:
     original: "Into the Blue"
     translated: "Голубой пролёт"
   level: 57
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna502_01643/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5682ec1d52ae946d
@@ -3146,7 +3801,7 @@
     original: "Familiar Faces"
     translated: "Знакомые лица"
   level: 57
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna503_01644/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=02e551938482ba0d
@@ -3183,7 +3838,7 @@
     original: "Devourer of Worlds"
     translated: "Пожиратель миров"
   level: 57
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna504_01645/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a620dfe2d5e74e3b
@@ -3218,7 +3873,7 @@
     original: "Black and the White"
     translated: "Светлые и тёмные"
   level: 57
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna505_01646/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=0ada8103f27ae124
@@ -3253,7 +3908,7 @@
     original: "Bolt, Chain, and Island"
     translated: "Цепи, молнии и летающий остров"
   level: 57
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna506_01647/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f8909175655dbc17
@@ -3309,7 +3964,7 @@
     original: "A Difference of Opinion"
     translated: "Разность мнений"
   level: 57
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna507_01648/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=35ca6c415b8bf2aa
@@ -3346,12 +4001,27 @@
   - id: 1012195
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ee20c606b6a28ec9
     name: Сид
+  - id: 1014564
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bac48f847766fa79
+    name: Биггс
+  - id: 1014573
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=65426b07aca4a34e
+    name: Ведж
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e80b08befe15c9d
+    name: Альфино
+  - id: 1012494
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=aa2f88dcffdb59cb
+  - id: 1008193
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2e672267a9137c7e
+    name: Люсия
+  - id: 2006048
 
 - name:
     original: "One Good Turn"
     translated: "Поворот ключа"
   level: 57
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna508_01649/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ebc92287f81c64d7
@@ -3400,12 +4070,27 @@
   - id: 1013116
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d418e61b1020f6a9
     name: Биггс
+  - id: 1012125
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4407df7f509ed667
+    name: Биггс
+  - id: 1012492
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d1f5fd4749bd4b52
+    name: Ведж
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e80b08befe15c9d
+    name: Альфино
+  - id: 1012494
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=aa2f88dcffdb59cb
+  - id: 1008193
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2e672267a9137c7e
+    name: Люсия
+  - id: 2006048
 
 - name:
     original: "An Engineering Enterprise"
     translated: "Инженерное начинание"
   level: 57
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna601_01650/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c381db4505567739
@@ -3462,7 +4147,7 @@
     original: "Aetherial Trail"
     translated: "Эфирный след"
   level: 57
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna602_01651/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2765921823a1763e
@@ -3495,12 +4180,18 @@
   - id: 1013157
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c37073304c18517f
     name: Татару
+  - id: 1012392
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=622ccdafc6f39048
+    name: Альфино
+  - id: 1012393
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=42f5a7c97ad5fd99
+    name: Татару
 
 - name:
     original: "Lost in the Lifestream"
     translated: "Потерянная в Потоке"
   level: 57
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna603_01652/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=0ee18ca64c664056
@@ -3542,12 +4233,28 @@
   - id: 1012399
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b82dc01ed81e0750
     name: Альфино
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e80b08befe15c9d
+    name: Альфино
+  - id: 1012493
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=73127107e85b7b51
+    name: Татару
+  - id: 1004396
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=897e7a284dd7a3d2
+  - id: 1004397
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ca55c608e469ad7f
+  - id: 1004398
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0dcc6d630e42d668
+  - id: 1004399
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3282b5253bf0745e
+  - id: 1004400
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bb8cbc5f19e999c6
 
 - name:
     original: "Tataru's Surprise"
     translated: "Сюрприз Татару"
   level: 57
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna604_01653/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=06b752f095a77b5d
@@ -3591,7 +4298,7 @@
     original: "Onward to Sharlayan"
     translated: "Воспоминания о Шарлеане"
   level: 57
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna605_01654/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3ac4c036a88c2c42
@@ -3621,12 +4328,18 @@
   - id: 1012405
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ff0b9f2e04e93efa
     name: Альфино
+  - id: 1012399
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b82dc01ed81e0750
+    name: Альфино
+  - id: 1012398
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=54cc05340735d404
+    name: Татару
 
 - name:
     original: "A Great New Nation"
     translated: "Останки нации"
   level: 58
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna606_01655/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f7bbc3ed9fa07a4f
@@ -3662,12 +4375,27 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=007dc835d8853c42
   - id: 1014563
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=68ae67322e3144ff
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e80b08befe15c9d
+    name: Альфино
+  - id: 1011889
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5f293b2b3ac05103
+    name: Я'штола
+  - id: 1012409
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=27b6eda866412089
+    name: Альфино
+  - id: 1012410
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2bbba9eb7eb23505
+    name: Я'штола
+  - id: 1012495
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=32503be7c6b2d39f
+    name: Полуночная Река
 
 - name:
     original: "Golems Begone"
     translated: "Големы, прочь"
   level: 58
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna607_01656/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5972d3a03afe0ad3
@@ -3709,7 +4437,7 @@
     original: "An Illuminati Incident"
     translated: "Инцидент с Иллюминатами"
   level: 58
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna608_01657/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=75babaad7bd92b8e
@@ -3741,7 +4469,7 @@
     original: "Leaving Idyllshire"
     translated: "Покидая Идильшир"
   level: 58
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna609_01658/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3d402a14bdc85c34
@@ -3765,12 +4493,18 @@
   - id: 1012421
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0f3a934c175faab6
     name: Я'штола
+  - id: 1012409
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=27b6eda866412089
+    name: Альфино
+  - id: 1012410
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2bbba9eb7eb23505
+    name: Я'штола
 
 - name:
     original: "Matoya's Cave"
     translated: "Пещера Матойи"
   level: 59
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna610_01659/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=adf7673c1ff2f3dc
@@ -3812,7 +4546,7 @@
     original: "Forbidden Knowledge"
     translated: "Запретные знания"
   level: 59
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna611_01660/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ae71277ee3bbb1ea
@@ -3843,6 +4577,12 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8ed16f2196540e8f
     name: Веник Веня
   - id: 5010000
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e80b08befe15c9d
+    name: Альфино
+  - id: 1011889
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5f293b2b3ac05103
+    name: Я'штола
   quest_items:
   - id: 2001575
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=dcafd0a51280ccc6
@@ -3853,7 +4593,7 @@
     original: "An Eye for Aether"
     translated: "Эфирное зрение"
   level: 59
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna612_01661/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f8f2e3c346bbf7fd
@@ -3897,12 +4637,21 @@
   - id: 1013176
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2bbe0bbcab59fa59
     name: Нотрельчемп
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e80b08befe15c9d
+    name: Альфино
+  - id: 1011889
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5f293b2b3ac05103
+    name: Я'штола
+  - id: 1013167
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b5f9e5c86d7707be
+    name: Люсия
 
 - name:
     original: "Hour of Departure"
     translated: "Пора отправляться"
   level: 59
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna613_01662/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f97e7830fee48d4e
@@ -3961,7 +4710,7 @@
     original: "The First Flight of the Excelsior"
     translated: "Первый полёт «Эксельзиора»"
   level: 59
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna701_01663/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=43644ccffb7f724a
@@ -4050,12 +4799,27 @@
   - id: 1012791
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3f5ccc35bff47b48
     name: Я'штола
+  - id: 1012851
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=11a1751a09833604
+    name: Альфино
+  - id: 1012852
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c3a11b94ad7e42bf
+    name: Эстиниен
+  - id: 1012853
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f1af8cfde5edf9ec
+    name: Я'штола
+  - id: 1012855
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=375c3158893b436f
+    name: Биггс
+  - id: 1012856
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1f9feeb5a8c1bbe2
+    name: Ведж
 
 - name:
     original: "Systematic Exploration"
     translated: "Методичное прочёсывание"
   level: 59
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna702_01664/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=dd771c0535bd8b58
@@ -4106,6 +4870,36 @@
   - id: 1015134
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5dc1a183de204750
     name: Альфино
+  - id: 1012789
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=527514865d056ec7
+    name: Альфино
+  - id: 1012790
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bb9e080c5e08c3a6
+    name: Эстиниен
+  - id: 1012791
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3f5ccc35bff47b48
+    name: Я'штола
+  - id: 1012793
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=543c0bd49827599d
+    name: Биггс
+  - id: 1013268
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b673170af129ace1
+    name: Ведж
+  - id: 1013264
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fbd030b6f11d6e22
+    name: Альфино
+  - id: 1013267
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=34a79387b34d95fb
+    name: Биггс
+  - id: 1013265
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=555f0c9b6fad3d50
+    name: Эстиниен
+  - id: 1015135
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3781a4a248fc3efd
+    name: Биггс
+  - id: 1015136
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=55fcf4bfa350a511
+    name: Ведж
   eobjects:
   - id: 2006236
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d0dbe2203f5424e6
@@ -4124,7 +4918,7 @@
     original: "In Node We Trust"
     translated: "Веруем в звено"
   level: 59
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna703_01665/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1c9358faa417b361
@@ -4175,6 +4969,30 @@
   - id: 1012805
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=73fc3c2a3991ea48
     name: Я'штола
+  - id: 1014678
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=33c5e36425ca6b41
+    name: Эстиниен
+  - id: 1014679
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=795f883d7575346a
+    name: Я'штола
+  - id: 1014675
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=999f99bc8fec6bb1
+    name: Сид
+  - id: 1014676
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4218bea9c2ec796f
+    name: Биггс
+  - id: 1012795
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9bbab6fa8979438b
+    name: Ведж
+  - id: 1012798
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6aafcdfc5fe5925b
+    name: Альфино
+  - id: 1012799
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d86556b34c66770e
+    name: Эстиниен
+  - id: 1012800
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0294cea5820d7c4d
+    name: Я'штола
   eobjects:
   - id: 2006363
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=0a212ee0d8455967
@@ -4184,7 +5002,7 @@
     original: "Chimerical Maintenance"
     translated: "Голодные мутанты"
   level: 59
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna704_01666/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1e9a894044360233
@@ -4231,6 +5049,24 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a20abeef62b57567
   - id: 1012820
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e40bd970b8f9ec01
+  - id: 1012803
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c32d157adf67c831
+    name: Альфино
+  - id: 1012804
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=17f4f7141763e1a7
+    name: Эстиниен
+  - id: 1012805
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=73fc3c2a3991ea48
+    name: Я'штола
+  - id: 1012808
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c8b155714d0c5a55
+    name: Альфино
+  - id: 1012809
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1fd04cee9d4d36b1
+    name: Эстиниен
+  - id: 1012810
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b6fb096153dc3cae
+    name: Я'штола
   enemies:
   - id: 3853
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e0e8c574bb186ca4
@@ -4269,9 +5105,9 @@
 
 - name:
     original: "Close Encounters of the VIth Kind"
-    translated: "Ненужная конфронтация с Четвёртым легионом"
+    translated: "Ненужная конфронтация с Шестым легионом"
   level: 59
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna705_01667/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=30b6081f207cf5bd
@@ -4340,7 +5176,7 @@
     original: "Fetters of Lament"
     translated: "Путы отчаяния"
   level: 59
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna706_01668/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=13012b05b39e17fe
@@ -4374,6 +5210,9 @@
   - id: 1012834
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f18f191b6ad8b3c4
     name: Звено ориентировки
+  - id: 1012464
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d24cd6559cf5b7f5
+    name: Мидгардсомр
   eobjects:
   - id: 2005465
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5072ceadfaa5f988
@@ -4383,19 +5222,19 @@
     original: "Heavensward"
     translated: "Битва в поднебесье"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-heavna707_01669/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=01e9107d9326254f
     quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=753cdbfe7c377c23
   cutscenes:
   - name: Кат-сцена 1
-    start: "A00030"
-    end: "A00070"
+    start: "0"
+    end: "0"
     url: https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-030-voiceman_03007/
   - name: Кат-сцена 2
-    start: "A00080"
-    end: "A00250"
+    start: "0"
+    end: "0"
     url: https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-030-voiceman_03007/
   - name: Кат-сцена 3
     start: "C00030"
@@ -4476,6 +5315,9 @@
   - id: 1012138
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3c62ac8f3c338b7d
     name: Матойя
+  - id: 1012858
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8a6e004edc03e623
+    name: Татару
   enemies:
   - id: 3180
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0043eaae66b349d9
@@ -4512,7 +5354,7 @@
     original: "An Uncertain Future"
     translated: "Беспокойное будущее"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-021-heavnb101_02156/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4f1af1db6cd2d3aa
@@ -4561,12 +5403,21 @@
   - id: 1013128
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7869eeef69347cff
     name: Альфино
+  - id: 1012858
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8a6e004edc03e623
+    name: Татару
+  - id: 1015979
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=574cd77706ae7f70
+    name: Альфино
+  - id: 1013128
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7869eeef69347cff
+    name: Альфино
 
 - name:
     original: "Breaking the Cycle"
     translated: "Разбивая круг"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-021-heavnb102_02157/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=98dc541d422aa9cd
@@ -4593,12 +5444,27 @@
   - id: 1015982
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=081a0ee1d768ed15
     name: Люсия
+  - id: 1015978
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ed80db1436148c81
+    name: Люсия
+  - id: 1015981
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e0ebc046f8fa0b6e
+    name: Альфино
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e80b08befe15c9d
+    name: Альфино
+  - id: 1015889
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0127ebd6c93adec0
+    name: Люсия
+  - id: 1015982
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=081a0ee1d768ed15
+    name: Люсия
 
 - name:
     original: "Another Time, Another Place"
     translated: "Ещё одна встреча"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-021-heavnb103_02158/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=579e037fd27e207e
@@ -4641,6 +5507,9 @@
   - id: 1012423
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f9b041262b296e6f
     name: Я'штола
+  - id: 1015986
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=76bd5347d5198cd7
+    name: Альфино
   eobjects:
   - id: 2006605
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=eb2a3ce6f972425e
@@ -4650,7 +5519,7 @@
     original: "In the Eye of the Beholder"
     translated: "Видящий Кристалл"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-021-heavnb104_02159/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4767c5bde0f0465f
@@ -4703,6 +5572,27 @@
   - id: 1015997
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=111f778138c0bced
     name: Крайл
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e80b08befe15c9d
+    name: Альфино
+  - id: 1011889
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5f293b2b3ac05103
+    name: Я'штола
+  - id: 1015997
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=111f778138c0bced
+    name: Крайл
+  - id: 1012406
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a2f9e7e59576fd2a
+    name: Я'штола
+  - id: 1015993
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1d8e7ac960def59e
+    name: Крайл
+  - id: 1012422
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=26cddba62182bd11
+    name: Альфино
+  - id: 1012423
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f9b041262b296e6f
+    name: Я'штола
   quest_items:
   - id: 2001899
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=fce9b8937d567c02
@@ -4717,7 +5607,7 @@
     original: "A Little Slow, a Little Late"
     translated: "Слегка опоздавшие"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-021-heavnb105_02160/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=078bfd5278353f74
@@ -4768,6 +5658,18 @@
   - id: 1016003
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e96e40de4c55c388
     name: Крайл
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e80b08befe15c9d
+    name: Альфино
+  - id: 1011889
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5f293b2b3ac05103
+    name: Я'штола
+  - id: 1015833
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4d30a9e06e6c72c8
+    name: Крайл
+  - id: 1012458
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f121a0531e98d1df
+    name: Разведчик Вахов
   enemies:
   - id: 3900
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c427a457a9e928d8
@@ -4792,7 +5694,7 @@
     original: "Dreams of the Lost"
     translated: "Мечты об утерянном"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-021-heavnb106_02161/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e2da39b25f30d1a5
@@ -4842,12 +5744,42 @@
   - id: 1012163
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e31e10a6a5912848
     name: Ондолье
+  - id: 1016001
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=98c6a12ae7a6bf73
+    name: Я'штола
+  - id: 1016002
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e9adebb624e0f54b
+    name: Танкред
+  - id: 1016003
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e96e40de4c55c388
+    name: Крайл
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e80b08befe15c9d
+    name: Альфино
+  - id: 1011889
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5f293b2b3ac05103
+    name: Я'штола
+  - id: 1015842
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b0b44b0dbf154a10
+    name: Танкред
+  - id: 1012402
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4487d71ce8185e11
+    name: Я'штола
+  - id: 1016007
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2feb972ab812de84
+    name: Танкред
+  - id: 1016009
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e5d96235ee4ccd95
+    name: Хильда
+  - id: 1012163
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e31e10a6a5912848
+    name: Ондолье
 
 - name:
     original: "Against the Dying of the Light"
     translated: "Свет должен выжить"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-021-heavnb107_02162/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=cef8ed8703375de1
@@ -4931,12 +5863,62 @@
   - id: 1012163
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e31e10a6a5912848
     name: Ондолье
+  - id: 1016009
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e5d96235ee4ccd95
+    name: Хильда
+  - id: 1016010
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dc6bf49d504027d0
+    name: Альфино
+  - id: 1016011
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b989242ee88ab7dd
+    name: Я'штола
+  - id: 1016012
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6616c9baf8db9782
+    name: Танкред
+  - id: 1016025
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c507405d2bee6b59
+    name: Хильда
+  - id: 1016026
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=13335d12b2cb97a5
+    name: Танкред
+  - id: 1012385
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fe34c1c26fe295ed
+    name: Онорье
+  - id: 1015848
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=48e2d84bc2314afa
+    name: Обездоленный беженец
+  - id: 1015858
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=110bf53cd53c287f
+  - id: 1016027
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9932c0f39c6b64da
+    name: Хильда
+  - id: 1011895
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=95feee42533af050
+    name: Хильда
+  - id: 1015842
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b0b44b0dbf154a10
+    name: Танкред
+  - id: 1016032
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7ec98dc8b7efddc6
+    name: Татару
+  - id: 1016057
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8dc7f5a200a908db
+    name: Я'штола
+  - id: 1016033
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9dda29bcc88f94fa
+    name: Заложник
+  - id: 1011893
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=aff65ce55ce525d8
+    name: Арторель
+  - id: 1012163
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e31e10a6a5912848
+    name: Ондолье
 
 - name:
     original: "As Goes Light, So Goes Darkness"
     translated: "Свет и тень идут рука об руку"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-021-heavnb108_02163/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=48b2dfd2faffd152
@@ -5051,6 +6033,24 @@
   - id: 1016051
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e254fc0fe4d05e91
     name: Татару
+  - id: 1016060
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0ed4e227f9fb03f0
+    name: Я'штола
+  - id: 1016061
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8f44c550472b0de4
+    name: Танкред
+  - id: 1016038
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=42fa34a091937d1f
+    name: Арторель
+  - id: 1016035
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b0c0c77efc2db489
+    name: Альфино
+  - id: 1016036
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6b8e54213e2f2722
+    name: Я'штола
+  - id: 1016037
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1fff9827caa9023e
+    name: Танкред
   eobjects:
   - id: 2006608
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c6bafceffcbeabde
@@ -5059,7 +6059,7 @@
     original: "As It Once Was"
     translated: "Как однажды было"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-022-heavnc101_02231/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=195b3e3d1d1a67d1
@@ -5145,12 +6145,57 @@
   - id: 1016557
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5739176a081c1cb2
     name: Клеменсия
+  - id: 1016532
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d50346929aaee5c0
+    name: Белый Валун
+  - id: 1016533
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f7ebb57a43056f9a
+    name: Колтент
+  - id: 1016534
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d235e2d3eed57c07
+    name: Альфино
+  - id: 1016541
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7901ab4f3803e2bd
+    name: Ф'ламинн
+  - id: 1016537
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=abd561c400f07d4f
+    name: Эфимия
+  - id: 1015842
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b0b44b0dbf154a10
+    name: Танкред
+  - id: 1015833
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4d30a9e06e6c72c8
+    name: Крайл
+  - id: 1013227
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=03794e6c7540f43e
+    name: Альфино
+  - id: 1010389
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6cfca9ee7ee02224
+    name: Белый Валун
+  - id: 1010390
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cc009501ce4ac9bd
+    name: Колтент
+  - id: 1016536
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d5c4bf8ac6dc48ec
+    name: Алианна
+  - id: 1016539
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9a33405cb54fa1c0
+    name: Исилдар
+  - id: 1016554
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ea47b90a28736cf9
+    name: Золотой Валун
+  - id: 1012692
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5852f62af2efbea5
+    name: Альфино
+  - id: 1012693
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=faa63b008d4aeb00
+    name: Татару
 
 - name:
     original: "The Word of the Mother"
     translated: "Глас Матери"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-022-heavnc102_02232/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2ab814786c15a617
@@ -5200,12 +6245,33 @@
   - id: 1016563
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5d45eb892b824fad
     name: Крайл
+  - id: 1016535
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8d6c66362942b8c0
+    name: Татару
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e80b08befe15c9d
+    name: Альфино
+  - id: 1015987
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=736fc4134ecf0d85
+    name: Я'штола
+  - id: 1016559
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0e99dd1c352d0d98
+    name: Танкред
+  - id: 1011889
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5f293b2b3ac05103
+    name: Я'штола
+  - id: 1015842
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b0b44b0dbf154a10
+    name: Танкред
+  - id: 1015833
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4d30a9e06e6c72c8
+    name: Крайл
 
 - name:
     original: "This War of Ours"
     translated: "Наша война"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-022-heavnc103_02233/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d6b9ed443ab25ed6
@@ -5255,7 +6321,7 @@
     original: "Staunch Conviction"
     translated: "Стойкие убеждения"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-022-heavnc104_02234/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4f8ad38b8a757f02
@@ -5292,12 +6358,24 @@
   - id: 1011236
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1fd629fd1600f286
     name: Роше
+  - id: 1008193
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2e672267a9137c7e
+    name: Люсия
+  - id: 1016566
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d4ccca582d49c332
+    name: Эмманельен
+  - id: 1016567
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0430f59f0195d53c
+    name: Онорье
+  - id: 1012497
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7ef866a9a994fd88
+    name: Арторель
 
 - name:
     original: "Once More, a Favor"
     translated: "И ещё одна просьба"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-022-heavnc105_02235/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7e38fc16140d250d
@@ -5337,6 +6415,14 @@
   - id: 1016077
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c21aa8c2d66498fa
     name: Танкред
+  - id: 1016567
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0430f59f0195d53c
+    name: Онорье
+  - id: 1016574
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=08108f6c77fff972
+    name: Еретик с надеждой в глазах
+  - id: 1016575
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=59818c73cecf2f24
   enemies:
   - id: 4712
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=137ee9672f19cf2d
@@ -5365,7 +6451,7 @@
     original: "For Those We Have Lost"
     translated: "За тех, кого мы потеряли"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-022-heavnc106_02236/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=314b1c386ea16b96
@@ -5439,12 +6525,18 @@
   - id: 1016580
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4425002ec30a894c
     name: Танкред
+  - id: 1016567
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0430f59f0195d53c
+    name: Онорье
+  - id: 1016077
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c21aa8c2d66498fa
+    name: Танкред
 
 - name:
     original: "Consequences"
     translated: "Последствия"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-022-heavnc107_02237/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d38f78d1ffb5b7f2
@@ -5491,12 +6583,24 @@
   - id: 1016582
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e6fc3e92e96cc0cc
     name: Эмманельен
+  - id: 1008193
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2e672267a9137c7e
+    name: Люсия
+  - id: 1011893
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=aff65ce55ce525d8
+    name: Арторель
+  - id: 1013876
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b27fa7f70b895efc
+    name: Эмманельен
+  - id: 1015842
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b0b44b0dbf154a10
+    name: Танкред
 
 - name:
     original: "Choices"
     translated: "Решения"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-022-heavnc108_02238/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=adf18a6a13e73754
@@ -5552,6 +6656,18 @@
   - id: 1015978
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ed80db1436148c81
     name: Люсия
+  - id: 1016024
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2b39bea1ff8cdce0
+    name: Граф Эдмонт де Фортам
+  - id: 1015842
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b0b44b0dbf154a10
+    name: Танкред
+  - id: 1008194
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7f806ccf173bd83c
+    name: Эмерик
+  - id: 1016584
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9d38902f484f534f
+    name: Танкред
   quest_items:
   - id: 2001945
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=b20eb5bb8ce602fe
@@ -5562,7 +6678,7 @@
     original: "A Spectacle for the Ages"
     translated: "Представление на века"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-022-heavnc109_02239/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=025e75708946d1a6
@@ -5621,6 +6737,12 @@
   - id: 1016073
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f86115d0e6e03aec
     name: Пипин
+  - id: 1016583
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0245dd3a2ea61cd0
+    name: Танкред
+  - id: 1016073
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f86115d0e6e03aec
+    name: Пипин
   eobjects:
   - id: 2006860
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=44e3fd9ee7d8eac6
@@ -5629,7 +6751,7 @@
     original: "For Those We Can Yet Save"
     translated: "За тех, кого ещё можно спасти"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-022-heavnc110_02240/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a2809f35612da5e1
@@ -5714,12 +6836,25 @@
   - id: 1013709
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=faa866e077d51ecd
     name: Арине
+  - id: 1010384
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=173c726c0a15a924
+    name: Гордый патриот
+  - id: 1010386
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0cfe0bd99697fe73
+  - id: 1015909
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d94cf48ba632857c
+    name: Расстроенный лорд
+  - id: 1016778
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4bef15e6ace5e0be
+  - id: 1015911
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cd922632f750e923
+    name: Разъярённый мужчина
 
 - name:
     original: "Causes and Costs"
     translated: "За всё нужно платить"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-022-heavnc111_02241/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b30bb325a16860e1
@@ -5750,6 +6885,12 @@
   - id: 1012580
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=319ba40f18435c3f
     name: Татару
+  - id: 1012580
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=319ba40f18435c3f
+    name: Татару
+  - id: 1015596
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4053288bd9f3dd9c
+    name: Рыцарь Фортамов
   eobjects:
   - id: 2006864
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5d2996fb694c6eff
@@ -5759,7 +6900,7 @@
     original: "The Man Within"
     translated: "Запертый внутри"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-022-heavnd101_02242/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a0047fce3f76b728
@@ -5795,12 +6936,15 @@
   - id: 1015991
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=16238ae7a00f10d5
     name: Онорье
+  - id: 1012858
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8a6e004edc03e623
+    name: Татару
 
 - name:
     original: "An Ally for Ishgard"
     translated: "Союзник Ишгарда"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-022-heavnd102_02243/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a5aac96b01d12abd
@@ -5829,12 +6973,21 @@
   - id: 1011935
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=88e3806f1cb33fbf
     name: Видофнир
+  - id: 1016824
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5ba40474bcc1fe67
+    name: Альфино
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e80b08befe15c9d
+    name: Альфино
+  - id: 1008194
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7f806ccf173bd83c
+    name: Эмерик
 
 - name:
     original: "Winning Over the Wyrm"
     translated: "Испытания змия"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-022-heavnd103_02244/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7fb606d1d9779c7c
@@ -5890,6 +7043,24 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3f4aaf6ad0de4ae5
     name: Эмерик
   - id: 5010000
+  - id: 1016822
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=efbd9a73c80029b3
+    name: Альфино
+  - id: 1013802
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=17c0f2b45910b0a2
+    name: Могхан
+  - id: 1016813
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3c90a79d636a9a08
+    name: Эмерик
+  - id: 1012904
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c60fa3432c54e4ee
+    name: Моглин
+  - id: 1016810
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d284bd56240842a8
+    name: Эмерик
+  - id: 1017011
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9512acc9ef100c7f
+    name: Альфино
   eobjects:
   - id: 2006956
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=49ea76899e1ee9c5
@@ -5899,7 +7070,7 @@
     original: "An End to the Song"
     translated: "Песнь заканчивается"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-022-heavnd104_02245/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=43777239373c8f60
@@ -6007,7 +7178,7 @@
     original: "Heroes of the Hour"
     translated: "Герои возвращаются"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-022-heavnd105_02246/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e7bc7d1f73172f61
@@ -6048,12 +7219,15 @@
   - id: 1016885
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=364feb1a04cf86b7
     name: Онорье
+  - id: 1016818
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=082f5028a8560855
+    name: Альфино
 
 - name:
     original: "Litany of Peace"
     translated: "Мелодия мира"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-022-heavnd106_02247/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4278af9675702b07
@@ -6100,12 +7274,24 @@
   - id: 1012858
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8a6e004edc03e623
     name: Татару
+  - id: 1015889
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0127ebd6c93adec0
+    name: Люсия
+  - id: 1014558
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d61fcb19fd38c66c
+    name: Ондолье
+  - id: 1016820
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7cbb37a75feba997
+    name: Храмовник-глашатай
+  - id: 1017117
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=159a46389abf44cf
+    name: Храмовник-страж
 
 - name:
     original: "Promises Kept"
     translated: "Выполненные обещания"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-023-heavne101_02341/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=bd076c0199789ff3
@@ -6144,7 +7330,7 @@
     original: "Shadows of the First"
     translated: "Тени Первого"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-023-heavne102_02342/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d0d295b89b06154b
@@ -6177,12 +7363,24 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=23abc98172e2c760
     name: Услужливый рыцарь Фортамов
   - id: 5010000
+  - id: 1017720
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1c8142af6defa5c2
+    name: Эмерик
+  - id: 1017722
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=477c4c9eb06e6569
+    name: Граф Эдмонт де Фортам
+  - id: 1017724
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0b73cc06692b8c7f
+    name: Альфино
+  - id: 1017696
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c2d20b8a3971a46a
+    name: Эмерик
 
 - name:
     original: "Two Sides of a Coin"
     translated: "У монеты две стороны"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-023-heavne103_02343/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6e385d6cbf55daf1
@@ -6223,12 +7421,27 @@
   - id: 1007478
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
     name: Урианже
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e80b08befe15c9d
+    name: Альфино
+  - id: 1017687
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=056eab1c4aca9aa4
+    name: Ализе
+  - id: 1008180
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9d77f3aa748ac930
+    name: Урианже
+  - id: 1017725
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9fbc2d1969bc3eb8
+    name: Гордый рыцарь Фортамов
+  - id: 1017726
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=23abc98172e2c760
+    name: Услужливый рыцарь Фортамов
 
 - name:
     original: "Unlikely Allies"
     translated: "Неожиданное подкрепление"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-023-heavne104_02344/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=bd05648fddab2cd5
@@ -6270,12 +7483,27 @@
   - id: 1016815
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=71542cbb13f0b2dc
     name: Га Бу
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e80b08befe15c9d
+    name: Альфино
+  - id: 1017687
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=056eab1c4aca9aa4
+    name: Ализе
+  - id: 1017698
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=efb3941c76d6fc8b
+    name: Блоэдин
+  - id: 1017729
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bf87ddf37a59a5cf
+    name: Ализе
+  - id: 1017689
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=54cf2ea248aaf686
+    name: Га Бу
 
 - name:
     original: "The Beast That Mourned at the Heart of the Mountain"
     translated: "Зверь, что скорбит в глубинах горы"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-023-heavne105_02345/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=036c4d922b0e4152
@@ -6355,6 +7583,15 @@
   - id: 1017746
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5770fc407fbaec80
     name: Га Бу
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e80b08befe15c9d
+    name: Альфино
+  - id: 1017687
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=056eab1c4aca9aa4
+    name: Ализе
+  - id: 1017689
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=54cf2ea248aaf686
+    name: Га Бу
   quest_items:
   - id: 2002012
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=fd6369e1972f9659
@@ -6381,7 +7618,7 @@
     original: "Beneath a Star-filled Sky"
     translated: "Под звёздным небом"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-023-heavne106_02346/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=659051b8a3c0c793
@@ -6429,12 +7666,30 @@
   - id: 1017750
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=587219c6868773e9
     name: Альфино
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e80b08befe15c9d
+    name: Альфино
+  - id: 1017687
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=056eab1c4aca9aa4
+    name: Ализе
+  - id: 1017698
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=efb3941c76d6fc8b
+    name: Блоэдин
+  - id: 1008180
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9d77f3aa748ac930
+    name: Урианже
+  - id: 1017689
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=54cf2ea248aaf686
+    name: Га Бу
+  - id: 1015842
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b0b44b0dbf154a10
+    name: Танкред
 
 - name:
     original: "When We Were Free"
     translated: "Былые дни свободы"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-023-heavne107_02347/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=917d90804e1c687f
@@ -6487,12 +7742,27 @@
   - id: 1017759
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=86b0143dc5613c4f
     name: Папалимо
+  - id: 1017758
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=480810aa9221f506
+    name: Ида
+  - id: 1017759
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=86b0143dc5613c4f
+    name: Папалимо
+  - id: 1017751
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8c10e3a8c7bc7c71
+    name: Ализе
+  - id: 1017754
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=43145009b3a6e2e7
+    name: Альфино
+  - id: 1017755
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ae1c1d8da177e723
+    name: Ализе
 
 - name:
     original: "Honorable Heroes"
     translated: "Славные герои"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-023-heavne108_02348/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9e4d1a8759443683
@@ -6527,6 +7797,15 @@
   - id: 1017762
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5ee5a9022f296d90
     name: Альфино
+  - id: 1017757
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=810a7367c2303766
+    name: Альфино
+  - id: 1017758
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=480810aa9221f506
+    name: Ида
+  - id: 1017760
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4f7f2aa4308915a8
+    name: Альфино
   quest_items:
   - id: 2001354
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=8ec5cdcdb519dabb
@@ -6537,7 +7816,7 @@
     original: "One Life for One World"
     translated: "Одна жизнь в обмен на целый мир"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-023-heavne109_02349/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=86531e6dcf025fd6
@@ -6593,6 +7872,15 @@
   - id: 1017770
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a4d11a5e9bc464dc
     name: Урианже
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e80b08befe15c9d
+    name: Альфино
+  - id: 1015842
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b0b44b0dbf154a10
+    name: Танкред
+  - id: 1017684
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0e27dfeedde27d3e
+    name: Человек в маске
   eobjects:
   - id: 2007432
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5554345a9e402656
@@ -6601,7 +7889,7 @@
     original: "An Ending to Mark a New Beginning"
     translated: "Что-то кончается, что-то начинается"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-023-heavne110_02350/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=45d3cfe77939c15e
@@ -6688,12 +7976,30 @@
   - id: 1017796
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0ef3460b3a3aac13
     name: Клеменсия
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e80b08befe15c9d
+    name: Альфино
+  - id: 1017699
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bbc46e9b149004d9
+    name: Гундобальд
+  - id: 1017768
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dec3870b503adcb0
+    name: Ализе
+  - id: 1017769
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=692043857962e8d8
+    name: Танкред
+  - id: 1017770
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a4d11a5e9bc464dc
+    name: Урианже
+  - id: 1016788
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ba29e0d5bbf51728
+    name: Ида
 
 - name:
     original: "Tidings from Gyr Abania"
     translated: "Вести из Гир Абании"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-023-heavnf101_02351/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7310961d448c7152
@@ -6722,6 +8028,26 @@
   - id: 1006988
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5df5bbe0956f4ce6
     name: Эгинольф
+  - id: 1009751
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0410fa1ccf242ada
+    name: Эмерик
+  - id: 1014558
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d61fcb19fd38c66c
+    name: Ондолье
+  - id: 1012189
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7aba5cd4f7adb034
+    name: Татару
+  - id: 1018387
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ce9cb03bf0f11d26
+  - id: 1018388
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ee3da1cbe42a3a17
+  - id: 1018389
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9dd027e9eecb2531
+  - id: 1008178
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f18d9dc6b1e58f55
+    name: Ида
+  - id: 1018390
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ced776d147189b29
   eobjects:
   - id: 2007563
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=08bcb5636038232e
@@ -6731,7 +8057,7 @@
     original: "An Envoy for Ishgard"
     translated: "Представитель Ишгарда"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-023-heavnf102_02352/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=0174203ea7f97f98
@@ -6767,6 +8093,18 @@
   - id: 1018219
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c98ba4b73f9021c2
     name: Почетный Змеиный страж
+  - id: 1009751
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0410fa1ccf242ada
+    name: Эмерик
+  - id: 1008193
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2e672267a9137c7e
+    name: Люсия
+  - id: 1013876
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b27fa7f70b895efc
+    name: Эмманельен
+  - id: 1019689
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ba7786fa9a0d3207
+    name: Онорье
   eobjects:
   - id: 2007472
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=4caea2753724623d
@@ -6776,7 +8114,7 @@
     original: "An Allied Decision"
     translated: "Решение Альянса"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-023-heavnf103_02353/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=16dea16b0addea62
@@ -6808,12 +8146,29 @@
   - id: 1018021
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=083cc3353b635a66
     name: Югири
+  - id: 1017687
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=056eab1c4aca9aa4
+    name: Ализе
+  - id: 1011896
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2e6665d2e391627e
+    name: Югири
+  - id: 1009751
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0410fa1ccf242ada
+    name: Эмерик
+  - id: 1008193
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2e672267a9137c7e
+    name: Люсия
+  - id: 1002441
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3f67ecea8e971719
+    name: Мёлвиб
+  - id: 1017691
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=284f5f998dbf2d1f
 
 - name:
     original: "Griffin, Griffin on the Wall"
     translated: "Грифон и его Стена"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-023-heavnf104_02354/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f001d7cbfb831164
@@ -6890,12 +8245,42 @@
   - id: 1018031
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5d79654513a79786
     name: Танкред
+  - id: 1017687
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=056eab1c4aca9aa4
+    name: Ализе
+  - id: 1011896
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2e6665d2e391627e
+    name: Югири
+  - id: 1016758
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=df3fa32f13700fac
+    name: Я'штола
+  - id: 1015833
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4d30a9e06e6c72c8
+    name: Крайл
+  - id: 1015842
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b0b44b0dbf154a10
+    name: Танкред
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e80b08befe15c9d
+    name: Альфино
+  - id: 1008178
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f18d9dc6b1e58f55
+    name: Ида
+  - id: 1008179
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5a52e03f0a9cde5d
+    name: Папалимо
+  - id: 1011895
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=95feee42533af050
+    name: Хильда
+  - id: 1011278
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eb781895277d21a1
+    name: Пипин
 
 - name:
     original: "Louisoix's Finest Student"
     translated: "Лучший ученик Луисуа"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-023-heavnf105_02355/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=106ea3f9545b237d
@@ -6925,12 +8310,27 @@
   - id: 1018034
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=56e598339a2f51fc
     name: Татару
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e80b08befe15c9d
+    name: Альфино
+  - id: 1011889
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5f293b2b3ac05103
+    name: Я'штола
+  - id: 1015833
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4d30a9e06e6c72c8
+    name: Крайл
+  - id: 1008180
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9d77f3aa748ac930
+    name: Урианже
+  - id: 1012189
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7aba5cd4f7adb034
+    name: Татару
 
 - name:
     original: "The Obvious Solution"
     translated: "Самое очевидное решение"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-023-heavng101_02356/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7d3660723795a9eb
@@ -6957,12 +8357,21 @@
   - id: 1012395
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e6ffbcd6d71f1bff
     name: Альфино
+  - id: 1017727
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2e90ed46eb0a80ee
+    name: Альфино
+  - id: 1017804
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0ae70dc852107aca
+    name: Татару
+  - id: 1017687
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=056eab1c4aca9aa4
+    name: Ализе
 
 - name:
     original: "The Greater Obeisance"
     translated: "Чьё дело важнее"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-023-heavng102_02357/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6992400ba1e2e533
@@ -7015,12 +8424,42 @@
   - id: 1012811
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ff93a5eba437e648
     name: Татару
+  - id: 1005521
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ab3564781bf6d60e
+    name: Неро тол Сцаева
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e80b08befe15c9d
+    name: Альфино
+  - id: 1017687
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=056eab1c4aca9aa4
+    name: Ализе
+  - id: 1011896
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2e6665d2e391627e
+    name: Югири
+  - id: 1012189
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7aba5cd4f7adb034
+    name: Татару
+  - id: 1018333
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7bbcd201b2d15ac9
+    name: Неро тол Сцаева
+  - id: 1013180
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0b8d89784d6e4ff6
+    name: Сид
+  - id: 1015990
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9431789a62e6fed1
+    name: Ализе
+  - id: 1017472
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=32a1d5b5b8976c04
+    name: Югири
+  - id: 1018048
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f88f7e17b81547f3
+    name: Альфино
 
 - name:
     original: "Fly Free, My Pretty"
     translated: "Лети, родная"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-023-heavng103_02358/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=415170085eaa643d
@@ -7093,6 +8532,27 @@
   - id: 1018048
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f88f7e17b81547f3
     name: Альфино
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e80b08befe15c9d
+    name: Альфино
+  - id: 1017687
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=056eab1c4aca9aa4
+    name: Ализе
+  - id: 1011896
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2e6665d2e391627e
+    name: Югири
+  - id: 1018375
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ab6d749356da5b80
+    name: Госэцу
+  - id: 1005521
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ab3564781bf6d60e
+    name: Неро тол Сцаева
+  - id: 1011900
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c76a9f43ad97f65d
+    name: Сид
+  - id: 1008182
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=84093e1d55782375
+    name: Татару
   eobjects:
   - id: 2007550
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a89569e88806dd11
@@ -7101,7 +8561,7 @@
     original: "The Far Edge of Fate"
     translated: "На рубеже судьбы"
   level: 60
-  type: main-scenario
+  icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-023-heavng104_02359/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=78becfccd53878a0
@@ -7178,4 +8638,37 @@
   - id: 1018332
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3b14baae2ce6c5f5
     name: Татару
+  - id: 1018046
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1b419307a6da9459
+    name: Сид
+  - id: 1018383
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=afcf0ab745979bbc
+    name: Ида
+  - id: 1011896
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2e6665d2e391627e
+    name: Югири
+  - id: 1018375
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ab6d749356da5b80
+    name: Госэцу
+  - id: 1005521
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ab3564781bf6d60e
+    name: Неро тол Сцаева
+  - id: 1018054
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8784204e6301e964
+    name: Робанн
+  - id: 1018055
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=952a89be0b123383
+    name: Мёлвиб
+  - id: 1018056
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6cd5f8780ea7c07e
+    name: Эмерик
+  - id: 1011900
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c76a9f43ad97f65d
+    name: Сид
+  - id: 1005521
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ab3564781bf6d60e
+    name: Неро тол Сцаева
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e80b08befe15c9d
+    name: Альфино
 

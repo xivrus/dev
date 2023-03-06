@@ -2,7 +2,7 @@
     original: "So You Want to Be a Miner"
     translated: "Так ты хочешь стать горняком"
   level: 1
-  type: min
+  icon: 62318
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsmin001_00192/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=360a9adc9f69b46b
@@ -12,7 +12,7 @@
     original: "Way of the Miner"
     translated: "Путь горняка"
   level: 1
-  type: min
+  icon: 62318
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-005-clsmin011_00597/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d5a5fe500e78b65f
@@ -24,11 +24,15 @@
   - id: 1002298
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=929b7f0bf10706bb
     name: Адальберта
+  logmessages:
+  - id: 1101
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/logmessage/ru/?checksum=85a424ff298a3f69
+    name: "В ваш журнал собирательства добавлена страница горного дела."
 
 - name:
     original: "My First Pickaxe"
   level: 1
-  type: min
+  icon: 62318
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-005-clsmin021_00599/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2dd98df85c6337e9
@@ -37,11 +41,16 @@
   - id: 1002298
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=929b7f0bf10706bb
     name: Адальберта
+  - id: 1004089
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5310473ee7cef38b
+  eobjects:
+  - id: 2001295
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=2f65793dcf89d2eb
 
 - name:
     original: "Know Thy Land"
   level: 5
-  type: min
+  icon: 62318
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-006-clsmin050_00600/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e3e2933ef6249113
@@ -50,11 +59,16 @@
   - id: 1002298
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=929b7f0bf10706bb
     name: Адальберта
+  - id: 1004089
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5310473ee7cef38b
+  eobjects:
+  - id: 2001296
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=efdb5cae38fa8813
 
 - name:
     original: "The Cutting Edge"
   level: 10
-  type: min
+  icon: 62318
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-006-clsmin101_00602/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6695d0009b7cedb3
@@ -63,11 +77,16 @@
   - id: 1002298
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=929b7f0bf10706bb
     name: Адальберта
+  - id: 1004089
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5310473ee7cef38b
+  eobjects:
+  - id: 2001297
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c8b9697fbfc3fa75
 
 - name:
     original: "Getting in Deep"
   level: 15
-  type: min
+  icon: 62318
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-006-clsmin150_00603/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1ef9f092a3c4fb48
@@ -79,11 +98,16 @@
   - id: 1003909
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6cef5d45864a79e8
     name: Deep Canyon
+  - id: 1004089
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5310473ee7cef38b
+  eobjects:
+  - id: 2001298
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=3bb1ad0f1ba00f1c
 
 - name:
     original: "Old Wisdom, New Ways"
   level: 20
-  type: min
+  icon: 62318
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-006-clsmin200_00604/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6feead5b0834adad
@@ -92,11 +116,16 @@
   - id: 1002298
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=929b7f0bf10706bb
     name: Адальберта
+  - id: 1004089
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5310473ee7cef38b
+  eobjects:
+  - id: 2001299
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=881d4b0ced9b7bb9
 
 - name:
     original: "Water from Stone"
   level: 25
-  type: min
+  icon: 62318
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-006-clsmin250_00605/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6b34a6f513843567
@@ -105,11 +134,16 @@
   - id: 1002298
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=929b7f0bf10706bb
     name: Адальберта
+  - id: 1004089
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5310473ee7cef38b
+  eobjects:
+  - id: 2001300
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e6e56dc1e5c6315c
 
 - name:
     original: "Obsidian Race"
   level: 30
-  type: min
+  icon: 62318
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-006-clsmin300_00606/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6db52f3e540e8fbf
@@ -124,11 +158,16 @@
   - id: 1003911
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e1aced3a395d9ed2
     name: Hrodger
+  - id: 1004089
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5310473ee7cef38b
+  eobjects:
+  - id: 2001301
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=b2d0a3d8a6a634e3
 
 - name:
     original: "Amethysts Are Forever"
   level: 35
-  type: min
+  icon: 62318
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-006-clsmin350_00643/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b49b37ecd2b9565f
@@ -140,11 +179,14 @@
   - id: 1003910
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=55de09d55ca4b05a
     name: Wide Gulley
+  eobjects:
+  - id: 2001302
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=9a58dfc3fc3a20d7
 
 - name:
     original: "To Die For"
   level: 40
-  type: min
+  icon: 62318
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-006-clsmin400_00644/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b35e61f0e56f8e8c
@@ -156,11 +198,14 @@
   - id: 1003910
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=55de09d55ca4b05a
     name: Wide Gulley
+  eobjects:
+  - id: 2001303
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=2f48eac7ab96620c
 
 - name:
     original: "Gulley of Woes"
   level: 45
-  type: min
+  icon: 62318
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-006-clsmin450_00645/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e5956501e544c08f
@@ -172,11 +217,14 @@
   - id: 1003910
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=55de09d55ca4b05a
     name: Wide Gulley
+  eobjects:
+  - id: 2001304
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=0dec1d4bc6a63f2f
 
 - name:
     original: "Canyon of Regret"
   level: 50
-  type: min
+  icon: 62318
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-006-clsmin500_00646/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=790df319620940cf
@@ -195,7 +243,7 @@
 - name:
     original: "Breaking New Ground"
   level: 50
-  type: min
+  icon: 62318
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-020-clsmin502_02080/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e1251d201ec46fd4
@@ -225,7 +273,7 @@
 - name:
     original: "Sellspade"
   level: 53
-  type: min
+  icon: 62318
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-020-clsmin530_02081/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d79820bfd402a0a6
@@ -258,11 +306,20 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6e143b0086af247a
   - id: 1013931
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=38103427af61ba06
+  - id: 1013860
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9137757c1b2082b2
+    name: Muscles
+  - id: 1013870
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f8781eda2adbe64a
+  - id: 1013871
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c8809aaf84e0a99e
+  - id: 1013872
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ae628bca4c665350
 
 - name:
     original: "The Same Vein"
   level: 55
-  type: min
+  icon: 62318
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-020-clsmin550_02082/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2ff9ba03eb39b488
@@ -301,6 +358,15 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a2aef5b3ea86ae81
   - id: 1013942
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c848ef04ac49a8f7
+  - id: 1013860
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9137757c1b2082b2
+    name: Muscles
+  - id: 1013870
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f8781eda2adbe64a
+  - id: 1013871
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c8809aaf84e0a99e
+  - id: 1013872
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ae628bca4c665350
   quest_items:
   - id: 2001727
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=68731e5b2d133f67
@@ -310,7 +376,7 @@
 - name:
     original: "Digging Deeper"
   level: 58
-  type: min
+  icon: 62318
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-020-clsmin580_02083/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=cafd6dc6ab781568
@@ -347,6 +413,16 @@
   - id: 1013953
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ab8fa6c01e9d492a
     name: Hatchling
+  - id: 1013860
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9137757c1b2082b2
+    name: Muscles
+  - id: 1013870
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f8781eda2adbe64a
+  - id: 1013871
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c8809aaf84e0a99e
+  - id: 1015608
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cccc2acba36053c7
+    name: Hatchling
   quest_items:
   - id: 2001728
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=7e46f453d5a58d62
@@ -366,7 +442,7 @@
 - name:
     original: "The Hole Truth"
   level: 60
-  type: min
+  icon: 62318
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-020-clsmin600_02084/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f7394d0db13e3ef4
@@ -396,6 +472,12 @@
   - id: 1013961
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4c94aca848883c2f
     name: goblin trader
+  - id: 1015608
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cccc2acba36053c7
+    name: Hatchling
+  - id: 1013955
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3cd102f9c12a86dc
+    name: Рыцарь Фортамов
   quest_items:
   - id: 2001729
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=b25c35ce2e865af6
@@ -405,7 +487,7 @@
 - name:
     original: "Gift of the Gob"
   level: 60
-  type: min
+  icon: 62318
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-025-clsmin601_02554/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e345a5bb3811bf25
@@ -438,6 +520,21 @@
   - id: 1019865
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=84a7a369d51d365d
     name: Stackblox
+  - id: 1019882
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=85cbea861a1320a1
+    name: Nonowato
+  - id: 1019883
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dc2d3e1f48c4d1f0
+    name: Krystrymm
+  - id: 1019884
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6dabb829bbe9e3d4
+    name: Zansei
+  - id: 1019885
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dbea4c7276ef7aed
+    name: Fohcwyda
+  - id: 1019886
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7fabe1023a5b3d85
+    name: Stackblox
   quest_items:
   - id: 2002057
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=739a27360387ea9a
@@ -447,7 +544,7 @@
 - name:
     original: "Thick Skin"
   level: 63
-  type: min
+  icon: 62318
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-025-clsmin630_02555/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=09ea83d426f9197e
@@ -474,11 +571,29 @@
   - id: 1019865
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=84a7a369d51d365d
     name: Stackblox
+  - id: 1019882
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=85cbea861a1320a1
+    name: Nonowato
+  - id: 1019883
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dc2d3e1f48c4d1f0
+    name: Krystrymm
+  - id: 1019884
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6dabb829bbe9e3d4
+    name: Zansei
+  - id: 1019885
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dbea4c7276ef7aed
+    name: Fohcwyda
+  - id: 1019886
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7fabe1023a5b3d85
+    name: Stackblox
+  eobjects:
+  - id: 2007788
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=6006f2a4ed8b99c3
 
 - name:
     original: "Pedal to the Metal"
   level: 65
-  type: min
+  icon: 62318
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-025-clsmin650_02556/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8a53e2f7ee257cfe
@@ -508,11 +623,29 @@
   - id: 1019866
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=849ba708f453b969
     name: goblin merchant
+  - id: 1019882
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=85cbea861a1320a1
+    name: Nonowato
+  - id: 1019883
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dc2d3e1f48c4d1f0
+    name: Krystrymm
+  - id: 1019884
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6dabb829bbe9e3d4
+    name: Zansei
+  - id: 1019885
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dbea4c7276ef7aed
+    name: Fohcwyda
+  - id: 1019886
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7fabe1023a5b3d85
+    name: Stackblox
+  eobjects:
+  - id: 2007789
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=925c1de70dd33743
 
 - name:
     original: "Where the Money Takes You"
   level: 68
-  type: min
+  icon: 62318
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-025-clsmin680_02557/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7858d4c68e67738b
@@ -542,6 +675,21 @@
   - id: 1019867
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9a2a72e04eefd5fe
     name: Nonowato
+  - id: 1019882
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=85cbea861a1320a1
+    name: Nonowato
+  - id: 1019883
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dc2d3e1f48c4d1f0
+    name: Krystrymm
+  - id: 1019884
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6dabb829bbe9e3d4
+    name: Zansei
+  - id: 1019885
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dbea4c7276ef7aed
+    name: Fohcwyda
+  - id: 1019886
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7fabe1023a5b3d85
+    name: Stackblox
   quest_items:
   - id: 2002058
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=b263690fca1fbe60
@@ -551,7 +699,7 @@
 - name:
     original: "A Miner Success"
   level: 70
-  type: min
+  icon: 62318
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-025-clsmin700_02558/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9d1c64163cb59cec
@@ -607,12 +755,30 @@
   - id: 1019864
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0d2faf86e83b824a
     name: Stickqix
+  - id: 1019882
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=85cbea861a1320a1
+    name: Nonowato
+  - id: 1019883
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dc2d3e1f48c4d1f0
+    name: Krystrymm
+  - id: 1019884
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6dabb829bbe9e3d4
+    name: Zansei
+  - id: 1019885
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dbea4c7276ef7aed
+    name: Fohcwyda
+  - id: 1019886
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7fabe1023a5b3d85
+    name: Stackblox
+  eobjects:
+  - id: 2007790
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=92f7c6048ff9a319
 
 - name:
     original: "So You Want to Be a Botanist"
     translated: "Так ты хочешь стать ботаником"
   level: 1
-  type: btn
+  icon: 62319
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clshrv999_00193/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8ef4c6f93702ce6e
@@ -622,7 +788,7 @@
     original: "Way of the Botanist"
     translated: "Путь ботаника"
   level: 1
-  type: btn
+  icon: 62319
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-clshrv001_00003/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=035d249ec67bdff7
@@ -634,11 +800,15 @@
   - id: 1000815
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fcceee404edab1c0
     name: Фуфуча
+  logmessages:
+  - id: 1094
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/logmessage/ru/?checksum=c3aeb5f64df97368
+    name: "В ваш журнал собирательства добавлена страница ботаники."
 
 - name:
     original: "My First Hatchet"
   level: 1
-  type: btn
+  icon: 62319
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-002-clshrv100_00208/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=94f8b7ae7ec7a8ec
@@ -647,11 +817,16 @@
   - id: 1000815
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fcceee404edab1c0
     name: Фуфуча
+  - id: 1004089
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5310473ee7cef38b
+  eobjects:
+  - id: 2000701
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=6237f7fa143e8da4
 
 - name:
     original: "Sap for Smiles"
   level: 5
-  type: btn
+  icon: 62319
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-clshrv002_00004/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=bdb42fcd841f1d44
@@ -663,11 +838,16 @@
   - id: 1000295
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a06e670dec0eb748
     name: Cicely
+  - id: 1004089
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5310473ee7cef38b
+  eobjects:
+  - id: 2000732
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=677753d4b4174ca0
 
 - name:
     original: "Weapons of a Feather"
   level: 10
-  type: btn
+  icon: 62319
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-clshrv003_00005/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f0c5607c1ccd9546
@@ -679,11 +859,16 @@
   - id: 1000295
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a06e670dec0eb748
     name: Cicely
+  - id: 1004089
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5310473ee7cef38b
+  eobjects:
+  - id: 2000733
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f4f4f859577e7557
 
 - name:
     original: "Haste Makes Waste"
   level: 15
-  type: btn
+  icon: 62319
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-clshrv004_00006/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=69b0ec41f363a8f3
@@ -695,11 +880,13 @@
   - id: 1000239
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7071e198d9d614c1
     name: Альбгаст
+  - id: 1000293
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fd8c29598a67e7ad
 
 - name:
     original: "Dressed to Harvest"
   level: 20
-  type: btn
+  icon: 62319
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-clshrv005_00007/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ea162437072c2d7b
@@ -711,11 +898,19 @@
   - id: 1000292
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d19f28e464a340e8
     name: Sandre
+  - id: 1003238
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=99e9fb545a261bc5
+    name: Sandre
+  - id: 1004089
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5310473ee7cef38b
+  eobjects:
+  - id: 2000735
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=01cb83903630cb4b
 
 - name:
     original: "Aromatic Aspirations"
   level: 25
-  type: btn
+  icon: 62319
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-clshrv006_00008/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3dadbb217dc5bf20
@@ -727,11 +922,19 @@
   - id: 1000292
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d19f28e464a340e8
     name: Sandre
+  - id: 1003238
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=99e9fb545a261bc5
+    name: Sandre
+  - id: 1004089
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5310473ee7cef38b
+  eobjects:
+  - id: 2000736
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=662b68a495895e57
 
 - name:
     original: "What Nature Giveth"
   level: 30
-  type: btn
+  icon: 62319
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-clshrv007_00009/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ab836a6a4117d4c2
@@ -743,11 +946,16 @@
   - id: 1000129
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a0d853a0481920ce
     name: Solyeux
+  - id: 1004089
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5310473ee7cef38b
+  eobjects:
+  - id: 2000737
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=66da965a4fb66078
 
 - name:
     original: "A Feast to Say the Least"
   level: 35
-  type: btn
+  icon: 62319
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-clshrv008_00010/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3030a6aee6efc7de
@@ -759,11 +967,14 @@
   - id: 1000774
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ba89343b16c6c890
     name: Yannie
+  eobjects:
+  - id: 2001289
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ad8d1a3f2fe2bbb5
 
 - name:
     original: "Crisis of Faith"
   level: 40
-  type: btn
+  icon: 62319
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-clshrv009_00011/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c5e3efa755145a12
@@ -775,16 +986,23 @@
   - id: 1000775
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=06df676eea596bc6
     name: Yannie
+  - id: 1004089
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5310473ee7cef38b
   quest_items:
   - id: 2000569
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=f409e095aef6884a
     name: serving of special ratatouille
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=f409e095aef6884a
+  eobjects:
+  - id: 2001290
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=81cb28b1c80bb5fc
+  - id: 2001888
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=897430b027b45b5d
 
 - name:
     original: "Botanist in a Bind"
   level: 45
-  type: btn
+  icon: 62319
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-clshrv010_00012/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6501ae8e32c0237d
@@ -796,11 +1014,14 @@
   - id: 1000193
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6ef1894b351d55a1
     name: Gavin
+  eobjects:
+  - id: 2001291
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f6e69ad0c122d3b5
 
 - name:
     original: "Seeds of Hope"
   level: 50
-  type: btn
+  icon: 62319
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-clshrv011_00013/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b55724441fe77298
@@ -818,6 +1039,8 @@
   - id: 1000777
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ee346dedb5f0d6b5
     name: troubled carpenter
+  - id: 1000293
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fd8c29598a67e7ad
   eobjects:
   - id: 2001899
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=fce9b8937d567c02
@@ -825,7 +1048,7 @@
 - name:
     original: "Call from the Clouds"
   level: 50
-  type: btn
+  icon: 62319
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-020-clshrv502_02048/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=42b785e299e982fe
@@ -858,7 +1081,7 @@
 - name:
     original: "Onions of Life Bestowing"
   level: 53
-  type: btn
+  icon: 62319
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-020-clshrv530_02049/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3be43731e4e67c26
@@ -877,7 +1100,7 @@
 - name:
     original: "Two Nations, One Seed"
   level: 55
-  type: btn
+  icon: 62319
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-020-clshrv550_02050/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=90217c877892ca19
@@ -904,7 +1127,7 @@
 - name:
     original: "Love for Harmony"
   level: 58
-  type: btn
+  icon: 62319
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-020-clshrv580_02051/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f6f3483e4de3e3e7
@@ -923,7 +1146,7 @@
 - name:
     original: "Seeds Know No Borders"
   level: 60
-  type: btn
+  icon: 62319
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-020-clshrv600_02052/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=fea73cb2f97495ba
@@ -960,7 +1183,7 @@
 - name:
     original: "Never Meet Your Heroes"
   level: 60
-  type: btn
+  icon: 62319
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-026-clshrv601_02620/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9966595d96b32e5a
@@ -972,11 +1195,17 @@
   - id: 1021349
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1805cc5e1abcb0b8
     name: Edgyth
+  - id: 1021038
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3fd8a45c862b556b
+    name: Фуфуча
+  - id: 1021037
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fc4faca184733a28
+    name: Edgyth
 
 - name:
     original: "You Say Popoto, I Say..."
   level: 63
-  type: btn
+  icon: 62319
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-026-clshrv630_02621/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=34a7a09f3cbec5d9
@@ -997,11 +1226,17 @@
   - id: 1021352
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=46be62038c45d9dc
     name: Edgyth
+  - id: 1021037
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fc4faca184733a28
+    name: Edgyth
+  eobjects:
+  - id: 2008180
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=76d1484be63daf6b
 
 - name:
     original: "Walking for Walker's"
   level: 65
-  type: btn
+  icon: 62319
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-026-clshrv650_02622/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=680ece051e5d4a82
@@ -1034,12 +1269,21 @@
   - id: 1019233
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f54c6b247dde0025
     name: Hikinami
+  - id: 1016111
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=64e8566cf567c159
+    name: Sawney
+  - id: 1021037
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fc4faca184733a28
+    name: Edgyth
+  eobjects:
+  - id: 2008180
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=76d1484be63daf6b
 
 - name:
     original: "The White Death"
     translated: "Белая смерть"
   level: 68
-  type: btn
+  icon: 62319
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-026-clshrv680_02623/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=844550605d74368a
@@ -1057,6 +1301,15 @@
   - id: 1017106
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e72cbc300985920a
     name: Goldwox
+  - id: 1021038
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3fd8a45c862b556b
+    name: Фуфуча
+  - id: 1016111
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=64e8566cf567c159
+    name: Sawney
+  - id: 1021037
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fc4faca184733a28
+    name: Edgyth
   quest_items:
   - id: 2002166
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=07f4c22f52ebf033
@@ -1078,7 +1331,7 @@
 - name:
     original: "Edgyth's Winning Streak"
   level: 70
-  type: btn
+  icon: 62319
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-026-clshrv700_02624/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c2d881fda54d2e2e
@@ -1111,12 +1364,21 @@
   - id: 1022381
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=efff2305a1504197
     name: Edgyth
+  - id: 1021038
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3fd8a45c862b556b
+    name: Фуфуча
+  - id: 1016111
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=64e8566cf567c159
+    name: Sawney
+  - id: 1021037
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fc4faca184733a28
+    name: Edgyth
 
 - name:
     original: "So You Want to Be a Fisher"
     translated: "Так ты хочешь стать рыбаком"
   level: 1
-  type: fsh
+  icon: 62320
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-clsfsh001_01134/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f1d6378826ee3b2f
@@ -1126,7 +1388,7 @@
     original: "Way of the Fisher"
     translated: "Путь рыбака"
   level: 1
-  type: fsh
+  icon: 62320
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-clsfsh011_01107/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=733584c28f97aed3
@@ -1142,7 +1404,7 @@
 - name:
     original: "My First Fishing Rod"
   level: 1
-  type: fsh
+  icon: 62320
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-clsfsh021_01108/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=911ac986669ba494
@@ -1151,11 +1413,17 @@
   - id: 1000857
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7a55838044a52043
     name: Сисипу
+  - id: 1000856
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e007d35ca69c8dc6
+    name: Вавалаго
+  eobjects:
+  - id: 2001305
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=0469978aad75b541
 
 - name:
     original: "Bigger Fish to Fry"
   level: 5
-  type: fsh
+  icon: 62320
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-clsfsh051_01109/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b57975aa421de445
@@ -1164,11 +1432,17 @@
   - id: 1000857
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7a55838044a52043
     name: Сисипу
+  - id: 1000856
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e007d35ca69c8dc6
+    name: Вавалаго
+  eobjects:
+  - id: 2001306
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a4b0acc5d46f73cc
 
 - name:
     original: "The Princess and the Fish"
   level: 10
-  type: fsh
+  icon: 62320
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-clsfsh101_01110/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=0b84a6d8261c1db8
@@ -1177,11 +1451,17 @@
   - id: 1000857
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7a55838044a52043
     name: Сисипу
+  - id: 1000856
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e007d35ca69c8dc6
+    name: Вавалаго
+  eobjects:
+  - id: 2001307
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=3f3f2fd1564edf20
 
 - name:
     original: "Every Fish Has a Silver Lining"
   level: 15
-  type: fsh
+  icon: 62320
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-clsfsh151_01111/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c8afd6d72b4b57ae
@@ -1196,11 +1476,17 @@
   - id: 1000856
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e007d35ca69c8dc6
     name: Вавалаго
+  - id: 1000857
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7a55838044a52043
+    name: Сисипу
+  eobjects:
+  - id: 2001308
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8d4641e3678108a7
 
 - name:
     original: "A Fish in Hot Water"
   level: 20
-  type: fsh
+  icon: 62320
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-clsfsh201_01112/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1867b848bd2c291a
@@ -1212,11 +1498,17 @@
   - id: 1003516
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=20cd50c63dd83571
     name: Chuchuroon
+  - id: 1000857
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7a55838044a52043
+    name: Сисипу
+  eobjects:
+  - id: 2001309
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8486f42ca0a54906
 
 - name:
     original: "A Game of Cat and Fish"
   level: 25
-  type: fsh
+  icon: 62320
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-clsfsh251_01113/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=319c22392ce080d4
@@ -1225,11 +1517,17 @@
   - id: 1000857
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7a55838044a52043
     name: Сисипу
+  - id: 1000856
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e007d35ca69c8dc6
+    name: Вавалаго
+  eobjects:
+  - id: 2001310
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=897ecadabda305e3
 
 - name:
     original: "Like Fish Passing in the Night"
   level: 30
-  type: fsh
+  icon: 62320
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-clsfsh301_01114/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=0fbd878898e10911
@@ -1244,11 +1542,14 @@
   - id: 1000856
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e007d35ca69c8dc6
     name: Вавалаго
+  eobjects:
+  - id: 2001311
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d25e215bb7112881
 
 - name:
     original: "A Fish out of Water"
   level: 35
-  type: fsh
+  icon: 62320
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-clsfsh351_01115/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f6eeaba4aaedda57
@@ -1259,15 +1560,18 @@
     name: Сисипу
   - id: 1004962
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e3e6e11856ddb377
-    name: U'goromuli
+    name: У'горомули
   - id: 1003628
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4ad42fcb6bff379c
     name: Tocktix
+  eobjects:
+  - id: 2001312
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=19131d547263d451
 
 - name:
     original: "Fishing in the Rain"
   level: 40
-  type: fsh
+  icon: 62320
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-clsfsh401_01116/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=0a20b2563bee2cd7
@@ -1279,11 +1583,14 @@
   - id: 1003629
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5412b3dbe0932993
     name: Sybell
+  eobjects:
+  - id: 2001313
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=505540f459e34625
 
 - name:
     original: "I Believe Fish Can Fly"
   level: 45
-  type: fsh
+  icon: 62320
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-clsfsh451_01117/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2542a35c03f4bfb9
@@ -1298,11 +1605,17 @@
   - id: 1006804
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2760a48614718e81
     name: Firminnant
+  - id: 1000856
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e007d35ca69c8dc6
+    name: Вавалаго
+  eobjects:
+  - id: 2001314
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=071864cabaa74f98
 
 - name:
     original: "So Long, and Thanks for All the Fish"
   level: 50
-  type: fsh
+  icon: 62320
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-clsfsh501_01118/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f3fcd09a56057a68
@@ -1324,7 +1637,7 @@
 - name:
     original: "Plenty More Fish in the Sea"
   level: 50
-  type: fsh
+  icon: 62320
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-020-clsfsh502_02085/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=997eaa5adb605648
@@ -1351,7 +1664,7 @@
 - name:
     original: "The Icepick Challenge"
   level: 53
-  type: fsh
+  icon: 62320
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-020-clsfsh530_02086/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=acd27b19a3c77cf9
@@ -1373,7 +1686,7 @@
 - name:
     original: "Invasion of the Supper Snatchers"
   level: 55
-  type: fsh
+  icon: 62320
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-020-clsfsh550_02087/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=201cb772ddbfc959
@@ -1403,7 +1716,7 @@
 - name:
     original: "One Man's Fish Is Another Man's Poison"
   level: 58
-  type: fsh
+  icon: 62320
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-020-clsfsh580_02088/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=436a0ad5c24c8d64
@@ -1424,11 +1737,14 @@
   - id: 1013824
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=665bc060ff6474fe
     name: Mogukk
+  - id: 1013822
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=05de91f2d0b08220
+    name: elderly Elezen
 
 - name:
     original: "Carpe Diem"
   level: 60
-  type: fsh
+  icon: 62320
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-020-clsfsh600_02089/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=94fee7be9fb69cc3
@@ -1458,6 +1774,9 @@
   - id: 1013831
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c2f31b51f6179dba
     name: Reyna
+  - id: 1013825
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f2f0e0d8f608e44b
+    name: Reyna
   quest_items:
   - id: 2001721
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=fb20df4d8e8b227c
@@ -1467,7 +1786,7 @@
 - name:
     original: "Whither Wawalago Wanders"
   level: 60
-  type: fsh
+  icon: 62320
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-028-clsfsh601_02895/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a22909613dbaf4cd
@@ -1479,6 +1798,12 @@
   - id: 1000856
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e007d35ca69c8dc6
     name: Вавалаго
+  - id: 1021392
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b8c19632ea1d49e3
+    name: Вавалаго
+  - id: 1022740
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f960b0ed96a06000
+    name: Govv
   eobjects:
   - id: 2008204
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=2df0b40ddd758e72
@@ -1487,7 +1812,7 @@
 - name:
     original: "A Rousing Reunion"
   level: 63
-  type: fsh
+  icon: 62320
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-028-clsfsh630_02896/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c05cb906f7e91fe4
@@ -1502,11 +1827,14 @@
   - id: 1021397
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4f9b4a79951d339f
     name: Govv
+  - id: 1021393
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a9d481582f599530
+    name: Govv
 
 - name:
     original: "Search for the Spawning Grounds"
   level: 65
-  type: fsh
+  icon: 62320
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-028-clsfsh650_02897/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=77a64633e7b6f3be
@@ -1530,11 +1858,20 @@
   - id: 1021402
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c35f0dcad2f1b14d
     name: Reyna
+  - id: 1021393
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a9d481582f599530
+    name: Govv
+  - id: 1022740
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f960b0ed96a06000
+    name: Govv
+  eobjects:
+  - id: 2008205
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ffa48b675bb61007
 
 - name:
     original: "Always a Bigger Fish"
   level: 68
-  type: fsh
+  icon: 62320
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-028-clsfsh680_02898/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ca44c7539f96cb0f
@@ -1585,6 +1922,15 @@
   - id: 1021415
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f1b18ef7b34bc0ef
     name: Govv
+  - id: 1021392
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b8c19632ea1d49e3
+    name: Вавалаго
+  - id: 1013843
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dab58ad8882bc2ad
+    name: Ansaulme
+  - id: 1021395
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9a5bfbe3c27ab6f4
+    name: Sisipu
   quest_items:
   - id: 2002180
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=65c4e23ab6707265
@@ -1598,7 +1944,7 @@
 - name:
     original: "Farewell, and Thanks for the Fish"
   level: 70
-  type: fsh
+  icon: 62320
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-028-clsfsh700_02899/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=18f349d4981046f1
@@ -1650,4 +1996,22 @@
   - id: 1021424
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c828200845754392
     name: Ukimono
+  - id: 1021392
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b8c19632ea1d49e3
+    name: Вавалаго
+  - id: 1021393
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a9d481582f599530
+    name: Govv
+  - id: 1021394
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0ef99d4e79340dfa
+    name: Ukimono
+  - id: 1021395
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9a5bfbe3c27ab6f4
+    name: Sisipu
+  - id: 1013825
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f2f0e0d8f608e44b
+    name: Reyna
+  - id: 1013843
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dab58ad8882bc2ad
+    name: Ansaulme
 

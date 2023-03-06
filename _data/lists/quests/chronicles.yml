@@ -2,7 +2,7 @@
     original: "A Recurring Problem"
     translated: "Назойливая проблема"
   level: 50
-  type: feature
+  icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-010-gaiusd001_01047/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b7cf212cca38e336
@@ -14,11 +14,26 @@
   - id: 1007478
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
     name: Урианже
+  - id: 1002275
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fc03e01eea417e62
+    name: Ида
+  - id: 1002276
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6fe9ab67657d31ec
+    name: Папалимо
+  - id: 1003782
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a7afc9fdd085a5d5
+    name: Я'штола
+  - id: 1003781
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5255e2468242c7e7
+    name: Танкред
+  - id: 1003784
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e720278f47ddd776
+    name: Урианже
 
 - name:
     original: "Ifrit Bleeds, We Can Kill It"
   level: 50
-  type: feature
+  icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-010-gaiusd002_01048/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7987092a02152425
@@ -39,7 +54,7 @@
     original: "In for Garuda Awakening"
     translated: "В семье не без Гаруды"
   level: 50
-  type: feature
+  icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-gaiusd003_01157/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7cfc577d7da68d54
@@ -59,7 +74,7 @@
 - name:
     original: "In a Titan Spot"
   level: 50
-  type: feature
+  icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-gaiusd004_01158/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a3c83eaec19ce3c7
@@ -79,7 +94,7 @@
 - name:
     original: "Primal Nature"
   level: 50
-  type: feature
+  icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-gaiusd011_01194/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=836cb38ac11d8bbe
@@ -95,7 +110,7 @@
 - name:
     original: "Gale-force Warning"
   level: 50
-  type: feature
+  icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-gaiusd012_01195/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4917f3e95e1cb49e
@@ -107,6 +122,12 @@
   - id: 1007478
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
     name: Урианже
+  - id: 1008267
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f082a05c5561faaf
+    name: Асцианец Двенадцатого Посоха
+  - id: 1008268
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3faa582498088949
+    name: Асцианец Двенадцатого Клинка
   quest_items:
   - id: 2001139
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=a8851762179e1ce0
@@ -120,7 +141,7 @@
 - name:
     original: "Quake Me Up Before You O'Ghomoro"
   level: 50
-  type: feature
+  icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-gaiusd013_01196/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b416c4ab0f7920e0
@@ -132,6 +153,12 @@
   - id: 1003281
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6a5bdf5c296cc099
     name: Р'айшат Рики
+  - id: 1008269
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=aa372b5b418e6558
+    name: Асцианец Двенадцатого Посоха
+  - id: 1008270
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ed548f4ee47d1581
+    name: Асцианец Двенадцатого Клинка
   quest_items:
   - id: 2001140
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=0f7d2cd390f03456
@@ -145,7 +172,7 @@
 - name:
     original: "Ifrit Ain't Broke"
   level: 50
-  type: feature
+  icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-gaiusd014_01197/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d570c949d91b961e
@@ -169,8 +196,9 @@
 
 - name:
     original: "To Tussle with Gods"
+    translated: "Боговержец"
   level: 50
-  type: feature
+  icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-gaiusd015_01198/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f568af1510964b60
@@ -202,7 +230,7 @@
 - name:
     original: "Primal Focus"
   level: 50
-  type: feature-repeatable
+  icon: 61921
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-013-gaiusd016_01309/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e69c9e0bb9911de2
@@ -228,7 +256,7 @@
 - name:
     original: "The King Lives"
   level: 50
-  type: feature
+  icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-014-gaiusd017_01412/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=df32b4f80c708be8
@@ -246,6 +274,8 @@
   - id: 1008545
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=991ab1edfc40f9b8
     name: Королевский стражник Двух Змей
+  - id: 1008001
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=99ee02f20c697e5f
   eobjects:
   - id: 2004032
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=6511470fcc854fa0
@@ -253,7 +283,7 @@
 - name:
     original: "Whorl of a Time"
   level: 50
-  type: feature
+  icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-014-gaiusd018_01413/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=0a9d49bf16291f66
@@ -272,7 +302,7 @@
 - name:
     original: "Judgment Bolts and Lightning"
   level: 50
-  type: feature
+  icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-015-gaiusd019_01530/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=30a131cc3f55fca3
@@ -288,6 +318,10 @@
   - id: 1007478
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
     name: Урианже
+  - id: 1005163
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e34bb1e9cd60c25d
+    name: Фриксио
+  - id: 0
   eobjects:
   - id: 2004430
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a0c4d8b5a88e9f38
@@ -296,7 +330,7 @@
 - name:
     original: "Drop Dead Shiva"
   level: 50
-  type: feature
+  icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-gaiusd020_00090/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=47af8ccdd68b75ad
@@ -316,7 +350,7 @@
 - name:
     original: "Fear and Odin in the Shroud"
   level: 50
-  type: feature
+  icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-004-subcts902_00433/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=43d07576fd29920b
@@ -339,7 +373,7 @@
 - name:
     original: "Primal Fear"
   level: 46
-  type: feature
+  icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-010-gaiusc607_01007/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=96e979476707756f
@@ -358,7 +392,7 @@
 - name:
     original: "Who Was That Man in Black"
   level: 46
-  type: feature
+  icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-010-gaiusc608_01008/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1fbf2cc8f321033f
@@ -386,7 +420,7 @@
 - name:
     original: "The Dark Divinity"
   level: 46
-  type: feature
+  icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-010-gaiusc609_01009/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=41fd298ca48bb969
@@ -414,6 +448,9 @@
   - id: 2062
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=383a251909ca0860
     name: the last of the Allagans
+  - id: 2062
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=383a251909ca0860
+    name: the last of the Allagans
   quest_items:
   - id: 2000963
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=b44dff1635108ea8
@@ -434,7 +471,7 @@
 - name:
     original: "All You Wanted to Know about Odin"
   level: 46
-  type: feature
+  icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-010-gaiusc612_01012/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5eaad1470ec50e87
@@ -455,7 +492,7 @@
 - name:
     original: "Primal Awakening"
   level: 50
-  type: feature
+  icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-gaiusd101_01159/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=16056c3fb4a0fa66
@@ -478,7 +515,7 @@
 - name:
     original: "Alisaie's Pledge"
   level: 50
-  type: feature
+  icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-gaiusd102_01160/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5dc33e9031ac015c
@@ -511,11 +548,14 @@
   - id: 1007684
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=29acf0128230849c
     name: Ализе
+  - id: 1008180
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9d77f3aa748ac930
+    name: Урианже
 
 - name:
     original: "Another Turn in the Coil"
   level: 50
-  type: feature
+  icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-013-gaiusd301_01313/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6381d1d41b2a2919
@@ -530,11 +570,17 @@
   - id: 1008539
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f330aa847268068e
     name: sharp-eyed serpent private
+  - id: 1004145
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9fd3d0f609a798d4
+    name: Альфино
+  - id: 1004146
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dd0edddb856ff470
+    name: Ализе
 
 - name:
     original: "Alisaie's Resolve"
   level: 50
-  type: feature
+  icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-013-gaiusd302_01314/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=75e3cb78371f07ad
@@ -571,11 +617,17 @@
   - id: 1007478
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
     name: Урианже
+  - id: 1004145
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9fd3d0f609a798d4
+    name: Альфино
+  - id: 1004146
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dd0edddb856ff470
+    name: Ализе
 
 - name:
     original: "Fragments of Truth"
   level: 50
-  type: feature
+  icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-gaiusd501_00043/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a3b68eff7f3bd9f7
@@ -609,14 +661,29 @@
   - id: 1009768
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=db813db859d075d8
     name: Erkenrad
+  - id: 1004145
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9fd3d0f609a798d4
+    name: Альфино
+  - id: 1004146
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dd0edddb856ff470
+    name: Ализе
+  - id: 1008180
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9d77f3aa748ac930
+    name: Урианже
+  - id: 1009768
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=db813db859d075d8
+    name: Erkenrad
   eobjects:
   - id: 2004607
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=6b5c9b93cae1ea90
+  - id: 2004609
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=25eac4597a553fb9
+  - id: 5000001
 
 - name:
     original: "Alisaie's Path"
   level: 50
-  type: feature
+  icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-gaiusd502_00044/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e5cf7be1d9fd2487
@@ -669,7 +736,7 @@
     original: "Legacy of Allag"
     translated: "Наследие Аллага"
   level: 50
-  type: feature
+  icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-017-gaiusx201_01709/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c3ba38fba0ed5dc9
@@ -686,6 +753,9 @@
   - id: 1006725
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f53781452bc80d2e
     name: Рамброс
+  - id: 1003855
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=24b180ac268614c7
+    name: Сид
   enemies:
   - id: 7578
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3fe09f499afd1d9a
@@ -734,7 +804,7 @@
     original: "Sanding It Down"
     translated: "Всё ради полировки"
   level: 50
-  type: feature
+  icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-012-gaiusd202_01200/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b2252306e9761969
@@ -759,6 +829,18 @@
   - id: 1007759
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=58048033b678d752
     name: Ведж
+  - id: 1002280
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ee39d8790da993b3
+    name: Ямим
+  - id: 1003836
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=21dd0f1dbf021d57
+    name: Биггс
+  - id: 1008298
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1f160a37534cf95c
+    name: Ямим
+  - id: 1003855
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=24b180ac268614c7
+    name: Сид
   quest_items:
   - id: 2001099
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=d6387e18afe963d1
@@ -776,12 +858,14 @@
   - id: 2002892
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5a0d2ac51401d9a9
     name: Нужный вам свёрток... кажется
+  - id: 2003058
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c0992c47945965b2
 
 - name:
     original: "A Performance for the Ages"
     translated: "Спектакль на века"
   level: 50
-  type: feature
+  icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-012-gaiusd203_01201/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8a95162bb16457f2
@@ -828,12 +912,14 @@
   - id: 2002896
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=4d462c444d325447
     name: Свёрток с эфирным песком
+  - id: 2003014
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=21998fc10ae7a266
 
 - name:
     original: "Labyrinth of the Ancients"
     translated: "Лабиринт Древних"
   level: 50
-  type: feature
+  icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-012-gaiusd204_01202/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=03f7dc8d7132de84
@@ -851,7 +937,7 @@
     original: "For Prosperity"
     translated: "Всё ради успеха"
   level: 50
-  type: feature
+  icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-012-gaiusd205_01203/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=716c99c7e0c6a23d
@@ -868,7 +954,7 @@
     original: "Syrcus Tower"
     translated: "Башня Сиркус"
   level: 50
-  type: raid
+  icon: 61802
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsrog011_00102/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a607fe61b7b42f8c
@@ -880,12 +966,16 @@
   - id: 1009943
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=878fe4a6ae0c3e6c
     name: Джеки
+  logmessages:
+  - id: 1020
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/logmessage/ru/?checksum=c0945e4be018959d
+    name: "В ваш охотничий журнал добавлена новая страница."
 
 - name:
     original: "The World of Darkness"
     translated: "Мир Тьмы"
   level: 50
-  type: feature
+  icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-004-gaiusd601_00494/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3fe7b787efcf0bb0
@@ -916,12 +1006,24 @@
   - id: 1007762
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9b2e1701a838bd5d
     name: Ведж
+  - id: 1005518
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=40501e727a9a121d
+    name: Г'раха Тиа
+  - id: 1003855
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=24b180ac268614c7
+    name: Сид
+  - id: 1003836
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=21dd0f1dbf021d57
+    name: Биггс
+  - id: 1003837
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3cf6b269f9bcf8ab
+    name: Ведж
 
 - name:
     original: "The Light of Hope"
     translated: "Свет надежды"
   level: 50
-  type: feature
+  icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-004-gaiusd602_00495/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5a511c01e2d09106
@@ -935,12 +1037,24 @@
     name: Cын Святого Конаха
   - id: 1011642
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a6e26b606f1c39a6
+  - id: 1003855
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=24b180ac268614c7
+    name: Сид
+  - id: 1003836
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=21dd0f1dbf021d57
+    name: Биггс
+  - id: 1003837
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3cf6b269f9bcf8ab
+    name: Ведж
+  - id: 1011643
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7f0fc633cc10eeb2
+    name: Cын Святого Конаха
 
 - name:
     original: "But I Hardly Noah"
     translated: "Только не Ной"
   level: 50
-  type: feature
+  icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-004-gaiusd701_00497/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c25fa6598f5396c1
@@ -962,7 +1076,7 @@
     original: "The Gift of the Archmagus"
     translated: "Дар архимага"
   level: 50
-  type: feature-repeatable
+  icon: 61921
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-004-gaiusd702_00498/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d04f743b873ecea6

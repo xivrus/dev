@@ -2,7 +2,7 @@
     original: "Way of the Gladiator"
     translated: "Путь гладиатора"
   level: 1
-  type: gld
+  icon: 62301
   id: 285
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-002-clsgla011_00285/
@@ -15,12 +15,16 @@
   - id: 1001739
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d7ca7c38a795daba
     name: Милла
+  logmessages:
+  - id: 1010
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/logmessage/ru/?checksum=2f37b1112af60a06
+    name: "В ваш охотничий журнал добавлена новая страница."
 
 - name:
     original: "So You Want to Be a Gladiator"
     translated: "Так ты хочешь стать гладиатором"
   level: 1
-  type: gld
+  icon: 62301
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsgla001_00177/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8d1ef3853cd2a3ac
@@ -30,7 +34,7 @@
     original: "Way of the Gladiator"
     translated: "Путь гладиатора"
   level: 1
-  type: gld
+  icon: 62301
   id: 253
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-002-clsgla020_00253/
@@ -43,11 +47,67 @@
   - id: 1001739
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d7ca7c38a795daba
     name: Милла
+  enemies:
+  - id: 262
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f4aa86114472bf09
+    name: Звёздный сурок
+  - id: 1101
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=85a424ff298a3f69
+    name: pack rat
+  - id: 1050
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=eba3f7c89e6687d6
+    name: Сурок-орехокол
+  - id: 632
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=07f10963a6ec4219
+    name: Гигантский шершень
+  - id: 641
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=79f2fece8d8a6f50
+    name: Оса
+  - id: 893
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=5c72f5075908235f
+    name: Королевская оса
+  - id: 1140
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=65bbb044d98a99c7
+    name: giant bee
+  - id: 953
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=99806374f867d8c9
+    name: Цветочная оса
+  - id: 410
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3789ff56b525920c
+    name: Сточный крот
+  - id: 318
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7c9b2bf182195151
+    name: Кусачая землеройка
+  - id: 409
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=83b2ba7cb5756417
+    name: Крот Мораби
+  - id: 1083
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=662b9e7529e52a36
+    name: rat mole
+  - id: 577
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=bdb145b70c94390e
+    name: Дикая землеройка
+  - id: 1082
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1eca0e40661367a8
+    name: naked mole
+  - id: 574
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c82c7842ae9e6cc0
+    name: Кусачая землеройка
+  - id: 958
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c356df26dc50a7aa
+    name: Ловкий колючекрот
+  - id: 1049
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=06628fbb2235d838
+    name: Голая землеройка
+  logmessages:
+  - id: 1010
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/logmessage/ru/?checksum=2f37b1112af60a06
+    name: "В ваш охотничий журнал добавлена новая страница."
 
 - name:
     original: "My First Gladius"
   level: 1
-  type: gld
+  icon: 62301
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-002-clsgla021_00286/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ccd3f4061f412b36
@@ -56,12 +116,64 @@
   - id: 1001739
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d7ca7c38a795daba
     name: Милла
+  enemies:
+  - id: 262
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f4aa86114472bf09
+    name: Звёздный сурок
+  - id: 1101
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=85a424ff298a3f69
+    name: pack rat
+  - id: 1050
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=eba3f7c89e6687d6
+    name: Сурок-орехокол
+  - id: 632
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=07f10963a6ec4219
+    name: Гигантский шершень
+  - id: 641
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=79f2fece8d8a6f50
+    name: Оса
+  - id: 893
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=5c72f5075908235f
+    name: Королевская оса
+  - id: 1140
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=65bbb044d98a99c7
+    name: giant bee
+  - id: 953
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=99806374f867d8c9
+    name: Цветочная оса
+  - id: 410
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3789ff56b525920c
+    name: Сточный крот
+  - id: 318
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7c9b2bf182195151
+    name: Кусачая землеройка
+  - id: 409
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=83b2ba7cb5756417
+    name: Крот Мораби
+  - id: 1083
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=662b9e7529e52a36
+    name: rat mole
+  - id: 577
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=bdb145b70c94390e
+    name: Дикая землеройка
+  - id: 1082
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1eca0e40661367a8
+    name: naked mole
+  - id: 574
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c82c7842ae9e6cc0
+    name: Кусачая землеройка
+  - id: 958
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c356df26dc50a7aa
+    name: Ловкий колючекрот
+  - id: 1049
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=06628fbb2235d838
+    name: Голая землеройка
 
 - name:
     original: "Kicking the Hornet's Nest"
     translated: "Разворошить осиное гнездо"
   level: 5
-  type: gld
+  icon: 62301
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-002-clsgla050_00256/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=29317e2cedd22ccf
@@ -136,7 +248,7 @@
     original: "Ul'dah's Most Wanted"
     translated: "Разыскиваемый в Уль'де"
   level: 10
-  type: gld
+  icon: 62301
   id: 261
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-002-clsgla100_00261/
@@ -152,6 +264,9 @@
   - id: 1003945
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=10d615562396b10f
     name: Брюс Здоровяк
+  - id: 1004302
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=17f8fd8337567d1d
+    name: Bruce
   enemies:
   - id: 923
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1c4ae11e172c0c0f
@@ -168,7 +283,7 @@
     original: "Ul'dah's Most Wanted"
     translated: "Разыскиваемый в Уль'де"
   level: 10
-  type: gld
+  icon: 62301
   id: 288
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-002-clsgla101_00288/
@@ -184,6 +299,9 @@
   - id: 1003945
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=10d615562396b10f
     name: Брюс Здоровяк
+  - id: 1004302
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=17f8fd8337567d1d
+    name: Bruce
   enemies:
   - id: 923
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1c4ae11e172c0c0f
@@ -200,7 +318,7 @@
     original: "That Old Familiar Feeling"
     translated: "То знакомое чувство"
   level: 15
-  type: gld
+  icon: 62301
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-002-clsgla150_00262/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b6345a31208d613d
@@ -218,6 +336,12 @@
   - id: 1004091
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b3a81e0eca03f04b
     name: Альдис
+  - id: 1004301
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b1a5ca2eae7d9419
+    name: Альдис
+  - id: 1004302
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=17f8fd8337567d1d
+    name: Bruce
   enemies:
   - id: 1177
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2e06926203f9ef04
@@ -241,7 +365,7 @@
     original: "The Face of Thal"
     translated: "Посланник Талла"
   level: 20
-  type: gld
+  icon: 62301
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-002-clsgla200_00263/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=974b936e840e7475
@@ -265,6 +389,9 @@
   - id: 1004092
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d2e84a83ff7008f2
     name: Милла
+  - id: 1004301
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b1a5ca2eae7d9419
+    name: Альдис
   quest_items:
   - id: 2000402
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=e48b071cb17d6056
@@ -285,7 +412,7 @@
     original: "On Holy Ground"
     translated: "На святой земле"
   level: 25
-  type: gld
+  icon: 62301
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-002-clsgla250_00264/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6c45e5274dd79444
@@ -321,7 +448,7 @@
     original: "The Rematch"
     translated: "Реванш"
   level: 30
-  type: gld
+  icon: 62301
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-002-clsgla300_00265/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ad7dcf0ac0034f76
@@ -347,6 +474,19 @@
   - id: 1004437
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=744a91cb5189211d
     name: Беспокойный гладиатор
+  - id: 1004301
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b1a5ca2eae7d9419
+    name: Альдис
+  - id: 1004302
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=17f8fd8337567d1d
+    name: Bruce
+  - id: 1004303
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e89a57b32c995053
+  - id: 1004304
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bb59b664ca426e8f
+  - id: 1004305
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c09402b72bba057f
+    name: 剣術士ギルドメンバー
   enemies:
   - id: 929
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=16868b9fa513296b
@@ -389,7 +529,7 @@
     original: "Way of the Pugilist"
     translated: "Путь борца"
   level: 1
-  type: pgl
+  icon: 62302
   id: 532
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-005-clspgl011_00532/
@@ -402,12 +542,16 @@
   - id: 1003817
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0f4e87b158cb63ea
     name: Хамон
+  logmessages:
+  - id: 1013
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/logmessage/ru/?checksum=c0cc0d70a0c77b25
+    name: "В ваш охотничий журнал добавлена новая страница."
 
 - name:
     original: "So You Want to Be a Pugilist"
     translated: "Так ты хочешь стать борцом"
   level: 1
-  type: pgl
+  icon: 62302
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clspgl001_00178/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b86278a9e5f79396
@@ -417,7 +561,7 @@
     original: "Way of the Pugilist"
     translated: "Путь борца"
   level: 1
-  type: pgl
+  icon: 62302
   id: 533
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-005-clspgl020_00533/
@@ -430,12 +574,68 @@
   - id: 1003817
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0f4e87b158cb63ea
     name: Хамон
+  enemies:
+  - id: 262
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f4aa86114472bf09
+    name: Звёздный сурок
+  - id: 1101
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=85a424ff298a3f69
+    name: pack rat
+  - id: 1050
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=eba3f7c89e6687d6
+    name: Сурок-орехокол
+  - id: 632
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=07f10963a6ec4219
+    name: Гигантский шершень
+  - id: 641
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=79f2fece8d8a6f50
+    name: Оса
+  - id: 893
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=5c72f5075908235f
+    name: Королевская оса
+  - id: 1140
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=65bbb044d98a99c7
+    name: giant bee
+  - id: 953
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=99806374f867d8c9
+    name: Цветочная оса
+  - id: 410
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3789ff56b525920c
+    name: Сточный крот
+  - id: 318
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7c9b2bf182195151
+    name: Кусачая землеройка
+  - id: 409
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=83b2ba7cb5756417
+    name: Крот Мораби
+  - id: 1083
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=662b9e7529e52a36
+    name: rat mole
+  - id: 577
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=bdb145b70c94390e
+    name: Дикая землеройка
+  - id: 1082
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1eca0e40661367a8
+    name: naked mole
+  - id: 574
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c82c7842ae9e6cc0
+    name: Кусачая землеройка
+  - id: 958
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c356df26dc50a7aa
+    name: Ловкий колючекрот
+  - id: 1049
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=06628fbb2235d838
+    name: Голая землеройка
+  logmessages:
+  - id: 1013
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/logmessage/ru/?checksum=c0cc0d70a0c77b25
+    name: "В ваш охотничий журнал добавлена новая страница."
 
 - name:
     original: "My First Hora"
     translated: "Мой первый кастет"
   level: 1
-  type: pgl
+  icon: 62302
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-005-clspgl021_00553/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=31ec2c2302c1ad1a
@@ -444,12 +644,64 @@
   - id: 1003817
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0f4e87b158cb63ea
     name: Хамон
+  enemies:
+  - id: 262
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f4aa86114472bf09
+    name: Звёздный сурок
+  - id: 1101
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=85a424ff298a3f69
+    name: pack rat
+  - id: 1050
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=eba3f7c89e6687d6
+    name: Сурок-орехокол
+  - id: 632
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=07f10963a6ec4219
+    name: Гигантский шершень
+  - id: 641
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=79f2fece8d8a6f50
+    name: Оса
+  - id: 893
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=5c72f5075908235f
+    name: Королевская оса
+  - id: 1140
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=65bbb044d98a99c7
+    name: giant bee
+  - id: 953
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=99806374f867d8c9
+    name: Цветочная оса
+  - id: 410
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3789ff56b525920c
+    name: Сточный крот
+  - id: 318
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7c9b2bf182195151
+    name: Кусачая землеройка
+  - id: 409
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=83b2ba7cb5756417
+    name: Крот Мораби
+  - id: 1083
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=662b9e7529e52a36
+    name: rat mole
+  - id: 577
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=bdb145b70c94390e
+    name: Дикая землеройка
+  - id: 1082
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1eca0e40661367a8
+    name: naked mole
+  - id: 574
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c82c7842ae9e6cc0
+    name: Кусачая землеройка
+  - id: 958
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c356df26dc50a7aa
+    name: Ловкий колючекрот
+  - id: 1049
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=06628fbb2235d838
+    name: Голая землеройка
 
 - name:
     original: "Harder than Rock"
     translated: "Твёрже камня"
   level: 5
-  type: pgl
+  icon: 62302
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-005-clspgl050_00554/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4fcb3c5e4401f3e4
@@ -509,7 +761,7 @@
     original: "Burning Up the Quarter Malm"
     translated: "Пылающий взгляд, стремительный кулак"
   level: 10
-  type: pgl
+  icon: 62302
   id: 555
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-005-clspgl100_00555/
@@ -544,6 +796,16 @@
   - id: 1003827
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1f1ac70a577e8dc0
     name: Чучуто
+  enemies:
+  - id: 218
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ac9c730fc5ba8eea
+    name: Трясущийся кикирн
+  - id: 266
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=97d92aeaea221af6
+    name: Кикирн — чистильщик
+  - id: 350
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7198dbf6b6c21c72
+    name: Кикирн яйценосец
   eobjects:
   - id: 2001718
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=fd7e4affa05cd4be
@@ -580,7 +842,7 @@
     original: "Burning Up the Quarter Malm"
     translated: "Пылающий взгляд, стремительный кулак"
   level: 10
-  type: pgl
+  icon: 62302
   id: 698
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-006-clspgl101_00698/
@@ -615,6 +877,16 @@
   - id: 1003827
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1f1ac70a577e8dc0
     name: Чучуто
+  enemies:
+  - id: 218
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ac9c730fc5ba8eea
+    name: Трясущийся кикирн
+  - id: 266
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=97d92aeaea221af6
+    name: Кикирн — чистильщик
+  - id: 350
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7198dbf6b6c21c72
+    name: Кикирн яйценосец
   eobjects:
   - id: 2001798
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=65cfb4afda73a1ce
@@ -654,7 +926,7 @@
     original: "The Spirit Is Willing"
     translated: "Видит око, да зуб неймёт"
   level: 15
-  type: pgl
+  icon: 62302
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-005-clspgl150_00558/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=fb48e72cb337a6ab
@@ -687,6 +959,31 @@
   - id: 1003827
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1f1ac70a577e8dc0
     name: Чучуто
+  - id: 1003827
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1f1ac70a577e8dc0
+    name: Чучуто
+  - id: 1002024
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c409d0299fb5f449
+    name: Nanajapi
+  enemies:
+  - id: 26
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=56b69e9267d9e46d
+    name: Гайганжаба
+  - id: 216
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=41328e2d70652428
+    name: Ядовитая жаба
+  - id: 217
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c842b54d85395604
+    name: Хохочущая жаба
+  - id: 592
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f9a5b431c886e537
+    name: Древесная жаба
+  - id: 500
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6a88c8c3e03a11dd
+    name: Гипно-жаба
+  - id: 1040
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6873fc73cb133081
+    name: Рассерженная жаба
   quest_items:
   - id: 2000408
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=c6b0f1a780bb110b
@@ -701,7 +998,7 @@
     original: "Keeping the Spirit Alive"
     translated: "Старая школа"
   level: 20
-  type: pgl
+  icon: 62302
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-005-clspgl200_00562/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=15cf7d3d98ccfdf5
@@ -874,7 +1171,7 @@
     original: "Star-crossed Rivals"
     translated: "Разлученные соперники"
   level: 25
-  type: pgl
+  icon: 62302
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-005-clspgl250_00566/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=0db622c55317bee2
@@ -914,7 +1211,7 @@
     original: "Return of the Holyfist"
     translated: "Возвращение Светлого Кулака"
   level: 30
-  type: pgl
+  icon: 62302
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-005-clspgl300_00567/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3468284ab62ab6eb
@@ -945,6 +1242,16 @@
   - id: 1004470
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bbb8044720dc53e8
     name: Рурукута
+  - id: 1003827
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1f1ac70a577e8dc0
+    name: Чучуто
+  - id: 1006011
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eaea0ab254ffcbdb
+    name: Рурукута
+  enemies:
+  - id: 290
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=64bc9e5107ab8684
+    name: Песчаный червь
   eobjects:
   - id: 2001857
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=bed900203cf4afa8
@@ -955,7 +1262,7 @@
     original: "Way of the Marauder"
     translated: "Путь мародёра"
   level: 1
-  type: mrd
+  icon: 62303
   id: 310
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-003-clsexc011_00310/
@@ -968,12 +1275,16 @@
   - id: 1000927
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c9d642319e4ca989
     name: Вирнзон
+  logmessages:
+  - id: 1015
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/logmessage/ru/?checksum=3e60c3a6884b5f49
+    name: "В ваш охотничий журнал добавлена новая страница."
 
 - name:
     original: "So You Want to Be a Marauder"
     translated: "Так ты хочешь стать мародёром"
   level: 1
-  type: mrd
+  icon: 62303
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsexc001_00179/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=92dae26b7efab768
@@ -983,7 +1294,7 @@
     original: "Way of the Marauder"
     translated: "Путь мародёра"
   level: 1
-  type: mrd
+  icon: 62303
   id: 311
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-003-clsexc020_00311/
@@ -996,12 +1307,41 @@
   - id: 1000927
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c9d642319e4ca989
     name: Вирнзон
+  enemies:
+  - id: 417
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=47e12441da326fbc
+    name: Корабельная крыса
+  - id: 1236
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4278af9675702b07
+    name: dirty rat
+  - id: 392
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=feb507b08aea2fd0
+    name: Потерянная овечка
+  - id: 1098
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ebc46af3a31a75cc
+    name: wild ram
+  - id: 49
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=afa51a1b6d548e38
+    name: Маленькая божья коровка
+  - id: 200
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=50da2fe392499d2d
+    name: carrier ladybug
+  - id: 1222
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d6b9ed443ab25ed6
+    name: parasite ladybug
+  - id: 1046
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8283d968537881ed
+    name: loverly ladybird
+  logmessages:
+  - id: 1015
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/logmessage/ru/?checksum=3e60c3a6884b5f49
+    name: "В ваш охотничий журнал добавлена новая страница."
 
 - name:
     original: "My First Axe"
     translated: "Мой первый топор"
   level: 1
-  type: mrd
+  icon: 62303
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-003-clsexc021_00312/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8164491867bdf83f
@@ -1010,12 +1350,37 @@
   - id: 1000927
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c9d642319e4ca989
     name: Вирнзон
+  enemies:
+  - id: 417
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=47e12441da326fbc
+    name: Корабельная крыса
+  - id: 1236
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4278af9675702b07
+    name: dirty rat
+  - id: 392
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=feb507b08aea2fd0
+    name: Потерянная овечка
+  - id: 1098
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ebc46af3a31a75cc
+    name: wild ram
+  - id: 49
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=afa51a1b6d548e38
+    name: Маленькая божья коровка
+  - id: 200
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=50da2fe392499d2d
+    name: carrier ladybug
+  - id: 1222
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d6b9ed443ab25ed6
+    name: parasite ladybug
+  - id: 1046
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8283d968537881ed
+    name: loverly ladybird
 
 - name:
     original: "Axe in the Stone"
     translated: "Нашёл топор на камень"
   level: 5
-  type: mrd
+  icon: 62303
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-003-clsexc050_00313/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=71c1446cb612ad54
@@ -1042,6 +1407,15 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d6649697165f731e
   - id: 1002677
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a9fa5903a2cd6b6a
+  - id: 1002696
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ab260ac2247eb8fd
+    name: Солквиб
+  - id: 1002112
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=09bf1bc603a3dd81
+    name: Нэддард
+  - id: 1002680
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fb07af19705b9bfb
+    name: Бронбар
   eobjects:
   - id: 2001490
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=969534a101b53768
@@ -1079,7 +1453,7 @@
     original: "Wake of Destruction"
     translated: "Начало разрушений"
   level: 10
-  type: mrd
+  icon: 62303
   id: 314
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-003-clsexc100_00314/
@@ -1090,6 +1464,15 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c9d642319e4ca989
     name: Вирнзон
   enemies:
+  - id: 5
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=eada7f401a5dd1e6
+    name: Опо-опо
+  - id: 408
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6d4fe67549c305f5
+    name: Галаго
+  - id: 184
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d2c1dfecc5b9b337
+    name: Опо-опо Южной Рощи
   - id: 411
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6e7ab4b010c8ea24
     name: Пасущийся раптор
@@ -1171,7 +1554,7 @@
     original: "Wake of Destruction"
     translated: "Начало разрушений"
   level: 10
-  type: mrd
+  icon: 62303
   id: 315
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-003-clsexc101_00315/
@@ -1182,6 +1565,15 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c9d642319e4ca989
     name: Вирнзон
   enemies:
+  - id: 5
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=eada7f401a5dd1e6
+    name: Опо-опо
+  - id: 408
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6d4fe67549c305f5
+    name: Галаго
+  - id: 184
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d2c1dfecc5b9b337
+    name: Опо-опо Южной Рощи
   - id: 411
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6e7ab4b010c8ea24
     name: Пасущийся раптор
@@ -1261,8 +1653,9 @@
 
 - name:
     original: "Brutal Strength"
+    translated: "Брутальная сила"
   level: 15
-  type: mrd
+  icon: 62303
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-003-clsexc150_00316/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=bb6a05e7b76ef3e7
@@ -1273,10 +1666,10 @@
     name: Вирнзон
   - id: 1002110
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9ffe550255183483
-    name: Reynfred
+    name: Рейнфред
   - id: 1002111
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=225b4971ea870ecc
-    name: Skapfghim
+    name: Скафгим
   enemies:
   - id: 1070
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=5d26ee68db81a8de
@@ -1286,7 +1679,7 @@
     name: Щенок куэрла
   - id: 966
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f1d7e9527623a956
-    name: Patripatan
+    name: Патрипатан
   - id: 1071
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=44ca85585c8efbe2
     name: Трюфельный куэрл
@@ -1296,15 +1689,16 @@
     name: Цель
   - id: 2001494
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ce265602524c520e
-    name: unmovable boulder
+    name: Недвижимый валун
   - id: 2001486
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e17669a20543c03d
-    name: unmovable boulder
+    name: Недвижимый валун
 
 - name:
     original: "The Mountain That Strides"
+    translated: "Живая гора"
   level: 20
-  type: mrd
+  icon: 62303
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-003-clsexc200_00317/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=93f6b7f6700c388c
@@ -1324,7 +1718,7 @@
     name: Солквиб
   - id: 1002113
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1a0d89e9e62df789
-    name: Pfarstym
+    name: Пфарстим
   - id: 1002684
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=989a2609f5e291f2
     name: Солквиб
@@ -1336,6 +1730,15 @@
     name: Вирнзон
   - id: 1003548
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4f0b52b3b81f3318
+    name: Солквиб
+  - id: 1002674
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=35a3efca8df77165
+    name: Сигард
+  - id: 1000927
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c9d642319e4ca989
+    name: Вирнзон
+  - id: 1002696
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ab260ac2247eb8fd
     name: Солквиб
   enemies:
   - id: 299
@@ -1506,8 +1909,9 @@
 
 - name:
     original: "Bleeder of the Pack"
+    translated: "Кровавый пляж"
   level: 25
-  type: mrd
+  icon: 62303
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-003-clsexc250_00318/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=92ba9c552b9bbf5b
@@ -1522,14 +1926,18 @@
   - id: 1002685
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9f9419616b5d17a1
     name: Солквиб
+  - id: 1002696
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ab260ac2247eb8fd
+    name: Солквиб
   eobjects:
   - id: 2001733
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=9ab6a9e5e15d894c
 
 - name:
     original: "Bringing Down the Mountain"
+    translated: "Свалить гору"
   level: 30
-  type: mrd
+  icon: 62303
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-003-clsexc300_00319/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=12f16f3f69ef100d
@@ -1555,6 +1963,15 @@
     name: Солквиб
   - id: 1002715
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d2bbb142aa8f7886
+    name: Бронбар
+  - id: 1002112
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=09bf1bc603a3dd81
+    name: Нэддард
+  - id: 1002696
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ab260ac2247eb8fd
+    name: Солквиб
+  - id: 1002680
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fb07af19705b9bfb
     name: Бронбар
   enemies:
   - id: 299
@@ -1623,13 +2040,13 @@
   eobjects:
   - id: 2000296
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8dfebfea454ae354
-    name: lavender pot
+    name: Горшок с лавандой
   - id: 2000297
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=b333f8022a605464
-    name: fruit barrel
+    name: Бочка с фруктами
   - id: 2000298
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d098b0ddd3d90d65
-    name: splintered crate
+    name: Раздавленный ящик
   - id: 2000299
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=4bb47b808d73ca88
     name: Перевёрнутая повозка
@@ -1640,7 +2057,7 @@
     original: "Way of the Lancer"
     translated: "Путь копейщика"
   level: 1
-  type: lnc
+  icon: 62304
   id: 132
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clslnc998_00132/
@@ -1653,12 +2070,16 @@
   - id: 1000254
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=04f02bf47ad9d6b4
     name: Ивейн
+  logmessages:
+  - id: 1007
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/logmessage/ru/?checksum=dc902fc6ba3c0410
+    name: "В ваш охотничий журнал добавлена новая страница."
 
 - name:
     original: "So You Want to Be a Lancer"
     translated: "Так ты хочешь стать копейщиком"
   level: 1
-  type: lnc
+  icon: 62304
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clslnc999_00180/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4081ae47c973f1ec
@@ -1668,7 +2089,7 @@
     original: "Way of the Lancer"
     translated: "Путь копейщика"
   level: 1
-  type: lnc
+  icon: 62304
   id: 23
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-clslnc000_00023/
@@ -1681,12 +2102,53 @@
   - id: 1000254
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=04f02bf47ad9d6b4
     name: Ивейн
+  enemies:
+  - id: 37
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3d0e22173938ea89
+    name: Земляная белка
+  - id: 198
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d3d6dc72f6987ba0
+    name: Белка-щелкунья
+  - id: 1101
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=85a424ff298a3f69
+    name: pack rat
+  - id: 49
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=afa51a1b6d548e38
+    name: Маленькая божья коровка
+  - id: 200
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=50da2fe392499d2d
+    name: carrier ladybug
+  - id: 1222
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d6b9ed443ab25ed6
+    name: parasite ladybug
+  - id: 1046
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8283d968537881ed
+    name: loverly ladybird
+  - id: 47
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=756b5593dcff2a2b
+    name: Лесная грибница
+  - id: 220
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=33baf7f9f1bbd7ef
+    name: Волшебная грибница
+  - id: 141
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a7798de9e29ab481
+    name: Грибница-паразит
+  - id: 699
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=fc611ee929fed83d
+    name: Яростная грибница
+  - id: 199
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7c82d67cf6d825a4
+    name: Спотыкающаяся грибница
+  logmessages:
+  - id: 1007
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/logmessage/ru/?checksum=dc902fc6ba3c0410
+    name: "В ваш охотничий журнал добавлена новая страница."
 
 - name:
     original: "My First Spear"
     translated: "Моё первое копьё"
   level: 1
-  type: lnc
+  icon: 62304
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-002-clslnc100_00218/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=13c4cf845490b5b9
@@ -1695,12 +2157,49 @@
   - id: 1000254
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=04f02bf47ad9d6b4
     name: Ивейн
+  enemies:
+  - id: 37
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3d0e22173938ea89
+    name: Земляная белка
+  - id: 198
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d3d6dc72f6987ba0
+    name: Белка-щелкунья
+  - id: 1101
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=85a424ff298a3f69
+    name: pack rat
+  - id: 49
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=afa51a1b6d548e38
+    name: Маленькая божья коровка
+  - id: 200
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=50da2fe392499d2d
+    name: carrier ladybug
+  - id: 1222
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d6b9ed443ab25ed6
+    name: parasite ladybug
+  - id: 1046
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8283d968537881ed
+    name: loverly ladybird
+  - id: 47
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=756b5593dcff2a2b
+    name: Лесная грибница
+  - id: 220
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=33baf7f9f1bbd7ef
+    name: Волшебная грибница
+  - id: 141
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a7798de9e29ab481
+    name: Грибница-паразит
+  - id: 699
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=fc611ee929fed83d
+    name: Яростная грибница
+  - id: 199
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7c82d67cf6d825a4
+    name: Спотыкающаяся грибница
 
 - name:
     original: "Spear of the Fearless"
     translated: "На острие бесстрашия"
   level: 5
-  type: lnc
+  icon: 62304
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-clslnc001_00047/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b6ea1a1017f8b39c
@@ -1961,7 +2460,7 @@
     original: "Courage of Stone"
     translated: "Камень храбрости"
   level: 10
-  type: lnc
+  icon: 62304
   id: 35
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-clslnc002_00035/
@@ -2080,7 +2579,7 @@
     original: "Courage of Stone"
     translated: "Камень храбрости"
   level: 10
-  type: lnc
+  icon: 62304
   id: 143
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clslnc997_00143/
@@ -2199,7 +2698,7 @@
     original: "A Dangerous Proposition"
     translated: "Опасное предложение"
   level: 15
-  type: lnc
+  icon: 62304
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-clslnc003_00055/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8e32ae22e6c394b6
@@ -2257,7 +2756,7 @@
     original: "Lance of Destiny"
     translated: "Копьё предназначения"
   level: 20
-  type: lnc
+  icon: 62304
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-clslnc004_00056/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6bfc830af481c38f
@@ -2266,6 +2765,19 @@
   - id: 1000254
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=04f02bf47ad9d6b4
     name: Ивейн
+  - id: 1003038
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6ccbee6c5210f40e
+    name: ???
+  - id: 1003009
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6b1f45f668102c7b
+    name: Фульк
+  enemies:
+  - id: 16
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d00a11b448ec4dac
+    name: Дикий кабан
+  - id: 502
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=15c61ec6ef7f9f4a
+    name: greedy hog
   quest_items:
   - id: 2000236
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=f653536079c9b71c
@@ -2288,7 +2800,7 @@
     original: "Questions and Lancers"
     translated: "Предания копейщиков"
   level: 25
-  type: lnc
+  icon: 62304
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-004-clslnc005_00438/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ceb72d52608f0a01
@@ -2328,6 +2840,42 @@
   - id: 1146
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f503ce99a1176ff6
     name: wingrat
+  - id: 17
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=465989fc39c2ce8d
+    name: Огненный шар
+  - id: 132
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1486fedd62f6f3a0
+    name: Дымовой шар
+  - id: 316
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=aff341ebfd8fa232
+    name: Бомба
+  - id: 2743
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=95f09cc8f74affa3
+    name: Хитроумная бомба
+  - id: 2688
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=09caeae00919b4c7
+    name: Разрывная бомба
+  - id: 270
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e244a50d3933ad47
+    name: Граната
+  - id: 2745
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=5c08fefa19f9ff31
+    name: Лимфическая бомба
+  - id: 1120
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a4fef7a1b85d5541
+    name: void flame
+  - id: 1034
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e879f9628379e47a
+    name: Огненная бомба
+  - id: 1742
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d04f743b873ecea6
+    name: Церулеумная бомба
+  - id: 2707
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=78f9c8e42b7729f9
+    name: Световая бомба
+  - id: 963
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f1bd7fe79f4d4181
+    name: Светоч
   - id: 613
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a681ebdc48eba88c
     name: Красный шар
@@ -2364,7 +2912,7 @@
     original: "Proof of Might"
     translated: "Доказательство силы"
   level: 30
-  type: lnc
+  icon: 62304
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-004-clslnc006_00439/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3870e4799f9d4a37
@@ -2386,6 +2934,9 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2025c6813de2324f
   - id: 1000495
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3f003f6390c94a0b
+  - id: 1003080
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96d3251f24d26411
+    name: Eddard
   eobjects:
   - id: 2000924
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=6d2c5b77b4505f8e
@@ -2399,7 +2950,7 @@
     original: "Way of the Archer"
     translated: "Путь лучника"
   level: 1
-  type: arc
+  icon: 62305
   id: 131
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsarc998_00131/
@@ -2412,12 +2963,16 @@
   - id: 1000200
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8aca1ce2a98d41f1
     name: Люсиана
+  logmessages:
+  - id: 1008
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/logmessage/ru/?checksum=4ab905f716f9a983
+    name: "В ваш охотничий журнал добавлена новая страница."
 
 - name:
     original: "So You Want to Be an Archer"
     translated: "Так ты хочешь стать лучником"
   level: 1
-  type: arc
+  icon: 62305
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsarc999_00181/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=254048af3c186bd6
@@ -2427,7 +2982,7 @@
     original: "Way of the Archer"
     translated: "Путь лучника"
   level: 1
-  type: arc
+  icon: 62305
   id: 21
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-clsarc000_00021/
@@ -2440,12 +2995,53 @@
   - id: 1000200
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8aca1ce2a98d41f1
     name: Люсиана
+  enemies:
+  - id: 37
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3d0e22173938ea89
+    name: Земляная белка
+  - id: 198
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d3d6dc72f6987ba0
+    name: Белка-щелкунья
+  - id: 1101
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=85a424ff298a3f69
+    name: pack rat
+  - id: 49
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=afa51a1b6d548e38
+    name: Маленькая божья коровка
+  - id: 200
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=50da2fe392499d2d
+    name: carrier ladybug
+  - id: 1222
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d6b9ed443ab25ed6
+    name: parasite ladybug
+  - id: 1046
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8283d968537881ed
+    name: loverly ladybird
+  - id: 47
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=756b5593dcff2a2b
+    name: Лесная грибница
+  - id: 220
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=33baf7f9f1bbd7ef
+    name: Волшебная грибница
+  - id: 141
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a7798de9e29ab481
+    name: Грибница-паразит
+  - id: 699
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=fc611ee929fed83d
+    name: Яростная грибница
+  - id: 199
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7c82d67cf6d825a4
+    name: Спотыкающаяся грибница
+  logmessages:
+  - id: 1008
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/logmessage/ru/?checksum=4ab905f716f9a983
+    name: "В ваш охотничий журнал добавлена новая страница."
 
 - name:
     original: "My First Bow"
     translated: "Мой первый лук"
   level: 1
-  type: arc
+  icon: 62305
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-002-clsarc100_00219/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=631d1bb584f22685
@@ -2454,12 +3050,49 @@
   - id: 1000200
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8aca1ce2a98d41f1
     name: Люсиана
+  enemies:
+  - id: 37
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3d0e22173938ea89
+    name: Земляная белка
+  - id: 198
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d3d6dc72f6987ba0
+    name: Белка-щелкунья
+  - id: 1101
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=85a424ff298a3f69
+    name: pack rat
+  - id: 49
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=afa51a1b6d548e38
+    name: Маленькая божья коровка
+  - id: 200
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=50da2fe392499d2d
+    name: carrier ladybug
+  - id: 1222
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d6b9ed443ab25ed6
+    name: parasite ladybug
+  - id: 1046
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8283d968537881ed
+    name: loverly ladybird
+  - id: 47
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=756b5593dcff2a2b
+    name: Лесная грибница
+  - id: 220
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=33baf7f9f1bbd7ef
+    name: Волшебная грибница
+  - id: 141
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a7798de9e29ab481
+    name: Грибница-паразит
+  - id: 699
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=fc611ee929fed83d
+    name: Яростная грибница
+  - id: 199
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7c82d67cf6d825a4
+    name: Спотыкающаяся грибница
 
 - name:
     original: "A Matter of Perspective"
     translated: "Дело перспективы"
   level: 5
-  type: arc
+  icon: 62305
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-clsarc001_00046/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e6229c72354833e2
@@ -2468,6 +3101,22 @@
   - id: 1000200
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8aca1ce2a98d41f1
     name: Люсиана
+  enemies:
+  - id: 5
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=eada7f401a5dd1e6
+    name: Опо-опо
+  - id: 408
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6d4fe67549c305f5
+    name: Галаго
+  - id: 184
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d2c1dfecc5b9b337
+    name: Опо-опо Южной Рощи
+  - id: 32
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6fd42be296beedf5
+    name: Микрочу
+  - id: 203
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6434a54045f2e4b2
+    name: Виноградная микрочу
   eobjects:
   - id: 2000925
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=bdfa16d8c9c23a88
@@ -2498,7 +3147,7 @@
     original: "School of Hard Nocks"
     translated: "Знай врага своего"
   level: 10
-  type: arc
+  icon: 62305
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-clsarc002_00067/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=675abc59c3011597
@@ -2513,6 +3162,61 @@
   - id: 1000204
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=debb6b9eee8b8143
     name: Сильвер
+  enemies:
+  - id: 39
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=43b6ab3156a7287d
+    name: Древесный слизень
+  - id: 1350
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=78fff21bd5c6913a
+    name: dry slug
+  - id: 188
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=44260b6256b4b688
+    name: saprophagous slug
+  - id: 177
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f59083eab22df592
+    name: leafbleed slug
+  - id: 4046
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a26ef32fe3c4cd68
+    name: Dravanian slug
+  - id: 962
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ab5a203b0e1da905
+    name: Береговой слизень
+  - id: 299
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1f64e288940a11c2
+    name: Гнездящийся канюк
+  - id: 13
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d785445ee7d5558a
+    name: Aрборский канюк
+  - id: 301
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ef10b37140df72d9
+    name: Канюк расщелины
+  - id: 12
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8c84f3ba38a70822
+    name: Северный стервятник
+  - id: 1315
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a4e9a7ece6a175e4
+    name: cattle tyrant
+  - id: 1743
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=64aef7140293de12
+    name: northern buzzard
+  - id: 1122
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=bd3870a40295b129
+    name: bald buzzard
+  - id: 1039
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=cdcf540a8a48c0ab
+    name: blood-eyed buzzard
+  - id: 2011
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2b59b9d0311fcf6c
+    name: restless harrier
+  - id: 1216
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=078bfd5278353f74
+    name: circling vulture
+  - id: 590
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=36a1789c0477e42d
+    name: Северный стервятник
+  - id: 2757
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=aeac3dacf1de4343
+    name: hungry buzzard
   eobjects:
   - id: 2000936
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=002c717e8427bd51
@@ -2543,7 +3247,7 @@
     original: "Training with Leih"
     translated: "Тренировка с Ли"
   level: 10
-  type: arc
+  icon: 62305
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsarc997_00134/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=0cf53125dcdd0a7b
@@ -2558,6 +3262,61 @@
   - id: 1000204
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=debb6b9eee8b8143
     name: Сильвер
+  enemies:
+  - id: 39
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=43b6ab3156a7287d
+    name: Древесный слизень
+  - id: 1350
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=78fff21bd5c6913a
+    name: dry slug
+  - id: 188
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=44260b6256b4b688
+    name: saprophagous slug
+  - id: 177
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f59083eab22df592
+    name: leafbleed slug
+  - id: 4046
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a26ef32fe3c4cd68
+    name: Dravanian slug
+  - id: 962
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ab5a203b0e1da905
+    name: Береговой слизень
+  - id: 299
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1f64e288940a11c2
+    name: Гнездящийся канюк
+  - id: 13
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d785445ee7d5558a
+    name: Aрборский канюк
+  - id: 301
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ef10b37140df72d9
+    name: Канюк расщелины
+  - id: 12
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8c84f3ba38a70822
+    name: Северный стервятник
+  - id: 1315
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a4e9a7ece6a175e4
+    name: cattle tyrant
+  - id: 1743
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=64aef7140293de12
+    name: northern buzzard
+  - id: 1122
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=bd3870a40295b129
+    name: bald buzzard
+  - id: 1039
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=cdcf540a8a48c0ab
+    name: blood-eyed buzzard
+  - id: 2011
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2b59b9d0311fcf6c
+    name: restless harrier
+  - id: 1216
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=078bfd5278353f74
+    name: circling vulture
+  - id: 590
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=36a1789c0477e42d
+    name: Северный стервятник
+  - id: 2757
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=aeac3dacf1de4343
+    name: hungry buzzard
   eobjects:
   - id: 2000955
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e88c5dd8a08ef300
@@ -2588,7 +3347,7 @@
     original: "Violators Will Be Shot"
     translated: "Преступатели будут застрелены"
   level: 15
-  type: arc
+  icon: 62305
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-clsarc003_00068/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b9bb9f1692c75558
@@ -2636,7 +3395,7 @@
     original: "To Catch a Poacher"
     translated: "Поймать браконьера"
   level: 20
-  type: arc
+  icon: 62305
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-clsarc004_00070/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6014825d95184caa
@@ -2681,7 +3440,7 @@
     original: "Homecoming"
     translated: "Возвращение домой"
   level: 25
-  type: arc
+  icon: 62305
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-clsarc005_00071/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=dd8d3e7a8977185b
@@ -2706,6 +3465,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3f82b2b23892a0b3
   - id: 1003026
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=744af4545b249713
+  - id: 834
   eobjects:
   - id: 2000951
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=99c2f4e06b010da9
@@ -2717,7 +3477,7 @@
     original: "The One That Got Away"
     translated: "Сбежавшая"
   level: 30
-  type: arc
+  icon: 62305
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-clsarc006_00076/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=0b7b2962466686cf
@@ -2748,6 +3508,12 @@
   - id: 1003068
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b44ce2b151959f9a
     name: Пава Муджуук
+  - id: 1000199
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1340e2cef9b5d45f
+    name: Ли Алиапо
+  - id: 1000204
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=debb6b9eee8b8143
+    name: Сильвер
   eobjects:
   - id: 2001841
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=3fff3e689ede362d
@@ -2759,7 +3525,7 @@
     original: "So You Want to Be a Rogue"
     translated: "Так ты хочешь стать разбойником"
   level: 1
-  type: rog
+  icon: 62309
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsrog001_00101/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=50f217ba1042ad30
@@ -2769,7 +3535,7 @@
     original: "My First Daggers"
     translated: "Мои первые кинжалы"
   level: 1
-  type: rog
+  icon: 62309
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsrog011_00102/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=449054207a06597d
@@ -2781,12 +3547,16 @@
   - id: 1009943
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=878fe4a6ae0c3e6c
     name: Джеки
+  logmessages:
+  - id: 1020
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/logmessage/ru/?checksum=c0945e4be018959d
+    name: "В ваш охотничий журнал добавлена новая страница."
 
 - name:
     original: "Stabbers in Yer Fambles"
     translated: "Береги пальцы"
   level: 1
-  type: rog
+  icon: 62309
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsrog021_00104/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c2c1cc85a8bc057a
@@ -2795,12 +3565,37 @@
   - id: 1009943
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=878fe4a6ae0c3e6c
     name: Джеки
+  enemies:
+  - id: 392
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=feb507b08aea2fd0
+    name: Потерянная овечка
+  - id: 1098
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ebc46af3a31a75cc
+    name: wild ram
+  - id: 417
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=47e12441da326fbc
+    name: Корабельная крыса
+  - id: 1236
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4278af9675702b07
+    name: dirty rat
+  - id: 642
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e78cc943af6b1c0a
+    name: Грязевой пугил
+  - id: 640
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ace9d48c10b0fb00
+    name: Пугил
+  - id: 2533
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=9844458a32a51cd6
+    name: Полуночный пугил
+  - id: 2021
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e7922b242ca4b49c
+    name: lepidote
 
 - name:
     original: "A Dainty Dilemma"
     translated: "Что такое благородство"
   level: 5
-  type: rog
+  icon: 62309
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsrog050_00110/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a82cd80626208e5c
@@ -2823,6 +3618,34 @@
     name: Периму Хориму
   - id: 1010207
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bb12cd90431a5e61
+  enemies:
+  - id: 563
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=122f1a8ba0883046
+    name: Аурелия
+  - id: 1069
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b93992070d7b548b
+    name: Bloodshore eyesore
+  - id: 1102
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=5aa8a990397cd16a
+    name: Взбешенная аурелия
+  - id: 1103
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ce866fee8bc4d4a6
+    name: Морская аурелия
+  - id: 225
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=fc575304294f0df2
+    name: Гоблин-охотник
+  - id: 283
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8d5496553916d42c
+    name: Гоблин-грабитель
+  - id: 367
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0f017d47fcf4cf0e
+    name: Гоблин-рыбак
+  - id: 3099
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=47074b572043764e
+    name: Гоблин-игроман
+  - id: 1360
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=eefd3daf5b49ee87
+    name: goblin trader
   quest_items:
   - id: 2001507
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=78ca36920decc300
@@ -2833,7 +3656,7 @@
     original: "Stray into the Shadows"
     translated: "Бродяжка из теней"
   level: 10
-  type: rog
+  icon: 62309
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsrog101_00126/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c47e167b95c0de10
@@ -2854,15 +3677,29 @@
   - id: 1010213
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=19d56023ec052d91
     name: В'кеббе
+  - id: 1000956
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ef343da6f82853dc
+    name: Ныряющая Змея
+  - id: 1000868
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=39a367bc0b724ae5
+    name: Реренасу
+  - id: 1003253
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9d71fac4816645e3
+    name: Герульф
   eobjects:
   - id: 2004906
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=4e864a8eca3014c9
+  statuses:
+  - id: 614
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/status/ru/?checksum=3156d1f6eb677394
+    name: "Hidden"
+    desc: "Скрытность от обнаружения. Скорость передвижения сильно снижена."
 
 - name:
     original: "Stifled Screams"
     translated: "Задушенные крики"
   level: 15
-  type: rog
+  icon: 62309
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsrog150_00144/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=55d966a028ed293d
@@ -2904,7 +3741,7 @@
     original: "Slave to the Code"
     translated: "Рабы кодекса"
   level: 15
-  type: rog
+  icon: 62309
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsrog151_00145/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=968bab47201e9f0a
@@ -2932,7 +3769,7 @@
     original: "Grinners in the Mist"
     translated: "Псы в тумане"
   level: 20
-  type: rog
+  icon: 62309
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsrog200_00146/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3acb507c83bab14f
@@ -2974,6 +3811,12 @@
   - id: 1010249
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5aed77f69affcebb
     name: Милала
+  - id: 1010240
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fb7b633b385c6a8e
+    name: Жёлтая Жилетка
+  - id: 1010241
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=09f011dd9dd5c0ea
+    name: Жёлтая Жилетка
   enemies:
   - id: 3184
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3f60ba1bf5abf649
@@ -2992,12 +3835,17 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c094a633a7f11f55
   - id: 2004862
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=07326bea54b599f6
+  statuses:
+  - id: 614
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/status/ru/?checksum=3156d1f6eb677394
+    name: "Hidden"
+    desc: "Скрытность от обнаружения. Скорость передвижения сильно снижена."
 
 - name:
     original: "Sweet Sorrows"
     translated: "Сладкие Слёзы"
   level: 25
-  type: rog
+  icon: 62309
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsrog250_00148/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=93d497dcca755282
@@ -3071,7 +3919,7 @@
     original: "Market for Death"
     translated: "Продавец кошмаров"
   level: 30
-  type: rog
+  icon: 62309
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsrog300_00154/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=acc815cfcd6392e7
@@ -3122,7 +3970,7 @@
     original: "Cloying Victory"
     translated: "Победа в подарок"
   level: 30
-  type: rog
+  icon: 62309
   url:
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsrog301_00155/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d01e212d316c519a
