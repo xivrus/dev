@@ -131,6 +131,21 @@
 			{%- endfor -%}
 		</p>
 		{%- endif %}
+		{% if quest.snipes -%}
+		<p>Снайпы: {% for snipe in quest.snipes -%}
+				{%- if snipe.url -%}
+					{%- if snipe.name -%}
+						<a href="{{ snipe.url }}">{{ snipe.name }}</a>
+					{%- else -%}
+						<a href="{{ snipe.url }}">{{ snipe.id }}</a>
+					{%- endif -%}
+				{%- else -%}
+					{{ snipe.id }}
+				{%- endif -%}
+				{%- unless forloop.last %}, {% endunless -%}
+			{%- endfor -%}
+		</p>
+		{%- endif %}
 		{% if quest.statuses -%}
 		<p>Статус-эффекты: {% for status in quest.statuses -%}
 				{%- if status.url -%}
