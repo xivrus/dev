@@ -35,7 +35,10 @@
 		quest.enemies or
 		quest.eobjects or
 		quest.fates or
-		quest.quest_items
+		quest.quest_items or
+		quest.eobjects or
+		quest.logmessages or
+		quest.statuses
 	-%}
 	<details>
 		<summary>
@@ -108,6 +111,36 @@
 					{%- endif -%}
 				{%- else -%}
 					{{ eobject.id }}
+				{%- endif -%}
+				{%- unless forloop.last %}, {% endunless -%}
+			{%- endfor -%}
+		</p>
+		{%- endif %}
+		{% if quest.logmessages -%}
+		<p>Сообщения в чате: {% for logmessage in quest.logmessages -%}
+				{%- if logmessage.url -%}
+					{%- if logmessage.name -%}
+						<a href="{{ logmessage.url }}">{{ logmessage.name | escape }}</a>
+					{%- else -%}
+						<a href="{{ logmessage.url }}">{{ logmessage.id }}</a>
+					{%- endif -%}
+				{%- else -%}
+					{{ logmessage.id }}
+				{%- endif -%}
+				{%- unless forloop.last %}, {% endunless -%}
+			{%- endfor -%}
+		</p>
+		{%- endif %}
+		{% if quest.statuses -%}
+		<p>Статус-эффекты: {% for status in quest.statuses -%}
+				{%- if status.url -%}
+					{%- if status.name -%}
+						<a href="{{ status.url }}">{{ status.name }}</a> ({{ status.desc | escape }})
+					{%- else -%}
+						<a href="{{ status.url }}">{{ status.id }}</a>
+					{%- endif -%}
+				{%- else -%}
+					{{ status.id }}
 				{%- endif -%}
 				{%- unless forloop.last %}, {% endunless -%}
 			{%- endfor -%}
