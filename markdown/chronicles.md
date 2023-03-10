@@ -78,6 +78,18 @@ _Для продолжения игроку сначала требуется п
 
 ## The Shadow of Mhach {#the-shadow-of-mhach}
 
+![Изображение заданий The Shadow of Mhach](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1c/1c61b54626133a2ae8147e18975acb11ae08f4a4.png)
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "Sky Pirates" %}
+	{% include quest.liquid quest_name = "To Rule the Skies" %}
+	{% include quest.liquid quest_name = "The Weeping City" %}
+	{% include quest.liquid quest_name = "Freedom for Our Skies" %}
+	{% include quest.liquid quest_name = "Where Shadows Reign" %}
+	{% include quest.liquid quest_name = "A Redbill Farewell" %}
+	{% include quest.liquid quest_name = "Unidentified Flying Object" %}
+</ul>
+
 ## Омега {#omega}
 
 ### Задания Омега {#omega-quests}

@@ -249,8 +249,8 @@ quest_list: seasonal
 ### 2023 {#hatching-tide-2023}
 
 <ul markdown="0">
-	{% include quest.liquid quest_name = "エッグハントのいたずら騒動" %}
-	{% include quest.liquid quest_name = "エッグハントでトンベリに愛を" %}
+	{% include quest.liquid quest_name = "Get Along and Play Knife" %}
+	{% include quest.liquid quest_name = "Chaos, Carnage, Eggs" %}
 </ul>
 
 ### 2022 {#hatching-tide-2022}
@@ -331,8 +331,8 @@ quest_list: seasonal
 ### 2023 {#make-it-rain-2023}
 
 <ul markdown="0">
-	{% include quest.liquid quest_name = "ゴールドソーサーとゴールデンな独占取材" %}
-	{% include quest.liquid quest_name = "ゴールドソーサーとゴールデンな心意気！" %}
+	{% include quest.liquid quest_name = "A Golden Opportunity" %}
+	{% include quest.liquid quest_name = "Hearts of Gold" %}
 </ul>
 
 ### 2022 {#make-it-rain-2022}

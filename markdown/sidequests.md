@@ -163,6 +163,12 @@ quest_list: sidequests
 
 # Побочные задания Уль'ды {#uldahn-sidequests}
 
+## Уль'да {#uldahn-sidequests-uldah}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "Dishonor Before Death" %}
+</ul>
+
 ## Площадь Чокобо {#uldahn-sidequests-chocobo-square}
 
 <ul markdown="0">
@@ -172,7 +178,21 @@ quest_list: sidequests
 ## Западный Таналан {#uldahn-sidequests-western-thanalan}
 
 <ul markdown="0">
+	{% include quest.liquid quest_name = "Color Your World" %}
+	{% include quest.liquid quest_name = "If I Had a Glamour" %}
+	{% include quest.liquid quest_name = "Absolutely Glamourous" %}
+	{% include quest.liquid quest_name = "Braving New Depths" %}
 	{% include quest.liquid quest_name = "Hallo Halatali" %}
+	{% include quest.liquid quest_name = "Going for Gold" %}
+	{% include quest.liquid quest_name = "Trauma Queen" %}
+</ul>
+
+# Побочные задания Кёртаса {#coerthas-sidequests}
+
+## Центральные Нагорья Кёртаса {#coerthas-sidequests-coerthas-central-highlands}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "Fort of Fear" %}
 </ul>
 
 # Побочные задания Мор Доны {#mor-dhonan-sidequests}

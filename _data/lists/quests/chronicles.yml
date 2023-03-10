@@ -8,26 +8,26 @@
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b7cf212cca38e336
     quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=c124c38c5837fe9d
   actors:
-  - id: 1006693
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4dab28c287c1135f
-    name: Минфилия
-  - id: 1007478
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
-    name: Урианже
   - id: 1002275
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fc03e01eea417e62
     name: Ида
   - id: 1002276
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6fe9ab67657d31ec
     name: Папалимо
-  - id: 1003782
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a7afc9fdd085a5d5
-    name: Я'штола
   - id: 1003781
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5255e2468242c7e7
     name: Танкред
+  - id: 1003782
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a7afc9fdd085a5d5
+    name: Я'штола
   - id: 1003784
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e720278f47ddd776
+    name: Урианже
+  - id: 1006693
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4dab28c287c1135f
+    name: Минфилия
+  - id: 1007478
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
     name: Урианже
 
 - name:
@@ -39,12 +39,12 @@
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7987092a02152425
     quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=af031f498c6feb5f
   actors:
-  - id: 1007534
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=60c4ffbdd5a27fe7
-    name: Танкред
   - id: 1004576
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1f64b734f93497d4
     name: Свифт
+  - id: 1007534
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=60c4ffbdd5a27fe7
+    name: Танкред
   eobjects:
   - id: 2002581
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c796b4f2b7eaafd6
@@ -60,12 +60,12 @@
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7cfc577d7da68d54
     quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=73c31d989ba768ae
   actors:
-  - id: 1007531
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d6ea6cd0d65c8a0f
-    name: Папалимо
   - id: 1000168
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eb796c9f86e22d68
     name: Ворсель Хелокс
+  - id: 1007531
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d6ea6cd0d65c8a0f
+    name: Папалимо
   eobjects:
   - id: 2002582
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f8f074e3a07330a6
@@ -73,6 +73,7 @@
 
 - name:
     original: "In a Titan Spot"
+    translated: "Титанические усилия"
   level: 50
   icon: 61419
   url:
@@ -80,12 +81,12 @@
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a3c83eaec19ce3c7
     quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=21a909bd26683fe4
   actors:
-  - id: 1007533
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a6409b68111d2595
-    name: Я'штола
   - id: 1003281
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6a5bdf5c296cc099
     name: Р'айшат Рики
+  - id: 1007533
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a6409b68111d2595
+    name: Я'штола
   eobjects:
   - id: 2002583
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5d5b3138b68287dd
@@ -93,6 +94,7 @@
 
 - name:
     original: "Primal Nature"
+    translated: "Природа праймалов"
   level: 50
   icon: 61419
   url:
@@ -100,15 +102,16 @@
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=836cb38ac11d8bbe
     quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=fce463eec2c51670
   actors:
-  - id: 1007478
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
-    name: Урианже
   - id: 1000168
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eb796c9f86e22d68
     name: Ворсель Хелокс
+  - id: 1007478
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
+    name: Урианже
 
 - name:
     original: "Gale-force Warning"
+    translated: "Штормовое предупреждение"
   level: 50
   icon: 61419
   url:
@@ -147,12 +150,12 @@
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b416c4ab0f7920e0
     quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=828c43a0cec806d3
   actors:
-  - id: 1007478
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
-    name: Урианже
   - id: 1003281
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6a5bdf5c296cc099
     name: Р'айшат Рики
+  - id: 1007478
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
+    name: Урианже
   - id: 1008269
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=aa372b5b418e6558
     name: Асцианец Двенадцатого Посоха
@@ -171,6 +174,7 @@
 
 - name:
     original: "Ifrit Ain't Broke"
+    translated: "Сломить Ифритовый стержень"
   level: 50
   icon: 61419
   url:
@@ -178,12 +182,12 @@
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d570c949d91b961e
     quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=373213235b7f948e
   actors:
-  - id: 1007478
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
-    name: Урианже
   - id: 1004576
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1f64b734f93497d4
     name: Свифт
+  - id: 1007478
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
+    name: Урианже
   quest_items:
   - id: 2001141
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=2afe553ae4f64b8d
@@ -204,15 +208,15 @@
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f568af1510964b60
     quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=07ea882730679e46
   actors:
-  - id: 1007478
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
-    name: Урианже
   - id: 1001304
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96195572aeed6a73
     name: Ровена
   - id: 1006951
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e2c968efca0725e5
     name: Laraina
+  - id: 1007478
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
+    name: Урианже
   quest_items:
   - id: 2001142
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=3e0a720f3e50c5da
@@ -229,6 +233,7 @@
 
 - name:
     original: "Primal Focus"
+    translated: "Фокусировки праймалов"
   level: 50
   icon: 61921
   url:
@@ -255,6 +260,7 @@
 
 - name:
     original: "The King Lives"
+    translated: "Король жив"
   level: 50
   icon: 61419
   url:
@@ -262,26 +268,27 @@
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=df32b4f80c708be8
     quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=ab34f84f7cf5b95a
   actors:
-  - id: 1007478
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
-    name: Урианже
   - id: 1000168
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eb796c9f86e22d68
     name: Ворсель Хелокс
+  - id: 1007478
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
+    name: Урианже
+  - id: 1008001
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=99ee02f20c697e5f
   - id: 1008544
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7373138070d60aa5
     name: Купло Копп
   - id: 1008545
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=991ab1edfc40f9b8
     name: Королевский стражник Двух Змей
-  - id: 1008001
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=99ee02f20c697e5f
   eobjects:
   - id: 2004032
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=6511470fcc854fa0
 
 - name:
     original: "Whorl of a Time"
+    translated: "Море волнуется раз"
   level: 50
   icon: 61419
   url:
@@ -289,18 +296,19 @@
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=0a9d49bf16291f66
     quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=7810e66a02134c0b
   actors:
-  - id: 1007478
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
-    name: Урианже
   - id: 1003281
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6a5bdf5c296cc099
     name: Р'айшат Рики
   - id: 1005409
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ee9d498398003107
     name: Стирлона
+  - id: 1007478
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
+    name: Урианже
 
 - name:
     original: "Judgment Bolts and Lightning"
+    translated: "Гром гремит, земля трясётся"
   level: 50
   icon: 61419
   url:
@@ -308,20 +316,18 @@
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=30a131cc3f55fca3
     quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=c670fa4990d8176a
   actors:
-  - id: 1009294
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=59029ee17f1ddf04
-    name: Scarlet
   - id: 1000587
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7a11c2235b58dd57
     name: Деллексия
-  - id: 5010000
-  - id: 1007478
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
-    name: Урианже
   - id: 1005163
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e34bb1e9cd60c25d
     name: Фриксио
-  - id: 0
+  - id: 1007478
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
+    name: Урианже
+  - id: 1009294
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=59029ee17f1ddf04
+    name: Scarlet
   eobjects:
   - id: 2004430
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a0c4d8b5a88e9f38
@@ -329,6 +335,7 @@
 
 - name:
     original: "Drop Dead Shiva"
+    translated: "До смерти краШива"
   level: 50
   icon: 61419
   url:
@@ -336,19 +343,19 @@
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=47af8ccdd68b75ad
     quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=a948a4db114fc3ca
   actors:
-  - id: 1007478
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
-    name: Урианже
   - id: 1006444
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9de063f5c8e871f0
     name: Дриймон
+  - id: 1007478
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
+    name: Урианже
   - id: 1010054
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4dcc837eb9d6ef18
     name: Храмовник-дозорный
-  - id: 5010000
 
 - name:
     original: "Fear and Odin in the Shroud"
+    translated: "Один не дома, а в Чёрном Покрове"
   level: 50
   icon: 61419
   url:
@@ -368,10 +375,10 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7981d1ef126e30aa
   - id: 1011253
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=45fa03f897ea88df
-  - id: 5010000
 
 - name:
     original: "Primal Fear"
+    translated: "Праймала бояться..."
   level: 46
   icon: 61419
   url:
@@ -379,18 +386,19 @@
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=96e979476707756f
     quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=323bc3333419fc7c
   actors:
-  - id: 1007478
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
-    name: Урианже
-  - id: 1003061
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f9ca653902329fad
-    name: Левин
   - id: 1000423
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=85439b51667c5a4c
     name: Лучник Божьих Колчанов
+  - id: 1003061
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f9ca653902329fad
+    name: Левин
+  - id: 1007478
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
+    name: Урианже
 
 - name:
     original: "Who Was That Man in Black"
+    translated: "Кем был этот человек в чёрном"
   level: 46
   icon: 61419
   url:
@@ -398,27 +406,28 @@
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1fbf2cc8f321033f
     quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=dfb591c50ab17edf
   actors:
-  - id: 1003061
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f9ca653902329fad
-    name: Левин
-  - id: 1000423
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=85439b51667c5a4c
-    name: Лучник Божьих Колчанов
-  - id: 1000195
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=12e76d5cf6fd8214
-    name: Шанселот
-  - id: 1000372
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=66326f486061b540
-    name: Tatasosa
   - id: 1000122
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=18606046a80032ea
     name: Онорье
   - id: 1000156
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=63418f53fa6279bc
     name: Aedan
+  - id: 1000195
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=12e76d5cf6fd8214
+    name: Шанселот
+  - id: 1000372
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=66326f486061b540
+    name: Tatasosa
+  - id: 1000423
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=85439b51667c5a4c
+    name: Лучник Божьих Колчанов
+  - id: 1003061
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f9ca653902329fad
+    name: Левин
 
 - name:
     original: "The Dark Divinity"
+    translated: "Тёмное Божество"
   level: 46
   icon: 61419
   url:
@@ -426,28 +435,25 @@
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=41fd298ca48bb969
     quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=ba987f8b4fdd8697
   actors:
-  - id: 1003061
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f9ca653902329fad
-    name: Левин
   - id: 1000423
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=85439b51667c5a4c
     name: Лучник Божьих Колчанов
+  - id: 1003061
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f9ca653902329fad
+    name: Левин
   - id: 1006584
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f81fe8f4468d0d67
     name: О-Апа-Песи
+  - id: 1006585
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8039f3afc9826cbe
+    name: Simmie
   - id: 1006681
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=694b901ec4068aca
   - id: 1006682
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9f55fa6e61c359b4
   - id: 1006683
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c1701fad8ec786fa
-  - id: 1006585
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8039f3afc9826cbe
-    name: Simmie
   enemies:
-  - id: 2062
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=383a251909ca0860
-    name: the last of the Allagans
   - id: 2062
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=383a251909ca0860
     name: the last of the Allagans
@@ -470,6 +476,7 @@
 
 - name:
     original: "All You Wanted to Know about Odin"
+    translated: "Всё, что вы хотели знать об Одине"
   level: 46
   icon: 61419
   url:
@@ -501,12 +508,12 @@
   - id: 1007478
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
     name: Урианже
-  - id: 1007685
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=02b33bff2bb13327
-    name: Ализе
   - id: 1007627
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c5780e5632a9e0a7
     name: J'brohka
+  - id: 1007685
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=02b33bff2bb13327
+    name: Ализе
   eobjects:
   - id: 2002609
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8dd0837205d83321
@@ -561,6 +568,12 @@
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6381d1d41b2a2919
     quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=9d7827ab449e5824
   actors:
+  - id: 1004145
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9fd3d0f609a798d4
+    name: Альфино
+  - id: 1004146
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dd0edddb856ff470
+    name: Ализе
   - id: 1007478
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
     name: Урианже
@@ -570,12 +583,6 @@
   - id: 1008539
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f330aa847268068e
     name: sharp-eyed serpent private
-  - id: 1004145
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9fd3d0f609a798d4
-    name: Альфино
-  - id: 1004146
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dd0edddb856ff470
-    name: Ализе
 
 - name:
     original: "Alisaie's Resolve"
@@ -611,17 +618,17 @@
     end: "182"
     url: https://translate.xivrus.ru/projects/ffxiv-translation/quest-013-gaiusd301_01313/
   actors:
-  - id: 1008540
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5c21ea015f4e3a93
-    name: Ализе
-  - id: 1007478
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
-    name: Урианже
   - id: 1004145
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9fd3d0f609a798d4
     name: Альфино
   - id: 1004146
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dd0edddb856ff470
+    name: Ализе
+  - id: 1007478
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
+    name: Урианже
+  - id: 1008540
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5c21ea015f4e3a93
     name: Ализе
 
 - name:
@@ -633,9 +640,21 @@
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a3b68eff7f3bd9f7
     quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=66a49df6e2b7e1b8
   actors:
+  - id: 1004145
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9fd3d0f609a798d4
+    name: Альфино
+  - id: 1004146
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dd0edddb856ff470
+    name: Ализе
   - id: 1007478
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3
     name: Урианже
+  - id: 1008180
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9d77f3aa748ac930
+    name: Урианже
+  - id: 1009768
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=db813db859d075d8
+    name: Erkenrad
   - id: 1009769
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=76e2a3d8bb519aaf
     name: Помощник Ализе
@@ -645,9 +664,6 @@
   - id: 1009771
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=75cd8468bdd183f0
     name: Урианже
-  - id: 1010765
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=15832a03e9abad32
-    name: Помощник Ализе
   - id: 1009772
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=427d9e271a77edeb
     name: Ализе
@@ -658,27 +674,14 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=650bca8d54300bb7
   - id: 1009775
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7873c62b9c57e00b
-  - id: 1009768
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=db813db859d075d8
-    name: Erkenrad
-  - id: 1004145
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9fd3d0f609a798d4
-    name: Альфино
-  - id: 1004146
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dd0edddb856ff470
-    name: Ализе
-  - id: 1008180
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9d77f3aa748ac930
-    name: Урианже
-  - id: 1009768
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=db813db859d075d8
-    name: Erkenrad
+  - id: 1010765
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=15832a03e9abad32
+    name: Помощник Ализе
   eobjects:
   - id: 2004607
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=6b5c9b93cae1ea90
   - id: 2004609
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=25eac4597a553fb9
-  - id: 5000001
 
 - name:
     original: "Alisaie's Path"
@@ -688,49 +691,16 @@
     quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-gaiusd502_00044/
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e5cf7be1d9fd2487
     quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=0118fb53dfabbb70
-  cutscenes:
-  - name: Кат-сцена 1
-    start: "400010"
-    end: "400180"
-    url: https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-024-voiceman_02401/
-  - name: Кат-сцена 2
-    start: "500010"
-    end: "500360"
-    url: https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-024-voiceman_02401/
-  - name: Кат-сцена 3
-    start: "501"
-    end: "508"
-    url: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-gaiusd501_00043/
-  - name: Кат-сцена 4
-    start: "601"
-    end: "621"
-    url: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-gaiusd501_00043/
-  - name: Кат-сцена 5
-    start: "701"
-    end: "707"
-    url: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-gaiusd501_00043/
-  - name: Кат-сцена 6
-    start: "300010"
-    end: "300330"
-    url: https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-024-voiceman_02401/
-  - name: Кат-сцена 7
-    start: "600010"
-    end: "600200"
-    url: https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-024-voiceman_02401/
-  - name: Кат-сцена 8
-    start: "700010"
-    end: "700230"
-    url: https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-024-voiceman_02401/
   actors:
-  - id: 1009777
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=32f323332dbffa62
-    name: Ализе
-  - id: 1009776
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c07db491fd894f5a
-    name: Альфино
   - id: 1009771
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=75cd8468bdd183f0
     name: Урианже
+  - id: 1009776
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c07db491fd894f5a
+    name: Альфино
+  - id: 1009777
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=32f323332dbffa62
+    name: Ализе
 
 - name:
     original: "Legacy of Allag"
@@ -747,15 +717,15 @@
     end: "23"
     url: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-gaiusd201_01199/
   actors:
-  - id: 1007753
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7514ae8fe456ab05
-    name: Чудаковатый мужик
-  - id: 1006725
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f53781452bc80d2e
-    name: Рамброс
   - id: 1003855
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=24b180ac268614c7
     name: Сид
+  - id: 1006725
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f53781452bc80d2e
+    name: Рамброс
+  - id: 1007753
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7514ae8fe456ab05
+    name: Чудаковатый мужик
   enemies:
   - id: 7578
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3fe09f499afd1d9a
@@ -810,12 +780,21 @@
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b2252306e9761969
     quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=b19d28a0a99d7752
   actors:
-  - id: 1006725
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f53781452bc80d2e
-    name: Рамброс
+  - id: 1002280
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ee39d8790da993b3
+    name: Ямим
+  - id: 1003836
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=21dd0f1dbf021d57
+    name: Биггс
+  - id: 1003855
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=24b180ac268614c7
+    name: Сид
   - id: 1004093
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d70d857ad38fef69
     name: Серендипити
+  - id: 1006725
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f53781452bc80d2e
+    name: Рамброс
   - id: 1007755
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d19c9ab339f9381e
     name: Биггс
@@ -829,23 +808,10 @@
   - id: 1007759
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=58048033b678d752
     name: Ведж
-  - id: 1002280
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ee39d8790da993b3
-    name: Ямим
-  - id: 1003836
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=21dd0f1dbf021d57
-    name: Биггс
   - id: 1008298
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1f160a37534cf95c
     name: Ямим
-  - id: 1003855
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=24b180ac268614c7
-    name: Сид
   quest_items:
-  - id: 2001099
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=d6387e18afe963d1
-    name: набитый деньгами мешочек
-    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=d6387e18afe963d1
   - id: 2001097
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=b0a1d1015215b98c
     name: горсть заряженного энергией огня эфирного песка
@@ -854,6 +820,10 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=c5b3e0205231def9
     name: горсть заряженного энергией земли эфирного песка
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=c5b3e0205231def9
+  - id: 2001099
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=d6387e18afe963d1
+    name: набитый деньгами мешочек
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=d6387e18afe963d1
   eobjects:
   - id: 2002892
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5a0d2ac51401d9a9
@@ -871,12 +841,12 @@
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8a95162bb16457f2
     quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=775d03735497e0ca
   actors:
-  - id: 1006725
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f53781452bc80d2e
-    name: Рамброс
   - id: 1000768
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e1a101f02ab56740
     name: Парсмонтре
+  - id: 1006725
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f53781452bc80d2e
+    name: Рамброс
   - id: 1007760
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b85a0cc45186ea20
   enemies:
@@ -907,11 +877,11 @@
     name: Свёрток с эфирным песком
   - id: 2002895
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f473e1cc16375e33
-  - id: 2002898
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=11dadd446d541419
   - id: 2002896
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=4d462c444d325447
     name: Свёрток с эфирным песком
+  - id: 2002898
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=11dadd446d541419
   - id: 2003014
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=21998fc10ae7a266
 
@@ -943,12 +913,12 @@
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=716c99c7e0c6a23d
     quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=b93d8bf3e0cddb45
   actors:
-  - id: 1007763
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c49b705dccc1d8e1
-    name: Г'раха Тиа
   - id: 1006725
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f53781452bc80d2e
     name: Рамброс
+  - id: 1007763
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c49b705dccc1d8e1
+    name: Г'раха Тиа
 
 - name:
     original: "Syrcus Tower"
@@ -960,12 +930,12 @@
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a607fe61b7b42f8c
     quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=6e900bbcb0f8bc50
   actors:
-  - id: 1009944
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=226a0971b334fbab
-    name: Лонуорд
   - id: 1009943
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=878fe4a6ae0c3e6c
     name: Джеки
+  - id: 1009944
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=226a0971b334fbab
+    name: Лонуорд
   logmessages:
   - id: 1020
     url: https://translate.xivrus.ru/translate/ffxiv-translation/logmessage/ru/?checksum=c0945e4be018959d
@@ -981,22 +951,21 @@
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3fe7b787efcf0bb0
     quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=4978c6582481a498
   actors:
+  - id: 1003836
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=21dd0f1dbf021d57
+    name: Биггс
+  - id: 1003837
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3cf6b269f9bcf8ab
+    name: Ведж
+  - id: 1003855
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=24b180ac268614c7
+    name: Сид
+  - id: 1005518
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=40501e727a9a121d
+    name: Г'раха Тиа
   - id: 1006725
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f53781452bc80d2e
     name: Рамброс
-  - id: 1011638
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a4a09b3b2310ceff
-    name: Ведж
-  - id: 1011639
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=376cae41f52a5652
-    name: Биггс
-  - id: 1007763
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c49b705dccc1d8e1
-    name: Г'раха Тиа
-  - id: 1011640
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=99887cf58a6bdcd7
-    name: Г'раха Тиа
-  - id: 5010000
   - id: 1007754
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5e80ed1f4322ce51
     name: Сид
@@ -1006,18 +975,18 @@
   - id: 1007762
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9b2e1701a838bd5d
     name: Ведж
-  - id: 1005518
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=40501e727a9a121d
+  - id: 1007763
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c49b705dccc1d8e1
     name: Г'раха Тиа
-  - id: 1003855
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=24b180ac268614c7
-    name: Сид
-  - id: 1003836
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=21dd0f1dbf021d57
-    name: Биггс
-  - id: 1003837
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3cf6b269f9bcf8ab
+  - id: 1011638
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a4a09b3b2310ceff
     name: Ведж
+  - id: 1011639
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=376cae41f52a5652
+    name: Биггс
+  - id: 1011640
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=99887cf58a6bdcd7
+    name: Г'раха Тиа
 
 - name:
     original: "The Light of Hope"
@@ -1029,6 +998,15 @@
     journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5a511c01e2d09106
     quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=5eea6600ee77e810
   actors:
+  - id: 1003836
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=21dd0f1dbf021d57
+    name: Биггс
+  - id: 1003837
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3cf6b269f9bcf8ab
+    name: Ведж
+  - id: 1003855
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=24b180ac268614c7
+    name: Сид
   - id: 1006725
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f53781452bc80d2e
     name: Рамброс
@@ -1037,15 +1015,6 @@
     name: Cын Святого Конаха
   - id: 1011642
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a6e26b606f1c39a6
-  - id: 1003855
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=24b180ac268614c7
-    name: Сид
-  - id: 1003836
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=21dd0f1dbf021d57
-    name: Биггс
-  - id: 1003837
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3cf6b269f9bcf8ab
-    name: Ведж
   - id: 1011643
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7f0fc633cc10eeb2
     name: Cын Святого Конаха
@@ -1085,7 +1054,6 @@
   - id: 1011655
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c7b007a15770d493
     name: Ко Рабнтах
-  - id: 5010000
   quest_items:
   - id: 2001552
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=c39e9f4a4583f305
@@ -1099,4 +1067,371 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=25faf289989f04b7
     name: Жемчужина Тьмы
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=25faf289989f04b7
+
+- name:
+    original: "Sky Pirates"
+  level: 60
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-022-heavnm101_02204/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=0e0cdd2fde81d127
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=6e5b2cd913b4e510
+  actors:
+  - id: 1012055
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=deba5683c59a159d
+    name: Rontremont
+  - id: 1016116
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6096dee7eb41c5d9
+    name: Redbill deckhand
+  - id: 1016117
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=43da2c1759f580ba
+    name: Leofard
+  - id: 1016118
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f71510c0d27ea216
+    name: Стасия
+  - id: 1016119
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fec3f4cbf46945cc
+    name: Utata
+  - id: 1016120
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0891fd9abdcddbcd
+  - id: 1016121
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=09fb52534984db7f
+    name: sky pirate
+  - id: 1016122
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d1f71e366d11798f
+  - id: 1016123
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=01d719ed567a4ae8
+  - id: 1016124
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2034d716c91f313c
+    name: cargo ship helmsman
+  - id: 1016125
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9fb830c1a5a40d78
+    name: unquiet trader
+  - id: 1016128
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=df90cc46e0ea99c6
+  - id: 1016129
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6a353923de478969
+  - id: 1016130
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=14dd310a0b4a1c37
+    name: Стасия
+  - id: 1016131
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b018fd5ad951d16d
+  eobjects:
+  - id: 2006615
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=855f81c4d7e6bda5
+  - id: 2006616
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=bdf3252bba845780
+  - id: 2006618
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f20f5415e6c7f080
+  - id: 2006619
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=0749dddef7b32a5c
+
+- name:
+    original: "To Rule the Skies"
+  level: 60
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-022-heavnm102_02205/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4cba2754ac985e70
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=6264ab0a408f9779
+  actors:
+  - id: 1016114
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2cacc7fd35cb0dfe
+    name: Utata
+  - id: 1016115
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ad9c6ffd66e1d32e
+    name: Радлия
+  - id: 1016116
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6096dee7eb41c5d9
+    name: Redbill deckhand
+  - id: 1016117
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=43da2c1759f580ba
+    name: Leofard
+  - id: 1016118
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f71510c0d27ea216
+    name: Стасия
+  - id: 1016119
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fec3f4cbf46945cc
+    name: Utata
+  - id: 1016120
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0891fd9abdcddbcd
+  - id: 1016128
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=df90cc46e0ea99c6
+  - id: 1016129
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6a353923de478969
+  - id: 1016132
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6beb4e30bd1e6f41
+    name: Talons deckswab
+  - id: 1016133
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d1a6e9b7abb48aca
+  - id: 1016134
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=427ac398748defeb
+  - id: 1016137
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5201d2b6b4b231be
+    name: Leofard
+  - id: 1016138
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b5f4aac3a98f1513
+    name: Redbill deckhand
+  - id: 1016139
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=af21ec5ac08fcb6d
+    name: Стасия
+  - id: 1016140
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=045e98bf073c12b9
+    name: curious cat
+
+- name:
+    original: "The Weeping City"
+    translated: "Рыдающий город"
+  level: 60
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-022-heavnm201_02285/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=84489aa6ee81509d
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=239a504627793c37
+  actors:
+  - id: 1016130
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=14dd310a0b4a1c37
+    name: Стасия
+  - id: 1016131
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b018fd5ad951d16d
+  - id: 1017141
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=538408b3cc914465
+    name: Стасия
+  - id: 1017142
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d2ff60acf5389272
+    name: Leofard
+  - id: 1017143
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=33e5149f21a3872b
+    name: Стасия
+  - id: 1017144
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4980eea9c2cdb9c9
+    name: Cait Sith
+  - id: 1017145
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8bed641a8decd126
+    name: Utata
+  - id: 1017146
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ec240e3c24d23685
+    name: Cait Sith
+  - id: 1017147
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3a32466614aae7fe
+  - id: 1017148
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6d0d055413013932
+  - id: 1017149
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f96ec4ceaa2940c4
+    name: Leofard
+  - id: 1017150
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6a19c2c0649ad3f5
+    name: Talons deckswab
+  - id: 1017151
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=788125db0fe9ad57
+  - id: 1017152
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f3896d71d29af875
+    name: Cait Sith
+  - id: 1017153
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=16760651c0364136
+    name: Стасия
+  - id: 1017154
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f99ee7477682985c
+    name: Utata
+  - id: 1017155
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=28e22d28195388b9
+    name: Leofard
+  - id: 1017156
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=763523b83e1494f2
+    name: Стасия
+  - id: 1017157
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c139bb0867dec077
+    name: Cait Sith
+  - id: 1017158
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=834249a6f4a2f677
+    name: Leofard
+  - id: 1017159
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d9078b03f1bf95b1
+    name: Стасия
+  - id: 1017161
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2bda80a6509623ee
+  - id: 1017162
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fee0570168a80807
+  - id: 1017163
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=79154bf627acc3df
+    name: Cait Sith
+  - id: 1017165
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1891365ea1362531
+    name: Стасия
+  eobjects:
+  - id: 2007120
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a5d07c914381bcf4
+
+- name:
+    original: "Freedom for Our Skies"
+  level: 60
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-022-heavnm202_02286/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=85ff27a7c54e7037
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=5abe4e409d9dd46b
+  actors:
+  - id: 1017161
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2bda80a6509623ee
+  - id: 1017162
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fee0570168a80807
+  - id: 1017165
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1891365ea1362531
+    name: Стасия
+  - id: 1017168
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b0c549be6411f44a
+    name: Leofard
+  - id: 1017200
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874856066ecfd2c2
+    name: Leofard
+  - id: 1017536
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=01489dede2aa8de7
+    name: Cait Sith
+
+- name:
+    original: "Where Shadows Reign"
+  level: 60
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-023-heavnm301_02373/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=fb4779449d8354eb
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=4a4a607b53a98b0a
+  actors:
+  - id: 1016130
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=14dd310a0b4a1c37
+    name: Стасия
+  - id: 1016131
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b018fd5ad951d16d
+  - id: 1018060
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=36d32df4358d28b4
+    name: Leofard
+  - id: 1018061
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0debcd2f86b78b50
+    name: Стасия
+  - id: 1018062
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3c520b9a97a9ce91
+    name: Cait Sith
+  - id: 1018063
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=15066c0e06c5b21b
+    name: Utata
+  - id: 1018064
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4d33d9d63faf5156
+    name: Стасия
+  - id: 1018065
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d3e01df7c2d7ca5a
+    name: Радлия
+  - id: 1018066
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3c21acd2317b69b6
+    name: Talons deckswab
+  - id: 1018067
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1e8510fcec62e956
+  - id: 1018068
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bbca434d895cd135
+    name: Leofard
+  - id: 1018069
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=92da24ea8f160c87
+    name: Utata
+  - id: 1018070
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a45011c51565a132
+    name: Cait Sith
+  - id: 1018074
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=74a67ab0d4eb1421
+    name: Utata
+  - id: 1018075
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e458d3dd9bed41a6
+    name: Leofard
+  - id: 1018076
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=43b334591b5b677a
+    name: Стасия
+  - id: 1018077
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1c1e43b6b00fc3cf
+    name: Cait Sith
+  - id: 1018078
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c0206e966920bb09
+    name: Радлия
+  - id: 1018079
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fe7e34c50e52fa9e
+    name: Leofard
+  - id: 1018080
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ca0ec8cc305f9379
+    name: Стасия
+  - id: 1018081
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7911c497f49a6050
+    name: Cait Sith
+  - id: 1018082
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=39b3715de6657277
+    name: Радлия
+  - id: 1018716
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e585a2aa8b4b6444
+  eobjects:
+  - id: 2007780
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=bf3ba2d19d3ee7be
+
+- name:
+    original: "A Redbill Farewell"
+  level: 60
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-023-heavnm302_02374/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e8ea4dd4743c8af5
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=028ee479077ab9eb
+  actors:
+  - id: 1017527
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8ab5ded7d4cc823e
+    name: Utata
+  - id: 1018072
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=38af7253d032bb45
+    name: Стасия
+  - id: 1018073
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ef752fd8b65b94aa
+    name: Cait Sith
+  - id: 1018079
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fe7e34c50e52fa9e
+    name: Leofard
+  - id: 1018080
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ca0ec8cc305f9379
+    name: Стасия
+  - id: 1018081
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7911c497f49a6050
+    name: Cait Sith
+  - id: 1018082
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=39b3715de6657277
+    name: Радлия
+  - id: 1018083
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0259a211303cce2c
+    name: Leofard
+  - id: 1018084
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fafa829d4d524421
+    name: Стасия
+  - id: 1018085
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=39e72875f901e9fd
+    name: Cait Sith
+  - id: 1018086
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6a1babb4362aa0da
+    name: Utata
+  - id: 1018291
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d6750f47c062654f
+  - id: 1018292
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3306cbbe87569b2d
+  - id: 1018295
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ba0c080a954499af
+    name: Радлия
+
+- name:
+    original: "Unidentified Flying Object"
+  level: 60
+  icon: 61921
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-014-heavnm303_01480/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8b17a6c506b0722e
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=b6238d16bdbbb47b
+  actors:
+  - id: 1017654
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a7842e6d1f688aaf
+    name: Slipslix
+  quest_items:
+  - id: 2002028
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=dbe31cbc7c231c99
+    name: Allagan weapon scrap
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=dbe31cbc7c231c99
 
