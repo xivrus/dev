@@ -244,7 +244,7 @@ quest_list: seasonal
 </ul>
 
 
-## Hatching-tide {#hatching-tide}
+## Вылу-пень / Hatching-tide {#hatching-tide}
 
 ### 2023 {#hatching-tide-2023}
 
