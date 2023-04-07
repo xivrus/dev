@@ -126,6 +126,12 @@ quest_list: sidequests
 
 # Побочные задания Лимса Ломинсы {#lominsan-sidequests}
 
+## Западная Ла Ноша {#lominsan-sidequests-western-la-noscea}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "Sirius Business" %}
+</ul>
+
 ## Восточная Ла Ноша {#lominsan-sidequests-eastern-la-noscea}
 
 <ul markdown="0">
@@ -153,6 +159,7 @@ quest_list: sidequests
 	{% include quest.liquid quest_name = "A Hard Nut to Crack" %}
 	{% include quest.liquid quest_name = "Derision of Labor" %}
 	{% include quest.liquid quest_name = "Population Control" %}
+	{% include quest.liquid quest_name = "One Night in Amdapor" %}
 </ul>
 
 ## Северная Роща {#gridanian-sidequests-north-shroud}
@@ -167,6 +174,7 @@ quest_list: sidequests
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "Dishonor Before Death" %}
+	{% include quest.liquid quest_name = "Corpse Groom" %}
 </ul>
 
 ## Площадь Чокобо {#uldahn-sidequests-chocobo-square}
@@ -185,6 +193,7 @@ quest_list: sidequests
 	{% include quest.liquid quest_name = "Hallo Halatali" %}
 	{% include quest.liquid quest_name = "Going for Gold" %}
 	{% include quest.liquid quest_name = "Trauma Queen" %}
+	{% include quest.liquid quest_name = "Ghosts of Amdapor" %}
 </ul>
 
 # Побочные задания Кёртаса {#coerthas-sidequests}
@@ -199,4 +208,14 @@ quest_list: sidequests
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "Morbid Motivation" %}
+	{% include quest.liquid quest_name = "Out of Sight, Out of Mine" %}
+	{% include quest.liquid quest_name = "Maniac Manor" %}
+	{% include quest.liquid quest_name = "This Time's for Fun" %}
+	{% include quest.liquid quest_name = "Curds and Slay" %}
+	{% include quest.liquid quest_name = "King of the Hull" %}
+	{% include quest.liquid quest_name = "Blood for Stone" %}
+	{% include quest.liquid quest_name = "Not Easy Being Green" %}
+	{% include quest.liquid quest_name = "For Keep's Sake" %}
+	{% include quest.liquid quest_name = "It's Definitely Pirates" %}
+	{% include quest.liquid quest_name = "The Wrath of Qarn" %}
 </ul>
