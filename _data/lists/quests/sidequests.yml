@@ -1928,7 +1928,7 @@
   quest_items:
   - id: 2001536
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=25afa4711a37d6fa
-    name: пузырёк с кровью Короля-Тонбери
+    name: пузырёк с кровью Короля-Тонберри
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=25afa4711a37d6fa
   - id: 2001537
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=e29520a49aef27c8
@@ -2078,51 +2078,12 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee
     name: Мугл-портной
   enemies:
-  - id: 245
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4081ae47c973f1ec
-    name: Амал'джа-копейщик
-  - id: 253
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=35be3e4cffecac2d
-    name: Амал'джа-борец
-  - id: 258
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8ef4c6f93702ce6e
-    name: Амал'джа-оккультист
-  - id: 1388
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c2aa5dbd46114ef7
-    name: Амал'джа-разбойник
-  - id: 1731
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a3b68eff7f3bd9f7
-    name: Непоколебимый захар'ак
-  - id: 1837
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ed440b24411d7a20
-    name: Захар'ак-копейщик
-  - id: 1839
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=69d48e61a42a3c13
-    name: Захар'ак-борец
   - id: 1840
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=66cbc31b64ddcb2a
     name: Захар'ак-оккультист
-  - id: 1879
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=12e5325548c880a1
-    name: Занр'ак-оккультист
-  - id: 1880
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1ec6061f8e89d521
-    name: Занр'ак-борец
-  - id: 2297
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=03d97fd3cfc950db
-    name: Занр'ак-копейщик
-  - id: 2300
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ff1d88966d16c373
-    name: Flamefang ravager
   - id: 2301
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f2c24d9fee8bcd50
     name: Zanr'ak gaolkeeper
-  - id: 2304
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7142ae2459be43fc
-    name: Zahar'ak guard
-  - id: 2305
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=dce90d1063aa845d
-    name: Zahar'ak hatchling
   - id: 2369
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b8108bb549e8974f
     name: Flamefang elite
@@ -2182,54 +2143,12 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee
     name: Мугл-портной
   enemies:
-  - id: 245
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4081ae47c973f1ec
-    name: Амал'джа-копейщик
-  - id: 249
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e470e7812c80403a
-    name: Амал'джа-лучник
-  - id: 253
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=35be3e4cffecac2d
-    name: Амал'джа-борец
-  - id: 1388
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c2aa5dbd46114ef7
-    name: Амал'джа-разбойник
-  - id: 1389
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=32eb0963ac4eca63
-    name: Амал'джа-падальщик
-  - id: 1731
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a3b68eff7f3bd9f7
-    name: Непоколебимый захар'ак
-  - id: 1837
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ed440b24411d7a20
-    name: Захар'ак-копейщик
   - id: 1838
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=197e280f193047e4
     name: Захар'ак-лучник
-  - id: 1839
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=69d48e61a42a3c13
-    name: Захар'ак-борец
-  - id: 1880
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1ec6061f8e89d521
-    name: Занр'ак-борец
-  - id: 2296
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f9d89f52533887db
-    name: Занр'ак-лучник
-  - id: 2297
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=03d97fd3cfc950db
-    name: Занр'ак-копейщик
-  - id: 2300
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ff1d88966d16c373
-    name: Flamefang ravager
   - id: 2301
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f2c24d9fee8bcd50
     name: Zanr'ak gaolkeeper
-  - id: 2304
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7142ae2459be43fc
-    name: Zahar'ak guard
-  - id: 2305
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=dce90d1063aa845d
-    name: Zahar'ak hatchling
   - id: 2369
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b8108bb549e8974f
     name: Flamefang elite
@@ -2289,33 +2208,6 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee
     name: Мугл-портной
   enemies:
-  - id: 375
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b71d9af126c4064f
-    name: Кобольд-богадельщик
-  - id: 377
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=107f75318ad73e29
-    name: Кобольд-патрульный
-  - id: 562
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e73d373856cf1047
-    name: Кобольд-каменотёс
-  - id: 1832
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=918e1d9ddb780105
-    name: У'гамаро-патрульный
-  - id: 1833
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c056fdddbb6dfd25
-    name: У'гамаро-карьерщик
-  - id: 1834
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=aa8dccd918239e61
-    name: У'гамаро-богадельник
-  - id: 2518
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=46f77ab6d5e01b60
-    name: Элитный патрульный
-  - id: 2519
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7ea0bbd2721f5a62
-    name: Элитный карьерщик
-  - id: 2521
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e66d8cbbeef11ae2
-    name: Элитный бедесман
   - id: 2694
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b1712ec7b4e6fe28
     name: 271st Order watchman
@@ -2325,9 +2217,6 @@
   - id: 2704
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6f38854bbd0fc913
     name: 13th Order scholar
-  - id: 2711
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=bf96ed9e7d1ae69a
-    name: 13th Order patrolman
   quest_items:
   - id: 2000988
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=34ec06399f2b4993
@@ -2384,27 +2273,15 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee
     name: Мугл-портной
   enemies:
-  - id: 103
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8abdf559caedae32
-    name: Иксал-смелокрыл
   - id: 662
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=bb7cc9b6ab132a10
     name: Иксал-связокрыл
-  - id: 663
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=03103d930251da2b
-    name: Иксал страховзрыв
   - id: 1843
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e6c8d8b5bc6bcd2b
     name: Наталанский смелокрыл
-  - id: 1844
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=cff5a6a4063fd178
-    name: Наталанский шустроклюв
   - id: 1845
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=24413b6e4ccfa0db
     name: Наталанский туманозвон
-  - id: 2985
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=018992316a109d48
-    name: Ixali fleetbeak
   quest_items:
   - id: 2000991
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=9a989e5176e25618
@@ -2461,18 +2338,6 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee
     name: Мугл-портной
   enemies:
-  - id: 103
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8abdf559caedae32
-    name: Иксал-смелокрыл
-  - id: 436
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=249e7acef261de22
-    name: Иксал-ветродуй
-  - id: 662
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=bb7cc9b6ab132a10
-    name: Иксал-связокрыл
-  - id: 663
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=03103d930251da2b
-    name: Иксал страховзрыв
   - id: 1842
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d1c0089cb0fbfbad
     name: Наталанский ветродуй
@@ -2482,9 +2347,6 @@
   - id: 1845
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=24413b6e4ccfa0db
     name: Наталанский туманозвон
-  - id: 2986
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2b49f588185a8a2a
-    name: Ixali skytalon
   quest_items:
   - id: 2000994
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=3618b1adf5d2741d
@@ -2541,33 +2403,6 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee
     name: Мугл-портной
   enemies:
-  - id: 384
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=002f9647aaa3678c
-    name: Когтериф сахаджин
-  - id: 389
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ebbcd57386c3040f
-    name: Шипориф сахаджин
-  - id: 565
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b308e51a01873896
-    name: Окопозуб сахаджин
-  - id: 1828
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4b4c189f3dde4925
-    name: Когтериф сапса
-  - id: 1829
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1e01334002b6d1ac
-    name: Шипориф сапса
-  - id: 1830
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=59e19ab2c02e7cd5
-    name: Клыкориф сапса
-  - id: 2523
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=9e923dd72d6ece33
-    name: Сахаджин мелкошип
-  - id: 2524
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0e95bb5335d632fc
-    name: Клыкомель сахаджин
-  - id: 2526
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=93cb6c6bba7ecb9a
-    name: Сахаджин клыкомель
   - id: 2537
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=69e1e125259377ca
     name: surfspine Sahagin
@@ -2577,12 +2412,6 @@
   - id: 2541
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=5b9f1eb151e2893c
     name: surftooth Sahagin
-  - id: 2679
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3cf5449804e48270
-    name: Когтериф-страж
-  - id: 2721
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=5e016ac04b51e48a
-    name: Sahagin sentry
   quest_items:
   - id: 2001451
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=6c2eff55d2bb1508
@@ -2639,33 +2468,6 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee
     name: Мугл-портной
   enemies:
-  - id: 371
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=fff496e8c51fd31c
-    name: Кобольд-жрец
-  - id: 375
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b71d9af126c4064f
-    name: Кобольд-богадельщик
-  - id: 562
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e73d373856cf1047
-    name: Кобольд-каменотёс
-  - id: 1833
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c056fdddbb6dfd25
-    name: У'гамаро-карьерщик
-  - id: 1834
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=aa8dccd918239e61
-    name: У'гамаро-богадельник
-  - id: 1835
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ce056d52174339a7
-    name: У'гхамаро-жрец
-  - id: 2519
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7ea0bbd2721f5a62
-    name: Элитный карьерщик
-  - id: 2520
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=bae8a72b09453b40
-    name: Элитный жрец
-  - id: 2521
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e66d8cbbeef11ae2
-    name: Элитный бедесман
   - id: 2694
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b1712ec7b4e6fe28
     name: 271st Order watchman
@@ -2731,33 +2533,6 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee
     name: Мугл-портной
   enemies:
-  - id: 371
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=fff496e8c51fd31c
-    name: Кобольд-жрец
-  - id: 375
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b71d9af126c4064f
-    name: Кобольд-богадельщик
-  - id: 562
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e73d373856cf1047
-    name: Кобольд-каменотёс
-  - id: 1833
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c056fdddbb6dfd25
-    name: У'гамаро-карьерщик
-  - id: 1834
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=aa8dccd918239e61
-    name: У'гамаро-богадельник
-  - id: 1835
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ce056d52174339a7
-    name: У'гхамаро-жрец
-  - id: 2519
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7ea0bbd2721f5a62
-    name: Элитный карьерщик
-  - id: 2520
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=bae8a72b09453b40
-    name: Элитный жрец
-  - id: 2521
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e66d8cbbeef11ae2
-    name: Элитный бедесман
   - id: 2694
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b1712ec7b4e6fe28
     name: 271st Order watchman
@@ -2823,36 +2598,9 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee
     name: Мугл-портной
   enemies:
-  - id: 64
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=dd6af2460a8d21de
-    name: Визжащий сильф
-  - id: 65
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d392d927467ce970
-    name: Вздыхающий сильф
-  - id: 66
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a84ecbf32b93e9df
-    name: Рычащий сильф
-  - id: 67
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7b45ffdfc13e8d3f
-    name: Кричащий сильф
-  - id: 68
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=22c98a2217182c51
-    name: Всхлипывающий сильф
-  - id: 69
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0297670afcc1e0cc
-    name: Ворчащий сильф
   - id: 2313
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=5a3054c02a1d52f6
     name: sylpheed chuckle
-  - id: 2317
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=64e77d9e286f9608
-    name: Вздыхающий фиолет
-  - id: 2318
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a51b37f4931dc026
-    name: Рычащий фиолет
-  - id: 2319
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c006b8b1b7f7746a
-    name: Кричащий фиолет
   - id: 2320
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1b235df8d761119b
     name: sylpheed wail
@@ -2915,33 +2663,6 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee
     name: Мугл-портной
   enemies:
-  - id: 384
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=002f9647aaa3678c
-    name: Когтериф сахаджин
-  - id: 389
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ebbcd57386c3040f
-    name: Шипориф сахаджин
-  - id: 565
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=b308e51a01873896
-    name: Окопозуб сахаджин
-  - id: 1828
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4b4c189f3dde4925
-    name: Когтериф сапса
-  - id: 1829
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1e01334002b6d1ac
-    name: Шипориф сапса
-  - id: 1830
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=59e19ab2c02e7cd5
-    name: Клыкориф сапса
-  - id: 2523
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=9e923dd72d6ece33
-    name: Сахаджин мелкошип
-  - id: 2524
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0e95bb5335d632fc
-    name: Клыкомель сахаджин
-  - id: 2526
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=93cb6c6bba7ecb9a
-    name: Сахаджин клыкомель
   - id: 2537
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=69e1e125259377ca
     name: surfspine Sahagin
@@ -2951,12 +2672,6 @@
   - id: 2541
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=5b9f1eb151e2893c
     name: surftooth Sahagin
-  - id: 2679
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3cf5449804e48270
-    name: Когтериф-страж
-  - id: 2721
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=5e016ac04b51e48a
-    name: Sahagin sentry
   quest_items:
   - id: 2000996
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=5ab0b96455f52a13
@@ -3377,12 +3092,6 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=363b540dc4805462
     name: Boiselont
   enemies:
-  - id: 37
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3d0e22173938ea89
-    name: Земляная белка
-  - id: 198
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d3d6dc72f6987ba0
-    name: Белка-щелкунья
   - id: 1101
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=85a424ff298a3f69
     name: pack rat
@@ -3421,18 +3130,9 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a859fb8b3c881d27
     name: Braya
   enemies:
-  - id: 49
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=afa51a1b6d548e38
-    name: Маленькая божья коровка
-  - id: 200
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=50da2fe392499d2d
-    name: carrier ladybug
   - id: 1046
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8283d968537881ed
     name: loverly ladybird
-  - id: 1222
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d6b9ed443ab25ed6
-    name: parasite ladybug
   quest_items:
   - id: 2000098
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=41abb9089e6bcc74
@@ -3497,12 +3197,6 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=12e76d5cf6fd8214
     name: Шанселот
   enemies:
-  - id: 47
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=756b5593dcff2a2b
-    name: Лесная грибница
-  - id: 141
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a7798de9e29ab481
-    name: Грибница-паразит
   - id: 199
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=7c82d67cf6d825a4
     name: Спотыкающаяся грибница
@@ -3555,21 +3249,6 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4722a678f6296f5f
     name: Wahoy Mahoy
   enemies:
-  - id: 368
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e69b4029da3ac332
-    name: Кобольд-мусорщик
-  - id: 369
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a8c74c8ce871bbe6
-    name: Кобольд-шахтёр
-  - id: 370
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1c86fc2ca7099f50
-    name: Кобольд-копьеносец
-  - id: 372
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0dcc6aa6f7c04c56
-    name: Кобольд-попрошайка
-  - id: 373
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=65f65756c61f770f
-    name: Кобольд-миссионер
   - id: 1155
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=ab797cf04185e2fe
     name: 426th Order missionary
@@ -3608,6 +3287,7 @@
 
 - name:
     original: "Dishonor Before Death"
+    translated: "Предсмертное желание"
   level: 35
   icon: 61419
   url:
@@ -3665,6 +3345,7 @@
 
 - name:
     original: "Color Your World"
+    translated: "Мир в новых красках"
   level: 15
   icon: 61419
   url:
@@ -3727,6 +3408,7 @@
 
 - name:
     original: "Braving New Depths"
+    translated: "Куда не ступала нога приключенца"
   level: 32
   icon: 61419
   url:
@@ -3743,7 +3425,7 @@
 
 - name:
     original: "Hallo Halatali"
-    translated: "Халатали"
+    translated: "Ну привет, Халатали"
   level: 19
   icon: 61419
   url:
@@ -3760,6 +3442,7 @@
 
 - name:
     original: "Going for Gold"
+    translated: "Золотая лихорадка"
   level: 44
   icon: 61419
   url:
@@ -3776,6 +3459,7 @@
 
 - name:
     original: "Trauma Queen"
+    translated: "Королева травмы"
   level: 47
   icon: 61419
   url:
@@ -3808,6 +3492,7 @@
 
 - name:
     original: "Fort of Fear"
+    translated: "Бастион страха"
   level: 41
   icon: 61419
   url:
