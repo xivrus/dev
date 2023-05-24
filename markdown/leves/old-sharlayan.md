@@ -52,7 +52,7 @@ leve_list: old-sharlayan
 	{% include leve.liquid leve_name = "At Any Temperature" %}
 	{% include leve.liquid leve_name = "Imperial Palate" %}
 	{% include leve.liquid leve_name = "A Stickler for Carrots" %}
-	{% include leve.liquid leve_name = "An Historical Flavor" %}
+	{% include leve.liquid leve_name = "A Historical Flavor" %}
 	{% include leve.liquid leve_name = "Comfort Food" %}
 	{% include leve.liquid leve_name = "Blast from the Pasta" %}
 	{% include leve.liquid leve_name = "The Mountain Steeped" %}
