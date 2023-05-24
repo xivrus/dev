@@ -76,7 +76,7 @@ quest_list: role
 
 ## Защитник {#ew-tank}
 
-![Изображение заданий защитника - EW](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/38/38681e6e6cdc04eaa56a82a8eab843486238e484.png)
+![Изображение заданий защитника - EW](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/aa/aaabcd282cadb57f6529c83bf246923e2042c33e.png)
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "Shrouded in Peril" %}
