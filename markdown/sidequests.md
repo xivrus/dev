@@ -126,6 +126,13 @@ quest_list: sidequests
 
 # Побочные задания Лимса Ломинсы {#lominsan-sidequests}
 
+## Лимса Ломинса {#lominsan-sidequests-limsa-lominsa}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "Beauty Is Only Scalp Deep" %}
+	{% include quest.liquid quest_name = "Rising to the Challenge" %}
+</ul>
+
 ## Западная Ла Ноша {#lominsan-sidequests-western-la-noscea}
 
 <ul markdown="0">
@@ -160,6 +167,8 @@ quest_list: sidequests
 	{% include quest.liquid quest_name = "Derision of Labor" %}
 	{% include quest.liquid quest_name = "Population Control" %}
 	{% include quest.liquid quest_name = "One Night in Amdapor" %}
+	{% include quest.liquid quest_name = "Broadening Horizons" %}
+	{% include quest.liquid quest_name = "A Sight to Behold" %}
 </ul>
 
 ## Северная Роща {#gridanian-sidequests-north-shroud}
@@ -175,6 +184,7 @@ quest_list: sidequests
 <ul markdown="0">
 	{% include quest.liquid quest_name = "Dishonor Before Death" %}
 	{% include quest.liquid quest_name = "Corpse Groom" %}
+	{% include quest.liquid quest_name = "It Could Happen to You" %}
 </ul>
 
 ## Площадь Чокобо {#uldahn-sidequests-chocobo-square}

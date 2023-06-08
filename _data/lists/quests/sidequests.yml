@@ -2765,6 +2765,76 @@
     name: Цель
 
 - name:
+    original: "Beauty Is Only Scalp Deep"
+  level: 15
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-012-subcts801_01210/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=91a67dfd6b8243e0
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=61b34b22f50f4ea3
+  cutscenes:
+  - name: Кат-сцена
+    start: "110"
+    end: "132"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/quest-005-manwil200_00528/
+  actors:
+  - id: 1000153
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e65f644f007e89f3
+    name: Беатин
+  - id: 1001000
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c417a864b24b547b
+    name: Х'наанза
+  - id: 1002299
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6a36367d1874b9cb
+    name: Северьян
+  - id: 1003601
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=38f5458e77fd4aa4
+    name: S'dhodjbi
+  - id: 1005515
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0248023b0d97935d
+    name: flustered man
+  - id: 1005516
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=764cb3ad59abb4f9
+    name: disgruntled madam
+  quest_items:
+  - id: 2001110
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=2cf681431e6e48fd
+    name: package from H'naanza
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=2cf681431e6e48fd
+  - id: 2001111
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=01ee8521eea1fa14
+    name: package from Beatin
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=01ee8521eea1fa14
+  - id: 2001112
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=1203a135033281a6
+    name: package from Severian
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=1203a135033281a6
+
+- name:
+    original: "Rising to the Challenge"
+  level: 15
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-014-subcts810_01431/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=18cac0a24b19c91e
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=c916cc14fd6fda93
+  actors:
+  - id: 1003598
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a62bad5e1859ac64
+    name: Quentenain
+  - id: 1005410
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2df6b01b52faa259
+    name: Wastlleid
+  - id: 1005411
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fc36213e1af4b078
+    name: И'толванн
+  quest_items:
+  - id: 2001297
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=c8b9697fbfc3fa75
+    name: well-worn journal
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=c8b9697fbfc3fa75
+
+- name:
     original: "Sirius Business"
   level: 50
   icon: 61419
@@ -3231,6 +3301,51 @@
     name: Alphene
 
 - name:
+    original: "Broadening Horizons"
+  level: 29
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-008-gaiusa907_00802/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c5983b69b236edae
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=c6da880cb3219a3d
+  actors:
+  - id: 1000171
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d3f1e8fd2f8abb08
+    name: Franchemontiaux
+  - id: 1006259
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=efbca05e37859d4f
+    name: Tyoh Moui
+  quest_items:
+  - id: 2000791
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=2592b8e151170629
+    name: White Wolf Gate pass
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=2592b8e151170629
+
+- name:
+    original: "A Sight to Behold"
+  level: 20
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-subcts817_00162/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=45b5f1ea2e856bbf
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=f8e7626722eba554
+  actors:
+  - id: 1000375
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=205673150de577d7
+    name: Eral
+  - id: 1000384
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=66f79fa8a8dbf954
+    name: Нао Гамдула
+  - id: 1009297
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4693095c513a606a
+    name: Millith Ironheart
+  quest_items:
+  - id: 2001346
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=a3f0d444badebe31
+    name: age-worn log
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=a3f0d444badebe31
+
+- name:
     original: "One Man's Trash"
     translated: "Грязная карта"
   level: 30
@@ -3344,6 +3459,29 @@
   - id: 2004329
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e44eca5e80105f5c
     name: Могила Лявинны
+
+- name:
+    original: "It Could Happen to You"
+  level: 15
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-004-subgsc001_00434/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=dc815f2d455f33e8
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=fd39696b9a17c837
+  actors:
+  - id: 1004433
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=93122861dfcba710
+    name: Элиенора
+  - id: 1011565
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=51bd0c380097f4a8
+    name: well-heeled youth
+  - id: 1011566
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=75f589b62b7bb464
+  quest_items:
+  - id: 2001555
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=f8fdd62ce872f09c
+    name: golden airship ticket
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=f8fdd62ce872f09c
 
 - name:
     original: "Color Your World"
