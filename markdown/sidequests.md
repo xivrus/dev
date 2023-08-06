@@ -131,11 +131,20 @@ quest_list: sidequests
 <ul markdown="0">
 	{% include quest.liquid quest_name = "Beauty Is Only Scalp Deep" %}
 	{% include quest.liquid quest_name = "Rising to the Challenge" %}
+	{% include quest.liquid quest_name = "Shadows Uncast (Maelstrom)" %}
+	{% include quest.liquid quest_name = "Gilding the Bilious (Maelstrom)" %}
+</ul>
+
+## Нижняя Ла Ноша {#lominsan-sidequests-lower-la-noscea}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "Where the Heart Is (Mist)" %}
 </ul>
 
 ## Западная Ла Ноша {#lominsan-sidequests-western-la-noscea}
 
 <ul markdown="0">
+	{% include quest.liquid quest_name = "Simply the Hest" id = 59 %}
 	{% include quest.liquid quest_name = "Sirius Business" %}
 </ul>
 
@@ -169,6 +178,15 @@ quest_list: sidequests
 	{% include quest.liquid quest_name = "One Night in Amdapor" %}
 	{% include quest.liquid quest_name = "Broadening Horizons" %}
 	{% include quest.liquid quest_name = "A Sight to Behold" %}
+	{% include quest.liquid quest_name = "Shadows Uncast (Twin Adder)" %}
+	{% include quest.liquid quest_name = "Gilding the Bilious (Twin Adder)" %}
+</ul>
+
+## Центральная Роща {#gridanian-sidequests-central-shroud}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "Where the Heart Is (The Lavender Beds)" %}
+	{% include quest.liquid quest_name = "Simply the Hest" id = 60 %}
 </ul>
 
 ## Северная Роща {#gridanian-sidequests-north-shroud}
@@ -185,6 +203,8 @@ quest_list: sidequests
 	{% include quest.liquid quest_name = "Dishonor Before Death" %}
 	{% include quest.liquid quest_name = "Corpse Groom" %}
 	{% include quest.liquid quest_name = "It Could Happen to You" %}
+	{% include quest.liquid quest_name = "Shadows Uncast (Immortal Flames)" %}
+	{% include quest.liquid quest_name = "Gilding the Bilious (Immortal Flames)" %}
 </ul>
 
 ## Площадь Чокобо {#uldahn-sidequests-chocobo-square}
@@ -204,6 +224,8 @@ quest_list: sidequests
 	{% include quest.liquid quest_name = "Going for Gold" %}
 	{% include quest.liquid quest_name = "Trauma Queen" %}
 	{% include quest.liquid quest_name = "Ghosts of Amdapor" %}
+	{% include quest.liquid quest_name = "Where the Heart Is (The Goblet)" %}
+	{% include quest.liquid quest_name = "Simply the Hest" id = 58 %}
 </ul>
 
 # Побочные задания Кёртаса {#coerthas-sidequests}

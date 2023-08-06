@@ -388,7 +388,7 @@ quest_list: seasonal
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "Allergic to Sunshine" %}
-	{% include quest.liquid quest_name = "I am the Sunshine" %}
+	{% include quest.liquid quest_name = "I Am the Sunshine" %}
 </ul>
 
 ### 2022 {#moonfire-faire-2022}
@@ -536,6 +536,13 @@ quest_list: seasonal
 
 ## Праздник всех святых / All Saints' Wake {#all-saints-wake}
 
+### 2023 {#all-saints-wake-2023}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "The Fright Stuff" %}
+	{% include quest.liquid quest_name = "A Charmed Life" %}
+</ul>
+
 ### 2022 {#all-saints-wake-2022}
 
 <ul markdown="0">
@@ -616,6 +623,14 @@ quest_list: seasonal
 </ul>
 
 ## Праздник Звёздного Света / Starlight Celebration {#starlight-celebration}
+
+### 2023 {#starlight-celebration-2023}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "Blue Starlight" %}
+	{% include quest.liquid quest_name = "Together at a Distance" %}
+	{% include quest.liquid quest_name = "Starlight Surprise" %}
+</ul>
 
 ### 2022 {#starlight-celebration-2022}
 

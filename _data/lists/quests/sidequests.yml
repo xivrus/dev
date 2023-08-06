@@ -2812,6 +2812,7 @@
 
 - name:
     original: "Rising to the Challenge"
+    translated: "Вперёд, к испытаниям"
   level: 15
   icon: 61419
   url:
@@ -2833,6 +2834,74 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=c8b9697fbfc3fa75
     name: well-worn journal
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=c8b9697fbfc3fa75
+
+- name:
+    original: "Shadows Uncast (Maelstrom)"
+  level: 44
+  icon: 61401
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-comlim010_01128/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=396893a9ecbca9e3
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=e75e8c2b753f041a
+  actors:
+  - id: 1003281
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6a5bdf5c296cc099
+    name: Р'айшат Рики
+  - id: 1006516
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c6a009bd71620ba1
+    name: Ophelie
+
+- name:
+    original: "Gilding the Bilious (Maelstrom)"
+  level: 47
+  icon: 61401
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-comlim011_01131/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=24334f964d5cb1c7
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=b9f990b172bdabaa
+  actors:
+  - id: 1003281
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6a5bdf5c296cc099
+    name: Р'айшат Рики
+  - id: 1007625
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=335f207f83ba5c88
+    name: Willielmus
+
+- name:
+    original: "Where the Heart Is (Mist)"
+  level: 5
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-012-subcts805_01214/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d7071814d886d1a9
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=357595a04cf873fe
+  actors:
+  - id: 1002579
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=13f9a285e8205476
+    name: Ahctkoen
+  - id: 1005529
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6d85042dc7e998a0
+    name: Roeganlona
+  - id: 1005881
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=24bb9d47222b0ea4
+    name: storm recruit
+
+- name:
+    original: "Simply the Hest"
+  level: 10
+  icon: 61419
+  id: 60
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-subfst121_00060/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=008276092109a1ac
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=2054c091736392b8
+  actors:
+  - id: 1000105
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0e1fb32c7e4aab2e
+    name: Тирней
+  - id: 1004741
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0ca9eb7f6855cfcb
+    name: Ribald
 
 - name:
     original: "Sirius Business"
@@ -3302,6 +3371,7 @@
 
 - name:
     original: "Broadening Horizons"
+    translated: "Расширяя горизонты"
   level: 29
   icon: 61419
   url:
@@ -3344,6 +3414,74 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=a3f0d444badebe31
     name: age-worn log
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=a3f0d444badebe31
+
+- name:
+    original: "Shadows Uncast (Twin Adder)"
+  level: 44
+  icon: 61402
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-comgrd010_01129/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=acf5c126dd7f8130
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=ac3e39351785b827
+  actors:
+  - id: 1000168
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eb796c9f86e22d68
+    name: Ворсель Хелуа
+  - id: 1006516
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c6a009bd71620ba1
+    name: Ophelie
+
+- name:
+    original: "Gilding the Bilious (Twin Adder)"
+  level: 47
+  icon: 61402
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-comgrd011_01132/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=94f7fb650fe6ea28
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=244a0cbebdebe9b7
+  actors:
+  - id: 1000168
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eb796c9f86e22d68
+    name: Ворсель Хелуа
+  - id: 1007625
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=335f207f83ba5c88
+    name: Willielmus
+
+- name:
+    original: "Where the Heart Is (The Lavender Beds)"
+  level: 10
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-012-subcts803_01212/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b91e0de0fda1a4f6
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=5edf6e3f4d70880c
+  actors:
+  - id: 1000478
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=92cbf7a37152bd1e
+    name: Margeria
+  - id: 1005530
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=850058659b658bfe
+    name: Emblyn
+  - id: 1005879
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8f942bb5a1d1c294
+    name: serpent recruit
+
+- name:
+    original: "Simply the Hest"
+  level: 10
+  icon: 61419
+  id: 58
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-subwil154_00058/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=149a8077dc8b78c1
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=09ab2693bdcdb7f1
+  actors:
+  - id: 1001796
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=562f674b2ec50151
+    name: Тотонова
+  - id: 1004743
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a44c6fc4e24e230f
+    name: Lost Rabbit
 
 - name:
     original: "One Man's Trash"
@@ -3462,6 +3600,7 @@
 
 - name:
     original: "It Could Happen to You"
+    translated: "И тебе повезёт"
   level: 15
   icon: 61419
   url:
@@ -3482,6 +3621,38 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=f8fdd62ce872f09c
     name: golden airship ticket
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=f8fdd62ce872f09c
+
+- name:
+    original: "Shadows Uncast (Immortal Flames)"
+  level: 44
+  icon: 61403
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-comuld010_01130/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=78cd5d126b36a16e
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=914ae0ee8e281699
+  actors:
+  - id: 1004576
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1f64b734f93497d4
+    name: Свифт
+  - id: 1006516
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c6a009bd71620ba1
+    name: Ophelie
+
+- name:
+    original: "Gilding the Bilious (Immortal Flames)"
+  level: 47
+  icon: 61403
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-comuld011_01133/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=da8e6152be4c6bcb
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=bbdb883ef1c2de2e
+  actors:
+  - id: 1004576
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1f64b734f93497d4
+    name: Свифт
+  - id: 1007625
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=335f207f83ba5c88
+    name: Willielmus
 
 - name:
     original: "Color Your World"
@@ -3634,6 +3805,42 @@
     name: Максинн
 
 - name:
+    original: "Where the Heart Is (The Goblet)"
+  level: 5
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-012-subcts804_01213/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=dea9c1770610243b
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=21b4acfd95568471
+  actors:
+  - id: 1002001
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8493ce43a2b57507
+    name: Imme
+  - id: 1005531
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=049fbd03bdecdf62
+    name: Momoraji
+  - id: 1005880
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d07d7996f2c8bd51
+    name: Рекрут Пламени
+
+- name:
+    original: "Simply the Hest"
+  level: 10
+  icon: 61419
+  id: 59
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-subsea906_00059/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4d3d7023185a4c4b
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=0019cdd4ba6f19a8
+  actors:
+  - id: 1001788
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3182e96abd8d7955
+    name: Свигскиф
+  - id: 1004745
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a48f4eb69e564936
+    name: Tiroro
+
+- name:
     original: "Fort of Fear"
     translated: "Форт страха"
   level: 41
@@ -3760,6 +3967,7 @@
 
 - name:
     original: "King of the Hull"
+    translated: "Островок, что мог бы быть курортом"
   level: 50
   icon: 61419
   url:
