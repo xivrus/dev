@@ -5413,6 +5413,7 @@
 
 - name:
     original: "Allergic to Sunshine"
+    translated: "Аллергия на солнце"
   level: 30
   icon: 61411
   url:
@@ -5444,6 +5445,7 @@
 
 - name:
     original: "I Am the Sunshine"
+    translated: "Я — солнечный свет"
   level: 30
   icon: 61411
   url:
@@ -6829,6 +6831,114 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=b4ac61a3a110d3d4
     name: twisted hachimaki
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=b4ac61a3a110d3d4
+
+- name:
+    original: "Siblings Rising"
+  level: 15
+  icon: 61411
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-047-fesanv901_04765/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e44a9f7c09dcaf35
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=6aa990fee352d3bd
+  actors:
+  - id: 1045526
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=933e8f508e56af44
+    name: Kipih Jakkya
+  - id: 1045527
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=036db3d5785effb0
+    name: Highlander adventurer
+  - id: 1045528
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ff9294438a4df37c
+    name: Bran
+  - id: 1045529
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=23518b394c084461
+    name: Midlander Rising attendant
+  - id: 1045530
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=420e76129169d360
+    name: Kipih Jakkya
+  - id: 1045531
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1b686860e4670d5f
+    name: Kipih Jakkya
+  - id: 1045532
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=14422a36696ee6ac
+    name: wandering minstrel
+  - id: 1045533
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f5707223654d5287
+    name: Midlander merchant
+  - id: 1045534
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d8f7a4cf98199a1a
+    name: Nhagi'a Jakkya
+  - id: 1045574
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9da66f2c637d676f
+  - id: 1045575
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=74ca5842b432edac
+    name: Kipih Jakkya
+  - id: 1045576
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=147b47dc20a00b43
+    name: Kipih Jakkya
+  - id: 1045577
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e832430905c33e6
+
+- name:
+    original: "What Drives Us"
+  level: 15
+  icon: 61411
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-047-fesanv902_04766/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=521f2d99a74f34f5
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=993e060a323cc73a
+  actors:
+  - id: 1045525
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=70a239cd3126f0e6
+    name: Nhagi'a Jakkya
+  - id: 1045531
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1b686860e4670d5f
+    name: Kipih Jakkya
+  - id: 1045532
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=14422a36696ee6ac
+    name: wandering minstrel
+  - id: 1045534
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d8f7a4cf98199a1a
+    name: Nhagi'a Jakkya
+  - id: 1045535
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ef1569e99be19cb5
+    name: wandering minstrel
+  - id: 1045536
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7fdef08e6083684e
+    name: Kipih Jakkya
+  - id: 1045537
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e3a296b223d2ee80
+    name: Nhagi'a Jakkya
+  - id: 1045538
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7bbc364b78acd77e
+    name: Nhagi'a Jakkya
+  - id: 1045539
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8afdb2c1ac018d8e
+    name: Nhagi'a Jakkya
+  - id: 1045540
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96a649c751e94122
+    name: Nhagi'a Jakkya
+  - id: 1045541
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d5eb1daace363ba9
+    name: wandering minstrel
+  quest_items:
+  - id: 2003462
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=ea555f5186b89c73
+    name: letter with a blue chocobo drawing
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=ea555f5186b89c73
+  eobjects:
+  - id: 2013391
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=eaabd84fc778e52e
+    name: letter with a blue chocobo drawing
+  - id: 2013392
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=bb29a250edfd0ddd
+    name: letter with a chocobo carriage drawing
+  - id: 2013393
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e8189be40ce7f284
+    name: letter with a shield drawing
+  - id: 2013394
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=4f8a0e69fb39c3a1
+    name: letter with a quill drawing
 
 - name:
     original: "Newfound Journey"

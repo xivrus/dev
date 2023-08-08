@@ -476,6 +476,13 @@ quest_list: seasonal
 
 ## Фестиваль <<Восхождения>> / The Rising {#the-rising}
 
+### 2023 {#the-rising-2023}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "Siblings Rising" %}
+	{% include quest.liquid quest_name = "What Drives Us" %}
+</ul>
+
 ### 2022 {#the-rising-2022}
 
 <ul markdown="0">
