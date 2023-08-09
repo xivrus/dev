@@ -76,9 +76,9 @@ _Для продолжения игроку сначала требуется п
 
 ## The Warring Triad {#the-warring-triad}
 
-## The Shadow of Mhach {#the-shadow-of-mhach}
+## Тень Мхака {#the-shadow-of-mhach}
 
-![Изображение заданий The Shadow of Mhach](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1c/1c61b54626133a2ae8147e18975acb11ae08f4a4.png)
+![Изображение заданий Тени Мхака](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1c/1c61b54626133a2ae8147e18975acb11ae08f4a4.png)
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "Sky Pirates" %}
