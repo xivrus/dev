@@ -163,6 +163,13 @@ quest_list: seasonal
 
 ## День маленьких дам / Little Ladies' Day {#little-ladies-day}
 
+### 2024 {#little-ladies-day-2024}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "エッグハントと桃色のグゥーブー" %}
+	{% include quest.liquid quest_name = "プリンセスデーに咲く笑顔の花" %}
+</ul>
+
 ### 2023 {#little-ladies-day-2023}
 
 <ul markdown="0">
@@ -327,6 +334,12 @@ quest_list: seasonal
 </ul>
 
 ## Празднества <<Золотого блюдца>> / Make It Rain {#make-it-rain}
+
+### 2024 {#make-it-rain-2024}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "ゴールドソーサーとカッパの謎" %}
+</ul>
 
 ### 2023 {#make-it-rain-2023}
 
