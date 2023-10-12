@@ -156,3 +156,5 @@ quest_list: msq-6
 # 6.3 --- Gods Revel, Lands Tremble {#ew-6-3}
 
 _В ожидании выпуска..._
+
+_Продолжение следует в [Dawntrail]({{ '/markdown/msq/dt' | relative_url }})..._

@@ -9,4 +9,4 @@ title: Основной сюжет (MSQ)
 
 [![Stormblood](https://img.finalfantasyxiv.com/lds/promo/h/5/qL7UGNtOLlsnvwmC1WY2qT8LQ4.png){: width="50%"}]({{ '/markdown/msq/sb' | relative_url }}){: class="img-link"}[![Shadowbringers](https://img.finalfantasyxiv.com/lds/promo/h/k/BcleFGgVCloJ5Qenaid5yAuHkI.png){: width="50%"}]({{ '/markdown/msq/shb' | relative_url }}){: class="img-link"}
 
-[![Endwalker](https://img.finalfantasyxiv.com/lds/promo/h/J/AXiQV5PXQ7Km0QWGflRjhYAT7s.png){: width="50%"}]({{ '/markdown/msq/ew' | relative_url }}){: class="img-link"}
+[![Endwalker](https://img.finalfantasyxiv.com/lds/promo/h/J/AXiQV5PXQ7Km0QWGflRjhYAT7s.png){: width="50%"}]({{ '/markdown/msq/ew' | relative_url }}){: class="img-link"}[![Dawntrail](https://img.finalfantasyxiv.com/lds/promo/h/m/bhrQKlCYoZcPioJEC0HZiWtJFs.png){: width="50%"}]({{ '/markdown/msq/dt' | relative_url }}){: class="img-link"}
