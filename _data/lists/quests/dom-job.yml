@@ -1774,6 +1774,7 @@
 
 - name:
     original: "Austerities of Earth"
+    translated: "Аскезы Земли"
   level: 35
   icon: 62408
   url:
@@ -1797,6 +1798,7 @@
 
 - name:
     original: "Shadowing the Summoner"
+    translated: "По следу призывателя"
   level: 40
   icon: 62408
   url:
@@ -1809,17 +1811,18 @@
     name: Я'митра
   - id: 1006788
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=55b1316e727229ee
-    name: former Immortal Flame
+    name: Бывший боец Пламени
   enemies:
   - id: 2052
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=28117489309d1f9b
-    name: hired fist
+    name: Наёмный боец
   - id: 2053
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1f972ec81b2bb6d0
     name: Наёмный стрелок
 
 - name:
     original: "Allagan Attire"
+    translated: "Аллаганские одеяния"
   level: 45
   icon: 62408
   url:
@@ -1835,24 +1838,25 @@
     name: Я'митра
   - id: 1006789
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2e6613fd90ea9233
-    name: muddled researcher
+    name: Растерянный исследователь
   - id: 1006790
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=77c4a6e708055162
-    name: unmanned researcher
+    name: Нелюдимый исследователь
   - id: 1006791
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c4a8438adc891846
-    name: seemingly unmoved researcher
+    name: Невозмутимый исследователь
   enemies:
   - id: 2054
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f2d38ecfe91ee686
-    name: Зеркальный рыцарь Аллагана
+    name: Зеркальный рыцарь
   logmessages:
   - id: 3677
     url: https://translate.xivrus.ru/translate/ffxiv-translation/logmessage/ru/?checksum=f7ee94ec680b08f9
-    name: "You obtain a piece of evoker's attire."
+    name: "Вы получаете часть облачений призывателя."
 
 - name:
     original: "Austerities of Wind"
+    translated: "Аскезы Ветра"
   level: 45
   icon: 62408
   url:
@@ -1876,6 +1880,7 @@
 
 - name:
     original: "Primal Burdens"
+    translated: "Проблемы с праймалами"
   level: 50
   icon: 62408
   url:
@@ -1888,7 +1893,7 @@
     name: Я'митра
   - id: 1006793
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8b8533e87a209760
-    name: surviving researcher
+    name: Выживший исследователь
   - id: 1006794
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=226aceba9b4bd3fb
     name: Я'митра
@@ -1903,7 +1908,7 @@
   logmessages:
   - id: 3676
     url: https://translate.xivrus.ru/translate/ffxiv-translation/logmessage/ru/?checksum=cb63e91b51917864
-    name: "The climactic battle awakens ancient memories within you!"
+    name: "Битва на грани жизни и смерти пробуждает в вас древние воспоминания!"
 
 - name:
     original: "A Fitting Tomestone"

@@ -1,5 +1,6 @@
 - name:
     original: "The Next Ship to Sail"
+    translated: "На следующем судне"
   level: 80
   icon: 61412
   url:
@@ -77,6 +78,7 @@
 
 - name:
     original: "Old Sharlayan, New to You"
+    translated: "Старый Шарлеан, новый путь"
   level: 80
   icon: 61412
   url:
@@ -147,6 +149,7 @@
 
 - name:
     original: "Hitting the Books"
+    translated: "Ответы в книгах"
   level: 80
   icon: 61412
   url:
@@ -208,28 +211,29 @@
   eobjects:
   - id: 2011824
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=154de3ae30d9ee30
-    name: blue-covered book
+    name: Книга в синей обложке
   - id: 2011825
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=1858e7c73b4702df
-    name: leather-bound tome
+    name: Книга в кожаной обложке
   - id: 2011826
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=203c02d90c1bcdf4
-    name: timeworn tome
+    name: Ветхий томик
   - id: 2011827
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=00fec78cf2dd6b4e
-    name: well-worn manual
+    name: Зачитанное руководство
   - id: 2011828
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f5fc17d24964d98c
-    name: brightly colored book
+    name: Цветастая книга
   - id: 2011829
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=19b2f8be039c2e6e
-    name: red-covered book
+    name: Книга в красной обложке
   - id: 2011830
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8b374d7279bbd388
     name: Цель
 
 - name:
     original: "A Seat at the Last Stand"
+    translated: "«Последний рубеж» перекуса"
   level: 80
   icon: 61412
   url:
@@ -247,22 +251,22 @@
     name: Ализе
   - id: 1037077
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=390c085d4af6878d
-    name: Dickon
+    name: Дикон
   - id: 1037078
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=64f9c53c340ef5d0
-    name: Hildoise
+    name: Эльдос
   - id: 1037079
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=817868551269704e
-    name: Pirondierre
+    name: Пиррондер
   - id: 1037080
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bd95f847f440c24e
-    name: Hermenjart
+    name: Эрминьяр
   - id: 1037081
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=43330b4b1f347ef1
-    name: Gisla
+    name: Гизла
   - id: 1037082
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=337fd5330b4b5448
-    name: S'mitu Tia
+    name: С'миту Тиа
   - id: 1038681
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9aac0f834204ae82
     name: Ализе
@@ -278,16 +282,17 @@
   eobjects:
   - id: 2011831
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=bafe8cb5461e0014
-    name: café table
+    name: Столик кафе
   - id: 2011832
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=27d22b1cb66aa2c5
-    name: café table
+    name: Столик кафе
   - id: 2011833
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=fec81514180b0639
-    name: café table
+    name: Столик кафе
 
 - name:
     original: "A Labyrinthine Descent"
+    translated: "Спуск в Лабиринтос"
   level: 80
   icon: 61412
   url:
@@ -317,10 +322,10 @@
     name: Г'раха Тиа
   - id: 1037472
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d50e85fc024ea808
-    name: Dobbin
+    name: Доббин
   - id: 1037473
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=da5c35407ad25f7c
-    name: Tieve
+    name: Тьев
   - id: 1038676
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b1a6ad66ba0e6b81
     name: Г'раха Тиа
@@ -350,7 +355,7 @@
     name: Я'штола
   - id: 1038692
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=484c1dcd81a51001
-    name: Erenville
+    name: Эренвилль
   - id: 1038695
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8d644f4f27087772
     name: Крайл
@@ -368,19 +373,19 @@
     name: Ализе
   - id: 1038759
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2643cdf0eb242257
-    name: Nilzozo
+    name: Нилзозо
   quest_items:
   - id: 2003126
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=4f40b8fc5eb07bfe
-    name: notes on Taking Stock
+    name: «Переполох в Лабиринтосе»
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=4f40b8fc5eb07bfe
   - id: 2003127
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=02a10b24558b256c
-    name: notes on Large Shipments
+    name: «Огромные грузовые объёмы»
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=02a10b24558b256c
   - id: 2003128
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=b2eee7191c618638
-    name: notes on Exhausted Gleaners
+    name: «Уставшие страдники»
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=b2eee7191c618638
   eobjects:
   - id: 2011836
@@ -388,6 +393,7 @@
 
 - name:
     original: "Glorified Ratcatcher"
+    translated: "Великая мышиная ловля"
   level: 80
   icon: 61412
   url:
@@ -409,19 +415,19 @@
     name: Я'штола
   - id: 1038692
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=484c1dcd81a51001
-    name: Erenville
+    name: Эренвилль
   - id: 1038695
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8d644f4f27087772
     name: Крайл
   - id: 1038699
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ee56f4bcf7656f3c
-    name: grizzled mouse
+    name: Серая мышь
   - id: 1038700
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ca2aba46be3edfa6
-    name: grizzled mouse
+    name: Серая мышь
   - id: 1038701
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=be0d3d5bdd303f46
-    name: grizzled mouse
+    name: Серая мышь
   - id: 1038702
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=35b1168dc65a7147
     name: Альфино
@@ -436,22 +442,22 @@
     name: Крайл
   - id: 1038757
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ecd381b35ce8b22c
-    name: Erenville
+    name: Эренвилль
   enemies:
   - id: 11030
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=21ca7482e09950e2
-    name: hunting coyote
+    name: Койот-охотник
   - id: 11031
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=39d051e3fe3d5d35
-    name: hunting troll
+    name: Тролль-охотник
   quest_items:
   - id: 2003129
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=5251bdd3127e845f
-    name: rat sack
+    name: Сеть для поимки мышей
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=5251bdd3127e845f
   - id: 2003130
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=33e8ede4e6b18902
-    name: squirming rat sack
+    name: Пищащий мешок
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=33e8ede4e6b18902
   eobjects:
   - id: 2011837
@@ -461,6 +467,7 @@
 
 - name:
     original: "Deeper into the Maze"
+    translated: "В недра лабиринта"
   level: 80
   icon: 61412
   url:
@@ -487,7 +494,7 @@
     name: Я'штола
   - id: 1037475
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d19824f557966002
-    name: Archeion custodian
+    name: Попечитель Архейона
   - id: 1038702
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=35b1168dc65a7147
     name: Альфино
@@ -514,15 +521,15 @@
     name: Крайл
   - id: 1038714
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=599a4b73490befdd
-    name: bemused student
+    name: Озадаченный студент
   - id: 1038715
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b97400f22ec508a2
   - id: 1038716
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3db3dd6d9df67aec
-    name: bone-weary worker
+    name: Усталый работник
   - id: 1038717
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=28fb2c558fba40d6
-    name: Erenville
+    name: Эренвилль
   - id: 1038718
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=41f7726c666099ed
     name: Альфино
@@ -544,10 +551,11 @@
   snipes:
   - id: 51
     url: https://translate.xivrus.ru/translate/ffxiv-translation/snipe/ru/?checksum=33c49c8e4f7c488e
-    name: "Sedate the target!"
+    name: "Усыпите цель!"
 
 - name:
     original: "The Medial Circuit"
+    translated: "Среднее Кольцо"
   level: 80
   icon: 61412
   url:
@@ -574,16 +582,16 @@
     name: Я'штола
   - id: 1037985
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7842576703a48f49
-    name: Jebke
+    name: Джебб
   - id: 1038706
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=82629f7c5facbf73
     name: Альфино
   - id: 1038707
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c3326904f5a29af4
-    name: overwhelmed laborer
+    name: Запыхавшийся рабочий
   - id: 1038708
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=baf9f78017a7a18b
-    name: harried harvester
+    name: Изнурённый сборщик
   - id: 1038718
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=41f7726c666099ed
     name: Альфино
@@ -635,7 +643,7 @@
   enemies:
   - id: 11032
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=911e132dea9de96b
-    name: noble mythrilcap
+    name: Мифриловая шляпка
   eobjects:
   - id: 2011840
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=195cc4128de9bee7
@@ -648,10 +656,11 @@
     name: Цель
   - id: 2011843
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=31d2f88e7bc4ed6c
-    name: stacked boxes
+    name: Сложенные коробки
 
 - name:
     original: "The Full Report, Warts and All"
+    translated: "Отчёты и неприятные типы"
   level: 80
   icon: 61412
   url:
@@ -711,6 +720,7 @@
 
 - name:
     original: "A Guide of Sorts"
+    translated: "Твой маяк"
   level: 80
   icon: 61412
   url:
@@ -763,6 +773,7 @@
 
 - name:
     original: "Estate Visitor"
+    translated: "Гости в усадьбе"
   level: 80
   icon: 61412
   url:
@@ -792,10 +803,10 @@
     name: Г'раха Тиа
   - id: 1039126
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=11c0453565864175
-    name: Ameliance
+    name: Амелианс
   - id: 1040284
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=33ef8722f668d522
-    name: Ameliance
+    name: Амелианс
   - id: 1040285
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=27b0ff2b275456b8
     name: Альфино
@@ -813,6 +824,7 @@
 
 - name:
     original: "For Thavnair Bound"
+    translated: "Направляясь в Тавнир"
   level: 80
   icon: 61412
   url:
@@ -834,7 +846,7 @@
     name: Эстиниен
   - id: 1038592
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f6c2d1c2456e1766
-    name: Kytte
+    name: Китта
   - id: 1038593
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0f7529ff31fa5e83
     name: Танкред
@@ -846,7 +858,7 @@
     name: Эстиниен
   - id: 1038596
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0d2484e27a5ca5d4
-    name: Kytte
+    name: Китта
   - id: 1038597
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=184edce9d8071fd9
     name: Танкред
@@ -865,7 +877,7 @@
   quest_items:
   - id: 2003180
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=c65d676cc8d8fb34
-    name: bottle of special amra lassi
+    name: Бутылка «Лассо из амры»
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=c65d676cc8d8fb34
   eobjects:
   - id: 2011947
@@ -874,6 +886,7 @@
 
 - name:
     original: "On Low Tide"
+    translated: "На мели"
   level: 80
   icon: 61412
   url:
@@ -883,10 +896,10 @@
   actors:
   - id: 1037622
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2a12a0460f5e9624
-    name: Qefiraz
+    name: Кефрис
   - id: 1037623
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eb7e5e0eef215fcf
-    name: Djinaleel
+    name: Дзиналел
   - id: 1038600
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=534c235b10ffbadf
     name: Танкред
@@ -898,23 +911,24 @@
     name: Эстиниен
   - id: 1038606
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e4ea6d1d4eecc2b3
-    name: Khalzahl
+    name: Кхалзал
   - id: 1038607
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5daab72a923f98da
-    name: guild staff
+    name: Работник гильдии
   - id: 1038608
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c80ee4d548238d09
-    name: Matsya
+    name: Матсья
   eobjects:
   - id: 2011948
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=22db8b0577240b8d
-    name: crate of fruit
+    name: Ящик с фруктами
   - id: 2011949
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=240b91c7b96dc28b
-    name: pier
+    name: Пирс
 
 - name:
     original: "A Fisherman's Friend"
+    translated: "День рыбака"
   level: 80
   icon: 61412
   url:
@@ -924,13 +938,13 @@
   actors:
   - id: 1037624
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fb66d692ec372641
-    name: Bhazahma
+    name: Бхазама
   - id: 1037625
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4be3a3331e286a16
-    name: Mehrunnah
+    name: Мейрунна
   - id: 1037626
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a1ff6dc09b635bf3
-    name: Nashreen
+    name: Нашрин
   - id: 1038603
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ee2ca5829cd490b7
     name: Танкред
@@ -942,13 +956,13 @@
     name: Эстиниен
   - id: 1038606
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e4ea6d1d4eecc2b3
-    name: Khalzahl
+    name: Кхалзал
   - id: 1038607
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5daab72a923f98da
-    name: guild staff
+    name: Работник гильдии
   - id: 1038608
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c80ee4d548238d09
-    name: Matsya
+    name: Матсья
   - id: 1038609
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7340b3dae33e565d
     name: Танкред
@@ -964,6 +978,7 @@
 
 - name:
     original: "House of Divinities"
+    translated: "Дом богов"
   level: 80
   icon: 61412
   url:
@@ -973,10 +988,10 @@
   actors:
   - id: 1037644
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=613444c23b12e679
-    name: Khanga
+    name: Кханга
   - id: 1037645
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2b129b0668e960bf
-    name: Hasveydah
+    name: Хасвейда
   - id: 1038609
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7340b3dae33e565d
     name: Танкред
@@ -988,7 +1003,7 @@
     name: Эстиниен
   - id: 1038612
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6ae0a7078033941f
-    name: Matsya
+    name: Матсья
   - id: 1038613
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=029ff3f839b52219
   - id: 1038614
@@ -997,7 +1012,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f0a98920800b24e0
   - id: 1038616
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cd677df7195e541f
-    name: Matsya
+    name: Матсья
   - id: 1038617
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1ca05e53b3f310bd
     name: Танкред
@@ -1023,6 +1038,7 @@
 
 - name:
     original: "The Great Work"
+    translated: "Великий Труд"
   level: 80
   icon: 61412
   url:
@@ -1037,10 +1053,10 @@
   actors:
   - id: 1038616
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cd677df7195e541f
-    name: Matsya
+    name: Матсья
   - id: 1038620
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b198f12ca221971b
-    name: Arkasodara alchemist
+    name: Алхимик Аркасодра
   - id: 1038621
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=632728b6ff9e5afa
   - id: 1038622
@@ -1063,10 +1079,10 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8fcb0614507585dd
   - id: 1038631
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5b4acd8cd8ea84d9
-    name: Nidhana
+    name: Нидхана
   - id: 1038632
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=313e90887487b7bb
-    name: Варшан
+    name: Варшанн
   - id: 1038633
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=730042095aec3b1d
     name: Танкред
@@ -1075,13 +1091,13 @@
     name: Урианже
   - id: 1038635
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7672ff8fb9e81c52
-    name: Nidhana
+    name: Нидхана
   - id: 1038636
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ae4412f379880f73
-    name: drunken deepa
+    name: «Пьяный хобот»
   - id: 1038637
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=74ae44a74c574681
-    name: drunken deepa
+    name: «Пьяный хобот»
   - id: 1040279
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c46b7f0cf6b33b45
     name: Танкред
@@ -1093,17 +1109,17 @@
     name: Эстиниен
   - id: 1041219
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0726cdcbf4bd275f
-    name: drunken deepa
+    name: «Пьяный хобот»
   - id: 1041220
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e85aaf23c3d84e24
-    name: drunken deepa
+    name: «Пьяный хобот»
   - id: 1041221
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ccb637b367b9b797
-    name: drunken deepa
+    name: «Пьяный хобот»
   quest_items:
   - id: 2003181
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=7e9b4dbce2402248
-    name: drunken deepa
+    name: «Пьяный хобот»
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=7e9b4dbce2402248
   eobjects:
   - id: 2012551
@@ -1117,6 +1133,7 @@
 
 - name:
     original: "Shadowed Footsteps"
+    translated: "След в след"
   level: 80
   icon: 61412
   url:
@@ -1131,22 +1148,22 @@
   actors:
   - id: 1038631
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5b4acd8cd8ea84d9
-    name: Nidhana
+    name: Нидхана
   - id: 1038635
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7672ff8fb9e81c52
-    name: Nidhana
+    name: Нидхана
   - id: 1038638
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=367d72a8ddf60edf
-    name: Nidhana
+    name: Нидхана
   - id: 1038639
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1f86b7d6950f5375
-    name: Nidhana
+    name: Нидхана
   - id: 1038640
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b9e75af4b88f165a
-    name: Nidhana
+    name: Нидхана
   - id: 1038641
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c8c8b2dcfb3102d5
-    name: Nidhana
+    name: Нидхана
   enemies:
   - id: 11042
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=000f87469ba2f894
@@ -1158,6 +1175,7 @@
 
 - name:
     original: "A Boy's Errand"
+    translated: "Принеси-подай"
   level: 80
   icon: 61412
   url:
@@ -1179,17 +1197,17 @@
     name: Zeynuha
   - id: 1038631
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5b4acd8cd8ea84d9
-    name: Nidhana
+    name: Нидхана
   - id: 1038642
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1b9c343a7ef18f83
-    name: Варшан
+    name: Варшанн
   - id: 1038643
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a959de6b0df003fd
   - id: 1038644
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e20d637f5cf06503
   - id: 1038645
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0e007fa26be51a3c
-    name: Варшан
+    name: Варшанн
   - id: 1038646
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5ad66955703932cc
   - id: 1038647
@@ -1208,6 +1226,7 @@
 
 - name:
     original: "Tipping the Scale"
+    translated: "Чешуйчатое дело"
   level: 80
   icon: 61412
   url:
@@ -1241,10 +1260,10 @@
     name: Zeynuha
   - id: 1038631
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5b4acd8cd8ea84d9
-    name: Nidhana
+    name: Нидхана
   - id: 1038651
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3c6c2b36e3f89308
-    name: Nidhana
+    name: Нидхана
   - id: 1038652
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7674d61503732ab7
     name: Radiant soldier
@@ -1268,6 +1287,7 @@
 
 - name:
     original: "The Satrap of Radz-at-Han"
+    translated: "Сатрап Радз-ат-Хана"
   level: 80
   icon: 61412
   url:
@@ -1298,7 +1318,7 @@
     name: Эстиниен
   - id: 1038656
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=56f8e0d3c22344dd
-    name: Варшан
+    name: Варшанн
   - id: 1038657
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=34833b6f095d0e31
     name: Танкред
@@ -1311,6 +1331,7 @@
 
 - name:
     original: "In the Dark of the Tower"
+    translated: "В тени башни"
   level: 81
   icon: 61412
   url:
@@ -1360,7 +1381,7 @@
     name: Крайл
   - id: 1040251
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=970516f6e46c2c84
-    name: Варшан
+    name: Варшанн
   - id: 1040252
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=07d82bac21fb4237
     name: Танкред
@@ -1379,6 +1400,7 @@
 
 - name:
     original: "The Jewel of Thavnair"
+    translated: "Жемчужина Тавнира"
   level: 81
   icon: 61412
   url:
@@ -1436,6 +1458,7 @@
 
 - name:
     original: "The Color of Joy"
+    translated: "Цвет настроения"
   level: 81
   icon: 61412
   url:
@@ -1512,13 +1535,14 @@
     name: Крайл
   - id: 1040277
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4f6784f16f4dab67
-    name: Nidhana
+    name: Нидхана
   eobjects:
   - id: 2011958
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=3a3da2d2fb490c0f
 
 - name:
     original: "Sound the Bell, School's In"
+    translated: "Обратно за парты"
   level: 82
   icon: 61412
   url:
@@ -1594,6 +1618,7 @@
 
 - name:
     original: "A Capital Idea"
+    translated: "Пора в столицу"
   level: 82
   icon: 61412
   url:
@@ -1688,6 +1713,7 @@
 
 - name:
     original: "Best of the Best"
+    translated: "Лучшие из лучших"
   level: 82
   icon: 61412
   url:
@@ -1780,6 +1806,7 @@
 
 - name:
     original: "A Frosty Reception"
+    translated: "Холодный приём"
   level: 82
   icon: 61412
   url:
@@ -1866,6 +1893,7 @@
 
 - name:
     original: "Tracks in the Snow"
+    translated: "Следы на снегу"
   level: 82
   icon: 61412
   url:
@@ -1948,6 +1976,7 @@
 
 - name:
     original: "How the Mighty Are Fallen"
+    translated: "Крах всемогущей Империи"
   level: 82
   icon: 61412
   url:
@@ -2005,6 +2034,7 @@
 
 - name:
     original: "At the End of the Trail"
+    translated: "Куда ведут следы"
   level: 82
   icon: 61412
   url:
@@ -2079,6 +2109,7 @@
 
 - name:
     original: "A Way Forward"
+    translated: "Путь вперёд"
   level: 82
   icon: 61412
   url:
@@ -2177,6 +2208,7 @@
 
 - name:
     original: "The Last Bastion"
+    translated: "Последний бастион"
   level: 82
   icon: 61412
   url:
@@ -2299,6 +2331,7 @@
 
 - name:
     original: "Personae non Gratae"
+    translated: "Персона нон грата"
   level: 82
   icon: 61412
   url:
@@ -2349,6 +2382,7 @@
 
 - name:
     original: "His Park Materials"
+    translated: "На подножном снабжении"
   level: 83
   icon: 61412
   url:
@@ -2430,6 +2464,7 @@
 
 - name:
     original: "No Good Deed"
+    translated: "Недобрые дела"
   level: 83
   icon: 61412
   url:
@@ -3469,7 +3504,7 @@
     name: Singingway
   - id: 1039098
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0f77454d5dfe8396
-    name: Путь пудинга
+    name: Пудингфут
   - id: 1041883
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c8b68bc9c2a50af2
     name: Runningway
@@ -3562,7 +3597,7 @@
     name: Singingway
   - id: 1038958
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0397af83ed7703f1
-    name: Путь пудинга
+    name: Пудингфут
   - id: 1038959
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8f47a57817ec062d
     name: the watcher
@@ -3657,7 +3692,7 @@
     name: Singingway
   - id: 1038958
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0397af83ed7703f1
-    name: Путь пудинга
+    name: Пудингфут
   - id: 1038959
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8f47a57817ec062d
     name: the watcher
@@ -3984,7 +4019,7 @@
     name: Ализе
   - id: 1039009
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4ef7a8b0c556fa38
-    name: Matsya
+    name: Матсья
   - id: 1039010
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7e11cc173f807a8e
     name: Ализе
@@ -3993,7 +4028,7 @@
     name: Альфино
   - id: 1039012
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9623b12fcd7c3055
-    name: Matsya
+    name: Матсья
   - id: 1039013
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=243d7c6e0e74a452
     name: Yeruvvet
@@ -4021,7 +4056,7 @@
     name: Ализе
   - id: 1039022
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=68ceb814117eaebb
-    name: Matsya
+    name: Матсья
   - id: 1039689
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dde6ffbe831e1931
   - id: 1039690
@@ -4097,10 +4132,10 @@
     name: Ализе
   - id: 1039022
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=68ceb814117eaebb
-    name: Matsya
+    name: Матсья
   - id: 1039023
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6d4bcf41ba1425dd
-    name: Matsya
+    name: Матсья
   - id: 1039024
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4b157253991e1a12
   - id: 1039025
@@ -4110,10 +4145,10 @@
     name: Qerasaf
   - id: 1039027
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8daacd185a63ff7d
-    name: Matsya
+    name: Матсья
   - id: 1039147
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cfba4002af4fbb22
-    name: Matsya
+    name: Матсья
   enemies:
   - id: 11052
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=17339cdb0ef3894a
@@ -4164,10 +4199,10 @@
     name: Yeruvvet
   - id: 1039028
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f01c1f05c852b889
-    name: Matsya
+    name: Матсья
   - id: 1039029
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2ff4c19916fc1cce
-    name: Matsya
+    name: Матсья
   - id: 1039030
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=af2c8e7a06226666
     name: Ализе
@@ -4176,7 +4211,7 @@
     name: Альфино
   - id: 1039032
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b753ff200db075f2
-    name: Matsya
+    name: Матсья
   - id: 1039033
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a55869de69de8c90
   - id: 1039034
@@ -4184,7 +4219,7 @@
     name: villager woman
   - id: 1039035
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b26d4afc632a6334
-    name: Matsya
+    name: Матсья
   - id: 1039036
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=520379592aa494af
     name: Альфино
@@ -4211,7 +4246,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e135ab1391d1c4e2
   - id: 1039147
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cfba4002af4fbb22
-    name: Matsya
+    name: Матсья
   - id: 1040538
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1dd49073e8539137
   - id: 1040539
@@ -4276,10 +4311,10 @@
     name: Альфино
   - id: 1039049
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6f27f07344f95a1e
-    name: Matsya
+    name: Матсья
   - id: 1039050
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=198309ac89c862bb
-    name: Matsya
+    name: Матсья
   - id: 1039051
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5b9a91a994ccd9a3
     name: Mehvan
@@ -4291,7 +4326,7 @@
     name: Ализе
   - id: 1039054
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=03b972365abefd2a
-    name: Matsya
+    name: Матсья
   - id: 1039055
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8ec35d1398d497b6
   - id: 1039056
@@ -4331,7 +4366,7 @@
     name: Эстиниен
   - id: 1036523
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b8c7dfd429ead06c
-    name: Nidhana
+    name: Нидхана
   - id: 1037628
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=221683368c6e7753
     name: Nahbshayra
@@ -4361,7 +4396,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=530cec98f9125a72
   - id: 1039064
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4f88e988c27bf175
-    name: Nidhana
+    name: Нидхана
   - id: 1039065
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a169fe3020105bc7
     name: Эстиниен
@@ -4373,13 +4408,13 @@
     name: Ализе
   - id: 1039068
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f34e993b8b59b1b5
-    name: Matsya
+    name: Матсья
   - id: 1039069
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fd4b252286cecf53
     name: Альфино
   - id: 1039147
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cfba4002af4fbb22
-    name: Matsya
+    name: Матсья
   - id: 1040350
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=26a07325bc54a236
     name: Ализе
@@ -4414,10 +4449,10 @@
     name: Ализе
   - id: 1039064
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4f88e988c27bf175
-    name: Nidhana
+    name: Нидхана
   - id: 1039068
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f34e993b8b59b1b5
-    name: Matsya
+    name: Матсья
   - id: 1039069
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fd4b252286cecf53
     name: Альфино
@@ -6379,7 +6414,7 @@
   actors:
   - id: 1037985
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7842576703a48f49
-    name: Jebke
+    name: Джебб
   - id: 1040397
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=61fd4ac9037d3eb9
     name: Singingway
@@ -6987,7 +7022,7 @@
     name: Varsarudh
   - id: 1038053
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=71fa821eb2f2df36
-    name: Варшан
+    name: Варшанн
   - id: 1039792
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3489c9addfbef073
     name: Татару
@@ -7219,10 +7254,10 @@
     name: Эмманельен
   - id: 1039840
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1e55c2198c754310
-    name: Варшан
+    name: Варшанн
   - id: 1039841
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9f8d4dfdb5e2cc74
-    name: Erenville
+    name: Эренвилль
   - id: 1039842
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ee7312e5c291b5c4
     name: Wilfsunn
@@ -7270,7 +7305,7 @@
     name: Эстиниен
   - id: 1041215
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e37c553cc1746f5d
-    name: Nidhana
+    name: Нидхана
 
 - name:
     original: "A §trαnge New World"
@@ -8222,7 +8257,7 @@
     name: Эстиниен
   - id: 1039578
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=065ac7c92286f077
-    name: Matsya
+    name: Матсья
   - id: 1039579
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b974550b2dedb88e
     name: Эстиниен
@@ -8303,7 +8338,7 @@
     name: Урианже
   - id: 1039589
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2aff6064191fe209
-    name: Matsya
+    name: Матсья
   - id: 1039650
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=351d3a8d3dbb15c5
     name: Г'раха Тиа
@@ -8363,10 +8398,10 @@
   actors:
   - id: 1038053
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=71fa821eb2f2df36
-    name: Варшан
+    name: Варшанн
   - id: 1039589
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2aff6064191fe209
-    name: Matsya
+    name: Матсья
   - id: 1039590
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0c87bd0ad70b80db
     name: Г'раха Тиа
@@ -8381,13 +8416,13 @@
     name: Эстиниен
   - id: 1039594
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fb4d0f55e44181c6
-    name: Варшан
+    name: Варшанн
   - id: 1039595
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d4423e41e30bf326
     name: Я'штола
   - id: 1039596
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=650bac528724bf19
-    name: Варшан
+    name: Варшанн
   - id: 1039597
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=53c16e9939ea3c19
     name: Г'раха Тиа
@@ -8399,7 +8434,7 @@
     name: Эстиниен
   - id: 1039600
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=65174e92f33f3b20
-    name: Варшан
+    name: Варшанн
   - id: 1039601
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8713b3642c99bf1c
     name: Я'штола
@@ -8442,19 +8477,19 @@
     name: Продавец хлама
   - id: 1039589
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2aff6064191fe209
-    name: Matsya
+    name: Матсья
   - id: 1039600
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=65174e92f33f3b20
-    name: Варшан
+    name: Варшанн
   - id: 1039604
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=640311b96d51ed62
     name: Эстиниен
   - id: 1039606
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a33ace4bfa4feb5f
-    name: guild staff
+    name: Работник гильдии
   - id: 1039607
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4bd5b2553d007af3
-    name: Варшан
+    name: Варшанн
   - id: 1039608
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4b7b588892c52285
     name: Эстиниен
@@ -8489,7 +8524,7 @@
     name: Я'штола
   - id: 1038053
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=71fa821eb2f2df36
-    name: Варшан
+    name: Варшанн
   - id: 1038067
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cd8d081fd33d93d4
     name: Montichaigne
@@ -8510,7 +8545,7 @@
     name: Эстиниен
   - id: 1039613
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e1e0cc453065e5c
-    name: Варшан
+    name: Варшанн
   - id: 1039614
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=479ea5e58b9aa214
     name: Я'штола
@@ -8577,7 +8612,7 @@
     name: Я'штола
   - id: 1039623
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a6b9ac9b55ac18d9
-    name: Nidhana
+    name: Нидхана
   - id: 1039624
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2f0c4294dbdf5077
     name: Я'штола
@@ -8586,7 +8621,7 @@
     name: Эстиниен
   - id: 1039626
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6556cf01a3e861a9
-    name: Варшан
+    name: Варшанн
   quest_items:
   - id: 2003391
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=7a056d8247c3dfa1
@@ -8639,7 +8674,7 @@
   actors:
   - id: 1039623
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a6b9ac9b55ac18d9
-    name: Nidhana
+    name: Нидхана
   - id: 1039624
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2f0c4294dbdf5077
     name: Я'штола
@@ -8648,7 +8683,7 @@
     name: Эстиниен
   - id: 1039626
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6556cf01a3e861a9
-    name: Варшан
+    name: Варшанн
   - id: 1039627
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7010100f932d7bc2
     name: veteran Radiant
@@ -8657,16 +8692,16 @@
     name: Я'штола
   - id: 1039629
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=175c08a812788055
-    name: Nidhana
+    name: Нидхана
   - id: 1039630
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3c8d68c5d995314f
     name: Эстиниен
   - id: 1039631
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6929b08fed1d80c3
-    name: Варшан
+    name: Варшанн
   - id: 1039632
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a6ba72b27ee353a9
-    name: Nidhana
+    name: Нидхана
   - id: 1039633
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e1677f9736646431
     name: Я'штола
@@ -8675,13 +8710,13 @@
     name: Эстиниен
   - id: 1039635
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0d70f0c9ec2ccf44
-    name: Варшан
+    name: Варшанн
   - id: 1039653
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9ed7547da18544dc
     name: Эстиниен
   - id: 1039654
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fa75de761ac606a0
-    name: Nidhana
+    name: Нидхана
   eobjects:
   - id: 2012837
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=25ec23a17ce92838
@@ -8725,13 +8760,13 @@
     name: Я'штола
   - id: 1039638
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bb2065379ef917ca
-    name: Nidhana
+    name: Нидхана
   - id: 1039639
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=742b3a02c31274cc
     name: Я'штола
   - id: 1039640
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=86db33427fcd2df3
-    name: Варшан
+    name: Варшанн
   - id: 1039641
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0243ad975845b153
   - id: 1039642
@@ -8744,7 +8779,7 @@
     name: Nahbdeen
   - id: 1039645
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e891f6e143d6597e
-    name: Варшан
+    name: Варшанн
   - id: 1039646
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=22a239ed219b82eb
     name: Я'штола
@@ -8785,13 +8820,13 @@
     name: veteran Radiant
   - id: 1039645
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e891f6e143d6597e
-    name: Варшан
+    name: Варшанн
   - id: 1039655
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d1df17536ca01328
     name: Я'штола
   - id: 1039656
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=89c61581022a707c
-    name: Варшан
+    name: Варшанн
   - id: 1039657
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3958c5ca2aa0f07f
     name: Эстиниен
@@ -8799,7 +8834,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5fc458ac8056ee33
   - id: 1039659
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3457c2572abbcfe7
-    name: Nidhana
+    name: Нидхана
   - id: 1039660
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a4452d350058ad5e
   - id: 1039661
@@ -8808,7 +8843,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ce97d7dac2e1f5e8
   - id: 1039663
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=45d3b84bf340e718
-    name: Варшан
+    name: Варшанн
   - id: 1039664
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d9f47af0c9ca25b5
     name: Я'штола
@@ -8830,7 +8865,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cda1bfe9704959ea
   - id: 1042060
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cd371d22164192e9
-    name: Варшан
+    name: Варшанн
   - id: 1042061
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=23a5380f1b0aa608
     name: Я'штола
@@ -8842,7 +8877,7 @@
     name: Я'штола
   - id: 1042064
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7063280e04780975
-    name: Варшан
+    name: Варшанн
   - id: 1042065
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c6926241b83537db
     name: Эстиниен
@@ -8886,7 +8921,7 @@
     name: Я'штола
   - id: 1042064
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7063280e04780975
-    name: Варшан
+    name: Варшанн
   - id: 1042065
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c6926241b83537db
     name: Эстиниен
@@ -8895,7 +8930,7 @@
     name: feral voidsent
   - id: 1043611
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ab5af1ef660ef21b
-    name: Варшан
+    name: Варшанн
   - id: 1043790
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=930d95ce76cae81e
     name: watchful voidsent
@@ -8907,7 +8942,7 @@
     name: fearful voidsent
   - id: 1043793
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e457935d8d26214b
-    name: Варшан
+    name: Варшанн
   - id: 1043794
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b2d7eb417127e476
     name: Я'штола
@@ -8919,7 +8954,7 @@
     name: dark-robed voidsent
   - id: 1043797
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6e1efdac0bea1fa1
-    name: Варшан
+    name: Варшанн
   - id: 1043798
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d8bb8163481547d6
     name: Я'штола
@@ -8931,7 +8966,7 @@
     name: Я'штола
   - id: 1043801
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=017c0cf31819c9bd
-    name: Варшан
+    name: Варшанн
   - id: 1043802
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=450c998dc26de5a3
     name: dark-robed voidsent
@@ -8992,7 +9027,7 @@
     name: Я'штола
   - id: 1043801
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=017c0cf31819c9bd
-    name: Варшан
+    name: Варшанн
   - id: 1043802
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=450c998dc26de5a3
     name: dark-robed voidsent
@@ -9007,7 +9042,7 @@
     name: Я'штола
   - id: 1043806
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c9785cceddee53bc
-    name: Варшан
+    name: Варшанн
   - id: 1043807
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6a09f4d35984fa14
     name: Эстиниен
@@ -9019,7 +9054,7 @@
     name: Я'штола
   - id: 1043810
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=95a2074365f07538
-    name: Варшан
+    name: Варшанн
   - id: 1043811
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1ecdf5a5a358730b
     name: Эстиниен
@@ -9031,7 +9066,7 @@
     name: Зеро
   - id: 1043814
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1c8f84653dc432fb
-    name: Варшан
+    name: Варшанн
   - id: 1043815
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=db42b427ce8e117f
     name: Эстиниен
@@ -9082,7 +9117,7 @@
     name: Зеро
   - id: 1043814
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1c8f84653dc432fb
-    name: Варшан
+    name: Варшанн
   - id: 1043815
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=db42b427ce8e117f
     name: Эстиниен
@@ -9091,7 +9126,7 @@
     name: Зеро
   - id: 1043817
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=276de6e11bbd80b7
-    name: Варшан
+    name: Варшанн
   - id: 1043818
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=028ff1010d698cdb
     name: Я'штола
@@ -9103,7 +9138,7 @@
     name: Зеро
   - id: 1043823
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5797f61c27f9e0dd
-    name: Варшан
+    name: Варшанн
   - id: 1043824
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=398774e6f8a84c09
     name: Я'штола
@@ -9137,7 +9172,7 @@
     name: Зеро
   - id: 1043823
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5797f61c27f9e0dd
-    name: Варшан
+    name: Варшанн
   - id: 1043824
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=398774e6f8a84c09
     name: Я'штола
@@ -9146,7 +9181,7 @@
     name: Эстиниен
   - id: 1043826
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=18347bf86fe6d4d2
-    name: Варшан
+    name: Варшанн
   - id: 1043827
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=10997595b2c60aef
     name: Я'штола
@@ -9179,7 +9214,7 @@
     name: Эстиниен
   - id: 1043837
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=83f7593c899b18d3
-    name: Варшан
+    name: Варшанн
   - id: 1043838
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e9e929206d8560b4
     name: Я'штола
@@ -9221,7 +9256,7 @@
     name: Эстиниен
   - id: 1043837
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=83f7593c899b18d3
-    name: Варшан
+    name: Варшанн
   - id: 1043838
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e9e929206d8560b4
     name: Я'штола
@@ -9233,7 +9268,7 @@
     name: Я'штола
   - id: 1043841
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0f099d63073b317b
-    name: Варшан
+    name: Варшанн
   - id: 1043842
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b892589cb05840ec
     name: Эстиниен
@@ -9278,7 +9313,7 @@
     name: Я'штола
   - id: 1043841
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0f099d63073b317b
-    name: Варшан
+    name: Варшанн
   - id: 1043842
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b892589cb05840ec
     name: Эстиниен
@@ -9290,10 +9325,10 @@
     name: deserter voidsent
   - id: 1043845
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=34c78d06ebed84b7
-    name: Варшан
+    name: Варшанн
   - id: 1043846
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=08cbd901b7679476
-    name: Варшан
+    name: Варшанн
   - id: 1043847
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=26d8c8838e323c7c
     name: Meghaduta attendant
@@ -9323,7 +9358,7 @@
     name: Mehryde
   - id: 1038053
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=71fa821eb2f2df36
-    name: Варшан
+    name: Варшанн
   - id: 1042164
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2c73a82ca846e258
     name: Mehrahd
@@ -9344,7 +9379,7 @@
     name: Зеро
   - id: 1043850
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=55afe8f204f64a70
-    name: Варшан
+    name: Варшанн
   - id: 1043851
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bd2eb2c35d8c56c8
     name: Эстиниен
@@ -9353,7 +9388,7 @@
     name: Зеро
   - id: 1043853
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4ca0039b085c7628
-    name: Варшан
+    name: Варшанн
   - id: 1043854
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=57e6e907ebacd61f
     name: Я'штола
@@ -9362,13 +9397,13 @@
     name: Эстиниен
   - id: 1043856
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=16ac62af65ae87e5
-    name: Nidhana
+    name: Нидхана
   - id: 1043857
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=65d9e174e7473e37
     name: Зеро
   - id: 1043858
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5387d2432244326c
-    name: Варшан
+    name: Варшанн
   eobjects:
   - id: 2013055
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=81ed2dc540a7a0e4
@@ -9401,7 +9436,7 @@
   actors:
   - id: 1039645
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e891f6e143d6597e
-    name: Варшан
+    name: Варшанн
   - id: 1043734
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e7e6313d16d4fc59
     name: wayward hecteye
@@ -9421,7 +9456,7 @@
     name: Зеро
   - id: 1043858
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5387d2432244326c
-    name: Варшан
+    name: Варшанн
   logmessages:
   - id: 22
     url: https://translate.xivrus.ru/translate/ffxiv-translation/logmessage/ru/?checksum=536a8e73fe9e9910
@@ -9447,7 +9482,7 @@
   actors:
   - id: 1039645
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e891f6e143d6597e
-    name: Варшан
+    name: Варшанн
   - id: 1043821
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=88aabdb2f9133ec8
     name: Zero
@@ -10004,7 +10039,7 @@
   actors:
   - id: 1039645
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e891f6e143d6597e
-    name: Варшан
+    name: Варшанн
   - id: 1039649
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b4e5b43e617d5210
     name: accommodating official
@@ -10056,7 +10091,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=45e7be085d262655
   - id: 1039645
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e891f6e143d6597e
-    name: Варшан
+    name: Варшанн
   - id: 1042980
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4278c1ba05310c29
     name: Зеро
@@ -10068,7 +10103,7 @@
     name: Зеро
   - id: 1043853
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4ca0039b085c7628
-    name: Варшан
+    name: Варшанн
   - id: 1045392
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9664d28d051cb097
     name: Zero
@@ -10144,7 +10179,7 @@
     name: Зеро
   - id: 1043611
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ab5af1ef660ef21b
-    name: Варшан
+    name: Варшанн
   - id: 1043847
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=26d8c8838e323c7c
     name: Meghaduta attendant
@@ -10553,7 +10588,7 @@
     name: Эстиниен
   - id: 1045462
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4f6ed95be2e3cbc7
-    name: Nidhana
+    name: Нидхана
   - id: 1045463
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4d071a518fafcf36
   - id: 1045464
@@ -10675,7 +10710,7 @@
     name: Эстиниен
   - id: 1045923
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fdda2e0ac398ef2f
-    name: Nidhana
+    name: Нидхана
   eobjects:
   - id: 2013354
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=31643ef0f977187b
@@ -10775,7 +10810,7 @@
   actors:
   - id: 1039645
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e891f6e143d6597e
-    name: Варшан
+    name: Варшанн
   - id: 1039649
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b4e5b43e617d5210
     name: accommodating official
@@ -10818,13 +10853,13 @@
     name: Бек Лугг
   - id: 1039607
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4bd5b2553d007af3
-    name: Варшан
+    name: Варшанн
   - id: 1039608
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4b7b588892c52285
     name: Эстиниен
   - id: 1039645
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e891f6e143d6597e
-    name: Варшан
+    name: Варшанн
   - id: 1042980
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4278c1ba05310c29
     name: Зеро
@@ -10995,7 +11030,7 @@
     name: Бек Лугг
   - id: 1039645
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e891f6e143d6597e
-    name: Варшан
+    name: Варшанн
   - id: 1039646
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=22a239ed219b82eb
     name: Я'штола
@@ -11272,7 +11307,7 @@
     name: Atheleys
   - id: 1039645
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e891f6e143d6597e
-    name: Варшан
+    name: Варшанн
   - id: 1039649
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b4e5b43e617d5210
     name: accommodating official

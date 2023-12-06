@@ -861,7 +861,7 @@
   enemies:
   - id: 2024
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c79dc9f642a5c0d3
-    name: Эфирная аурелия
+    name: Привлечённая эфиром аурелия
   quest_items:
   - id: 2000817
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=31d4566f8a9c08ad
@@ -6388,7 +6388,7 @@
     name: Риэль
   - id: 1015432
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ba95385aa61f8b9f
-    name: Rielle
+    name: Риэль
   eobjects:
   - id: 2006343
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=296299fa054c57bf
@@ -6542,6 +6542,7 @@
 
 - name:
     original: "In Memories We Walked"
+    translated: "Дорогой воспоминаний"
   level: 60
   icon: 62412
   url:
@@ -6557,44 +6558,44 @@
     name: Риэль
   - id: 1022855
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6bd3a5dee846d59c
-    name: Millie
+    name: Милли
   - id: 1022856
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=41ced8e71919865e
-    name: discomposed carpenter
+    name: Обеспокоенный ремесленник
   - id: 1022857
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=758bc8d9b8517e36
   - id: 1022858
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6225ef88c755e6a8
   - id: 1022859
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b62dc0385de87bc4
-    name: Myste
+    name: Мист
   - id: 1022860
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e611fcc0fcad0dc0
-    name: Myste
+    name: Мист
   - id: 1022861
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7b9c2df8e971744d
-    name: Millie
+    name: Милли
   - id: 1022862
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f1a9d0d9ab726923
-    name: Myste
+    name: Мист
   - id: 1022863
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=33cb04ccc776c592
-    name: Myste
+    name: Мист
   - id: 1022864
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=107391b88f80e0fe
-    name: Sidurgu
+    name: Сидургу
   - id: 1022865
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bf81ab8f3675fc6c
-    name: Rielle
+    name: Риэль
   - id: 1022866
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f5446db25b265e62
-    name: Sidurgu
+    name: Сидургу
   - id: 1022867
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e9e8478f3da0d5ef
-    name: Rielle
+    name: Риэль
   - id: 1022868
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f8d5325f08b3f711
-    name: Myste
+    name: Мист
   eobjects:
   - id: 2008659
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=1e8cdb1df034be1d
@@ -6604,10 +6605,11 @@
     name: Цель
   - id: 2008661
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=be5f089ee6be677e
-    name: swirling abyss
+    name: Клубящаяся бездна
 
 - name:
     original: "The Widow and Her Love"
+    translated: "Возлюбленный вдовы"
   level: 63
   icon: 62412
   url:
@@ -6617,88 +6619,89 @@
   actors:
   - id: 1022866
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f5446db25b265e62
-    name: Sidurgu
+    name: Сидургу
   - id: 1022867
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e9e8478f3da0d5ef
-    name: Rielle
+    name: Риэль
   - id: 1022868
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f8d5325f08b3f711
-    name: Myste
+    name: Мист
   - id: 1022869
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6c8df16dd4e5fd03
-    name: Sidurgu
+    name: Сидургу
   - id: 1022870
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3bdc737ca70c63b0
-    name: Rielle
+    name: Риэль
   - id: 1022871
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a58cfa4adb18bb12
-    name: Myste
+    name: Мист
   - id: 1022872
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=38f893e1384dfa1a
   - id: 1022873
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=895355290a676747
   - id: 1022874
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3b1a95af2e7cc0c2
-    name: Rielle
+    name: Риэль
   - id: 1022875
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c7a37b5ad6a7f93b
-    name: Sidurgu
+    name: Сидургу
   - id: 1022876
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=64323d78e7306d29
-    name: Myste
+    name: Мист
   - id: 1022879
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4d0457bd8bbcba73
-    name: Orthodox proctor
+    name: Церковный надзиратель
   - id: 1022880
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=44d2cdfb371d3274
-    name: Myste
+    name: Мист
   - id: 1022881
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6ae51f3b8a0fa8b2
-    name: Rielle
+    name: Риэль
   - id: 1022882
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5c8d37315d71ecac
-    name: Sidurgu
+    name: Сидургу
   - id: 1022883
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b12f9242f1646d0f
   - id: 1022884
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f4d294dfd87d7c78
   - id: 1022885
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d596ea3208a3c28b
-    name: Sidurgu
+    name: Сидургу
   - id: 1022886
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1c822a6bc28aa49b
-    name: Rielle
+    name: Риэль
   - id: 1022887
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9997ad261cd3df22
-    name: Myste
+    name: Мист
   - id: 1023412
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=23e9c5be4db4d720
-    name: Sidurgu
+    name: Сидургу
   - id: 1023413
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=98618cf4540b8afc
-    name: Rielle
+    name: Риэль
   - id: 1023414
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fa7cc47a558b19be
-    name: Myste
+    name: Мист
   enemies:
   - id: 5854
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=edb83835cad798d4
-    name: Orthodox proctor
+    name: Церковный надзиратель
   - id: 5855
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=935bab7d22084979
-    name: Разбойник
+    name: Бродячий рыцарь
   eobjects:
   - id: 2008662
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ffc4ce333000fb0e
     name: Цель
   - id: 2008663
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ea92148a7623de31
-    name: swirling abyss
+    name: Клубящаяся бездна
   - id: 2008677
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=b2c6648404028d7a
 
 - name:
     original: "The Orphans and the Broken Blade"
+    translated: "Сироты и сломанный клинок"
   level: 65
   icon: 62412
   url:
@@ -6711,28 +6714,28 @@
     name: Могги
   - id: 1022885
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d596ea3208a3c28b
-    name: Sidurgu
+    name: Сидургу
   - id: 1022886
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1c822a6bc28aa49b
-    name: Rielle
+    name: Риэль
   - id: 1022887
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9997ad261cd3df22
-    name: Myste
+    name: Мист
   - id: 1022888
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0e31931f711869d5
-    name: Sidurgu
+    name: Сидургу
   - id: 1022889
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=af530173a4509e60
-    name: Rielle
+    name: Риэль
   - id: 1022891
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c1d9554ea77d69c3
-    name: Myste
+    name: Мист
   - id: 1022892
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6c10c5b6415472ed
-    name: Myste
+    name: Мист
   - id: 1022893
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=91a3135bc7d379fe
-    name: Sidurgu
+    name: Сидургу
   - id: 1022894
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9c6688ec4785baa4
   - id: 1022895
@@ -6741,33 +6744,34 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b469dde818e64fe5
   - id: 1022897
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=07f7460cd7b11cb7
-    name: Rielle
+    name: Риэль
   - id: 1022898
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f54012bb77720425
-    name: Myste
+    name: Мист
   - id: 1022899
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8a4db242743a3321
-    name: Rielle
+    name: Риэль
   - id: 1022900
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d301d836e6b4a001
-    name: Sidurgu
+    name: Сидургу
   - id: 1022901
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2357ea1bbc1335f8
-    name: Myste
+    name: Мист
   - id: 1022953
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dd238841e3e02fb5
-    name: Sidurgu
+    name: Сидургу
   eobjects:
   - id: 2008664
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=cd1e4960e351763c
   - id: 2008665
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8252d4a7dc9709d4
-    name: swirling abyss
+    name: Клубящаяся бездна
   - id: 2008677
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=b2c6648404028d7a
 
 - name:
     original: "We Can Never Go Home"
+    translated: "Домой не возвратиться"
   level: 68
   icon: 62412
   url:
@@ -6783,68 +6787,69 @@
     name: Риэль
   - id: 1022889
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=af530173a4509e60
-    name: Rielle
+    name: Риэль
   - id: 1022890
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=14fa033d91a29b9b
-    name: Myste
+    name: Мист
   - id: 1022892
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6c10c5b6415472ed
-    name: Myste
+    name: Мист
   - id: 1022902
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=31c481e4d2c12449
-    name: Gallien
+    name: Галлиен
   - id: 1022903
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fdd33f972c3e6856
-    name: Myste
+    name: Мист
   - id: 1022904
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=261717f1a4605f49
-    name: Houdart
+    name: Худерт
   - id: 1022905
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5d8c8f87450b5475
-    name: Houdart
+    name: Худерт
   - id: 1022906
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=70ccf71df78539e5
-    name: Myste
+    name: Мист
   - id: 1022907
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5549b922a442ea1f
-    name: Myste
+    name: Мист
   - id: 1022908
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=40f7e3ccb8bfd1a4
-    name: Houdart
+    name: Худерт
   - id: 1022909
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fec2316bf969dbee
-    name: Myste
+    name: Мист
   - id: 1022910
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fe139072407c6182
-    name: Houdart
+    name: Худерт
   - id: 1022911
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bdaf13342c9d4402
-    name: Myste
+    name: Мист
   - id: 1022912
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=31ae0e6a19b58c66
-    name: Myste
+    name: Мист
   - id: 1022953
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dd238841e3e02fb5
-    name: Sidurgu
+    name: Сидургу
   - id: 1023859
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d8f6366838b7afe2
-    name: Gallien
+    name: Галлиен
   enemies:
   - id: 5856
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=817b19e17882ebe1
-    name: longneck gagana
+    name: Длинношеяя гагана
   eobjects:
   - id: 2008666
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=0b45ac65233b850a
   - id: 2008667
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=49e8c62f8e0dcedd
-    name: swirling abyss
+    name: Клубящаяся бездна
   - id: 2008668
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=bf071bd703cdec83
     name: Цель
 
 - name:
     original: "Our Compromise"
+    translated: "Наш компромисс"
   level: 70
   icon: 62412
   url:
@@ -6866,19 +6871,19 @@
     name: Орелла
   - id: 1022913
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=83381e36a2ac673b
-    name: Rielle
+    name: Риэль
   - id: 1022914
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=33bf040d5b6b359b
-    name: Sidurgu
+    name: Сидургу
   - id: 1022915
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f6da0d3fe04837ec
     name: Страж Сопротивления
   - id: 1022916
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=00fd11b5fc6576b5
-    name: Resistance beast tamer
+    name: Укротитель зверей Сопротивления
   - id: 1022917
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1d216b9c5bfec8f2
-    name: Rielle
+    name: Риэль
   - id: 1022918
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0cf27e8856fb198d
   - id: 1022919
@@ -6889,17 +6894,17 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8a3d56a22c08fb53
   - id: 1022922
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=205330e493fbb3eb
-    name: Sidurgu
+    name: Сидургу
   - id: 1022923
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c4a87335a3ac36bc
   - id: 1022924
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d61ca78ed0b5b9cb
   - id: 1022925
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a727b3a9e92c7916
-    name: Rielle
+    name: Риэль
   - id: 1023073
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2ecbb3b47f051ec6
-    name: Sidurgu
+    name: Сидургу
   eobjects:
   - id: 2006294
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=9ac8da1f7f246576
@@ -6912,7 +6917,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=7162bbb74dc3277d
   - id: 2008885
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e4f9951d717dab04
-    name: where it all began
+    name: Место, где всё началось
   - id: 2008949
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=65513997ddab677b
 
@@ -8935,7 +8940,7 @@
     name: Усталый мечник
   - id: 1029030
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=59c56ea20f5d8961
-    name: Необычный фокусник
+    name: Ушастая элементалистка
   - id: 1029031
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7cc14c2ca0acd67f
   - id: 1029032
@@ -8966,6 +8971,7 @@
 
 - name:
     original: "Hired Gunblades"
+    translated: "Ганблейды по найму"
   level: 60
   icon: 62417
   url:
@@ -9059,6 +9065,7 @@
 
 - name:
     original: "For Better or Worse"
+    translated: "К добру или к худу"
   level: 63
   icon: 62417
   url:
@@ -9077,10 +9084,10 @@
     name: Софи
   - id: 1029054
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6ff4b86942212999
-    name: Oriel
+    name: Ориэль
   - id: 1029055
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=24b8e347b6b160b5
-    name: Timm
+    name: Тимм
   - id: 1029056
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a0957e0de324e7bb
     name: Радован
@@ -9095,10 +9102,10 @@
     name: Софи
   - id: 1029060
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=567d6a9318210f3e
-    name: Oriel
+    name: Ориэль
   - id: 1029061
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fddf8fdd1c55c8e1
-    name: Timm
+    name: Тимм
   - id: 1029062
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bd5bad6274ce33ee
     name: Радован
@@ -9121,7 +9128,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=39d87a3e7b1c8a1e
   - id: 1029070
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=27a4f9e86513e320
-    name: Gerrart
+    name: Геррарт
   - id: 1029071
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cdecdd4c124605e7
   - id: 1029072
@@ -9134,35 +9141,36 @@
     name: Софи
   - id: 1029075
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a0227d44dc198445
-    name: Gerrart
+    name: Геррарт
   - id: 1029076
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=50a6baac2919c0c1
-    name: devious miscreant
+    name: Недобрый злодей
   - id: 1029077
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=36963c022860c60a
-    name: Потворствующий негодяй
+    name: Бандит
   - id: 1029136
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1d43efc42518b629
     name: Софи
   - id: 1029137
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2daeb58474ed5d91
-    name: Oriel
+    name: Ориэль
   - id: 1029138
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4020b71a28795918
-    name: Timm
+    name: Тимм
   enemies:
   - id: 8878
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=13d4c9a5422a7c96
-    name: devious miscreant
+    name: Недобрый злодей
   - id: 8879
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=aa200191edb247c1
-    name: conniving ne'er-do-well
+    name: Самый настоящий бандит
   eobjects:
   - id: 2010240
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=9eb290d5f0667a50
 
 - name:
     original: "Confessions of a Flaming Mongrel"
+    translated: "Чистосердечное признание"
   level: 65
   icon: 62417
   url:
@@ -9190,7 +9198,7 @@
     name: Софи
   - id: 1029078
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=82f5ec02c3167f4c
-    name: Futag Yafutag
+    name: Фатаг Яфатаг
   - id: 1029079
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6b8053e7319c450c
     name: Радован
@@ -9205,13 +9213,13 @@
     name: Софи
   - id: 1029083
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0bd7d15b1079b540
-    name: Guldweitz
+    name: Галдвейц
   - id: 1029084
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ffdfbbcced08be33
     name: Софи
   - id: 1029085
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f360de980f9141cf
-    name: Futag Yafutag
+    name: Фатаг Яфатаг
   - id: 1029086
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=767ec0b9f9af4a8e
     name: Радован
@@ -9234,10 +9242,10 @@
     name: Софи
   - id: 1029096
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=66c317aef0036a3d
-    name: Futag Yafutag
+    name: Фатаг Яфатаг
   - id: 1029097
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f2de673c174f17af
-    name: Guldweitz
+    name: Галдвейц
   - id: 1029098
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0c0a32c1ba2140e5
     name: Радован
@@ -9246,23 +9254,23 @@
     name: Софи
   - id: 1029100
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=16fc6baa0ad6036d
-    name: Guldweitz
+    name: Галдвейц
   - id: 1029101
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bd6ba366f2e9ef8c
-    name: grim-faced Yellowjacket
+    name: Мрачная Жёлтая Жилетка
   - id: 1029102
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bfe3e29c69e50eaf
-    name: Futag Yafutag
+    name: Фатаг Яфатаг
   enemies:
   - id: 8880
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1c7680b9049d8b88
-    name: hired assassin
+    name: Наёмный убийца
   - id: 8881
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=9a3a8160981837c9
-    name: hired assassin
+    name: Наёмный убийца
   - id: 8882
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e55451da9153d708
-    name: hired assassin
+    name: Наёмный убийца
   eobjects:
   - id: 2010241
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=fb9aa56e57d59ba6
@@ -9276,6 +9284,7 @@
 
 - name:
     original: "Of Defectors and Defenders"
+    translated: "Беглецы, защитники"
   level: 68
   icon: 62417
   url:
@@ -9297,7 +9306,7 @@
     name: Софи
   - id: 1029103
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4582df7ac399137b
-    name: Reese
+    name: Рииз
   - id: 1029104
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7c6403fdc7388185
     name: Радован
@@ -9306,7 +9315,7 @@
     name: Софи
   - id: 1029106
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a95c32f1595737e4
-    name: Reese
+    name: Рииз
   - id: 1029107
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=32f7c1675c59acfc
   - id: 1029108
@@ -9316,22 +9325,22 @@
     name: Радован
   - id: 1029110
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0d491e01d2c97c6d
-    name: Reese
+    name: Рииз
   - id: 1029111
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=943a268b0b035a4f
-    name: Cato Mammula
+    name: Кат Маммула
   - id: 1029112
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=61f4c48e88bd3c89
-    name: Reese
+    name: Рииз
   - id: 1029113
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cf0228efbe3b76c4
-    name: Cato Mammula
+    name: Кат Маммула
   - id: 1029114
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e721fef362d27bbb
-    name: Cato Mammula
+    name: Кат Маммула
   - id: 1029115
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1d74504f4106a58a
-    name: Reese
+    name: Рииз
   - id: 1029133
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=33370f1c1177067a
   - id: 1029135
@@ -9340,22 +9349,22 @@
   enemies:
   - id: 8883
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0df0c534c863a911
-    name: Alaudae conscript
+    name: Боец Жаворонков
   - id: 8884
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=aaf358936ff212da
-    name: Alaudae conscript
+    name: Боец Жаворонков
   - id: 8885
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8dc8ddb750acbef5
-    name: Alaudae conscript
+    name: Боец Жаворонков
   - id: 8886
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=9788a897cf859d32
-    name: Alaudae conscript
+    name: Боец Жаворонков
   - id: 8887
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=4ce58994b62a6720
-    name: Alaudae conscript
+    name: Боец Жаворонков
   - id: 8888
     url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=18bb722b88ce848f
-    name: Alaudae conscript
+    name: Боец Жаворонков
   eobjects:
   - id: 2010297
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=3b07f6c23d14f7b8
@@ -9377,6 +9386,7 @@
 
 - name:
     original: "Steel against Steel"
+    translated: "Сталь против стали"
   level: 70
   icon: 62417
   url:
@@ -9398,13 +9408,13 @@
     name: Софи
   - id: 1029113
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cf0228efbe3b76c4
-    name: Cato Mammula
+    name: Кат Маммула
   - id: 1029120
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fb523f748d4dba74
     name: Софи
   - id: 1029121
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=26bf53d9d2fcb8c5
-    name: prospective client
+    name: Загадочный клиент
   - id: 1029122
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ebf60b2c414bcb82
     name: Радован
@@ -9438,22 +9448,22 @@
     name: Эдитта
   - id: 1029055
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=24b8e347b6b160b5
-    name: Timm
+    name: Тимм
   - id: 1029056
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a0957e0de324e7bb
     name: Радован
   - id: 1029078
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=82f5ec02c3167f4c
-    name: Futag Yafutag
+    name: Фатаг Яфатаг
   - id: 1029079
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6b8053e7319c450c
     name: Радован
   - id: 1029103
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4582df7ac399137b
-    name: Reese
+    name: Рииз
   - id: 1029114
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e721fef362d27bbb
-    name: Cato Mammula
+    name: Кат Маммула
   - id: 1029122
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ebf60b2c414bcb82
     name: Радован
@@ -9462,7 +9472,7 @@
     name: Софи
   - id: 1029127
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=31bfdaa528f2ebc7
-    name: Gerrart
+    name: Геррарт
   - id: 1029128
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=febff5b89a1be7c3
     name: Радован
