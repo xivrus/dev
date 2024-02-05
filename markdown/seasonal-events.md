@@ -78,6 +78,13 @@ quest_list: seasonal
 
 ## День Валентиона / Valentione's Day {#valentione}
 
+### 2024 {#valentione-2024}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "The Symbol of Love" %}
+	{% include quest.liquid quest_name = "It's All about Heart" %}
+</ul>
+
 ### 2023 {#valentione-2023}
 
 <ul markdown="0">
@@ -166,8 +173,8 @@ quest_list: seasonal
 ### 2024 {#little-ladies-day-2024}
 
 <ul markdown="0">
-	{% include quest.liquid quest_name = "エッグハントと桃色のグゥーブー" %}
-	{% include quest.liquid quest_name = "プリンセスデーに咲く笑顔の花" %}
+	{% include quest.liquid quest_name = "The Princesses and the Eggs" %}
+	{% include quest.liquid quest_name = "Peatie in Pink" %}
 </ul>
 
 ### 2023 {#little-ladies-day-2023}
@@ -338,7 +345,7 @@ quest_list: seasonal
 ### 2024 {#make-it-rain-2024}
 
 <ul markdown="0">
-	{% include quest.liquid quest_name = "ゴールドソーサーとカッパの謎" %}
+	{% include quest.liquid quest_name = "Of Impish Importance" %}
 </ul>
 
 ### 2023 {#make-it-rain-2023}

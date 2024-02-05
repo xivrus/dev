@@ -801,6 +801,87 @@
     name: chief chocowacker
 
 - name:
+    original: "The Symbol of Love"
+  level: 15
+  icon: 61411
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-048-fesvlx001_04808/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=96dc2b5376cf91e8
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=73434794c53f453d
+  actors:
+  - id: 1043674
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c4c509dcf7da8819
+    name: Лизетта де Валентионе
+  - id: 1043682
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=149ea73765f90576
+    name: Эмили
+  - id: 1046166
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2ede43fd20e114c5
+    name: Astrid
+  - id: 1046167
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0f143eea4cd4b6d0
+    name: Emilie
+  - id: 1046168
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6025f68ac95d22d1
+    name: Emilie
+  - id: 1046192
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=531e9492aaf65033
+  - id: 1046193
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=44c9f456a164764e
+
+- name:
+    original: "It's All about Heart"
+  level: 15
+  icon: 61411
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-048-fesvlx002_04809/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6c7a5ee891da6f6e
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=3303c9782e59a8c6
+  actors:
+  - id: 1043674
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c4c509dcf7da8819
+    name: Лизетта де Валентионе
+  - id: 1043675
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=822130af81bedcc4
+    name: Лизетта де Валентионе
+  - id: 1043677
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a2e1367756ef22ae
+    name: Ортфенс
+  - id: 1046166
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2ede43fd20e114c5
+    name: Astrid
+  - id: 1046168
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6025f68ac95d22d1
+    name: Emilie
+  - id: 1046169
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=88da175253f17ecb
+    name: dejected lad
+  - id: 1046170
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=20553c20cada3665
+    name: hopeless lass
+  - id: 1046171
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=992882d6884ce768
+    name: brassbound Wood Wailer
+  - id: 1046172
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5a110e0c3c7334c7
+    name: Lisette de Valentione
+  - id: 1046173
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5a289ac4fbe95e75
+    name: Hortefense
+  - id: 1046174
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=875b08a08dc22a64
+    name: Emilie
+  - id: 1046175
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2ed239d4d74b270b
+    name: demure damsel
+  - id: 1046176
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8682fdd3aaa8d4b9
+    name: Lisette de Valentione
+  - id: 1046177
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cc6844a8718c2902
+    name: Hortefense
+
+- name:
     original: "Suited for Affection"
     translated: "Влюблённость в образ"
   level: 15
@@ -2089,7 +2170,7 @@
     name: Лизетта де Валентионе
 
 - name:
-    original: "エッグハントと桃色のグゥーブー"
+    original: "The Princesses and the Eggs"
   level: 15
   icon: 61411
   url:
@@ -2101,45 +2182,45 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=89a1ec4915360290
   - id: 1046093
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f64e0656ec4a3d54
-    name: ジリ・アリアポー
+    name: Jihli Aliapoh
   - id: 1046094
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a457c3285dc3995c
-    name: ノノッタ
+    name: Nonotta
   - id: 1046095
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b720520ad6eb327f
-    name: 執事王
+    name: royal seneschal
   - id: 1046096
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4ba4bc959cf8368f
-    name: アルデムンド
+    name: Aldemund
   - id: 1046097
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9d4b66646c522977
-    name: ピティー
+    name: Peatie
   - id: 1046098
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9dcacb89c3fe0f26
-    name: 執事王
+    name: royal seneschal
   - id: 1046099
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c783f3a9fe7a160e
-    name: 朗らかな男性
+    name: enthused man
   - id: 1046100
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ed3d52f96e3c9c6d
-    name: チョコボ厩務員の男性
+    name: chocobokeep
   - id: 1046101
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c92483baac093253
   - id: 1046102
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=de6539fe173404e9
-    name: 無邪気な少女
+    name: curious lass
   - id: 1046103
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8aa95a63744260b3
   - id: 1046214
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d7d5ce4a686dfcc2
-    name: 桃色のグゥーブー
+    name: pink goobbue
   - id: 1046216
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=758a5de0446d2bba
   - id: 1046217
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e6fb8a7358dfc499
   - id: 1046249
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=44808c594d2e6abe
-    name: アルデムンド
+    name: Aldemund
   eobjects:
   - id: 2013530
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=cd2e5ca380b03530
@@ -2147,7 +2228,7 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ad278cbbe43a714e
 
 - name:
-    original: "プリンセスデーに咲く笑顔の花"
+    original: "Peatie in Pink"
   level: 15
   icon: 61411
   url:
@@ -2157,52 +2238,52 @@
   actors:
   - id: 1046060
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3371684362e55ecd
-    name: ピティー
+    name: Peatie
   - id: 1046093
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f64e0656ec4a3d54
-    name: ジリ・アリアポー
+    name: Jihli Aliapoh
   - id: 1046094
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a457c3285dc3995c
-    name: ノノッタ
+    name: Nonotta
   - id: 1046096
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4ba4bc959cf8368f
-    name: アルデムンド
+    name: Aldemund
   - id: 1046097
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9d4b66646c522977
-    name: ピティー
+    name: Peatie
   - id: 1046098
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9dcacb89c3fe0f26
-    name: 執事王
+    name: royal seneschal
   - id: 1046104
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a88143ff0df33faa
-    name: 執事王
+    name: royal seneschal
   - id: 1046105
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7ab3a90b299a5950
-    name: 買い物中のウルダハ市民
+    name: distracted citizen
   - id: 1046106
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7368ba242faab03d
-    name: おしとやかなウルダハ市民
+    name: elegant citizen
   - id: 1046107
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2a458ae12a794689
-    name: 暇そうなウルダハ市民
+    name: nonchalant citizen
   - id: 1046108
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=25bc720afe38e81f
-    name: 執事王
+    name: royal seneschal
   - id: 1046109
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=46b8036113209fbd
-    name: アルデムンド
+    name: Aldemund
   - id: 1046110
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d617b850b1c10de9
-    name: ピティー
+    name: Peatie
   - id: 1046125
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=92d425748cab60f7
-    name: ジリ・アリアポー
+    name: Jihli Aliapoh
   eobjects:
   - id: 2013531
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ad278cbbe43a714e
   - id: 2013532
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=46dba4ac53cff545
-    name: 指定地点
+    name: destination
 
 - name:
     original: "Inheritance"
@@ -2444,7 +2525,7 @@
     name: Алдиша
   - id: 1033537
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3280831821a392a7
-    name: Hyuran boy
+    name: Мальчик
   - id: 1033538
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f47bb05d3d68aab4
     name: Miqo'te girl
@@ -4753,7 +4834,7 @@
     desc: "Carrying an object in your arms, growing wearier with each passing second."
 
 - name:
-    original: "ゴールドソーサーとカッパの謎"
+    original: "Of Impish Importance"
   level: 15
   icon: 61411
   url:
@@ -4788,7 +4869,7 @@
     name: mascot-loving maiden
   - id: 1046187
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=af3f7fdd081d3d6f
-    name: 連勝中の少女
+    name: demanding daughter
   - id: 1046188
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a94bbd5130ccdc9c
   - id: 1046189
@@ -4796,7 +4877,7 @@
     name: Quevain
   - id: 1046191
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=505299afd8a1ba30
-    name: カッパ
+    name: water imp
   - id: 1046194
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=29dde7fe8e070351
     name: Quevain
@@ -8639,7 +8720,7 @@
     name: Hyuran girl
   - id: 1015810
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=71151f50b24b0e32
-    name: Hyuran boy
+    name: Мальчик
   - id: 1015817
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5c9a077bb22bd10f
     name: worried matron
@@ -8733,7 +8814,7 @@
     name: Hyuran girl
   - id: 1015821
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=99968dc75e4fedfb
-    name: Hyuran boy
+    name: Мальчик
   - id: 1015822
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ea8c34c7367ee68e
     name: Elezen girl
@@ -9538,6 +9619,7 @@
 
 - name:
     original: "Blue Starlight"
+    translated: "Синий Звёздный Свет"
   level: 15
   icon: 61411
   url:
@@ -9547,45 +9629,46 @@
   actors:
   - id: 1045733
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b35945fcc49a7f39
-    name: Amh Garanjy
+    name: Амх Гаранжи
   - id: 1045734
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bf49b6c532125d1b
-    name: Saulinne
+    name: Саулинна
   - id: 1045735
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f904557032bc90ee
-    name: Tenny
+    name: Тэнни
   - id: 1045739
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6c886cdcf8dc8a19
-    name: Saint of Nymeia
+    name: Святой Нимейя
   - id: 1045741
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=41c2fe1f653fced4
-    name: bearded lady
+    name: Бородатая леди
   - id: 1045742
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=80695dcb7128b4e2
-    name: Amh Garanjy
+    name: Амх Гаранжи
   - id: 1045743
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ddba50a770960c7f
-    name: Saulinne
+    name: Саулинна
   - id: 1045744
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5bffcbe7eedb3b7b
-    name: playful poppet
+    name: Игривый мальчуган
   - id: 1045745
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e8860222e3ab29d0
-    name: cheerful cherub
+    name: Радостный ребёнок
   - id: 1045746
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2949aafdb09b8649
-    name: watchful Wailer
+    name: Бдительная Лесная Тень
   - id: 1045747
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=41703f8ffd192393
   - id: 1045800
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ee2a92af5b319328
-    name: Tenny
+    name: Тэнни
   - id: 1045818
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7abf15e541c2ad4a
-    name: Saulinne
+    name: Саулинна
 
 - name:
     original: "Together at a Distance"
+    translated: "На расстоянии, но вместе"
   level: 15
   icon: 61411
   url:
@@ -9595,50 +9678,51 @@
   actors:
   - id: 1045733
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b35945fcc49a7f39
-    name: Amh Garanjy
+    name: Амх Гаранжи
   - id: 1045734
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bf49b6c532125d1b
-    name: Saulinne
+    name: Саулинна
   - id: 1045735
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f904557032bc90ee
-    name: Tenny
+    name: Тэнни
   - id: 1045736
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d53a20b99a62748b
   - id: 1045737
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e72caf8058eeef09
   - id: 1045739
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6c886cdcf8dc8a19
-    name: Saint of Nymeia
+    name: Святой Нимейя
   - id: 1045742
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=80695dcb7128b4e2
-    name: Amh Garanjy
+    name: Амх Гаранжи
   - id: 1045748
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=db44a36a8378484c
-    name: Tenny
+    name: Тэнни
   - id: 1045749
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=00b1d7689305cb45
-    name: Saulinne
+    name: Саулинна
   - id: 1045750
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9cc1e6ad937e0776
-    name: Momolao
+    name: Момолао
   - id: 1045751
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dc7aad2829051304
-    name: Larkin
+    name: Ларкин
   - id: 1045752
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e454dda0fa979cb2
-    name: Othuel
+    name: Офель
   quest_items:
   - id: 2003466
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=72fbb3bcea1966a8
-    name: woven bracelet
+    name: Вязаный браслет
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=72fbb3bcea1966a8
   - id: 2003467
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=782ccbfa06ef2ede
-    name: engraved bracelet
+    name: Гравированный браслет
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=782ccbfa06ef2ede
 
 - name:
     original: "Starlight Surprise"
+    translated: "Подарок на Звёздный Свет"
   level: 15
   icon: 61413
   url:
@@ -9691,7 +9775,7 @@
     name: Амелианс
   - id: 1045742
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=80695dcb7128b4e2
-    name: Amh Garanjy
+    name: Амх Гаранжи
   eobjects:
   - id: 2013422
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=082c940239ced705
@@ -9941,7 +10025,7 @@
     name: Амх Гаранджи
   - id: 1040625
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ab4215c197572f14
-    name: Saint of Nymeia
+    name: Святой Нимейя
   eobjects:
   - id: 2012043
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=4b19da5c499a538a
