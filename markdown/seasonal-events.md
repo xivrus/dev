@@ -736,3 +736,19 @@ quest_list: seasonal
 	{% include quest.liquid quest_name = "A Little Help (The Goblet)" %}
 	{% include quest.liquid quest_name = "Going the Extra Smile" %}
 </ul>
+
+## Особые события
+
+### A Nocturne for Heroes (коллаб. с FFXV, 2019) {#collab-ffxv}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "The Man in Black" %}
+	{% include quest.liquid quest_name = "In the Dark of Night" %}
+	{% include quest.liquid quest_name = "Messenger of the Winds" %}
+</ul>
+
+### The Maiden's Rhapsody (коллаб. с FFXI, 2015) {#collab-ffxi}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "A Journey to Remember" %}
+</ul>

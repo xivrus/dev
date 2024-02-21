@@ -802,6 +802,7 @@
 
 - name:
     original: "The Symbol of Love"
+    translated: "Жест любви"
   level: 15
   icon: 61411
   url:
@@ -817,13 +818,13 @@
     name: Эмили
   - id: 1046166
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2ede43fd20e114c5
-    name: Astrid
+    name: Астрид
   - id: 1046167
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0f143eea4cd4b6d0
-    name: Emilie
+    name: Эмили
   - id: 1046168
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6025f68ac95d22d1
-    name: Emilie
+    name: Эмили
   - id: 1046192
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=531e9492aaf65033
   - id: 1046193
@@ -831,6 +832,7 @@
 
 - name:
     original: "It's All about Heart"
+    translated: "Сердечко покажет"
   level: 15
   icon: 61411
   url:
@@ -849,37 +851,37 @@
     name: Ортфенс
   - id: 1046166
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2ede43fd20e114c5
-    name: Astrid
+    name: Астрид
   - id: 1046168
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6025f68ac95d22d1
-    name: Emilie
+    name: Эмили
   - id: 1046169
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=88da175253f17ecb
-    name: dejected lad
+    name: Отвергнутый парень
   - id: 1046170
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=20553c20cada3665
-    name: hopeless lass
+    name: Безнадёжная дама
   - id: 1046171
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=992882d6884ce768
-    name: brassbound Wood Wailer
+    name: Лесная Тень в замешательстве
   - id: 1046172
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5a110e0c3c7334c7
-    name: Lisette de Valentione
+    name: Лизетта де Валентионе
   - id: 1046173
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5a289ac4fbe95e75
-    name: Hortefense
+    name: Ортфенс
   - id: 1046174
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=875b08a08dc22a64
-    name: Emilie
+    name: Эмили
   - id: 1046175
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2ed239d4d74b270b
-    name: demure damsel
+    name: Смущённая дамочка
   - id: 1046176
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8682fdd3aaa8d4b9
-    name: Lisette de Valentione
+    name: Лизетта де Валентионе
   - id: 1046177
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cc6844a8718c2902
-    name: Hortefense
+    name: Ортфенс
 
 - name:
     original: "Suited for Affection"
@@ -11256,4 +11258,183 @@
   - id: 2005051
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=30c529b366a190a3
     name: Цель
+
+- name:
+    original: "A Journey to Remember"
+  level: 30
+  icon: 61411
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-022-fesevn101_02206/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e55866f4b7b03f95
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=fd9f1dec464f2658
+  actors:
+  - id: 1016141
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b58b6fdcd3690e31
+    name: Ремуму
+  - id: 1016142
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7c54c483cfee9325
+    name: Ироха
+  - id: 1016143
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=68bb050b0881b178
+    name: Ремуму
+  - id: 1016144
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7834a84d3eac53fa
+    name: Ремуму
+  - id: 1016145
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=72d12cfc62cfac35
+    name: Ироха
+  - id: 1016146
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a0e752ded030b540
+    name: Ироха
+  - id: 1016147
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96bbc60a53b79fe6
+    name: Ироха
+  - id: 1016148
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a96ad4ab1957b82a
+    name: Ироха
+  fates:
+  - id: 932
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/fate/ru/?checksum=c829f0861eae16d5
+    name: Наше любимое занятие
+  - id: 933
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/fate/ru/?checksum=2d8f21ad4ff63a08
+    name: Путь самурая
+  - id: 934
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/fate/ru/?checksum=7799474d8f90b555
+    name: Серкет памяти
+  - id: 935
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/fate/ru/?checksum=daba7f6547011a23
+    name: "Ключ к познанию <var 1A 02 /var>Амацу: Кёри<var 1A 01 /var>"
+  quest_items:
+  - id: 2001928
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=0291a1e5b6f19648
+    name: осколок оптистоуна
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=0291a1e5b6f19648
+  - id: 2001929
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=05b9321c2a37e64b
+    name: осколок аурастоуна
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=05b9321c2a37e64b
+  - id: 2001930
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=d2fa36dafd36e016
+    name: осколок орастоуна
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=d2fa36dafd36e016
+  eobjects:
+  - id: 2006700
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=dd1a94b9a86e1d04
+    name: Цель
+
+- name:
+    original: "The Man in Black"
+  level: 50
+  icon: 61411
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-031-fesbkc001_03158/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b94033a47b9736e9
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=5e88e692f0b9c21d
+  actors:
+  - id: 1026849
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d8cfb4692654c181
+    name: Кипих Джаккия
+  - id: 1026850
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c6a359c609edabaa
+    name: Сид
+  - id: 1026851
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a7cfb9531741cf5d
+    name: Ironworks hand
+  - id: 1026866
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2d9a816f68abfcc7
+    name: Noctis
+  - id: 1026913
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=13e5f54b08128b79
+  - id: 1026914
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b1fb88fb95874735
+  - id: 1026915
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5f2733728954ed28
+  - id: 1026916
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=68d7fd1dd71c83ba
+    name: Сид
+  - id: 1026917
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d9efb96b59c27ddf
+  fates:
+  - id: 1409
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/fate/ru/?checksum=2c7b9b7416004379
+    name: Like Clockwork
+  eobjects:
+  - id: 2009661
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=863bee77505f6946
+    name: Цель
+  - id: 2009662
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a3eb0bf1e32979d4
+    name: Цель
+
+- name:
+    original: "In the Dark of Night"
+  level: 50
+  icon: 61411
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-031-fesbkc002_03159/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=87fea29e2418f86b
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=ed2734669042e631
+  actors:
+  - id: 1000227
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3fb5769a68bee296
+    name: Hadrefort
+  - id: 1000257
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=01a98a25ab00ae20
+    name: Митания
+  - id: 1006694
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=20b7ad68709f00e9
+    name: Roustebant
+  - id: 1026849
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d8cfb4692654c181
+    name: Кипих Джаккия
+  - id: 1026866
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2d9a816f68abfcc7
+    name: Noctis
+  - id: 1026867
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c997fd08948bbae0
+    name: Кипих Джаккия
+  - id: 1026870
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2486e670b8522e96
+    name: Noctis
+  - id: 1026871
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c820cc0f5adcad8b
+    name: Noctis
+  - id: 1026875
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=88d89feab7cb6071
+    name: Noctis
+  eobjects:
+  - id: 2009664
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=71c7288602159145
+    name: Цель
+  - id: 2009665
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=424192114ad1c11f
+
+- name:
+    original: "Messenger of the Winds"
+  level: 50
+  icon: 61411
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-031-fesbkc003_03160/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9322e3ff3b72c282
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=cbffd1e0cc4f422b
+  actors:
+  - id: 1026867
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c997fd08948bbae0
+    name: Кипих Джаккия
+  - id: 1026868
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1fc782197988bce4
+    name: Noctis
+  - id: 1026869
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=57f44fbb421861a7
+    name: Кипих Джаккия
+  - id: 1026870
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2486e670b8522e96
+    name: Noctis
+  - id: 1026872
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c98f24816346e073
+    name: Noctis
+  eobjects:
+  - id: 2009666
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=248616385c76bef2
 
