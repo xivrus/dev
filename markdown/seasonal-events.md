@@ -752,3 +752,11 @@ quest_list: seasonal
 <ul markdown="0">
 	{% include quest.liquid quest_name = "A Journey to Remember" %}
 </ul>
+
+### Коллаборация с FFXVI, 2024 {#collab-ffxvi}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "A Land on Fire" %}
+	{% include quest.liquid quest_name = "Pain to Recall" %}
+	{% include quest.liquid quest_name = "The Path Infernal" %}
+</ul>
