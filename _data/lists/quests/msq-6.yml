@@ -8444,20 +8444,56 @@
 
 - name:
     original: "Alzadaal's Legacy"
-    translated: "Наследие Альзадаала"
   level: 90
-  icon: 61801
+  icon: 61412
+  id: 4529
   url:
-    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-008-gaiusb303_00844/
-    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=11e77f6345838fd2
-    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=cfc04121db234cdc
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-045-aktkmh104_04529/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=195a0ce9050326fc
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=62aed1af2dbcfb2a
+  cutscenes:
+  - name: Кат-сцена
+    start: "001780"
+    end: "001950"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-061-voiceman_06100/
   actors:
-  - id: 1006307
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94287d3ca7c52f12
-    name: Etgar
-  - id: 1006310
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=abdf9ea9690054a6
-    name: Ul'dahn artist
+  - id: 1038053
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=71fa821eb2f2df36
+    name: Варшанн
+  - id: 1039585
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e3fca11480c83fa6
+    name: Эстиниен
+  - id: 1039586
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=320cb277e491b22e
+    name: Я'штола
+  - id: 1039587
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=415e924707a480ec
+    name: Г'раха Тиа
+  - id: 1039588
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a7aa2caf10e47fa5
+    name: Урианже
+  - id: 1039589
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2aff6064191fe209
+    name: Матсья
+  - id: 1039590
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0c87bd0ad70b80db
+    name: Г'раха Тиа
+  - id: 1039591
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3bca5486a5c9828d
+    name: Я'штола
+  - id: 1039592
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e03934e21a83d125
+    name: Урианже
+  - id: 1039593
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6a5d7146848ce931
+    name: Эстиниен
+  - id: 1039594
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fb4d0f55e44181c6
+    name: Варшанн
+  logmessages:
+  - id: 12
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/logmessage/ru/?checksum=8c84f3ba38a70822
+    name: "<var 08 E4EB02EB03 ((Вас)) ((<var 08 E908 ((<var 31 ((ObjStr)) 03E9080202 /var>)) EB03 /var>)) /var> больше нет в списке друзей."
 
 - name:
     original: "A Brother's Grief"
