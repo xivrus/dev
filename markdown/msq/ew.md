@@ -209,6 +209,10 @@ quest_list: msq-6
 
 ## Часть 2 {#ew-6-5-2}
 
-_В ожидании выпуска..._
+<ul markdown="0">
+	{% include quest.liquid quest_name = "When One Door Closes..." %}
+	{% include quest.liquid quest_name = "The Game Is Afoot" %}
+	{% include quest.liquid quest_name = "The Coming Dawn" %}
+</ul>
 
 _Продолжение следует в [Dawntrail]({{ '/markdown/msq/dt' | relative_url }})..._

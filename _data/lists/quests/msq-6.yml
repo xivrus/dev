@@ -11431,3 +11431,180 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b0c75a128b83c0f1
     name: Azdaja
 
+- name:
+    original: "When One Door Closes..."
+  level: 90
+  icon: 61412
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-047-aktkmm101_04751/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e10802b50e3bc45d
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=274d03d5b18757e6
+  cutscenes:
+  - name: Кат-сцена
+    start: "000010"
+    end: "000490"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-065-voiceman_06505/
+  actors:
+  - id: 1032779
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ed20970594e2a9fa
+    name: Г'раха Тиа
+  - id: 1038588
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a8e93fbbba300721
+    name: Ожика Сунжика
+  - id: 1039645
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e891f6e143d6597e
+    name: Варшанн
+  - id: 1045161
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=646c7619cb76d784
+    name: Крайл
+  - id: 1045691
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d78b8da82297e990
+    name: Крайл
+  - id: 1045692
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=267794bbfdaf3f1c
+    name: Г'раха Тиа
+
+- name:
+    original: "The Game Is Afoot"
+  level: 90
+  icon: 61412
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-047-aktkmm102_04752/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6072db05f2bf4ef0
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=183cc439cff56f90
+  cutscenes:
+  - name: Кат-сцена 1
+    start: "000500"
+    end: "000710"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-065-voiceman_06505/
+  - name: Кат-сцена 2
+    start: "000720"
+    end: "000850"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-065-voiceman_06505/
+  - name: Кат-сцена 3
+    start: "000860"
+    end: "001400"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-065-voiceman_06505/
+  - name: Кат-сцена 4
+    start: "001410"
+    end: "001790"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-065-voiceman_06505/
+  actors:
+  - id: 1015833
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4d30a9e06e6c72c8
+    name: Крайл
+  - id: 1037077
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=390c085d4af6878d
+    name: Дикон
+  - id: 1045691
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d78b8da82297e990
+    name: Крайл
+  - id: 1045692
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=267794bbfdaf3f1c
+    name: Г'раха Тиа
+  - id: 1045693
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=67ed0380512abf9e
+    name: Эренвилль
+  - id: 1045694
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b0ded8f917ad58ae
+    name: Вук Ламат
+  - id: 1045695
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a69c7da468ba1560
+    name: Вук Ламат
+  - id: 1045696
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=614ef6bf33c9f0ba
+    name: Эренвилль
+  - id: 1045697
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f35b2cedc19b1ffe
+    name: Г'раха Тиа
+  - id: 1045698
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a4111eb03603713a
+    name: Крайл
+  - id: 1045699
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=be3242a02d4973de
+    name: Эренвилль
+  - id: 1045700
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3a6aef86de5f6451
+    name: Г'раха Тиа
+  eobjects:
+  - id: 2013415
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ecf7aa40d1846990
+  logmessages:
+  - id: 6
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/logmessage/ru/?checksum=9d3a4676d8788b21
+
+- name:
+    original: "The Coming Dawn"
+  level: 90
+  icon: 61412
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-047-aktkmm103_04753/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6c30730ae1ff4ed3
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=8bc73f3aa7f2e2e4
+  cutscenes:
+  - name: Кат-сцена 1
+    start: "001800"
+    end: "002000"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-065-voiceman_06505/
+  - name: Кат-сцена 2
+    start: "002010"
+    end: "002355"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-065-voiceman_06505/
+  - name: Кат-сцена 3
+    start: "002360"
+    end: "002410"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-065-voiceman_06505/
+  - name: Кат-сцена 4
+    start: "002420"
+    end: "002520"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-065-voiceman_06505/
+  - name: Кат-сцена 5
+    start: "002530"
+    end: "002550"
+    url: https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-065-voiceman_06505/
+  actors:
+  - id: 1032779
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ed20970594e2a9fa
+    name: Г'раха Тиа
+  - id: 1036118
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dc8dfe56d76afc7d
+    name: Альфино
+  - id: 1036119
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6a9b3fb1abff0f56
+    name: Ализе
+  - id: 1038588
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a8e93fbbba300721
+    name: Ожика Сунжика
+  - id: 1045700
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3a6aef86de5f6451
+    name: Г'раха Тиа
+  - id: 1045701
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bfc1b8422a6784fe
+    name: Г'раха Тиа
+  - id: 1045702
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5688b5e0873ed69d
+    name: Г'раха Тиа
+  - id: 1045703
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5ede48493411c93c
+    name: Г'раха Тиа
+  eobjects:
+  - id: 2013416
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=645afeb4a1942dd1
+    name: unblemished book
+  - id: 2013417
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=09c4622867ec66d6
+    name: faded tome
+  - id: 2013418
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=26f52c2f71f00764
+    name: leather-bound book
+  - id: 2013419
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=1c0841f32fac1817
+    name: blue-covered book
+  - id: 2013420
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=3c39de79953dbd25
+    name: Цель
+  logmessages:
+  - id: 34
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/logmessage/ru/?checksum=664176b2cfafdd92
+    name: "<var 08 E909 ((<var 28 ((ObjStr)) E90901 /var>)) EB04 /var> хочет торговать с вами."
+
