@@ -1,0 +1,1554 @@
+- name:
+    original: "The Hunt for Omega"
+  level: 70
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-029-stmbdr101_02928/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c02ec4028d6c3cc7
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=1cae9a3f00ce84c8
+  actors:
+  - id: 1003836
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=21dd0f1dbf021d57
+    name: Биггс
+  - id: 1003837
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3cf6b269f9bcf8ab
+    name: Ведж
+  - id: 1011900
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c76a9f43ad97f65d
+    name: Сид
+  - id: 1012464
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d24cd6559cf5b7f5
+    name: Мидгардсомр
+  - id: 1019564
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4fb49b61206e688a
+    name: Неро тол Сцева
+  - id: 1019565
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f909b9b7e304e686
+    name: Джесси
+  - id: 1021678
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a34650ae3aa21316
+    name: Alpha
+  - id: 1021925
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3eb706282bd88f7f
+    name: Биггс
+  - id: 1021926
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ed3cf93d90a09d69
+    name: Ведж
+  - id: 1021927
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9a06e8e51a67fac9
+    name: Сид
+  - id: 1021928
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0bdc2da9456b5cc5
+    name: Неро тол Сцева
+  - id: 1021929
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9db8f45d232f2279
+    name: Джесси
+  - id: 1021930
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a25829d0328ba6ba
+    name: Биггс
+  - id: 1021931
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0e11279b80facbbf
+    name: Ведж
+  - id: 1021932
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=597301cb6e503e6c
+    name: Ironworks hand
+  - id: 1021933
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b027c4628cb214ba
+    name: Сид
+  - id: 1021934
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e354fb3315b31b0e
+    name: Неро тол Сцева
+  - id: 1021935
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1faa72dbbc781e85
+    name: Биггс
+  - id: 1021936
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=081a3974cc5b86c7
+    name: Ведж
+  - id: 1021937
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=60fa7b218d7a7d0f
+    name: Сид
+  - id: 1021938
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8cf58974d3a2dcb6
+    name: Неро тол Сцева
+  - id: 1021939
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1384d8e1e06bab2f
+    name: Биггс
+  - id: 1021940
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8676a7cbfa62d079
+    name: Ведж
+  - id: 1021941
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d3ecc822fa3d2e59
+    name: Чокобо
+  - id: 1021942
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=290a35def1aab4b1
+    name: Сид
+  - id: 1021943
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=be365a362b13f279
+    name: Неро тол Сцева
+  - id: 1021944
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=28d31cf96a1080d4
+    name: Биггс
+  - id: 1021945
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9d2ac66930e28fd8
+    name: Ведж
+  - id: 1021946
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=01cee8b8234f9290
+    name: Alpha
+  - id: 1021947
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4f9c2e9faaa3bee4
+    name: Ironworks hand
+  eobjects:
+  - id: 2007940
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=dec50ac5414df39f
+    name: Вход
+
+- name:
+    original: "Into the Deltascape"
+  level: 70
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-029-stmbdr102_02929/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=83405d6a028cb0f8
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=df294398238a3c7f
+  actors:
+  - id: 1003836
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=21dd0f1dbf021d57
+    name: Биггс
+  - id: 1003837
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3cf6b269f9bcf8ab
+    name: Ведж
+  - id: 1011900
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c76a9f43ad97f65d
+    name: Сид
+  - id: 1012464
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d24cd6559cf5b7f5
+    name: Мидгардсомр
+  - id: 1019564
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4fb49b61206e688a
+    name: Неро тол Сцева
+  - id: 1021678
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a34650ae3aa21316
+    name: Alpha
+  - id: 1021942
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=290a35def1aab4b1
+    name: Сид
+  - id: 1021943
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=be365a362b13f279
+    name: Неро тол Сцева
+  - id: 1021944
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=28d31cf96a1080d4
+    name: Биггс
+  - id: 1021945
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9d2ac66930e28fd8
+    name: Ведж
+  - id: 1021946
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=01cee8b8234f9290
+    name: Alpha
+  - id: 1021947
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4f9c2e9faaa3bee4
+    name: Ironworks hand
+  - id: 1023623
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7669f78acc5bc040
+    name: Биггс
+  - id: 1023624
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4a828c7a8b3fa56c
+    name: Ведж
+
+- name:
+    original: "A Catastrophe Waiting"
+  level: 70
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-029-stmbdr103_02930/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ec1c131d599fcfba
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=c594c6551af14f49
+  actors:
+  - id: 1021942
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=290a35def1aab4b1
+    name: Сид
+  - id: 1021943
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=be365a362b13f279
+    name: Неро тол Сцева
+  - id: 1021946
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=01cee8b8234f9290
+    name: Alpha
+  - id: 1021947
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4f9c2e9faaa3bee4
+    name: Ironworks hand
+
+- name:
+    original: "The Croak Queen"
+  level: 70
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-029-stmbdr104_02931/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2e3395d6545b1348
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=3cce5701cf9598a0
+  actors:
+  - id: 1012464
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d24cd6559cf5b7f5
+    name: Мидгардсомр
+  - id: 1019564
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4fb49b61206e688a
+    name: Неро тол Сцева
+  - id: 1021678
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a34650ae3aa21316
+    name: Alpha
+  - id: 1021942
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=290a35def1aab4b1
+    name: Сид
+  - id: 1021943
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=be365a362b13f279
+    name: Неро тол Сцева
+  - id: 1021946
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=01cee8b8234f9290
+    name: Alpha
+  - id: 1021947
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4f9c2e9faaa3bee4
+    name: Ironworks hand
+
+- name:
+    original: "A Void at All Costs"
+  level: 70
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-029-stmbdr105_02932/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=34347ef0321e9baa
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=2a4815db7f468218
+  actors:
+  - id: 1019564
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4fb49b61206e688a
+    name: Неро тол Сцева
+  - id: 1021678
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a34650ae3aa21316
+    name: Alpha
+  - id: 1021942
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=290a35def1aab4b1
+    name: Сид
+  - id: 1021943
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=be365a362b13f279
+    name: Неро тол Сцева
+  - id: 1021946
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=01cee8b8234f9290
+    name: Alpha
+  - id: 1021947
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4f9c2e9faaa3bee4
+    name: Ironworks hand
+  - id: 1021949
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d661321b915c060c
+    name: Сид
+  - id: 1021950
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=04cb9fbec18f12c0
+    name: Неро тол Сцева
+  - id: 1021951
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=483f1486e45af66a
+    name: Alpha
+
+- name:
+    original: "The Anomaly"
+  level: 70
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-029-stmbdr106_02933/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4484afef43a56a82
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=ddeccda2f46e004d
+  actors:
+  - id: 1011900
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c76a9f43ad97f65d
+    name: Сид
+  - id: 1019564
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4fb49b61206e688a
+    name: Неро тол Сцева
+  - id: 1019565
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f909b9b7e304e686
+    name: Джесси
+  - id: 1021678
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a34650ae3aa21316
+    name: Alpha
+  - id: 1021947
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4f9c2e9faaa3bee4
+    name: Ironworks hand
+  - id: 1021949
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d661321b915c060c
+    name: Сид
+  - id: 1021950
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=04cb9fbec18f12c0
+    name: Неро тол Сцева
+  - id: 1021951
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=483f1486e45af66a
+    name: Alpha
+  - id: 1021952
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a94b0ea6a7579b12
+    name: Сид
+  - id: 1021953
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9319c6e615f04e89
+    name: Неро тол Сцева
+  - id: 1021954
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3825598bd6c5fb31
+    name: Alpha
+  - id: 1021955
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dfec22b47ebe344d
+    name: Биггс
+  - id: 1021956
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2e2701dd5876729e
+    name: Ведж
+  - id: 1021957
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=baeacfbe7508e9c0
+  - id: 1023684
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=86ac4603131a18b6
+    name: Сид
+  - id: 1023685
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=30f5bf6213f66cd5
+    name: Неро тол Сцева
+  - id: 1023686
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6d5e3fe041004b81
+    name: Alpha
+  - id: 1023687
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5647c86643ed908a
+    name: Джесси
+  eobjects:
+  - id: 2007781
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c794643a074565ca
+    name: Выход
+
+- name:
+    original: "Return to the Rift"
+  level: 70
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-030-stmbdr201_03031/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e95590e86032a18e
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=b81a413181f9f80d
+  actors:
+  - id: 1012464
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d24cd6559cf5b7f5
+    name: Мидгардсомр
+  - id: 1021933
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b027c4628cb214ba
+    name: Сид
+  - id: 1021934
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e354fb3315b31b0e
+    name: Неро тол Сцева
+  - id: 1021947
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4f9c2e9faaa3bee4
+    name: Ironworks hand
+  - id: 1023687
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5647c86643ed908a
+    name: Джесси
+  - id: 1024746
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=aa20637811f609d3
+    name: Alpha
+  - id: 1024786
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3fe387e877da2630
+    name: Alpha
+  - id: 1024788
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=779ef28373222bfb
+    name: Сид
+  - id: 1024789
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e798ed6a06a5e7ba
+    name: Неро
+  eobjects:
+  - id: 2008975
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=3123af3dabd32f46
+
+- name:
+    original: "No Slowing Down"
+  level: 70
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-030-stmbdr202_03032/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2a11d3441dc9dcb2
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=462c5df83d0c0bf4
+  actors:
+  - id: 1021947
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4f9c2e9faaa3bee4
+    name: Ironworks hand
+  - id: 1024747
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b6b6494cff772b3d
+    name: Alpha
+  - id: 1024786
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3fe387e877da2630
+    name: Alpha
+  - id: 1024787
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c48360b190906209
+    name: Неро
+  - id: 1024788
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=779ef28373222bfb
+    name: Сид
+  - id: 1024789
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e798ed6a06a5e7ba
+    name: Неро
+
+- name:
+    original: "An Unfinished Masterpiece"
+  level: 70
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-030-stmbdr203_03033/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=39075492d99308ab
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=fff7bfb59ab64c47
+  actors:
+  - id: 1021937
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=60fa7b218d7a7d0f
+    name: Сид
+  - id: 1021947
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4f9c2e9faaa3bee4
+    name: Ironworks hand
+  - id: 1024747
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b6b6494cff772b3d
+    name: Alpha
+  - id: 1024749
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a216db7c9e4cb8e7
+    name: Биггс
+  - id: 1024750
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f0d4065e5adfed54
+    name: Ведж
+  - id: 1024787
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c48360b190906209
+    name: Неро
+  - id: 1024788
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=779ef28373222bfb
+    name: Сид
+  - id: 1024789
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e798ed6a06a5e7ba
+    name: Неро
+  - id: 1024790
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d80659d0c3021e4e
+    name: Alpha
+  - id: 1025175
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a7c4bbeea45b1ed4
+    name: Alpha
+  eobjects:
+  - id: 2008985
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=175ae7b5c205c7b4
+
+- name:
+    original: "Won't Let You Pass"
+  level: 70
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-030-stmbdr204_03034/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7894437c74e3b8f6
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=8527caf2a0aa47b9
+  actors:
+  - id: 1021947
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4f9c2e9faaa3bee4
+    name: Ironworks hand
+  - id: 1024747
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b6b6494cff772b3d
+    name: Alpha
+  - id: 1024749
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a216db7c9e4cb8e7
+    name: Биггс
+  - id: 1024750
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f0d4065e5adfed54
+    name: Ведж
+  - id: 1024788
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=779ef28373222bfb
+    name: Сид
+  - id: 1024853
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4203e0cde9431f53
+    name: Неро
+
+- name:
+    original: "Test World of Ruin"
+  level: 70
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-030-stmbdr205_03035/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=fe2c55d51b41dcf2
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=eadc76c8b65d4f36
+  actors:
+  - id: 1021947
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4f9c2e9faaa3bee4
+    name: Ironworks hand
+  - id: 1023687
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5647c86643ed908a
+    name: Джесси
+  - id: 1024747
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b6b6494cff772b3d
+    name: Alpha
+  - id: 1024781
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=977b8c2a744e0683
+  - id: 1024782
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8adede9710604e63
+  - id: 1024783
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b46fdddb77332c8c
+  - id: 1024784
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9f6039e1b3565700
+    name: Alpha
+  - id: 1024785
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5874bd4567975a05
+    name: Alpha
+  - id: 1024788
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=779ef28373222bfb
+    name: Сид
+  - id: 1024853
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4203e0cde9431f53
+    name: Неро
+
+- name:
+    original: "In the Beginning, There Was Chaos"
+  level: 70
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-031-stmbdr301_03154/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=fe51f766336509f7
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=cc9d3fdc0e7b0780
+  actors:
+  - id: 1021937
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=60fa7b218d7a7d0f
+    name: Сид
+  - id: 1021947
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4f9c2e9faaa3bee4
+    name: Ironworks hand
+  - id: 1023687
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5647c86643ed908a
+    name: Джесси
+  - id: 1025175
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a7c4bbeea45b1ed4
+    name: Alpha
+  - id: 1026450
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=26f53826e41d8c54
+    name: Сид
+  - id: 1026451
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=872a020ad7ea667c
+  - id: 1026453
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=575b8cd6b8bbfe3d
+    name: Альфа
+  - id: 1026454
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=33ea762a4147eae3
+    name: Альфа
+  eobjects:
+  - id: 2009611
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=3529273c2c13bc4c
+
+- name:
+    original: "And Like Fire Was His Mane"
+  level: 70
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-031-stmbdr302_03155/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ea2a45b2cd0be6e1
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=f1430760bfe4beef
+  actors:
+  - id: 1021947
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4f9c2e9faaa3bee4
+    name: Ironworks hand
+  - id: 1026450
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=26f53826e41d8c54
+    name: Сид
+  - id: 1026452
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=69418a3fc7c99039
+    name: Сид
+  - id: 1026453
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=575b8cd6b8bbfe3d
+    name: Альфа
+
+- name:
+    original: "In the End, There Is Omega"
+  level: 70
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-031-stmbdr303_03156/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=75319c041dc158c2
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=512f712250235787
+  actors:
+  - id: 1021937
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=60fa7b218d7a7d0f
+    name: Сид
+  - id: 1021939
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1384d8e1e06bab2f
+    name: Биггс
+  - id: 1021940
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8676a7cbfa62d079
+    name: Ведж
+  - id: 1021947
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4f9c2e9faaa3bee4
+    name: Ironworks hand
+  - id: 1023687
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5647c86643ed908a
+    name: Джесси
+  - id: 1024746
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=aa20637811f609d3
+    name: Alpha
+  - id: 1025175
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a7c4bbeea45b1ed4
+    name: Alpha
+  - id: 1026450
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=26f53826e41d8c54
+    name: Сид
+  - id: 1026453
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=575b8cd6b8bbfe3d
+    name: Альфа
+  - id: 1026455
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f673c1d3ef591b55
+    name: Альфа
+  - id: 1026456
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0f0a10420d0525e2
+    name: Сид
+  - id: 1026458
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2470b6ee39f82e7b
+    name: Альфа
+  - id: 1026459
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7acb4e3d57436b8e
+    name: Сид
+  - id: 1026460
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3896a5d902437272
+    name: Альфа
+  - id: 1026471
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=83748fdcad7f5d41
+    name: Omega
+  - id: 1026472
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8a18ae2854a0bde5
+    name: Сид
+  - id: 1026473
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=05688c214b372936
+    name: Альфа
+  eobjects:
+  - id: 2009608
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=20eacf9e0ed1c2b7
+    name: Цель
+
+- name:
+    original: "To Kweh under Distant Skies"
+  level: 70
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-031-stmbdr304_03157/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=edf2158a3beb2451
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=0c462c57f9f47ca3
+  actors:
+  - id: 1021937
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=60fa7b218d7a7d0f
+    name: Сид
+  - id: 1021939
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1384d8e1e06bab2f
+    name: Биггс
+  - id: 1021940
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8676a7cbfa62d079
+    name: Ведж
+  - id: 1023687
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5647c86643ed908a
+    name: Джесси
+  - id: 1024746
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=aa20637811f609d3
+    name: Alpha
+  - id: 1026465
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4d432d46fd4d7613
+    name: Альфа
+  - id: 1026466
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=19ac780a5bb0960f
+    name: Альфа
+  - id: 1026467
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b56b2a49ecb896da
+    name: Альфа
+  - id: 1026468
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=765f12019d0a5b14
+    name: Альфа
+  - id: 1026711
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6e44611c20b7f117
+    name: Сид
+  - id: 1026712
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=332d02b85175fb7f
+    name: Альфа
+  - id: 1026713
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0c5af9a3859f691c
+    name: Биггс
+  - id: 1026714
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5aa4c88b32794cb0
+    name: Ведж
+
+- name:
+    original: "Dramatis Personae"
+    translated: "Действующие лица"
+  level: 70
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-030-stmbdi101_03003/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8b50fcc3cad09cde
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=3c9857d402a1440a
+  actors:
+  - id: 1018994
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94bb1665d67b709b
+    name: Кэйтен
+  - id: 1024140
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0c9e962ae0be4a12
+    name: Лина Мьюрила
+  - id: 1024141
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eb3152ed31b91ef9
+    name: Альма
+  - id: 1024142
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bf318147c6375e0e
+    name: Рамза бас Лексенталь
+  - id: 1024143
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6b45a28997267f0e
+    name: Лина Мьюрила
+  - id: 1024144
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=905a202a9e793624
+    name: Альма бас Лексенталь
+  - id: 1024154
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2b65151e891a36a0
+    name: Альма
+  - id: 1024155
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=18a80cfb0dfe3444
+    name: Лина Мьюрила
+  - id: 1024157
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a0c188e27951995f
+    name: Пилот челнока
+  - id: 1024160
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=560f88fb7f859a30
+    name: Альма
+  - id: 1024161
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=04e2f76270d20199
+    name: Лина Мьюрила
+  eobjects:
+  - id: 2008621
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=40d3a6e682712d06
+
+- name:
+    original: "A City Fallen"
+    translated: "Падший город"
+  level: 70
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-030-stmbdi102_03004/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1cb870b9dd92568c
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=5b518761cc9f41c4
+  actors:
+  - id: 1024142
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bf318147c6375e0e
+    name: Рамза бас Лексенталь
+  - id: 1024143
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6b45a28997267f0e
+    name: Лина Мьюрила
+  - id: 1024144
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=905a202a9e793624
+    name: Альма бас Лексенталь
+  - id: 1024145
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6735a54278c545a8
+    name: Рамза бас Лексенталь
+  - id: 1024146
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1d18666eb368c80a
+    name: Лина Мьюрила
+  - id: 1024148
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c38eb25b7eae12ea
+    name: Дженомис сен Лексенталь
+  - id: 1024149
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94b6fa6d3a0e99be
+    name: Лина Мьюрила
+  - id: 1024158
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=989c48d59dc8caa9
+    name: Дженомис сен Лексенталь
+  - id: 1024159
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d14c516efe0459f0
+    name: Альма бас Лексенталь
+  - id: 1024491
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=45d6e9095995dda0
+    name: Рамза бас Лексенталь
+
+- name:
+    original: "Uninvited"
+  level: 70
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-030-stmbdi201_03089/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=57caf68c414f2331
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=6ce890839b4e5076
+  actors:
+  - id: 1024149
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94b6fa6d3a0e99be
+    name: Лина Мьюрила
+  - id: 1024155
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=18a80cfb0dfe3444
+    name: Лина Мьюрила
+  - id: 1024157
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a0c188e27951995f
+    name: Пилот челнока
+  - id: 1025499
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=00f63e72a0f3be4b
+    name: Hurdy
+  - id: 1025586
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=69e12b99ab098b48
+    name: Лина Мьюрила
+  - id: 1025587
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=da30641f25aae81e
+    name: Montblanc
+  - id: 1025588
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5f449506b0a539f7
+    name: Hurdy
+  - id: 1025590
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f13adcf57982083b
+    name: moogle
+  - id: 1025591
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=60fe1a262ee5c2a2
+    name: Лина Мьюрила
+  - id: 1025594
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=731cd788435f16e6
+    name: Mikoto
+  - id: 1025647
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e7f3d34d771b3c32
+    name: Альма бас Лексенталь
+  - id: 1025648
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=33b035aaead2a224
+    name: Дженомис сен Лексенталь
+  - id: 1025649
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6b779c6e0682f599
+    name: Рамза бас Лексенталь
+  - id: 1025650
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ed5de937aa71805d
+    name: Лина Мьюрила
+  - id: 1025651
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f2d9419c58c3bc54
+    name: Hurdy
+  - id: 1025652
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=af67506f2a325910
+    name: Рамза бас Лексенталь
+  - id: 1025729
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bdfc7bdf1ee4623a
+    name: Дженомис сен Лексенталь
+  - id: 1025734
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=21b31ffa6048c8dd
+  - id: 1025735
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=56048abd6a0a881a
+  enemies:
+  - id: 6943
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=79ce326756d3d65f
+    name: Красный чокобо
+  eobjects:
+  - id: 2009479
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e03cfd97468808e0
+
+- name:
+    original: "Desire"
+  level: 70
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-030-stmbdi203_03091/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ff2f532e83fe303a
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=efa1d8eb1c642091
+  actors:
+  - id: 1025500
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=09292824e098de14
+    name: Gijuk
+  - id: 1025509
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=22a860d9abe6c1d0
+    name: Rinok
+  - id: 1025510
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=519e66812a7a1f6b
+    name: Bwagi
+  - id: 1025511
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7dc9d666546a0297
+    name: Mikoto
+  - id: 1025581
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b8ba43fc5df10191
+    name: Лина Мьюрила
+  - id: 1025582
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a3b2995ad54c0b40
+    name: Gijuk
+  - id: 1025583
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9bff7362f6481c6e
+    name: Rinok
+  - id: 1025584
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=38beefd49a006530
+    name: Bwagi
+  - id: 1025652
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=af67506f2a325910
+    name: Рамза бас Лексенталь
+  - id: 1025728
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9c12b7abc5c4db25
+    name: Альма бас Лексенталь
+  - id: 1025729
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bdfc7bdf1ee4623a
+    name: Дженомис сен Лексенталь
+  - id: 1025730
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=32d0c2422f8a64b3
+    name: Лина Мьюрила
+  - id: 1025731
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5d69668bab2f417b
+    name: Hurdy
+  - id: 1025732
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a84cf94b14baaaba
+    name: Montblanc
+  - id: 1025737
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=20bc2cb3a257ec11
+    name: Hurdy
+  - id: 1025738
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=49af8df04a693ea0
+    name: Montblanc
+  - id: 1025739
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3b47e9e390ada8dc
+    name: Рамза бас Лексенталь
+  - id: 1025740
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4db57a011f59a62a
+    name: Альма бас Лексенталь
+  - id: 1025741
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c47e9f51f2d449b5
+    name: Дженомис сен Лексенталь
+  - id: 1025742
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=64c564636cf59b3e
+    name: Лина Мьюрила
+  - id: 1025743
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e65e17a4f38133ce
+    name: Gijuk
+  - id: 1025744
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ec89fe67c6b4f51b
+    name: Rinok
+  - id: 1025745
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8cea9279e94660d4
+    name: Bwagi
+  - id: 1025746
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5e4dc16440273d3e
+    name: Mikoto
+  - id: 1025747
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f2b8b6ccedba14f9
+    name: Montblanc
+  eobjects:
+  - id: 2009477
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c8d141987186053a
+    name: Цель
+  snipes:
+  - id: 23
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/snipe/ru/?checksum=65b8a7072b27eab3
+    name: "Find Ba'Gamnan!"
+
+- name:
+    original: "Annihilation"
+  level: 70
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-030-stmbdi204_03092/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c2c1b746013a5019
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=921d4ec88e9cfbe4
+  actors:
+  - id: 1024149
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94b6fa6d3a0e99be
+    name: Лина Мьюрила
+  - id: 1025741
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c47e9f51f2d449b5
+    name: Дженомис сен Лексенталь
+
+- name:
+    original: "The Path of Most Resistance"
+  level: 70
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-031-stmbdi301_03187/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=70bdd0e75aeefcaa
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=879f9cf79bded377
+  actors:
+  - id: 1024149
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94b6fa6d3a0e99be
+    name: Лина Мьюрила
+  - id: 1024155
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=18a80cfb0dfe3444
+    name: Лина Мьюрила
+  - id: 1024157
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a0c188e27951995f
+    name: Пилот челнока
+  - id: 1026968
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=18f9f79b80130a80
+    name: Mikoto
+  - id: 1026969
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a5f150befcbb9c2a
+    name: Bwagi
+  - id: 1026970
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=13fa88bdcae65f7d
+    name: Montblanc
+  - id: 1026971
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=70221c5623b6c0bf
+    name: Gijuk
+  - id: 1026972
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c30a449694ef0166
+    name: Rinok
+  - id: 1027060
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=79df8bbf47e3406d
+    name: Montblanc
+
+- name:
+    original: "Welcome to Their Jungle"
+  level: 70
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-031-stmbdi302_03188/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=605f7358b22ee71d
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=f67da38628d0b4f5
+  actors:
+  - id: 1024155
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=18a80cfb0dfe3444
+    name: Лина Мьюрила
+  - id: 1026969
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a5f150befcbb9c2a
+    name: Bwagi
+  - id: 1026970
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=13fa88bdcae65f7d
+    name: Montblanc
+  - id: 1026971
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=70221c5623b6c0bf
+    name: Gijuk
+  - id: 1026972
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c30a449694ef0166
+    name: Rinok
+  - id: 1026973
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9c28572ea43f50ac
+    name: Рамза бас Лексенталь
+  - id: 1026974
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=20cb76de3ab65774
+    name: Лина Мьюрила
+  - id: 1026975
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=03cc1d1c343c1c80
+    name: Bwagi
+  - id: 1026976
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c0df8744608ea29d
+    name: Лина Мьюрила
+  - id: 1026977
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d2c95c265c86911a
+    name: Рамза бас Лексенталь
+  - id: 1026978
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5badd6a377b31847
+    name: Дженомис сен Лексенталь
+  - id: 1027066
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7baaaddb1998095a
+    name: Фран
+  - id: 1027067
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5e5a3ebc9d159d09
+    name: Bwagi
+  - id: 1027068
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1d9de9ccbfda584e
+    name: Montblanc
+  - id: 1027069
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2f620ed230a842e1
+    name: Hurdy
+  - id: 1027070
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c185630f76046ae4
+    name: Дженомис сен Лексенталь
+  - id: 1027071
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=71ff7427eca8b6b2
+    name: Лина Мьюрила
+  - id: 1027164
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bc08f30db9e4ca3b
+    name: Mikoto
+
+- name:
+    original: "The City of Lost Angels"
+  level: 70
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-031-stmbdi303_03189/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=acdfdd26d5347fc8
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=5ea33b7e1fe06ec8
+  actors:
+  - id: 1024149
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94b6fa6d3a0e99be
+    name: Лина Мьюрила
+  - id: 1026971
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=70221c5623b6c0bf
+    name: Gijuk
+  - id: 1026972
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c30a449694ef0166
+    name: Rinok
+  - id: 1026978
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5badd6a377b31847
+    name: Дженомис сен Лексенталь
+  - id: 1026979
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f4dd5bd22d467798
+    name: Дженомис сен Лексенталь
+  - id: 1026980
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=54acf081d7564177
+    name: Лина Мьюрила
+  - id: 1027216
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3b295037a3e1d0c7
+    name: Дженомис сен Лексенталь
+  - id: 1027217
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=48b89be1f6bd58e6
+    name: Альма бас Лексенталь
+  - id: 1027220
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9f9cc2b1dd821d13
+    name: Фран
+  - id: 1027221
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3a769023cf1bf229
+    name: Bwagi
+  - id: 1027222
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5b684e96a47a690f
+    name: Mikoto
+  - id: 1027625
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9e6340cce5644f75
+    name: Альма бас Лексенталь
+  - id: 1027626
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4973b32720e21b90
+    name: Рамза бас Лексенталь
+  - id: 1027627
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3f94056201ebb697
+    name: Montblanc
+  - id: 1027628
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7fcc2c9642da3518
+    name: Hurdy
+
+- name:
+    original: "My Power, My Pleasure, My Pain"
+  level: 70
+  icon: 61411
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-030-stmbdi202_03090/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8e40e55f40821e97
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=a3853f5b9f6f569a
+  actors:
+  - id: 1006273
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0b016ac2a75ee3b2
+    name: Гегеруджу
+  - id: 1006305
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e1062379c0245982
+    name: Чамани Логмани
+  - id: 1006306
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d0a0daea05731114
+    name: Бирглент
+  - id: 1006312
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a8746e5599a0ac26
+    name: Дрест
+  - id: 1015633
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=32d14535d591b8bd
+    name: П'халоб
+  - id: 1025652
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=af67506f2a325910
+    name: Рамза бас Лексенталь
+  - id: 1025748
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cf19e14aa712a6a0
+  - id: 1026029
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=602c402a417cef84
+    name: Странствующий драматург
+  quest_items:
+  - id: 2002171
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=4797ddc3eebf8bc3
+    name: empty Dalmascan wine bottle
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=4797ddc3eebf8bc3
+  - id: 2002172
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=d45a2a9509e627bb
+    name: bottle of Suhd Viandja rose
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=d45a2a9509e627bb
+  - id: 2002483
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=ea84fa6fbdaa8987
+    name: bottle of Lea Monde Valens
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=ea84fa6fbdaa8987
+  eobjects:
+  - id: 2009478
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=555afd783e1fe092
+    name: discarded bottle
+  - id: 2009519
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=556b207ac6fdb46d
+  - id: 2009520
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=80a01d8b3399a8c5
+  - id: 2009521
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ad09a1bb1ecfea29
+  - id: 2009522
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=7695ed09eb4fcbec
+
+- name:
+    original: "In Bad Taste"
+  level: 70
+  icon: 61411
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-031-stmbdi311_03190/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c1b0987541a05454
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=5b91d427a0cc02e3
+  actors:
+  - id: 1006273
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0b016ac2a75ee3b2
+    name: Гегеруджу
+  - id: 1006305
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e1062379c0245982
+    name: Чамани Логмани
+  - id: 1006312
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a8746e5599a0ac26
+    name: Дрест
+  - id: 1026029
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=602c402a417cef84
+    name: Странствующий драматург
+  quest_items:
+  - id: 2002508
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=4cc99f64ed9be143
+    name: bottle of Lea Monde Valens
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=4cc99f64ed9be143
+  eobjects:
+  - id: 2009709
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=01fbfb2b24e83ab1
+  - id: 2009744
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8f3aa9cc5caa1d94
+
+- name:
+    original: "An Auspicious Encounter"
+  level: 70
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-030-stmbdy301_03015/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=0debe1e26f145f9b
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=38b5aa5ee5b05d32
+  actors:
+  - id: 1019178
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=79cfa09fa33645a4
+    name: Бунчин
+  - id: 1024836
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=51c73f0e67859c10
+    name: Соробан
+  - id: 1025136
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=71354c40c567b7a9
+    name: Соробан
+  - id: 1025137
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3f9f133ff7c3b119
+    name: Furi
+  - id: 1025138
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=36f0ff8ed765e05b
+    name: Genbu
+  - id: 1025139
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f851cfafe4c34f38
+    name: Соробан
+  - id: 1025140
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=77496bff67ff4072
+    name: Татару
+  - id: 1025141
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e972803a8ee2aca2
+    name: Senri
+  - id: 1025142
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=da8371b063151afc
+    name: Kudagitsune
+  - id: 1025143
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=073a69dfbb222172
+    name: Kamaitachi
+  - id: 1025144
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=399315203aa69a61
+    name: Byakko
+  - id: 1025145
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=21421079815a0cf9
+    name: Genbu
+  - id: 1025146
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cd5d682d3a9ee4eb
+    name: Соробан
+  - id: 1025147
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ce24fb6399cede53
+    name: Татару
+  - id: 1025148
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7962a6de001059de
+    name: Byakko
+  - id: 1025149
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1b3ebe64024192d4
+    name: Byakko
+  - id: 1025150
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=13a071c34c1846fd
+    name: Соробан
+  - id: 1025151
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8e042b7edf5675c1
+    name: Татару
+  - id: 1025152
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=80d13f6914a1e9c7
+    name: Соробан
+  - id: 1025153
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0b517faad2f253ea
+    name: Соробан
+  - id: 1025155
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0132c8c7a56ec9ea
+    name: Соробан
+  - id: 1025168
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=08559a3f49aeac0e
+    name: Genbu
+  - id: 1025351
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4feeb7cb01917fb7
+    name: Genbu
+  - id: 1025468
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=345ad4f157883b6f
+    name: Татару
+  - id: 1025469
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c318dd828c6f58d6
+    name: Byakko
+  eobjects:
+  - id: 2009398
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=211de561c4ab4142
+    name: Цель
+
+- name:
+    original: "Tortoise in Time"
+  level: 70
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-030-stmbdy311_03016/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=23c0973f9bc9ca68
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=39443b6f000805c6
+  actors:
+  - id: 1019085
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=75273ca1586aedb1
+    name: Соробан
+  - id: 1019178
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=79cfa09fa33645a4
+    name: Бунчин
+  - id: 1022484
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=86f3c6571b1948b7
+    name: Татару
+  - id: 1024666
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=59ba5e30439b205b
+    name: Genbu
+  - id: 1025138
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=36f0ff8ed765e05b
+    name: Genbu
+  - id: 1025143
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=073a69dfbb222172
+    name: Kamaitachi
+  - id: 1025144
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=399315203aa69a61
+    name: Byakko
+  - id: 1025559
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f2eb55e3520d945c
+    name: Genbu
+  - id: 1025560
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fbfb8cc0b8deea5d
+    name: Соробан
+  - id: 1025561
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0dc4b90e36b51923
+    name: Соробан
+  - id: 1025562
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bc773592fcb150f8
+    name: Татару
+  - id: 1025563
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7e2423dcb381a71d
+    name: Kamaitachi
+  - id: 1025564
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fc4385bc1ed8f4f1
+    name: Соробан
+  - id: 1025565
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c447c1703f92fe3e
+    name: Татару
+  - id: 1025567
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=02b5d0b1aaea4e57
+    name: Цитянь Дашэн
+  - id: 1025600
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1ecb6346d6703f8f
+    name: Татару
+  - id: 1025631
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cde3534bb4912016
+    name: Furi
+  - id: 1025632
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=892a67f493ab4e4e
+    name: Furi
+  quest_items:
+  - id: 2002470
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=553dbfc21f954b26
+    name: таматебако геомантии
+    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=553dbfc21f954b26
+  eobjects:
+  - id: 2009471
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=1a6fadf5c2868064
+
+- name:
+    original: "The Fire-bird Down Below"
+  level: 70
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-031-stmbdy321_03152/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=71700dfaeb04a030
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=01eb0567b99ea8bb
+  actors:
+  - id: 1019178
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=79cfa09fa33645a4
+    name: Бунчин
+  - id: 1022484
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=86f3c6571b1948b7
+    name: Татару
+  - id: 1024666
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=59ba5e30439b205b
+    name: Genbu
+  - id: 1024667
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2f37771aaa032cae
+    name: Byakko
+  - id: 1025144
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=399315203aa69a61
+    name: Byakko
+  - id: 1025566
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eda2098f0d5a62ce
+    name: Byakko
+  - id: 1025631
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cde3534bb4912016
+    name: Furi
+  - id: 1025632
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=892a67f493ab4e4e
+    name: Furi
+  - id: 1026204
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7dfdb5928662d92e
+    name: Suzaku
+  - id: 1026205
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6e7e46dfb4227f0b
+    name: Соробан
+  - id: 1026207
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=781eba69b3b1ab64
+    name: Suzaku
+  - id: 1026208
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3d3bc9a30e94c6ba
+    name: Suzaku
+  - id: 1026480
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2a06b4c43f40b078
+    name: Genbu
+  - id: 1026481
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6459e0f2e9286edc
+    name: Татару
+  - id: 1026482
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2fdf3a21638d1f49
+    name: Genbu
+
+- name:
+    original: "Surpassing the Samurai"
+  level: 70
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-031-stmbdy331_03165/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1d5c9162fa40b4da
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=cb96d457a5b32ed6
+  actors:
+  - id: 1019085
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=75273ca1586aedb1
+    name: Соробан
+  - id: 1019178
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=79cfa09fa33645a4
+    name: Бунчин
+  - id: 1022484
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=86f3c6571b1948b7
+    name: Татару
+  - id: 1024666
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=59ba5e30439b205b
+    name: Genbu
+  - id: 1024667
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2f37771aaa032cae
+    name: Byakko
+  - id: 1025142
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=da8371b063151afc
+    name: Kudagitsune
+  - id: 1025246
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=889aaefb2c2f81cd
+    name: Komainu
+  - id: 1025296
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6aa1f61c5c06f282
+    name: Nue
+  - id: 1025297
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fb5fe1be795ee838
+    name: Inugami
+  - id: 1025567
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=02b5d0b1aaea4e57
+    name: Цитянь Дашэн
+  - id: 1026208
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3d3bc9a30e94c6ba
+    name: Suzaku
+  - id: 1026330
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8dee141cd86a9f9e
+    name: Seiryu
+  - id: 1026480
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2a06b4c43f40b078
+    name: Genbu
+  - id: 1026578
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=593a395b4096a7ed
+  - id: 1026579
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=184a2ade323526b2
+  - id: 1026580
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f77504056e84260a
+  - id: 1026581
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=45f4abf4ecbc661a
+    name: Seiryu
+  - id: 1026582
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7ca4646639c5ac39
+    name: Genbu
+  - id: 1026583
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=af9db24cf81ed79a
+    name: Татару
+
+- name:
+    original: "The Fifth Lord"
+  level: 70
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-031-stmbdy332_03166/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=889e4cb08aa17665
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=a6707261c220b9b2
+  actors:
+  - id: 1019085
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=75273ca1586aedb1
+    name: Соробан
+  - id: 1019178
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=79cfa09fa33645a4
+    name: Бунчин
+  - id: 1019566
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eabe936c6a94d6b1
+    name: Бунчин
+  - id: 1022484
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=86f3c6571b1948b7
+    name: Татару
+  - id: 1024666
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=59ba5e30439b205b
+    name: Genbu
+  - id: 1024667
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2f37771aaa032cae
+    name: Byakko
+  - id: 1025142
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=da8371b063151afc
+    name: Kudagitsune
+  - id: 1025246
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=889aaefb2c2f81cd
+    name: Komainu
+  - id: 1025296
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6aa1f61c5c06f282
+    name: Nue
+  - id: 1025297
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fb5fe1be795ee838
+    name: Inugami
+  - id: 1025566
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eda2098f0d5a62ce
+    name: Byakko
+  - id: 1025567
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=02b5d0b1aaea4e57
+    name: Цитянь Дашэн
+  - id: 1026207
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=781eba69b3b1ab64
+    name: Suzaku
+  - id: 1026208
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3d3bc9a30e94c6ba
+    name: Suzaku
+  - id: 1026330
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8dee141cd86a9f9e
+    name: Seiryu
+  - id: 1026480
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2a06b4c43f40b078
+    name: Genbu
+  - id: 1026481
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6459e0f2e9286edc
+    name: Татару
+  - id: 1026578
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=593a395b4096a7ed
+  - id: 1026579
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=184a2ade323526b2
+  - id: 1026580
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f77504056e84260a
+  - id: 1026581
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=45f4abf4ecbc661a
+    name: Seiryu
+  - id: 1026583
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=af9db24cf81ed79a
+    name: Татару
+  - id: 1026584
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d834bd2000db6b7e
+    name: Seiryu
+  - id: 1026907
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2a1058d59a731b74
+    name: Seiryu
+  - id: 1028803
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=15b412854f4f38e7
+    name: Byakko
+  - id: 1028804
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b9988e485e37b864
+    name: Suzaku
+  - id: 1028805
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=829ae71b1b645c4b
+    name: Seiryu
+  - id: 1028806
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5b56da2c22b8a193
+    name: Соробан
+  eobjects:
+  - id: 2008297
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=9afb839b169f791f
+  - id: 2008298
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8b1c8a6df176c04c
+  - id: 2008299
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a7198578699d430d
+
