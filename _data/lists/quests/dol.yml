@@ -1,14 +1,4 @@
 - name:
-    original: "So You Want to Be a Miner"
-    translated: "Так ты хочешь стать горняком"
-  level: 1
-  icon: 62318
-  url:
-    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsmin001_00192/
-    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=360a9adc9f69b46b
-    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=a36f62f0ffc30fd2
-
-- name:
     original: "Way of the Miner"
     translated: "Путь горняка"
   level: 1
@@ -28,6 +18,16 @@
   - id: 1101
     url: https://translate.xivrus.ru/translate/ffxiv-translation/logmessage/ru/?checksum=85a424ff298a3f69
     name: "В ваш журнал собирательства добавлена страница горного дела."
+
+- name:
+    original: "So You Want to Be a Miner"
+    translated: "Так ты хочешь стать горняком"
+  level: 1
+  icon: 62318
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsmin001_00192/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=360a9adc9f69b46b
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=a36f62f0ffc30fd2
 
 - name:
     original: "My First Pickaxe"
@@ -775,16 +775,6 @@
     url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=92f7c6048ff9a319
 
 - name:
-    original: "So You Want to Be a Botanist"
-    translated: "Так ты хочешь стать ботаником"
-  level: 1
-  icon: 62319
-  url:
-    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clshrv999_00193/
-    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8ef4c6f93702ce6e
-    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=b5f747ae5437939c
-
-- name:
     original: "Way of the Botanist"
     translated: "Путь ботаника"
   level: 1
@@ -804,6 +794,16 @@
   - id: 1094
     url: https://translate.xivrus.ru/translate/ffxiv-translation/logmessage/ru/?checksum=c3aeb5f64df97368
     name: "В ваш журнал собирательства добавлена страница ботаники."
+
+- name:
+    original: "So You Want to Be a Botanist"
+    translated: "Так ты хочешь стать ботаником"
+  level: 1
+  icon: 62319
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clshrv999_00193/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8ef4c6f93702ce6e
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=b5f747ae5437939c
 
 - name:
     original: "My First Hatchet"
@@ -1375,16 +1375,6 @@
     name: Edgyth
 
 - name:
-    original: "So You Want to Be a Fisher"
-    translated: "Так ты хочешь стать рыбаком"
-  level: 1
-  icon: 62320
-  url:
-    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-clsfsh001_01134/
-    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f1d6378826ee3b2f
-    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=d5355f4f6c41168c
-
-- name:
     original: "Way of the Fisher"
     translated: "Путь рыбака"
   level: 1
@@ -1400,6 +1390,16 @@
   - id: 1000859
     url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5ec67d45db72918f
     name: Ну'нмулика
+
+- name:
+    original: "So You Want to Be a Fisher"
+    translated: "Так ты хочешь стать рыбаком"
+  level: 1
+  icon: 62320
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-clsfsh001_01134/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f1d6378826ee3b2f
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=d5355f4f6c41168c
 
 - name:
     original: "My First Fishing Rod"

@@ -1,14 +1,4 @@
 - name:
-    original: "So You Want to Be a Carpenter"
-    translated: "Так ты хочешь стать плотником"
-  level: 1
-  icon: 62310
-  url:
-    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clswdk999_00184/
-    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e470e7812c80403a
-    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=c09c754e13230b62
-
-- name:
     original: "Way of the Carpenter"
     translated: "Путь плотника"
   level: 1
@@ -28,6 +18,16 @@
   - id: 1187
     url: https://translate.xivrus.ru/translate/ffxiv-translation/logmessage/ru/?checksum=a620dfe2d5e74e3b
     name: "A page on carpentry has been added to your crafting log."
+
+- name:
+    original: "So You Want to Be a Carpenter"
+    translated: "Так ты хочешь стать плотником"
+  level: 1
+  icon: 62310
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clswdk999_00184/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e470e7812c80403a
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=c09c754e13230b62
 
 - name:
     original: "My First Saw"
@@ -570,16 +570,6 @@
     name: Cemi Jinjahl
 
 - name:
-    original: "So You Want to Be a Blacksmith"
-    translated: "Так ты хочешь стать кузнецом"
-  level: 1
-  icon: 62311
-  url:
-    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsbsm001_00185/
-    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3156e0c1cde3d910
-    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=36cbf2ed247f571a
-
-- name:
     original: "Way of the Blacksmith"
     translated: "Путь кузнеца"
   level: 1
@@ -599,6 +589,16 @@
   - id: 1195
     url: https://translate.xivrus.ru/translate/ffxiv-translation/logmessage/ru/?checksum=06b752f095a77b5d
     name: "A page on blacksmithing has been added to your crafting log."
+
+- name:
+    original: "So You Want to Be a Blacksmith"
+    translated: "Так ты хочешь стать кузнецом"
+  level: 1
+  icon: 62311
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsbsm001_00185/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3156e0c1cde3d910
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=36cbf2ed247f571a
 
 - name:
     original: "My First Cross-pein Hammer"
@@ -1130,16 +1130,6 @@
     name: Brithael
 
 - name:
-    original: "So You Want to Be an Armorer"
-    translated: "Так ты хочешь стать бронником"
-  level: 1
-  icon: 62312
-  url:
-    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsarm001_00186/
-    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=912381b3bcb89509
-    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=fe59d1b661b4643e
-
-- name:
     original: "Way of the Armorer"
     translated: "Путь бронника"
   level: 1
@@ -1159,6 +1149,16 @@
   - id: 1196
     url: https://translate.xivrus.ru/translate/ffxiv-translation/logmessage/ru/?checksum=3ac4c036a88c2c42
     name: "A page on armoring has been added to your crafting log."
+
+- name:
+    original: "So You Want to Be an Armorer"
+    translated: "Так ты хочешь стать бронником"
+  level: 1
+  icon: 62312
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsarm001_00186/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=912381b3bcb89509
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=fe59d1b661b4643e
 
 - name:
     original: "My First Doming Hammer"
@@ -1748,16 +1748,6 @@
     name: Blanstyr
 
 - name:
-    original: "So You Want to Be a Goldsmith"
-    translated: "Так ты хочешь стать ювелиром"
-  level: 1
-  icon: 62313
-  url:
-    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsgld001_00187/
-    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8004a5538769dba2
-    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=fcfeab3f2b1a857f
-
-- name:
     original: "Way of the Goldsmith"
     translated: "Путь ювелира"
   level: 1
@@ -1777,6 +1767,16 @@
   - id: 1193
     url: https://translate.xivrus.ru/translate/ffxiv-translation/logmessage/ru/?checksum=2765921823a1763e
     name: "A page on goldsmithing has been added to your crafting log."
+
+- name:
+    original: "So You Want to Be a Goldsmith"
+    translated: "Так ты хочешь стать ювелиром"
+  level: 1
+  icon: 62313
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsgld001_00187/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8004a5538769dba2
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=fcfeab3f2b1a857f
 
 - name:
     original: "My First Chaser Hammer"
@@ -2446,16 +2446,6 @@
     desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=fbb1d290eb1fdbfc
 
 - name:
-    original: "So You Want to Be a Leatherworker"
-    translated: "Так ты хочешь стать кожевником"
-  level: 1
-  icon: 62314
-  url:
-    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clstan999_00188/
-    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=35be3e4cffecac2d
-    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=329890a57a0cd473
-
-- name:
     original: "Way of the Leatherworker"
     translated: "Путь кожевника"
   level: 1
@@ -2475,6 +2465,16 @@
   - id: 1188
     url: https://translate.xivrus.ru/translate/ffxiv-translation/logmessage/ru/?checksum=0ada8103f27ae124
     name: "A page on leatherworking has been added to your crafting log."
+
+- name:
+    original: "So You Want to Be a Leatherworker"
+    translated: "Так ты хочешь стать кожевником"
+  level: 1
+  icon: 62314
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clstan999_00188/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=35be3e4cffecac2d
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=329890a57a0cd473
 
 - name:
     original: "My First Head Knife"
@@ -3045,16 +3045,6 @@
     name: Enion
 
 - name:
-    original: "So You Want to Be a Weaver"
-    translated: "Так ты хочешь стать ткачом"
-  level: 1
-  icon: 62315
-  url:
-    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clswvr001_00189/
-    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=cb30123f612564be
-    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=14943002552131a6
-
-- name:
     original: "Way of the Weaver"
     translated: "Путь ткача"
   level: 1
@@ -3074,6 +3064,16 @@
   - id: 1191
     url: https://translate.xivrus.ru/translate/ffxiv-translation/logmessage/ru/?checksum=ebc92287f81c64d7
     name: "A page on weaving has been added to your crafting log."
+
+- name:
+    original: "So You Want to Be a Weaver"
+    translated: "Так ты хочешь стать ткачом"
+  level: 1
+  icon: 62315
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clswvr001_00189/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=cb30123f612564be
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=14943002552131a6
 
 - name:
     original: "My First Needle"
@@ -3620,16 +3620,6 @@
     name: Keimei
 
 - name:
-    original: "So You Want to Be an Alchemist"
-    translated: "Так ты хочешь стать алхимиком"
-  level: 1
-  icon: 62316
-  url:
-    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsalc001_00190/
-    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=24941fe98bb65d31
-    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=2ce28d0da462f33d
-
-- name:
     original: "Way of the Alchemist"
     translated: "Путь алхимика"
   level: 1
@@ -3649,6 +3639,16 @@
   - id: 1192
     url: https://translate.xivrus.ru/translate/ffxiv-translation/logmessage/ru/?checksum=c381db4505567739
     name: "A page on alchemy has been added to your crafting log."
+
+- name:
+    original: "So You Want to Be an Alchemist"
+    translated: "Так ты хочешь стать алхимиком"
+  level: 1
+  icon: 62316
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsalc001_00190/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=24941fe98bb65d31
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=2ce28d0da462f33d
 
 - name:
     original: "My First Alembic"
@@ -4276,16 +4276,6 @@
     name: Seserukka
 
 - name:
-    original: "So You Want to Be a Culinarian"
-    translated: "Так ты хочешь стать кулинаром"
-  level: 1
-  icon: 62317
-  url:
-    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clscul001_00191/
-    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7caa7cf075525b13
-    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=2870dfee29bd70c0
-
-- name:
     original: "Way of the Culinarian"
     translated: "Путь кулинара"
   level: 1
@@ -4305,6 +4295,16 @@
   - id: 1194
     url: https://translate.xivrus.ru/translate/ffxiv-translation/logmessage/ru/?checksum=0ee18ca64c664056
     name: "A page on cooking has been added to your crafting log."
+
+- name:
+    original: "So You Want to Be a Culinarian"
+    translated: "Так ты хочешь стать кулинаром"
+  level: 1
+  icon: 62317
+  url:
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clscul001_00191/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7caa7cf075525b13
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=2870dfee29bd70c0
 
 - name:
     original: "My First Skillet"

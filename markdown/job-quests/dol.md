@@ -9,6 +9,7 @@ quest_list: dol
 ![Изображение заданий горняка - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d2/d2daa71ae34e6e43ecd000c6145c9dbad41984b6.png)
 
 <ul markdown="0">
+	{% include quest.liquid quest_name = "Way of the Miner" %}
 	{% include quest.liquid quest_name = "So You Want to Be a Miner" %}
 	{% include quest.liquid quest_name = "My First Pickaxe" %}
 	{% include quest.liquid quest_name = "Know Thy Land" %}
@@ -48,6 +49,7 @@ quest_list: dol
 ![Изображение заданий ботаника - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3d/3ddda29bc2571f2784aef8badfb6f8ac7dcd1e7d.png)
 
 <ul markdown="0">
+	{% include quest.liquid quest_name = "Way of the Botanist" %}
 	{% include quest.liquid quest_name = "So You Want to Be a Botanist" %}
 	{% include quest.liquid quest_name = "My First Hatchet" %}
 	{% include quest.liquid quest_name = "Sap for Smiles" %}
@@ -87,6 +89,7 @@ quest_list: dol
 ![Изображение заданий рыбака - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a0/a0e740343cf22d49d1aa459235e53811dad55403.png)
 
 <ul markdown="0">
+	{% include quest.liquid quest_name = "Way of the Fisher" %}
 	{% include quest.liquid quest_name = "So You Want to Be a Fisher" %}
 	{% include quest.liquid quest_name = "My First Fishing Rod" %}
 	{% include quest.liquid quest_name = "Bigger Fish to Fry" %}

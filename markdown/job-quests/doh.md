@@ -9,8 +9,8 @@ quest_list: doh
 ![Изображение заданий плотника - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/48/48a6cf3fa0660e29c513b4bb3bb0256293585665.png)
 
 <ul markdown="0">
-	{% include quest.liquid quest_name = "So You Want to Be a Carpenter" %}
 	{% include quest.liquid quest_name = "Way of the Carpenter" %}
+	{% include quest.liquid quest_name = "So You Want to Be a Carpenter" %}
 	{% include quest.liquid quest_name = "My First Saw" %}
 	{% include quest.liquid quest_name = "To Be the Wood" %}
 	{% include quest.liquid quest_name = "Supplies for the Sick" %}
@@ -49,6 +49,7 @@ quest_list: doh
 ![Изображение заданий кузнеца - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/81/81c5b40687f8b91de88993d6de6d42631a823a3c.png)
 
 <ul markdown="0">
+	{% include quest.liquid quest_name = "Way of the Blacksmith" %}
 	{% include quest.liquid quest_name = "So You Want to Be a Blacksmith" %}
 	{% include quest.liquid quest_name = "My First Cross-pein Hammer" %}
 	{% include quest.liquid quest_name = "Hammer Time" id = 293 %}
@@ -88,6 +89,7 @@ quest_list: doh
 ![Изображение заданий бронника - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f8/f8802d371173bb39f0fa507bff2b54cd8648f6d7.png)
 
 <ul markdown="0">
+	{% include quest.liquid quest_name = "Way of the Armorer" %}
 	{% include quest.liquid quest_name = "So You Want to Be an Armorer" %}
 	{% include quest.liquid quest_name = "My First Doming Hammer" %}
 	{% include quest.liquid quest_name = "From Thigh to Neck" %}
@@ -127,6 +129,7 @@ quest_list: doh
 ![Изображение заданий ювелира - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/bd/bd514d6c14690fb3c55d9481d2b66156b276e33b.png)
 
 <ul markdown="0">
+	{% include quest.liquid quest_name = "Way of the Goldsmith" %}
 	{% include quest.liquid quest_name = "So You Want to Be a Goldsmith" %}
 	{% include quest.liquid quest_name = "My First Chaser Hammer" %}
 	{% include quest.liquid quest_name = "Gorgets Rising" %}
@@ -166,6 +169,7 @@ quest_list: doh
 ![Изображение заданий кожевника - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/43/43571d6df31b4bc9c00bc620c6984b565f568967.png)
 
 <ul markdown="0">
+	{% include quest.liquid quest_name = "Way of the Leatherworker" %}
 	{% include quest.liquid quest_name = "So You Want to Be a Leatherworker" %}
 	{% include quest.liquid quest_name = "My First Head Knife" %}
 	{% include quest.liquid quest_name = "A Test of Technique" %}
@@ -205,6 +209,7 @@ quest_list: doh
 ![Изображение заданий ткача - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/90/903bb5a15fcc70b52bbc97a647c84a4d2c51467e.png)
 
 <ul markdown="0">
+	{% include quest.liquid quest_name = "Way of the Weaver" %}
 	{% include quest.liquid quest_name = "So You Want to Be a Weaver" %}
 	{% include quest.liquid quest_name = "My First Needle" %}
 	{% include quest.liquid quest_name = "Once More unto the Breeches" %}
@@ -244,6 +249,7 @@ quest_list: doh
 ![Изображение заданий алхимика - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/be/be8e08d1c265642be9af9c3ee8dc2c7e378f36bd.png)
 
 <ul markdown="0">
+	{% include quest.liquid quest_name = "Way of the Alchemist" %}
 	{% include quest.liquid quest_name = "So You Want to Be an Alchemist" %}
 	{% include quest.liquid quest_name = "My First Alembic" %}
 	{% include quest.liquid quest_name = "The Second Principle" %}
@@ -283,6 +289,7 @@ quest_list: doh
 ![Изображение заданий кулинара - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cf/cfecc495a382e264f3022a245636798ae42f5761.png)
 
 <ul markdown="0">
+	{% include quest.liquid quest_name = "Way of the Culinarian" %}
 	{% include quest.liquid quest_name = "So You Want to Be a Culinarian" %}
 	{% include quest.liquid quest_name = "My First Skillet" %}
 	{% include quest.liquid quest_name = "A Treat of Trout" %}
