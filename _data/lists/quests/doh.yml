@@ -620,41 +620,22 @@
 
 - name:
     original: "Hammer Time"
-  level: 62
-  icon: 62503
-  id: 1272
+  level: 5
+  icon: 62311
+  id: 293
   url:
-    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-012-bansyl206_01272/
-    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e7c7c22f11901141
-    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=4278338e7b3f010e
+    quest: https://translate.xivrus.ru/projects/ffxiv-translation/quest-002-clsbsm051_00293/
+    journal: https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=75576f09c11e7227
+    quest_name: https://translate.xivrus.ru/translate/ffxiv-translation/quest/ru/?checksum=68c690747179fb08
   actors:
-  - id: 1005562
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=166700861ee1df6d
-    name: Ponnixia
-  quest_items:
-  - id: 2001175
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=8ffe1fca801117d3
-    name: sparkling scalebomb
-    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=8ffe1fca801117d3
-  - id: 2001176
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=a735112e012f6f88
-    name: phial of spring water
-    desc_url: https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=a735112e012f6f88
+  - id: 1000997
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=acca50909d945691
+    name: Бритаэль
+  - id: 1004089
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5310473ee7cef38b
   eobjects:
-  - id: 2003142
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=fc8700db9602fe4a
-    name: lightning channeler
-  - id: 2003143
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c4258c2481cdab39
-    name: lightning channeler
-  - id: 2003144
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ccd7967cbcd1d58d
-    name: lightning channeler
-  - id: 2003145
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=046de1ec8e7c5844
-    name: tainted crystal
-  - id: 2003146
-    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a71dfb72a6baacab
+  - id: 2001350
+    url: https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=aafd1fb816b588af
 
 - name:
     original: "Riveting Ramblings"
