@@ -415,3 +415,14 @@ quest_list: dow-job
 	{% include quest.liquid quest_name = "Thicker than Blood" %}
 	{% include quest.liquid quest_name = "The Killing Art" %}
 </ul>
+
+## Вайпер {#viper}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "Enter the Viper" %}
+	{% include quest.liquid quest_name = "Fangs of the Viper" %}
+	{% include quest.liquid quest_name = "Viper in the Vidraal's Shadow" %}
+	{% include quest.liquid quest_name = "Vipers on the Hunt" %}
+	{% include quest.liquid quest_name = "Into the Viper Pit" %}
+	{% include quest.liquid quest_name = "Vengeance of the Viper" %}
+</ul>
