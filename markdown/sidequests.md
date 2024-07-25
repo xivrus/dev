@@ -205,6 +205,7 @@ quest_list: sidequests
 	{% include quest.liquid quest_name = "It Could Happen to You" %}
 	{% include quest.liquid quest_name = "Shadows Uncast (Immortal Flames)" %}
 	{% include quest.liquid quest_name = "Gilding the Bilious (Immortal Flames)" %}
+	{% include quest.liquid quest_name = "Bottled Fantasy" %}
 </ul>
 
 ## Площадь Чокобо {#uldahn-sidequests-chocobo-square}
