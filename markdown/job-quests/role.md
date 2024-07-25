@@ -149,3 +149,64 @@ quest_list: role
 	{% include quest.liquid quest_name = "Misguided Few" %}
 	{% include quest.liquid quest_name = "Forlorn Glory" %}
 </ul>
+
+# Dawntrail {#dt}
+
+## Защитник {#dt-tank}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "The Narwhal Beckons" %}
+	{% include quest.liquid quest_name = "Sleepless in Ishgard" %}
+	{% include quest.liquid quest_name = "Between Sleep and Death" %}
+	{% include quest.liquid quest_name = "Beacon in the Darkness" %}
+	{% include quest.liquid quest_name = "Awakened, Not Stirred" %}
+	{% include quest.liquid quest_name = "Dreams of a New Day" %}
+</ul>
+
+## Целитель {#dt-healer}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "In the Sting of Things" %}
+	{% include quest.liquid quest_name = "Causing Problems on Purpose" %}
+	{% include quest.liquid quest_name = "Living among the Deadly" %}
+	{% include quest.liquid quest_name = "Taste of a Toxin Paradise" %}
+	{% include quest.liquid quest_name = "Downed by the River" %}
+	{% include quest.liquid quest_name = "An Antidote for Anarchy" %}
+</ul>
+
+## Боец ближнего боя {#dt-melee-dps}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "The Hunter and the Hunted" %}
+	{% include quest.liquid quest_name = "A Sea of Blood" %}
+	{% include quest.liquid quest_name = "Who's Who" %}
+	{% include quest.liquid quest_name = "Cornered Prey" %}
+	{% include quest.liquid quest_name = "Impostor Syndrome" %}
+	{% include quest.liquid quest_name = "A Hunter True" %}
+</ul>
+
+## Боец дальнего боя {#dt-physical-ranged-dps}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "To Steal a Steelhog" %}
+	{% include quest.liquid quest_name = "Bandits Abound" %}
+	{% include quest.liquid quest_name = "Take Me To Your Leader" %}
+	{% include quest.liquid quest_name = "The Milk of Mamool Ja Kindness" %}
+	{% include quest.liquid quest_name = "Ally in the Alley" %}
+	{% include quest.liquid quest_name = "The Mightiest Shield" %}
+</ul>
+
+## Боевой маг {#dt-magical-ranged-dps}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "Power Forgotten" %}
+	{% include quest.liquid quest_name = "A Brand of Justice" %}
+	{% include quest.liquid quest_name = "The Seeds of Popularity" %}
+	{% include quest.liquid quest_name = "Floundering Fame" %}
+	{% include quest.liquid quest_name = "Behind the Helm" %}
+	{% include quest.liquid quest_name = "Heroes and Pretenders" %}
+</ul>
+
+## Общие {#dt-general}
+
+_Выйдут в обновлении 7.1_
