@@ -250,6 +250,17 @@ quest_list: dom-job
 	{% include quest.liquid quest_name = "Life Ephemeral, Path Eternal" %}
 </ul>
 
+## Пиктомант {#pictomancer}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "The Joy of Pictomancy" %}
+	{% include quest.liquid quest_name = "Mind over Manor" %}
+	{% include quest.liquid quest_name = "Perspectives in Pursuit" %}
+	{% include quest.liquid quest_name = "The Crate Beyond" %}
+	{% include quest.liquid quest_name = "Beruru's Clues" %}
+	{% include quest.liquid quest_name = "Somewhere Only She Knows" %}
+</ul>
+
 ## Синий маг {#blue-mage}
 
 ![Изображение заданий синего мага - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/36/360594aea9fa528a1a571d396d7387aeba5164cc.png)
