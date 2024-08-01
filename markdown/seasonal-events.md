@@ -404,6 +404,13 @@ quest_list: seasonal
 
 ## Фестиваль <<Огненной луны>> / Moonfire Faire {#moonfire-faire}
 
+### 2024 {#moonfire-faire-2024}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "Fire Red, Beast Green" %}
+	{% include quest.liquid quest_name = "Festival Fan Frenzy" %}
+</ul>
+
 ### 2023 {#moonfire-faire-2023}
 
 <ul markdown="0">
@@ -562,6 +569,13 @@ quest_list: seasonal
 </ul>
 
 ## Праздник всех святых / All Saints' Wake {#all-saints-wake}
+
+### 2024 {#all-saints-wake-2024}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "The Aether-starved Ahriman" %}
+	{% include quest.liquid quest_name = "All Fiends Sated on All Saints' Wake" %}
+</ul>
 
 ### 2023 {#all-saints-wake-2023}
 
