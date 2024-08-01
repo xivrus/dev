@@ -32,9 +32,10 @@ quest_list: msq-7
 ### Цепочка квестов в Уркопаче {#dt-7-0-urqopacha}
 
 <ul markdown="0">
+	{% include quest.liquid quest_name = "To Urqopacha" %}
 	{% include quest.liquid quest_name = "Traders of Happiness" %}
 	{% include quest.liquid quest_name = "The Feat of Gold" %}
-	{% include quest.liquid quest_name = "Mablu’s Dream" %}
+	{% include quest.liquid quest_name = "Mablu's Dream" %}
 	{% include quest.liquid quest_name = "A Premium Deal" %}
 	{% include quest.liquid quest_name = "Wuk Lamat in the Saddle" %}
 	{% include quest.liquid quest_name = "Knowing the Pelupelu" %}
