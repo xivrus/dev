@@ -3775,7 +3775,7 @@
   - id: 404
     url: https://translate.xivrus.ru/translate/xivrus/status/ru/?checksum=0f10f98d02412069
     name: "Transporting"
-    desc: "Carrying an object in your arms, growing wearier with each passing second."
+    desc: "Вы несете предмет в руках, утомляясь с каждой секундой."
 
 - name:
     original: "Hard-boiled Hocus"
@@ -4159,7 +4159,7 @@
   - id: 404
     url: https://translate.xivrus.ru/translate/xivrus/status/ru/?checksum=0f10f98d02412069
     name: "Transporting"
-    desc: "Carrying an object in your arms, growing wearier with each passing second."
+    desc: "Вы несете предмет в руках, утомляясь с каждой секундой."
 
 - name:
     original: "Nothing to Yolk About"
@@ -4214,7 +4214,7 @@
   - id: 404
     url: https://translate.xivrus.ru/translate/xivrus/status/ru/?checksum=0f10f98d02412069
     name: "Transporting"
-    desc: "Carrying an object in your arms, growing wearier with each passing second."
+    desc: "Вы несете предмет в руках, утомляясь с каждой секундой."
 
 - name:
     original: "The Yolks on Us"
@@ -4278,7 +4278,7 @@
   - id: 404
     url: https://translate.xivrus.ru/translate/xivrus/status/ru/?checksum=0f10f98d02412069
     name: "Transporting"
-    desc: "Carrying an object in your arms, growing wearier with each passing second."
+    desc: "Вы несете предмет в руках, утомляясь с каждой секундой."
 
 - name:
     original: "Hard-boiled"
@@ -4351,7 +4351,7 @@
   - id: 404
     url: https://translate.xivrus.ru/translate/xivrus/status/ru/?checksum=0f10f98d02412069
     name: "Transporting"
-    desc: "Carrying an object in your arms, growing wearier with each passing second."
+    desc: "Вы несете предмет в руках, утомляясь с каждой секундой."
 
 - name:
     original: "Of Impish Importance"
@@ -6443,6 +6443,109 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=a07ae694df78f34f
 
 - name:
+    original: "Rising to the Call"
+  level: 15
+  icon: 61411
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-050-fesanx001_05015/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=b89377fe40dd47ae
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=a3d06f1aadea3ba6
+  actors:
+  - id: 1001217
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b746200e4a0887b8
+    name: "Свозбуль"
+  - id: 1017507
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2580aa987c04ee04
+    name: "Странствующий менестрель"
+  - id: 1050431
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fb6b968556fd171e
+    name: "Ayoyo"
+  - id: 1050998
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=df547fb2f5529b52
+    name: "wandering minstrel"
+  - id: 1050999
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8896d4086aed35b4
+    name: "Ayoyo"
+  - id: 1051000
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b05d956b5406408a
+    name: "Ayoyo"
+  - id: 1051001
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=56eeb35b0b900e1c
+    name: "wandering minstrel"
+  - id: 1051002
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c0a5e478e0318872
+    name: "misty-eyed skygazer"
+  - id: 1051003
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a97fefdacdd32d4b
+    name: "middle-aged mariner"
+  - id: 1051004
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=dcd8a07e2b0a41c6
+    name: "S'dhodjbi"
+  - id: 1051006
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1c454fb4d04891eb
+    name: "Ayoyo"
+  - id: 1051007
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f957b852dc35359a
+    name: "Ayoyo"
+  eobjects:
+  - id: 2014209
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=a55f941d213a7676
+    name: "Цель"
+
+- name:
+    original: "We Who Are About to Set Sail Salute You"
+  level: 15
+  icon: 61411
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-050-fesanx002_05016/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=616c32b6994f7720
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=3d7d70228c51f619
+  actors:
+  - id: 1003282
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d1de58d21f06fe14
+    name: "Рейнер"
+  - id: 1004471
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=240ffa54b7360437
+    name: "Рейнер"
+  - id: 1010426
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0f450751863a59d6
+    name: "Росвен"
+  - id: 1010427
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1da0720b5c4dd18a
+    name: "Карваллэн"
+  - id: 1017507
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2580aa987c04ee04
+    name: "Странствующий менестрель"
+  - id: 1050431
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fb6b968556fd171e
+    name: "Ayoyo"
+  - id: 1050927
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e1e84545eca2a7fa
+    name: "Hasthwab"
+  - id: 1051001
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=56eeb35b0b900e1c
+    name: "wandering minstrel"
+  - id: 1051007
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f957b852dc35359a
+    name: "Ayoyo"
+  - id: 1051008
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=728879f030af7382
+    name: "wandering minstrel"
+  - id: 1051009
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2cbb16efe79668b4
+    name: "Ayoyo"
+  - id: 1051010
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a44ebea17cbb9c1c
+    name: "Ayoyo"
+  - id: 1051011
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4c34578b7620a335
+    name: "wandering minstrel"
+  eobjects:
+  - id: 2014210
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=b6d494ac949650ba
+    name: "Цель"
+
+- name:
     original: "Siblings Rising"
     translated: "Братский блиц"
   level: 15
@@ -6898,7 +7001,7 @@
   eobjects:
   - id: 2009036
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=a60b03a77150d0e3
-    name: "teleportation portal"
+    name: "Магический портал"
   - id: 2009038
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=010076042c4d94ac
     name: "battered bug"

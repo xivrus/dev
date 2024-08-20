@@ -503,6 +503,13 @@ quest_list: seasonal
 
 ## Фестиваль <<Восхождения>> / The Rising {#the-rising}
 
+### 2024 {#the-rising-2024}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "Rising to the Call" %}
+	{% include quest.liquid quest_name = "We Who Are About to Set Sail Salute You" %}
+</ul>
+
 ### 2023 {#the-rising-2023}
 
 <ul markdown="0">

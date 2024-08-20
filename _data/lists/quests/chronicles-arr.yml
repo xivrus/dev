@@ -10,25 +10,25 @@
   actors:
   - id: 1002275
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a4b5c6fb06f9fc6c
-    name: Ида
+    name: "Ида"
   - id: 1002276
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4a38f4e80698a044
-    name: Папалимо
+    name: "Папалимо"
   - id: 1003781
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=60ac210eff0e973e
-    name: Танкред
+    name: "Танкред"
   - id: 1003782
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7d9affb0c7e33f4e
-    name: Я'штола
+    name: "Я'штола"
   - id: 1003784
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d55e0e380e338f8e
-    name: Урианже
+    name: "Урианже"
   - id: 1006693
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1b9527cdef1af72c
-    name: Минфилия
+    name: "Минфилия"
   - id: 1007478
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4c4ab1f9d0302d46
-    name: Урианже
+    name: "Урианже"
 
 - name:
     original: "Ifrit Bleeds, We Can Kill It"
@@ -42,14 +42,14 @@
   actors:
   - id: 1004576
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6f7686b02f16bcf7
-    name: Свифт
+    name: "Свифт"
   - id: 1007534
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a0ff87bbf5d8e7df
-    name: Танкред
+    name: "Танкред"
   eobjects:
   - id: 2002581
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=a97ee5a3514ed2c8
-    name: Эфирит Захар'ака
+    name: "Эфирит Захар'ака"
 
 - name:
     original: "In for Garuda Awakening"
@@ -63,14 +63,14 @@
   actors:
   - id: 1000168
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4ecbc834409d68bc
-    name: Ворсель Хелуа
+    name: "Ворсель Хелуа"
   - id: 1007531
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1ba6095327a23c4a
-    name: Папалимо
+    name: "Папалимо"
   eobjects:
   - id: 2002582
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=13dd8dde485eb74a
-    name: Эфирит Наталана
+    name: "Эфирит Наталана"
 
 - name:
     original: "In a Titan Spot"
@@ -84,14 +84,14 @@
   actors:
   - id: 1003281
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a964b6a1f19c48fc
-    name: Р'айшат Рики
+    name: "Р'айшат Рики"
   - id: 1007533
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ba7d4013e5487a46
-    name: Я'штола
+    name: "Я'штола"
   eobjects:
   - id: 2002583
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=a1e05429f10d3a2a
-    name: Эфирит У'Гамаро
+    name: "Эфирит У'Гамаро"
 
 - name:
     original: "Primal Nature"
@@ -105,10 +105,10 @@
   actors:
   - id: 1000168
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4ecbc834409d68bc
-    name: Ворсель Хелуа
+    name: "Ворсель Хелуа"
   - id: 1007478
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4c4ab1f9d0302d46
-    name: Урианже
+    name: "Урианже"
 
 - name:
     original: "Gale-force Warning"
@@ -122,25 +122,25 @@
   actors:
   - id: 1000168
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4ecbc834409d68bc
-    name: Ворсель Хелуа
+    name: "Ворсель Хелуа"
   - id: 1007478
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4c4ab1f9d0302d46
-    name: Урианже
+    name: "Урианже"
   - id: 1008267
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7e2d7ffdf6a56e8e
-    name: Асцианец Двенадцатого Посоха
+    name: "Асцианец Двенадцатого Посоха"
   - id: 1008268
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e93485a0e5ab7edc
-    name: Асцианец Двенадцатого Клинка
+    name: "Асцианец Двенадцатого Клинка"
   quest_items:
   - id: 2001139
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=21c5be8f1a0b7199
-    name: Vortex ritual focus
+    name: "Vortex ritual focus"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=21c5be8f1a0b7199
   eobjects:
   - id: 2003456
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=5e606f98b2c223d2
-    name: Natalan aetheryte
+    name: "Natalan aetheryte"
 
 - name:
     original: "Quake Me Up Before You O'Ghomoro"
@@ -154,25 +154,25 @@
   actors:
   - id: 1003281
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a964b6a1f19c48fc
-    name: Р'айшат Рики
+    name: "Р'айшат Рики"
   - id: 1007478
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4c4ab1f9d0302d46
-    name: Урианже
+    name: "Урианже"
   - id: 1008269
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fd727919ce811563
-    name: Асцианец Двенадцатого Посоха
+    name: "Асцианец Двенадцатого Посоха"
   - id: 1008270
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6bae3dfe16776b40
-    name: Асцианец Двенадцатого Клинка
+    name: "Асцианец Двенадцатого Клинка"
   quest_items:
   - id: 2001140
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=08d1c6004731885c
-    name: Crag ritual focus
+    name: "Crag ritual focus"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=08d1c6004731885c
   eobjects:
   - id: 2003457
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=ac02205dcd5a0151
-    name: U'Ghamaro aetheryte
+    name: "U'Ghamaro aetheryte"
 
 - name:
     original: "Ifrit Ain't Broke"
@@ -186,19 +186,19 @@
   actors:
   - id: 1004576
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6f7686b02f16bcf7
-    name: Свифт
+    name: "Свифт"
   - id: 1007478
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4c4ab1f9d0302d46
-    name: Урианже
+    name: "Урианже"
   quest_items:
   - id: 2001141
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=3c711d51fdb5b01e
-    name: Inferno ritual focus
+    name: "Inferno ritual focus"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=3c711d51fdb5b01e
   eobjects:
   - id: 2003458
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=10dc29a420675e88
-    name: Zahar'ak aetheryte
+    name: "Zahar'ak aetheryte"
 
 - name:
     original: "To Tussle with Gods"
@@ -212,25 +212,25 @@
   actors:
   - id: 1001304
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9f753802b0ec5644
-    name: Ровена
+    name: "Ровена"
   - id: 1006951
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f9bfc737ca25982d
-    name: Laraina
+    name: "Laraina"
   - id: 1007478
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4c4ab1f9d0302d46
-    name: Урианже
+    name: "Урианже"
   quest_items:
   - id: 2001142
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=6cea26ad5604c100
-    name: Vortex ritual focus
+    name: "Vortex ritual focus"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=6cea26ad5604c100
   - id: 2001143
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=9f26ccfd2bb7d49f
-    name: Crag ritual focus
+    name: "Crag ritual focus"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=9f26ccfd2bb7d49f
   - id: 2001144
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=3dfef60baef0cd07
-    name: Inferno ritual focus
+    name: "Inferno ritual focus"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=3dfef60baef0cd07
 
 - name:
@@ -245,19 +245,19 @@
   actors:
   - id: 1006951
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f9bfc737ca25982d
-    name: Laraina
+    name: "Laraina"
   quest_items:
   - id: 2001145
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=09db60b222279023
-    name: Vortex ritual focus
+    name: "Vortex ritual focus"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=09db60b222279023
   - id: 2001146
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=30940c1864251efa
-    name: Crag ritual focus
+    name: "Crag ritual focus"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=30940c1864251efa
   - id: 2001147
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=f9181dcf13d515c1
-    name: Inferno ritual focus
+    name: "Inferno ritual focus"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=f9181dcf13d515c1
 
 - name:
@@ -272,16 +272,16 @@
   actors:
   - id: 1000168
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4ecbc834409d68bc
-    name: Ворсель Хелуа
+    name: "Ворсель Хелуа"
   - id: 1007478
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4c4ab1f9d0302d46
-    name: Урианже
+    name: "Урианже"
   - id: 1008544
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f01dfa10144dad9d
-    name: Купло Копп
+    name: "Купло Копп"
   - id: 1008545
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7984bb4e992708e8
-    name: Королевский стражник Двух Змей
+    name: "Королевский стражник Двух Змей"
 
 - name:
     original: "Whorl of a Time"
@@ -295,13 +295,13 @@
   actors:
   - id: 1003281
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a964b6a1f19c48fc
-    name: Р'айшат Рики
+    name: "Р'айшат Рики"
   - id: 1005409
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7c17c415f4b54387
-    name: Стирлона
+    name: "Стирлона"
   - id: 1007478
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4c4ab1f9d0302d46
-    name: Урианже
+    name: "Урианже"
 
 - name:
     original: "Judgment Bolts and Lightning"
@@ -315,20 +315,20 @@
   actors:
   - id: 1000587
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f0117413cc16c52d
-    name: Деллексия
+    name: "Деллексия"
   - id: 1005163
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=399a46d122d311a5
-    name: Фриксио
+    name: "Фриксио"
   - id: 1007478
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4c4ab1f9d0302d46
-    name: Урианже
+    name: "Урианже"
   - id: 1009294
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=88d534426c382816
-    name: Scarlet
+    name: "Scarlet"
   eobjects:
   - id: 2004430
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=2297249a08755716
-    name: Sylphlands aetheryte
+    name: "Sylphlands aetheryte"
 
 - name:
     original: "Drop Dead Shiva"
@@ -342,13 +342,13 @@
   actors:
   - id: 1006444
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=21beb87ec02ca599
-    name: Дриймон
+    name: "Дриймон"
   - id: 1007478
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4c4ab1f9d0302d46
-    name: Урианже
+    name: "Урианже"
   - id: 1010054
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f81737f6b7e58e27
-    name: Храмовник-дозорный
+    name: "Храмовник-дозорный"
 
 - name:
     original: "Fear and Odin in the Shroud"
@@ -362,10 +362,10 @@
   actors:
   - id: 1009294
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=88d534426c382816
-    name: Scarlet
+    name: "Scarlet"
   - id: 1011250
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=aeec41d30628d646
-    name: О-Апа-Песи
+    name: "О-Апа-Песи"
 
 - name:
     original: "Primal Fear"
@@ -379,13 +379,13 @@
   actors:
   - id: 1000423
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fa141bd626e4a151
-    name: Лучник Божьих Колчанов
+    name: "Лучник Божьих Колчанов"
   - id: 1003061
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9eac5c92840d270a
-    name: Левин
+    name: "Левин"
   - id: 1007478
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4c4ab1f9d0302d46
-    name: Урианже
+    name: "Урианже"
 
 - name:
     original: "Who Was That Man in Black"
@@ -399,22 +399,22 @@
   actors:
   - id: 1000122
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a4f6ec5d9fc4b9b6
-    name: Онорье
+    name: "Онорье"
   - id: 1000156
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=da43390bb773cc72
-    name: Aedan
+    name: "Aedan"
   - id: 1000195
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=218325829511b46d
-    name: Шанселот
+    name: "Шанселот"
   - id: 1000372
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4d66ece9e33787d4
-    name: Tatasosa
+    name: "Tatasosa"
   - id: 1000423
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fa141bd626e4a151
-    name: Лучник Божьих Колчанов
+    name: "Лучник Божьих Колчанов"
   - id: 1003061
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9eac5c92840d270a
-    name: Левин
+    name: "Левин"
 
 - name:
     original: "The Dark Divinity"
@@ -428,36 +428,36 @@
   actors:
   - id: 1000423
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fa141bd626e4a151
-    name: Лучник Божьих Колчанов
+    name: "Лучник Божьих Колчанов"
   - id: 1003061
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9eac5c92840d270a
-    name: Левин
+    name: "Левин"
   - id: 1006584
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=88a1ce1714924843
-    name: О-Апа-Песи
+    name: "О-Апа-Песи"
   - id: 1006585
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2c29f16ed5d0f05e
-    name: Simmie
+    name: "Simmie"
   enemies:
   - id: 2062
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=c77bc669455dc510
-    name: the last of the Allagans
+    name: "the last of the Allagans"
   quest_items:
   - id: 2000963
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=c069a516a5380467
-    name: bottle of water of cleansing
+    name: "bottle of water of cleansing"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=c069a516a5380467
   - id: 2000965
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=69e497d1bbaa28a3
-    name: sundered binding stone
+    name: "sundered binding stone"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=69e497d1bbaa28a3
   eobjects:
   - id: 2002241
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=b01c0368ed1e286c
-    name: Urth's Seal
+    name: "Urth's Seal"
   - id: 2002614
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=2685716b26080930
-    name: Urth's Seal
+    name: "Urth's Seal"
 
 - name:
     original: "All You Wanted to Know about Odin"
@@ -471,14 +471,14 @@
   actors:
   - id: 1006585
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2c29f16ed5d0f05e
-    name: Simmie
+    name: "Simmie"
   - id: 1007478
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4c4ab1f9d0302d46
-    name: Урианже
+    name: "Урианже"
   quest_items:
   - id: 2000846
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=40f1855468deecba
-    name: report on Odin
+    name: "report on Odin"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=40f1855468deecba
 
 - name:
@@ -492,17 +492,17 @@
   actors:
   - id: 1007478
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4c4ab1f9d0302d46
-    name: Урианже
+    name: "Урианже"
   - id: 1007627
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e5f1efc30846d071
-    name: J'brohka
+    name: "J'brohka"
   - id: 1007685
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b80be91604e84342
-    name: Ализе
+    name: "Ализе"
   eobjects:
   - id: 2002609
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=f525e8b8878597c7
-    name: Exploratory Site gate
+    name: "Exploratory Site gate"
 
 - name:
     original: "Alisaie's Pledge"
@@ -513,36 +513,36 @@
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=670b46175e02a4eb
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=ea84790bf7741b6f
   cutscenes:
-  - name: Кат-сцена 1
+  - name: "Кат-сцена 1"
     start: "100"
     end: "110"
     url: https://translate.xivrus.ru/projects/xivrus/quest-011-gaiusd101_01159/
-  - name: Кат-сцена 2
+  - name: "Кат-сцена 2"
     start: "120"
     end: "128"
     url: https://translate.xivrus.ru/projects/xivrus/quest-011-gaiusd101_01159/
-  - name: Кат-сцена 3
+  - name: "Кат-сцена 3"
     start: "140"
     end: "147"
     url: https://translate.xivrus.ru/projects/xivrus/quest-011-gaiusd101_01159/
-  - name: Кат-сцена 4
+  - name: "Кат-сцена 4"
     start: "160"
     end: "176"
     url: https://translate.xivrus.ru/projects/xivrus/quest-011-gaiusd101_01159/
-  - name: Кат-сцена 5
+  - name: "Кат-сцена 5"
     start: "200"
     end: "208"
     url: https://translate.xivrus.ru/projects/xivrus/quest-011-gaiusd101_01159/
   actors:
   - id: 1007478
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4c4ab1f9d0302d46
-    name: Урианже
+    name: "Урианже"
   - id: 1007684
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9ab1bbaba7aac642
-    name: Ализе
+    name: "Ализе"
   - id: 1008180
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cc327bb271ada42f
-    name: Урианже
+    name: "Урианже"
 
 - name:
     original: "Another Turn in the Coil"
@@ -555,19 +555,19 @@
   actors:
   - id: 1004145
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=955829477fb10e51
-    name: Альфино
+    name: "Альфино"
   - id: 1004146
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c019066d654fd512
-    name: Ализе
+    name: "Ализе"
   - id: 1007478
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4c4ab1f9d0302d46
-    name: Урианже
+    name: "Урианже"
   - id: 1008538
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a6220e5c5d782e4b
-    name: Anaelle
+    name: "Anaelle"
   - id: 1008539
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=317f08705e1b4bf6
-    name: sharp-eyed serpent private
+    name: "sharp-eyed serpent private"
 
 - name:
     original: "Alisaie's Resolve"
@@ -578,43 +578,43 @@
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=d8bf335fcc0527ad
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=6a9f1c732159cc54
   cutscenes:
-  - name: Кат-сцена 1
+  - name: "Кат-сцена 1"
     start: "200"
     end: "220"
     url: https://translate.xivrus.ru/projects/xivrus/quest-013-gaiusd301_01313/
-  - name: Кат-сцена 2
+  - name: "Кат-сцена 2"
     start: "240"
     end: "261"
     url: https://translate.xivrus.ru/projects/xivrus/quest-013-gaiusd301_01313/
-  - name: Кат-сцена 3
+  - name: "Кат-сцена 3"
     start: "100"
     end: "105"
     url: https://translate.xivrus.ru/projects/xivrus/quest-013-gaiusd301_01313/
-  - name: Кат-сцена 4
+  - name: "Кат-сцена 4"
     start: "120"
     end: "133"
     url: https://translate.xivrus.ru/projects/xivrus/quest-013-gaiusd301_01313/
-  - name: Кат-сцена 5
+  - name: "Кат-сцена 5"
     start: "150"
     end: "155"
     url: https://translate.xivrus.ru/projects/xivrus/quest-013-gaiusd301_01313/
-  - name: Кат-сцена 6
+  - name: "Кат-сцена 6"
     start: "170"
     end: "182"
     url: https://translate.xivrus.ru/projects/xivrus/quest-013-gaiusd301_01313/
   actors:
   - id: 1004145
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=955829477fb10e51
-    name: Альфино
+    name: "Альфино"
   - id: 1004146
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c019066d654fd512
-    name: Ализе
+    name: "Ализе"
   - id: 1007478
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4c4ab1f9d0302d46
-    name: Урианже
+    name: "Урианже"
   - id: 1008540
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bf7e28ac8c5e0a0d
-    name: Ализе
+    name: "Ализе"
 
 - name:
     original: "Fragments of Truth"
@@ -627,37 +627,37 @@
   actors:
   - id: 1004145
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=955829477fb10e51
-    name: Альфино
+    name: "Альфино"
   - id: 1004146
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c019066d654fd512
-    name: Ализе
+    name: "Ализе"
   - id: 1007478
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4c4ab1f9d0302d46
-    name: Урианже
+    name: "Урианже"
   - id: 1008180
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cc327bb271ada42f
-    name: Урианже
+    name: "Урианже"
   - id: 1009768
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2c7973258aedce1e
-    name: Erkenrad
+    name: "Erkenrad"
   - id: 1009769
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e4a301f7cfac16a0
-    name: Помощник Ализе
+    name: "Помощник Ализе"
   - id: 1009770
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e5bc5a974a4c4d1b
-    name: Помощник Ализе
+    name: "Помощник Ализе"
   - id: 1009771
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4ad4fed8f3dc0bf8
-    name: Урианже
+    name: "Урианже"
   - id: 1009772
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ac08a7f89312c1af
-    name: Ализе
+    name: "Ализе"
   - id: 1009773
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=dda8804e2a9e804e
-    name: Урианже
+    name: "Урианже"
   - id: 1010765
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5c0ca5fbe5584d63
-    name: Помощник Ализе
+    name: "Помощник Ализе"
 
 - name:
     original: "Alisaie's Path"
@@ -670,13 +670,13 @@
   actors:
   - id: 1009771
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4ad4fed8f3dc0bf8
-    name: Урианже
+    name: "Урианже"
   - id: 1009776
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f8da669ad75acdfd
-    name: Альфино
+    name: "Альфино"
   - id: 1009777
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=46d09f62df74b95c
-    name: Ализе
+    name: "Ализе"
 
 - name:
     original: "Legacy of Allag"
@@ -689,63 +689,63 @@
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=cc311164465eae02
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=ddbe4701645b8a13
   cutscenes:
-  - name: Кат-сцена
+  - name: "Кат-сцена"
     start: "22"
     end: "23"
     url: https://translate.xivrus.ru/projects/xivrus/quest-011-gaiusd201_01199/
   actors:
   - id: 1003855
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fde8392fa2f0dd0f
-    name: Сид
+    name: "Сид"
   - id: 1006725
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7d69ac9bcaa86424
-    name: Рамброс
+    name: "Рамброс"
   - id: 1007753
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=38107263672cacff
-    name: Чудаковатый мужик
+    name: "Чудаковатый мужик"
   enemies:
   - id: 7578
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=184edd07586d4f65
-    name: kobold rocksplitter
+    name: "kobold rocksplitter"
   - id: 7579
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=d349da4acf2eed08
-    name: Sahagin waverider
+    name: "Sahagin waverider"
   - id: 7580
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=6201b0da0b3fe5b7
-    name: Amalj'aa flame-eater
+    name: "Amalj'aa flame-eater"
   - id: 7581
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=0fa137f51eb7973b
-    name: Ixali skycaller
+    name: "Ixali skycaller"
   quest_items:
   - id: 2002484
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=3a70facbdc59ce8b
-    name: безупречный кристалл земли
+    name: "безупречный кристалл земли"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=3a70facbdc59ce8b
   - id: 2002485
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=8e083cd107164b0f
-    name: безупречный кристалл воды
+    name: "безупречный кристалл воды"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=8e083cd107164b0f
   - id: 2002486
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=6c26d75619623ccd
-    name: безупречный кристалл огня
+    name: "безупречный кристалл огня"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=6c26d75619623ccd
   - id: 2002487
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=938bb1eb28fc7aec
-    name: безупречный кристалл ветра
+    name: "безупречный кристалл ветра"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=938bb1eb28fc7aec
   eobjects:
   - id: 2000075
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=58bd9468959bdf1f
-    name: Цель
+    name: "Цель"
   - id: 2000076
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=2a18556f9267e3c1
-    name: Цель
+    name: "Цель"
   - id: 2000077
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=883058f72bcde2a4
-    name: Цель
+    name: "Цель"
   - id: 2000078
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=55a3ecf08bc70f01
-    name: Цель
+    name: "Цель"
 
 - name:
     original: "Sanding It Down"
@@ -759,48 +759,48 @@
   actors:
   - id: 1002280
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a70f807d935cfc2d
-    name: Ямим
+    name: "Ямим"
   - id: 1003836
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=86fcb8d8c74bcd6b
-    name: Биггс
+    name: "Биггс"
   - id: 1003855
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fde8392fa2f0dd0f
-    name: Сид
+    name: "Сид"
   - id: 1004093
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7163889894837376
-    name: Серендипити
+    name: "Серендипити"
   - id: 1006725
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7d69ac9bcaa86424
-    name: Рамброс
+    name: "Рамброс"
   - id: 1007755
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2f58644e5e70e016
-    name: Биггс
+    name: "Биггс"
   - id: 1007756
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9be06f43c88cc2f4
-    name: Опытный искатель приключений
+    name: "Опытный искатель приключений"
   - id: 1007759
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c739fe38dced4d73
-    name: Ведж
+    name: "Ведж"
   - id: 1008298
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=336b87041a7eba2a
-    name: Ямим
+    name: "Ямим"
   quest_items:
   - id: 2001097
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=bf910acd85e31bc5
-    name: горсть заряженного энергией огня эфирного песка
+    name: "горсть заряженного энергией огня эфирного песка"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=bf910acd85e31bc5
   - id: 2001098
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=ee7970c1f94552c4
-    name: горсть заряженного энергией земли эфирного песка
+    name: "горсть заряженного энергией земли эфирного песка"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=ee7970c1f94552c4
   - id: 2001099
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=85647a2d6a2e7a07
-    name: набитый деньгами мешочек
+    name: "набитый деньгами мешочек"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=85647a2d6a2e7a07
   eobjects:
   - id: 2002892
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=37f278263ffafaa4
-    name: Нужный вам свёрток... кажется
+    name: "Нужный вам свёрток... кажется"
 
 - name:
     original: "A Performance for the Ages"
@@ -814,39 +814,39 @@
   actors:
   - id: 1000768
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2b072014f215c13d
-    name: Парсмонтре
+    name: "Парсмонтре"
   - id: 1006725
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7d69ac9bcaa86424
-    name: Рамброс
+    name: "Рамброс"
   enemies:
   - id: 909
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=dff6c3d13ef2cb63
-    name: Иксал - разрезатель
+    name: "Иксал - разрезатель"
   - id: 910
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=cf95711014ac2bcc
-    name: Иксал - провидец
+    name: "Иксал - провидец"
   - id: 911
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=50f83ce6d3b63d25
-    name: Иксал - рубака
+    name: "Иксал - рубака"
   quest_items:
   - id: 2001100
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=966e3e9839c9b7bf
-    name: горсть заряженного энергией ветра эфирного песка
+    name: "горсть заряженного энергией ветра эфирного песка"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=966e3e9839c9b7bf
   - id: 2001101
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=57211ab868af1c3a
-    name: горсть заряженного энергией воды эфирного песка
+    name: "горсть заряженного энергией воды эфирного песка"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=57211ab868af1c3a
   eobjects:
   - id: 2002893
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=4cee54ff95c6d753
-    name: Туша кабана
+    name: "Туша кабана"
   - id: 2002894
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=5b82aada2362fc6c
-    name: Свёрток с эфирным песком
+    name: "Свёрток с эфирным песком"
   - id: 2002896
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=2b121ab1d0d131e4
-    name: Свёрток с эфирным песком
+    name: "Свёрток с эфирным песком"
 
 - name:
     original: "Labyrinth of the Ancients"
@@ -860,11 +860,11 @@
   actors:
   - id: 1007763
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c8c77ed82dde8b65
-    name: Г'раха Тиа
+    name: "Г'раха Тиа"
   eobjects:
   - id: 2002897
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=5f37b50e26769392
-    name: Цель
+    name: "Цель"
 
 - name:
     original: "For Prosperity"
@@ -878,10 +878,10 @@
   actors:
   - id: 1006725
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7d69ac9bcaa86424
-    name: Рамброс
+    name: "Рамброс"
   - id: 1007763
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c8c77ed82dde8b65
-    name: Г'раха Тиа
+    name: "Г'раха Тиа"
 
 - name:
     original: "Syrcus Tower"
@@ -895,10 +895,10 @@
   actors:
   - id: 1009943
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1e03cea6150ab399
-    name: Джеки
+    name: "Джеки"
   - id: 1009944
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1f30fe422adc5e7d
-    name: Лонуорд
+    name: "Лонуорд"
   logmessages:
   - id: 1020
     url: https://translate.xivrus.ru/translate/xivrus/logmessage/ru/?checksum=1da9f0a8e92bf6e0
@@ -916,40 +916,40 @@
   actors:
   - id: 1003836
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=86fcb8d8c74bcd6b
-    name: Биггс
+    name: "Биггс"
   - id: 1003837
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=873b251399613222
-    name: Ведж
+    name: "Ведж"
   - id: 1003855
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fde8392fa2f0dd0f
-    name: Сид
+    name: "Сид"
   - id: 1005518
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=83fdead3aa975157
-    name: Г'раха Тиа
+    name: "Г'раха Тиа"
   - id: 1006725
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7d69ac9bcaa86424
-    name: Рамброс
+    name: "Рамброс"
   - id: 1007754
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5fdb6afadbbc6967
-    name: Сид
+    name: "Сид"
   - id: 1007761
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1277f8d379902539
-    name: Биггс
+    name: "Биггс"
   - id: 1007762
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9d11dfd5b9e7b17c
-    name: Ведж
+    name: "Ведж"
   - id: 1007763
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c8c77ed82dde8b65
-    name: Г'раха Тиа
+    name: "Г'раха Тиа"
   - id: 1011638
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f1d1ff78c11aad12
-    name: Ведж
+    name: "Ведж"
   - id: 1011639
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2c7300e71d7e8925
-    name: Биггс
+    name: "Биггс"
   - id: 1011640
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=07c11af13ab4c506
-    name: Г'раха Тиа
+    name: "Г'раха Тиа"
 
 - name:
     original: "The Light of Hope"
@@ -963,22 +963,22 @@
   actors:
   - id: 1003836
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=86fcb8d8c74bcd6b
-    name: Биггс
+    name: "Биггс"
   - id: 1003837
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=873b251399613222
-    name: Ведж
+    name: "Ведж"
   - id: 1003855
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fde8392fa2f0dd0f
-    name: Сид
+    name: "Сид"
   - id: 1006725
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7d69ac9bcaa86424
-    name: Рамброс
+    name: "Рамброс"
   - id: 1011641
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f812245878b1468b
-    name: Cын Святого Конаха
+    name: "Cын Святого Конаха"
   - id: 1011643
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=360f2604c3784ca1
-    name: Cын Святого Конаха
+    name: "Cын Святого Конаха"
 
 - name:
     original: "But I Hardly Noah"
@@ -990,17 +990,17 @@
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=214493dc10818f61
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=c873f06aab714830
   cutscenes:
-  - name: Кат-сцена
+  - name: "Кат-сцена"
     start: "10"
     end: "32"
     url: https://translate.xivrus.ru/projects/xivrus/quest-005-mansea200_00546/
   actors:
   - id: 1004349
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=59bd087011d631e6
-    name: Сиэль
+    name: "Сиэль"
   - id: 1011655
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=600959261324860c
-    name: Ко Рабнтах
+    name: "Ко Рабнтах"
 
 - name:
     original: "The Gift of the Archmagus"
@@ -1014,18 +1014,18 @@
   actors:
   - id: 1011655
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=600959261324860c
-    name: Ко Рабнтах
+    name: "Ко Рабнтах"
   quest_items:
   - id: 2001552
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=80c94bb1db323fd3
-    name: Жемчужина Лабиринта
+    name: "Жемчужина Лабиринта"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=80c94bb1db323fd3
   - id: 2001553
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=b4c72cc94a58c645
-    name: Жемчужина Башни
+    name: "Жемчужина Башни"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=b4c72cc94a58c645
   - id: 2001554
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=3bd3f86f8791086f
-    name: Жемчужина Тьмы
+    name: "Жемчужина Тьмы"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=3bd3f86f8791086f
 
