@@ -396,10 +396,10 @@
     name: "Эренвилль"
   - id: 1046684
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2efaa83ae2c2f65a
-    name: "helpful Hanu"
+    name: "Покладистый хану"
   - id: 1047743
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0a81bc9fb15e2b73
-    name: "approachable Pelu"
+    name: "Дружелюбный пелу"
   eobjects:
   - id: 2013594
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=9e91e9130788e3ba
@@ -422,7 +422,7 @@
   actors:
   - id: 1046684
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2efaa83ae2c2f65a
-    name: "helpful Hanu"
+    name: "Покладистый хану"
   - id: 1046686
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ebf2623e75b20d49
     name: "Вук Ламат"
@@ -464,7 +464,7 @@
     name: "Крайл"
   - id: 1048174
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a2aeabb75c2b63ac
-    name: "Arch of the Dawn sentry"
+    name: "Страж Арки Рассвета"
 
 - name:
     original: "A Festive People"
@@ -510,7 +510,7 @@
     name: "Крайл"
   - id: 1046699
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=643596f4eeb7472b
-    name: "dispirited Hanu"
+    name: "Павший духом хану"
   - id: 1046700
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=742b96ff75ba2581
     name: "Вук Ламат"
@@ -526,13 +526,13 @@
   eobjects:
   - id: 2013621
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=fd7a453e590b2530
-    name: "vantage point"
+    name: "Точка с обзором"
   - id: 2013622
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=a87c51bbac3164d1
-    name: "bundled reeds"
+    name: "Снопы тростника"
   - id: 2013623
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=a89f846b018ee45d
-    name: "boat of woven reeds"
+    name: "Странная лодка из тростника"
 
 - name:
     original: "The Feat of Reeds"
@@ -588,7 +588,7 @@
     name: "Крайл"
   - id: 1046712
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8ade26cb779b7380
-    name: "lethargic frog"
+    name: "Сонная лягушка"
   - id: 1046713
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e89c475409c984f2
     name: "Вук Ламат"
@@ -637,17 +637,17 @@
   eobjects:
   - id: 2013624
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=1171d93f4e3c7620
-    name: "wilted reeds"
+    name: "Болеющий тростник"
   - id: 2013625
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=8a399c092e8f2f87
-    name: "paddy water"
+    name: "Стоячая вода"
   - id: 2013626
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=762af4c631b5600d
-    name: "paddy mud"
+    name: "Грязь"
   snipes:
   - id: 60
     url: https://translate.xivrus.ru/translate/xivrus/snipe/ru/?checksum=2c66e9dfad8bb81e
-    name: "Inspect the Float!"
+    name: "Осмотрите лодку!"
 
 - name:
     original: "A Well-mannered Shipwright"
@@ -724,22 +724,22 @@
   enemies:
   - id: 13508
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=6618a5c261e1a162
-    name: "spawning jungle orobon"
+    name: "Молодой джунглевый оробон"
   quest_items:
   - id: 2003491
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=d615d251e56fd3dd
-    name: "chunk of raw abokixa"
+    name: "Необработанная абокиша"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=d615d251e56fd3dd
   eobjects:
   - id: 2013627
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=132a6c5122f4c83f
-    name: "eye-catching glimmer"
+    name: "Блестящий объект"
   - id: 2013628
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=3be0da43d8137b16
-    name: "eye-catching glimmer"
+    name: "Блестящий объект"
   - id: 2013629
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=a1064e02ef4e3698
-    name: "eye-catching glimmer"
+    name: "Блестящий объект"
 
 - name:
     original: "The Lifting of Wings"
@@ -834,13 +834,13 @@
   enemies:
   - id: 13509
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=c9622a4c4bde9df7
-    name: "wandering stinkshell"
+    name: "Бродячий колючепанцирь"
   - id: 13510
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=1e8583b11712f5fb
-    name: "tight-beaked toucalibri"
+    name: "Клювастый туколибри"
   - id: 13511
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=63ec00fddb1988ac
-    name: "hungry ocelot"
+    name: "Разъярённый оцелот"
   eobjects:
   - id: 2013630
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=716920bbe51dd891
@@ -891,7 +891,7 @@
     name: "Эренвилль"
   - id: 1046699
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=643596f4eeb7472b
-    name: "dispirited Hanu"
+    name: "Павший духом хану"
   - id: 1046744
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c61006b77f803620
     name: "Линухану"
@@ -915,10 +915,10 @@
     name: "Вук Эву"
   - id: 1046752
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=19f909416fb6585e
-    name: "melancholy Hanu"
+    name: "Меланхоличный хану"
   - id: 1046753
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=08749c4a09fda587
-    name: "mournful Hanu"
+    name: "Скорбящий хану"
   - id: 1046754
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=22e2be9a95d229d5
     name: "Вук Ламат"
@@ -973,7 +973,7 @@
   actors:
   - id: 1046542
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=aa2e771845df8c44
-    name: "approachable Pelu"
+    name: "Дружелюбный пелу"
   - id: 1046543
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=76835f39a1600dfe
     name: "Альфино"
@@ -1006,10 +1006,10 @@
     name: "Вук Ламат"
   - id: 1047743
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0a81bc9fb15e2b73
-    name: "approachable Pelu"
+    name: "Дружелюбный пелу"
   - id: 1050935
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e5a12b0df56a27b9
-    name: "amiable Pelu"
+    name: "Дружелюбный пелу"
 
 - name:
     original: "Traders of Happiness"
@@ -1043,13 +1043,13 @@
     name: "Крайл"
   - id: 1046557
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=436051f7c892038e
-    name: "distillery worker"
+    name: "Работник винокурни"
   - id: 1046558
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=385249ea92b65d29
     name: "Маблу"
   - id: 1046559
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9f5d6916b0d572cc
-    name: "impatient porter"
+    name: "Беспокойный перевозчик"
   - id: 1046560
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=335f2d911212a0f4
     name: "Вук Ламат"
@@ -1058,16 +1058,16 @@
     name: "Маблу"
   - id: 1046562
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5ea14d49f41b059f
-    name: "diligent ranch hand"
+    name: "Прилежный работник фермы"
   - id: 1046563
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c01194ac7ea93faf
-    name: "boastful ranch hand"
+    name: "Хвастливый работник фермы"
   - id: 1046564
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d1e2253be0319d2e
-    name: "nonchalant ranch hand"
+    name: "Небрежный работник фермы"
   - id: 1046565
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8511aae785d14e98
-    name: "wild-eyed alpaca"
+    name: "Злобная альпака"
   - id: 1046566
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=422dd97d418faafd
     name: "Вук Ламат"
@@ -1115,7 +1115,7 @@
   actors:
   - id: 1046565
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8511aae785d14e98
-    name: "wild-eyed alpaca"
+    name: "Злобная альпака"
   - id: 1046567
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6872357c2f4b8553
     name: "Альфино"
@@ -1136,7 +1136,7 @@
     name: "Маблу"
   - id: 1046574
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ec796a1f89e8acf6
-    name: "Havli"
+    name: "Хавли"
   - id: 1046575
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9a37abbcc03a4091
     name: "Вук Ламат"
@@ -1176,11 +1176,11 @@
   quest_items:
   - id: 2003479
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=0ec0a722c61146aa
-    name: "basket of alpaca wool"
+    name: "Корзина с шерстью альпаки"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=0ec0a722c61146aa
   - id: 2003485
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=90131aa995b1e1c7
-    name: "wool poncho"
+    name: "Шерстяное пончо"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=90131aa995b1e1c7
 
 - name:
@@ -1195,7 +1195,7 @@
   actors:
   - id: 1046585
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=abab179a7c396979
-    name: "Miplu"
+    name: "Миплу"
   - id: 1046586
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b032625f044c1191
     name: "Маблу"
@@ -1217,28 +1217,28 @@
   quest_items:
   - id: 2003480
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=82e7eb81b7464c18
-    name: "fine hatchet"
+    name: "Качественный топорик"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=82e7eb81b7464c18
   - id: 2003481
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=0b2122b2eea57e1a
-    name: "bundle of verdant mate leaves"
+    name: "Мешок пахучих листьев мате"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=0b2122b2eea57e1a
   eobjects:
   - id: 2013587
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=e82d9f40fe0b7d6c
-    name: "branch of verdant mate leaves"
+    name: "Куст мате"
   - id: 2013588
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=52c885cb668f07bd
-    name: "branch of verdant mate leaves"
+    name: "Куст мате"
   - id: 2013589
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=a0df0e144efd08c6
-    name: "branch of verdant mate leaves"
+    name: "Куст мате"
   - id: 2013590
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=f2a99a8f6ca9d791
-    name: "branch of verdant mate leaves"
+    name: "Куст мате"
   - id: 2013591
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=38f65f49587aa379
-    name: "branch of verdant mate leaves"
+    name: "Куст мате"
 
 - name:
     original: "A Premium Deal"
@@ -1258,22 +1258,22 @@
     name: "Маблу"
   - id: 1046592
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f62c054be9dc636e
-    name: "Gobli"
+    name: "Гобли"
   - id: 1046593
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5cf2be59683d4fc8
-    name: "Bebeel Ja"
+    name: "Бебеел Джа"
   - id: 1046594
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5217a5100bf49f22
-    name: "Raplu"
+    name: "Раплу"
   - id: 1046595
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5c120db849c6c922
-    name: "Tsuvli"
+    name: "Цувли"
   - id: 1046596
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=62a30db25d0bef61
     name: "Маблу"
   - id: 1046598
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f52bae7fdff53402
-    name: "Gobli"
+    name: "Гобли"
   - id: 1046599
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5ba9ef718761452b
     name: "Маблу"
@@ -1295,11 +1295,11 @@
   enemies:
   - id: 13512
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=1c5f70e6978ad8fc
-    name: "prickly barbmole"
+    name: "Юркий колючекрот"
   quest_items:
   - id: 2003482
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=f1f4d22b5e5012a4
-    name: "sack of top-grade mate leaves"
+    name: "Мешок отборных листьев мате"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=f1f4d22b5e5012a4
   eobjects:
   - id: 2013595
@@ -1324,7 +1324,7 @@
   actors:
   - id: 1046574
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ec796a1f89e8acf6
-    name: "Havli"
+    name: "Хавли"
   - id: 1046575
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9a37abbcc03a4091
     name: "Вук Ламат"
@@ -1333,7 +1333,7 @@
     name: "Маблу"
   - id: 1046598
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f52bae7fdff53402
-    name: "Gobli"
+    name: "Гобли"
   - id: 1046599
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5ba9ef718761452b
     name: "Маблу"
@@ -1387,7 +1387,7 @@
     name: "Маблу"
   - id: 1047503
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6d29b3936cd5b64b
-    name: "wild-eyed alpaca"
+    name: "Злобная альпака"
   - id: 1047747
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a5f4c0fd16f5d0fb
     name: "Крайл"
@@ -1400,7 +1400,7 @@
   quest_items:
   - id: 2003486
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=bd83304a584a5860
-    name: "jug of three-year-old premium mezcal"
+    name: "Кувшин мезкала трёхлетней выдержки"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=bd83304a584a5860
 
 - name:
@@ -1674,6 +1674,7 @@
 
 - name:
     original: "Lending a Helphand"
+    translated: "Помогайство"
   level: 92
   icon: 61412
   url:
@@ -1739,6 +1740,7 @@
 
 - name:
     original: "The Feat of Pots"
+    translated: "Свершение Горшков"
   level: 92
   icon: 61412
   url:
@@ -1812,6 +1814,7 @@
 
 - name:
     original: "A Father First"
+    translated: "Батин кулак"
   level: 92
   icon: 61412
   url:
@@ -1846,6 +1849,7 @@
 
 - name:
     original: "The Shape of Peace"
+    translated: "Мирные времена"
   level: 92
   icon: 61412
   url:
@@ -1943,6 +1947,7 @@
 
 - name:
     original: "Lost Promise"
+    translated: "Потерянная Надежда"
   level: 92
   icon: 61412
   url:
