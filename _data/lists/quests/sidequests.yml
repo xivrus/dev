@@ -3188,6 +3188,35 @@
     name: "damaged wain"
 
 - name:
+    original: "My Feisty Little Chocobo"
+  level: 30
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-011-subfst911_01162/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=071654264c96c90c
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=b34efa1be3f079dd
+  actors:
+  - id: 1000471
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f3199619ae1bcc35
+    name: "Локил"
+  - id: 1002754
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0c875a9b42ee4a84
+    name: "Docette"
+  enemies:
+  - id: 1869
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=4f8dc5b6c0aa699d
+    name: "clutch pelican"
+  quest_items:
+  - id: 2000085
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=920bc403e336e677
+    name: "fresh bunch of gysahl greens"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=920bc403e336e677
+  eobjects:
+  - id: 2001467
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=8d83f8c5207c1440
+    name: "Гисальская зелень"
+
+- name:
     original: "So You Want to Be a Jockey"
     translated: "Так ты хочешь стать жокеем"
   level: 15

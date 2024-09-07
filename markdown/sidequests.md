@@ -195,6 +195,12 @@ quest_list: sidequests
 	{% include quest.liquid quest_name = "One Man's Trash" %}
 </ul>
 
+## Южная Роща {#gridanian-sidequests-south-shroud}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "My Feisty Little Chocobo" %}
+</ul>
+
 # Побочные задания Уль'ды {#uldahn-sidequests}
 
 ## Уль'да {#uldahn-sidequests-uldah}
