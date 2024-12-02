@@ -128,4 +128,16 @@ quest_list: msq-7
 	{% include quest.liquid quest_name = "Dawntrail" %}
 </ul>
 
+# 7.1 --- Crossroads {#dt-7-1}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "A Royal Invitation" %}
+	{% include quest.liquid quest_name = "Alexandria Mourns" %}
+	{% include quest.liquid quest_name = "In Search of the Past" %}
+	{% include quest.liquid quest_name = "Among the Abandoned" %}
+	{% include quest.liquid quest_name = "Guidance of the Hhetso" %}
+	{% include quest.liquid quest_name = "The Warmth of Family" %}
+	{% include quest.liquid quest_name = "Crossroads" %}
+</ul>
+
 _Продолжение следует..._

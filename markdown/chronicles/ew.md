@@ -27,6 +27,12 @@ quest_list: chronicles-ew
 	{% include quest.liquid quest_name = "Guided by the Past" %}
 </ul>
 
+### Эпилог {#pandaemonium-epilogue}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "A Present from the Present" %}
+</ul>
+
 ## Myths of the Realm {#myths-of-the-realm}
 
 ![Изображение заданий Myths of the Realm](https://lds-img.finalfantasyxiv.com/itemicon/f7/f7a54484179421a67b36bf1c8afb8d3dfe44bcef.png)

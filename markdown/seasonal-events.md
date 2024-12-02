@@ -6,6 +6,13 @@ quest_list: seasonal
 
 ## Фестиваль духов / Heavensturn {#heavensturn}
 
+### 2024 {#heavensturn-2024}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "To Be a Mascot" %}
+	{% include quest.liquid quest_name = "Unlike a Dragon" %}
+</ul>
+
 ### 2023 {#heavensturn-2023}
 
 <ul markdown="0">
@@ -77,6 +84,12 @@ quest_list: seasonal
 </ul>
 
 ## День Валентиона / Valentione's Day {#valentione}
+
+### 2025 {#valentione-2025}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "I Promise You a Rose Garden" %}
+</ul>
 
 ### 2024 {#valentione-2024}
 
@@ -170,6 +183,13 @@ quest_list: seasonal
 
 ## День маленьких дам / Little Ladies' Day {#little-ladies-day}
 
+### 2025 {#little-ladies-day-2025}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "A Princely Persona" %}
+	{% include quest.liquid quest_name = "A Princely Debut" %}
+</ul>
+
 ### 2024 {#little-ladies-day-2024}
 
 <ul markdown="0">
@@ -259,6 +279,13 @@ quest_list: seasonal
 
 
 ## Вылу-пень / Hatching-tide {#hatching-tide}
+
+### 2025 {#hatching-tide-2025}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "エッグハントと宙を漂う飾りタマゴ" %}
+	{% include quest.liquid quest_name = "エッグハントと集う傘" %}
+</ul>
 
 ### 2023 {#hatching-tide-2023}
 
@@ -671,6 +698,13 @@ quest_list: seasonal
 </ul>
 
 ## Праздник Звёздного Света / Starlight Celebration {#starlight-celebration}
+
+### 2024 {#starlight-celebration-2024}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "Reach for the Stalls" %}
+	{% include quest.liquid quest_name = "Spreading the Warmth and Cheer" %}
+</ul>
 
 ### 2023 {#starlight-celebration-2023}
 
