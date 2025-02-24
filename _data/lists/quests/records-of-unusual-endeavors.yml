@@ -1,0 +1,58 @@
+- name:
+    original: "Seeking Sanctuary"
+    translated: "В поисках убежища"
+  level: 1
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-046-aktkua101_04643/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=23745aaa2b90500e
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=2230b4e008579e5f
+  actors:
+  - id: 1043621
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=785852f3ac2de564
+    name: "Балдин"
+  - id: 1043622
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c24eb106b476298f
+    name: "Татару"
+  - id: 1043623
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f37d84d50169c7ca
+    name: "Доброжелательный пушистик"
+  - id: 1043789
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4e3230222a11d54b
+    name: "Невежественный глашатай"
+  - id: 1043904
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c88ed63e9242d817
+    name: "Татару"
+
+- name:
+    original: "The Land, Wind, and Sea"
+    translated: "Земля, ветер и море"
+  level: 1
+  icon: 61411
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-046-aktkua201_04645/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=2ee9712ee43d999b
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=f147a469d96b61a0
+  cutscenes:
+  - name: "Кат-сцена"
+    start: "60"
+    end: "64"
+    url: https://translate.xivrus.ru/projects/xivrus/quest-046-aktkua101_04643/
+  actors:
+  - id: 1043617
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=56de3972cf1808b7
+    name: "Татару"
+  - id: 1043727
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5f997eb5fe47609d
+    name: "Эйнзар"
+  - id: 1043728
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0ddcae82fb6e5b6e
+    name: "Хиллфир"
+  - id: 1044156
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5038a7da279dedb8
+    name: "Любопытный курьер"
+  eobjects:
+  - id: 2013035
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=9021cf5a48850e8d
+    name: "Цель"
+

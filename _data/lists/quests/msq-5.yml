@@ -1479,7 +1479,7 @@
   - id: 1939
     url: https://translate.xivrus.ru/translate/xivrus/status/ru/?checksum=ed331aaa651924ee
     name: "Beckoned"
-    desc: "Магия феи овладела тобой и твоя воля не полностью принадлежит тебе."
+    desc: "Магия феи овладелавами и теперь ваша воля не полностью принадлежит вам."
 
 - name:
     original: "Sul Uin's Request"
@@ -3510,9 +3510,13 @@
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=4d6f0c127bbbd5b0
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=f233f9b0325de5f6
   cutscenes:
-  - name: "Кат-сцена"
+  - name: "Кат-сцена 1"
     start: "000010"
     end: "000050"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-050-voiceman_05003/
+  - name: "Кат-сцена 2"
+    start: "000060"
+    end: "000270"
     url: https://translate.xivrus.ru/projects/xivrus/cut_scene-050-voiceman_05003/
   actors:
   - id: 1026567
@@ -4009,7 +4013,7 @@
 
 - name:
     original: "On Track"
-    translated: "Рельсы, рельсы"
+    translated: "Снова рельсы"
   level: 95
   icon: 61412
   url:
@@ -4033,7 +4037,7 @@
     name: "Эренвилль"
   - id: 1046976
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=33a354684de16e4a
-    name: "Zekowa"
+    name: "Зекова"
   - id: 1046980
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2c8bcb28a022605c
     name: "railroad engineer"
@@ -4054,13 +4058,13 @@
     name: "Nitowikwe"
   - id: 1046991
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c169804a735e3fd3
-    name: "Iyaate"
+    name: "Ийаате"
   - id: 1048057
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c59ba3dc7bae03a8
     name: "Намикка"
   - id: 1049677
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=aef8c3a6c7bf3806
-    name: "Zekowa"
+    name: "Зекова"
   - id: 1050391
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4f017a3d3da3cd52
     name: "Kwikana"
@@ -6897,9 +6901,13 @@
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=cd974fee1704ba30
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=aecec74aef70d625
   cutscenes:
-  - name: "Кат-сцена"
+  - name: "Кат-сцена 1"
     start: "002320"
     end: "002490"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-051-voiceman_05100/
+  - name: "Кат-сцена 2"
+    start: "002670"
+    end: "002910"
     url: https://translate.xivrus.ru/projects/xivrus/cut_scene-051-voiceman_05100/
   actors:
   - id: 1026568
@@ -7251,6 +7259,11 @@
     quest: https://translate.xivrus.ru/projects/xivrus/quest-037-luckmh106_03766/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=a67fd293a8805e41
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=7e2c2c18cb2a141b
+  cutscenes:
+  - name: "Кат-сцена"
+    start: "002160"
+    end: "002680"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-052-voiceman_05200/
   actors:
   - id: 1027750
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5cf143d44c46e76f
@@ -7503,6 +7516,11 @@
     quest: https://translate.xivrus.ru/projects/xivrus/quest-037-luckmh109_03769/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=68d66641f5e9b003
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=b353375ac24e3f0d
+  cutscenes:
+  - name: "Кат-сцена"
+    start: "002690"
+    end: "003000"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-052-voiceman_05200/
   actors:
   - id: 1026567
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=730f10e257ed7e99
@@ -7579,9 +7597,17 @@
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=7b56bd5c48af6e2a
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=2168d0d91c0c8db3
   cutscenes:
-  - name: "Кат-сцена"
+  - name: "Кат-сцена 1"
     start: "003010"
     end: "003520"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-052-voiceman_05200/
+  - name: "Кат-сцена 2"
+    start: "003530"
+    end: "003600"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-052-voiceman_05200/
+  - name: "Кат-сцена 3"
+    start: "003610"
+    end: "003680"
     url: https://translate.xivrus.ru/projects/xivrus/cut_scene-052-voiceman_05200/
   actors:
   - id: 1026567
@@ -7978,9 +8004,13 @@
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=9f82917b9d3e6f47
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=150e7b13edc52f43
   cutscenes:
-  - name: "Кат-сцена"
+  - name: "Кат-сцена 1"
     start: "001050"
     end: "001210"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-053-voiceman_05300/
+  - name: "Кат-сцена 2"
+    start: "001220"
+    end: "001530"
     url: https://translate.xivrus.ru/projects/xivrus/cut_scene-053-voiceman_05300/
   actors:
   - id: 1026567
@@ -8243,6 +8273,11 @@
     quest: https://translate.xivrus.ru/projects/xivrus/quest-037-luckmi109_03779/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=5a871fdc8f752d1f
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=e23e6715a26b5ce6
+  cutscenes:
+  - name: "Кат-сцена"
+    start: "003960"
+    end: "004190"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-053-voiceman_05300/
   actors:
   - id: 1026567
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=730f10e257ed7e99
@@ -8571,6 +8606,15 @@
     quest: https://translate.xivrus.ru/projects/xivrus/quest-040-luckmj103_04009/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=09eaad26be7727d4
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=0547b0a9c34e92cf
+  cutscenes:
+  - name: "Кат-сцена 1"
+    start: "000460"
+    end: "000540"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-054-voiceman_05400/
+  - name: "Кат-сцена 2"
+    start: "000550"
+    end: "000860"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-054-voiceman_05400/
   actors:
   - id: 1014578
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4fbbd8c13b1da3de
@@ -8962,6 +9006,14 @@
   - name: "Кат-сцена 3"
     start: "003050"
     end: "003320"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-054-voiceman_05400/
+  - name: "Кат-сцена 4"
+    start: "003330"
+    end: "003370"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-054-voiceman_05400/
+  - name: "Кат-сцена 5"
+    start: "003380"
+    end: "003480"
     url: https://translate.xivrus.ru/projects/xivrus/cut_scene-054-voiceman_05400/
   actors:
   - id: 1032267

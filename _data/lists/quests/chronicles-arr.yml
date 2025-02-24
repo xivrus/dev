@@ -667,6 +667,39 @@
     quest: https://translate.xivrus.ru/projects/xivrus/quest-000-gaiusd502_00044/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=38906e1765c4322b
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=7d5dd97e2960f6d4
+  cutscenes:
+  - name: "Кат-сцена 1"
+    start: "400010"
+    end: "400180"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-024-voiceman_02401/
+  - name: "Кат-сцена 2"
+    start: "500010"
+    end: "500360"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-024-voiceman_02401/
+  - name: "Кат-сцена 3"
+    start: "501"
+    end: "508"
+    url: https://translate.xivrus.ru/projects/xivrus/quest-000-gaiusd501_00043/
+  - name: "Кат-сцена 4"
+    start: "601"
+    end: "621"
+    url: https://translate.xivrus.ru/projects/xivrus/quest-000-gaiusd501_00043/
+  - name: "Кат-сцена 5"
+    start: "701"
+    end: "707"
+    url: https://translate.xivrus.ru/projects/xivrus/quest-000-gaiusd501_00043/
+  - name: "Кат-сцена 6"
+    start: "300010"
+    end: "300330"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-024-voiceman_02401/
+  - name: "Кат-сцена 7"
+    start: "600010"
+    end: "600200"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-024-voiceman_02401/
+  - name: "Кат-сцена 8"
+    start: "700010"
+    end: "700230"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-024-voiceman_02401/
   actors:
   - id: 1009771
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4ad4fed8f3dc0bf8

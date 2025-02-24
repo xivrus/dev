@@ -4345,9 +4345,17 @@
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=a166e0b8ef7083c3
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=e251a441d0acd9b8
   cutscenes:
-  - name: "Кат-сцена"
+  - name: "Кат-сцена 1"
     start: "000010"
     end: "000550"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-060-voiceman_06004/
+  - name: "Кат-сцена 2"
+    start: "000560"
+    end: "000780"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-060-voiceman_06004/
+  - name: "Кат-сцена 3"
+    start: "000790"
+    end: "001110"
     url: https://translate.xivrus.ru/projects/xivrus/cut_scene-060-voiceman_06004/
   actors:
   - id: 1030533
@@ -8954,9 +8962,13 @@
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=e1e03a2e6784cedf
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=ea72a1b98de5634a
   cutscenes:
-  - name: "Кат-сцена"
+  - name: "Кат-сцена 1"
     start: "000440"
     end: "000960"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-063-voiceman_06300/
+  - name: "Кат-сцена 2"
+    start: "000970"
+    end: "001080"
     url: https://translate.xivrus.ru/projects/xivrus/cut_scene-063-voiceman_06300/
   actors:
   - id: 1036120
@@ -9509,6 +9521,10 @@
     start: "000430"
     end: "000830"
     url: https://translate.xivrus.ru/projects/xivrus/cut_scene-064-voiceman_06400/
+  - name: "Кат-сцена 3"
+    start: "000010"
+    end: "000030"
+    url: https://translate.xivrus.ru/projects/xivrus/quest-000-manfst000_00083/
   actors:
   - id: 1037317
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9030b8cde52b5da3
@@ -10249,6 +10265,11 @@
     quest: https://translate.xivrus.ru/projects/xivrus/quest-047-aktkml101_04744/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=b226e9c33000fe6b
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=1e5144ad83498ec5
+  cutscenes:
+  - name: "Кат-сцена"
+    start: "000010"
+    end: "000350"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-065-voiceman_06500/
   actors:
   - id: 1026571
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4194cfef98c18e5f
@@ -10353,6 +10374,11 @@
     quest: https://translate.xivrus.ru/projects/xivrus/quest-047-aktkml103_04746/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=5b01d9c82f3585fc
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=03f8752620530704
+  cutscenes:
+  - name: "Кат-сцена"
+    start: "000360"
+    end: "000860"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-065-voiceman_06500/
   actors:
   - id: 1027754
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=74678ef165fc74af
@@ -10427,6 +10453,19 @@
     quest: https://translate.xivrus.ru/projects/xivrus/quest-047-aktkml104_04747/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=f853b67a5f66db72
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=626cde2d373ea611
+  cutscenes:
+  - name: "Кат-сцена 1"
+    start: "000870"
+    end: "000870"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-065-voiceman_06500/
+  - name: "Кат-сцена 2"
+    start: "000880"
+    end: "000920"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-065-voiceman_06500/
+  - name: "Кат-сцена 3"
+    start: "000930"
+    end: "001110"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-065-voiceman_06500/
   actors:
   - id: 1026571
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4194cfef98c18e5f
@@ -10573,7 +10612,7 @@
     name: "Врата на красную луну"
   - id: 2013409
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=6181e130a2f41311
-    name: "Мрачный вестибюль"
+    name: "Проход в мрачный вестибюль"
   - id: 2013412
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=3a5403ecbe5aca6d
     name: "В Темницу мрака"

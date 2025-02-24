@@ -647,6 +647,15 @@
     quest: https://translate.xivrus.ru/projects/xivrus/quest-047-aktkra305_04760/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=7ab553121ab905a5
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=c9d867f2a4bd7193
+  cutscenes:
+  - name: "Кат-сцена 1"
+    start: "000070"
+    end: "000300"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-064-voiceman_06401/
+  - name: "Кат-сцена 2"
+    start: "000310"
+    end: "000350"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-064-voiceman_06401/
   actors:
   - id: 1038063
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8a817f8aad8159c6
@@ -766,7 +775,7 @@
   eobjects:
   - id: 2014542
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=22dc344112012f82
-    name: "destination"
+    name: "Цель"
 
 - name:
     original: "A Mission in Mor Dhona"
