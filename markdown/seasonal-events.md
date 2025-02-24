@@ -283,8 +283,8 @@ quest_list: seasonal
 ### 2025 {#hatching-tide-2025}
 
 <ul markdown="0">
-	{% include quest.liquid quest_name = "エッグハントと宙を漂う飾りタマゴ" %}
-	{% include quest.liquid quest_name = "エッグハントと集う傘" %}
+	{% include quest.liquid quest_name = "In Pursuit of Eggcellence" %}
+	{% include quest.liquid quest_name = "Eggceeding Expectations" %}
 </ul>
 
 ### 2023 {#hatching-tide-2023}
