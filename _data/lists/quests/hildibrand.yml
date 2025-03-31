@@ -1,10 +1,11 @@
 - name:
     original: "The Rise and Fall of Gentlemen"
+    translated: "Взлёт и падение джентльменов"
   level: 50
   icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-012-chrhdb101_01204/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=69ab94326a7cb67e
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=51c48569114db0cf
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=352f124c1c8cf08a
   actors:
   - id: 1001285
@@ -15,14 +16,14 @@
     name: "Хильдибранд"
   - id: 1005709
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fb33ca60e43bea9c
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1005710
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b5ba71accd26e9f7
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   fates:
   - id: 555
     url: https://translate.xivrus.ru/translate/xivrus/fate/ru/?checksum=4367c0da84ab92fa
-    name: "Следы на песке"
+    name: "Мертвецы корчатся со стилем"
   quest_items:
   - id: 2001125
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=b4f11e7e24201ae9
@@ -31,11 +32,12 @@
 
 - name:
     original: "Back in the Saddle"
+    translated: "Снова в седле"
   level: 50
   icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-012-chrhdb102_01205/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=fe013cdebf80fd5e
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=dc7ff9ec4f514f29
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=ed9273e97aa17c7e
   actors:
   - id: 1001285
@@ -52,24 +54,25 @@
     name: "Агнис"
   - id: 1005501
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8f2e915be1715e53
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1005512
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f9c200b04f44bfd0
     name: "Хильдибранд"
   - id: 1005710
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b5ba71accd26e9f7
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1005711
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=35e5327ebac5ed89
     name: "Хильдибранд"
 
 - name:
     original: "After Her Own Heart"
+    translated: "По зову её сердца"
   level: 50
   icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-012-chrhdb103_01206/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=3724b370243bb5dc
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=c5b7f667dedc3dd6
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=8e25310698ca2879
   actors:
   - id: 1001285
@@ -80,7 +83,7 @@
     name: "Жёлтая Луна"
   - id: 1005501
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8f2e915be1715e53
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1005512
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f9c200b04f44bfd0
     name: "Хильдибранд"
@@ -92,7 +95,7 @@
     name: "Хильдибранд"
   - id: 1005714
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ba2efedf804c4938
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1005715
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=94773c08c8ec8259
     name: "Жёлтая Луна"
@@ -101,39 +104,40 @@
     name: "Хильдибранд"
   - id: 1005717
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=65bf6303de3cdb75
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1005718
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=468af8a985581d77
-    name: "Взмокший мужчина"
+    name: "взмокший мужчина"
   - id: 1005767
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3d4cb6bd0ba88fba
-    name: "perspiring man"
+    name: "взмокший мужчина"
   - id: 1005770
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0f6dc05e633146c3
     name: "Элли"
   quest_items:
   - id: 2001126
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=4602dfb6bcfde4d9
-    name: "супер взрывная бомба"
+    name: "«Радость Нашу»"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=4602dfb6bcfde4d9
   eobjects:
   - id: 2003000
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=8a564b9eee0988a1
-    name: "Выделяющиеся ящики"
+    name: "Подозрительные ящики"
   - id: 2003001
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=14140d515ec8ec18
-    name: "Выделяющиеся ящики"
+    name: "Подозрительные ящики"
   - id: 2003134
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=61da16c2ba13fdbb
-    name: "conspicuous crates"
+    name: "подозрительные ящики"
 
 - name:
     original: "The Immaculate Deception"
+    translated: "Безупречный обман"
   level: 50
   icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-012-chrhdb104_01207/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=2be640b8f11d04a0
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=ea403498fa162ed7
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=dbb05ccdb4c85927
   actors:
   - id: 1003939
@@ -147,7 +151,7 @@
     name: "Эббе"
   - id: 1005501
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8f2e915be1715e53
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1005512
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f9c200b04f44bfd0
     name: "Хильдибранд"
@@ -162,19 +166,19 @@
     name: "Элли"
   - id: 1005724
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6ca592f8dba0cc00
-    name: "Чоджонпа"
+    name: "Чочонпа"
   - id: 1005725
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=047598d8776f5cf5
     name: "Хильдибранд"
   - id: 1005726
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=98e8004a0593fb98
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1005727
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ae5d9b15471ed40b
     name: "Хильдибранд"
   - id: 1005728
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=13fb599d480050ab
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1005729
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=95cb1f65811cc7e2
     name: "Элли"
@@ -198,11 +202,11 @@
     name: "Элли"
   - id: 1005788
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7f7c238925e6da7a
-    name: "Eleazar"
+    name: "Элеазар"
   quest_items:
   - id: 2001127
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=5c0e1559683b41ec
-    name: "бесполезная бутылка"
+    name: "никчёмная бутылка"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=5c0e1559683b41ec
   - id: 2001128
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=f70ccb70a76e6028
@@ -210,7 +214,7 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=f70ccb70a76e6028
   - id: 2001129
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=b72ef6221097f3bf
-    name: "бесполезный горшок"
+    name: "неважный осколок горшка"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=b72ef6221097f3bf
   - id: 2001150
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=57462ce79a0653c9
@@ -229,11 +233,12 @@
 
 - name:
     original: "The Science of Deduction"
+    translated: "Искусство умозаключений"
   level: 50
   icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-013-chrhdb201_01315/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=be63672e68f74f09
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=b9d172a6029da63a
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=21f40a78ad9e0f57
   actors:
   - id: 1002022
@@ -244,13 +249,13 @@
     name: "Тутуси"
   - id: 1005501
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8f2e915be1715e53
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1005504
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=54dbc4b58d23584d
     name: "Бриардьен"
   - id: 1005739
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=80b182ec969e4dbd
-    name: "Дурилда"
+    name: "Дурильда"
   - id: 1005740
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=33b169bfca609922
     name: "Мария"
@@ -274,7 +279,7 @@
     name: "Элли"
   - id: 1008709
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=68dddbab07decbdb
-    name: "Дурилда"
+    name: "Дурильда"
   - id: 1008713
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c854df201d9751d1
     name: "Отдыхающий торговец"
@@ -289,13 +294,13 @@
     name: "Хильдибранд"
   - id: 1008766
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5a433807a8bb2774
-    name: "disconcerted damsel"
+    name: "сбитая с толку дама"
   - id: 1008767
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2528021a62c335be
-    name: "flustered fellow"
+    name: "взволнованный паренёк"
   - id: 1008768
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4efc1c5c15a2f3c3
-    name: "stupefied sentry"
+    name: "ошеломленный стражник"
   quest_items:
   - id: 2001219
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=ebe1e0dca1b42eb9
@@ -303,7 +308,7 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=ebe1e0dca1b42eb9
   - id: 2001220
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=d4f90f8c99e01937
-    name: "кусок драгоценного горшка"
+    name: "осколок драгоценной вазы"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=d4f90f8c99e01937
   eobjects:
   - id: 2003654
@@ -311,29 +316,30 @@
     name: "Любопытный объект"
   - id: 2003656
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=466829ab232affa6
-    name: "Кусок драгоценного горшка"
+    name: "Осколок драгоценной вазы"
   - id: 2003657
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=5186839adb63cc8f
-    name: "Кусок драгоценного горшка"
+    name: "Осколок драгоценной вазы"
   - id: 2003658
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=5aea7ba51d8d6f02
-    name: "Кусок драгоценного горшка"
+    name: "Осколок драгоценной вазы"
   - id: 2003659
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=3bf1b3de24c00b21
-    name: "Кусок драгоценного горшка"
+    name: "Осколок драгоценной вазы"
 
 - name:
     original: "The Hammer"
+    translated: "Час Молота"
   level: 50
   icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-013-chrhdb202_01316/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=e19ac4fa7b3e54f3
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=a7bd0fb23ab8d59a
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=b0c2ee893c0ddfc5
   actors:
   - id: 1005501
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8f2e915be1715e53
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1005513
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=99c7b4ce88d43f95
     name: "Годберт"
@@ -354,7 +360,7 @@
     name: "Хильдибранд"
   - id: 1008719
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ff09e5fff7d103e5
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1008721
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=576a17f17d6aef0a
     name: "Гильгамеш"
@@ -374,16 +380,17 @@
 
 - name:
     original: "Manderville Men"
+    translated: "Знакомьтесь, Мандервилли"
   level: 50
   icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-013-chrhdb203_01317/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=d4b54722b90e7fe2
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=84376ec2844c4e02
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=5ed3cddeed4423df
   actors:
   - id: 1005501
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8f2e915be1715e53
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1005504
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=54dbc4b58d23584d
     name: "Бриардьен"
@@ -392,7 +399,7 @@
     name: "Годберт"
   - id: 1005739
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=80b182ec969e4dbd
-    name: "Дурилда"
+    name: "Дурильда"
   - id: 1005740
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=33b169bfca609922
     name: "Мария"
@@ -413,7 +420,7 @@
     name: "Хильдибранд"
   - id: 1008727
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7ceb0b5ac86a9037
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1008729
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bb4a2df2fd3f21d6
     name: "Гильгамеш"
@@ -429,7 +436,7 @@
   quest_items:
   - id: 2001221
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=1d275377d3243ae5
-    name: "восстановленный горшок"
+    name: "восстановленная ваза"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=1d275377d3243ae5
   eobjects:
   - id: 2001471
@@ -441,16 +448,17 @@
 
 - name:
     original: "The Three Collectors"
+    translated: "Трио Коллекционеров"
   level: 50
   icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-013-chrhdb204_01318/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=08abfbb1417cd6c9
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=17ffdca87532c110
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=0c62f8529806e9f4
   actors:
   - id: 1005501
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8f2e915be1715e53
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1005504
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=54dbc4b58d23584d
     name: "Бриардьен"
@@ -489,7 +497,7 @@
     name: "Хильдибранд"
   - id: 1008749
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=58cd93384db66dae
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1008750
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e10f120438c77e57
     name: "Элли"
@@ -504,7 +512,7 @@
     name: "Хильдибранд"
   - id: 1008754
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6599cecdeb371e69
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1008755
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cb1b0fabacdbf017
     name: "Элли"
@@ -516,7 +524,7 @@
     name: "Дурильда"
   - id: 1008935
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f6611df18b8b4da8
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   eobjects:
   - id: 2003741
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=e02ce27a89024ff8
@@ -524,16 +532,17 @@
 
 - name:
     original: "The Business of Betrothal"
+    translated: "Дела помолвочные"
   level: 50
   icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-014-chrhdb301_01438/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=8b3cf7a93529bc4a
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=6fade76f24eda8f7
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=6f59636bc90fcaf2
   actors:
   - id: 1005501
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8f2e915be1715e53
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1005503
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2b089b1c6d13a58d
     name: "Элли"
@@ -548,10 +557,10 @@
     name: "Элли"
   - id: 1008774
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8c85d63483bf90fe
-    name: "Vannes"
+    name: "Ванн"
   - id: 1008775
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5f71f9a77bc48f3d
-    name: "Guguremu"
+    name: "Гугурему"
   - id: 1009305
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=dd3cd9db3ac117c4
     name: "Гугурему"
@@ -566,10 +575,10 @@
     name: "Хильдибранд"
   - id: 1009309
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=62ba7cc436476dd0
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1009310
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cda4a10d304c8aef
-    name: "Военнопленный"
+    name: "Латунный Клинок Герберы"
   - id: 1009311
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d82ebfe51d9697f7
     name: "Моргант"
@@ -587,19 +596,19 @@
     name: "Хильдибранд"
   - id: 1009324
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=99a869c08de46397
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1009327
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7a1499e11f71d1ed
     name: "Элли"
   - id: 1009354
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6d57967ef9e76637
-    name: "Lewenhart"
+    name: "Левенхарт"
   - id: 1009422
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=94ce7f2170da0988
-    name: "Sainana"
+    name: "Сайнана"
   - id: 1009675
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fb5110e22f59b2ec
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   eobjects:
   - id: 2004317
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=7fbd35af3bc9b5c9
@@ -607,19 +616,20 @@
 
 - name:
     original: "A Burst of Inspiration"
+    translated: "Озарение"
   level: 50
   icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-014-chrhdb302_01439/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=06627181d46a2cae
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=64cd6d666c9d187f
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=bfcdbb132fa3dbd5
   actors:
   - id: 1001023
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2e79edf88d1d1d09
-    name: "Сундхимал"
+    name: "Сундимал"
   - id: 1005501
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8f2e915be1715e53
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1005503
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2b089b1c6d13a58d
     name: "Элли"
@@ -637,7 +647,7 @@
     name: "Хильдибранд"
   - id: 1009324
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=99a869c08de46397
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1009325
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7f49f6c3dc923a1f
     name: "Элли"
@@ -655,26 +665,27 @@
     name: "Хильдибранд"
   - id: 1009331
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=95afc8b60aa5ee69
-    name: "Крохотный торгаш"
+    name: "Мелкий торговец"
   - id: 1009421
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d318c605553f68e6
-    name: "Yalto Nolto"
+    name: "Ялто Нолто"
   - id: 1009422
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=94ce7f2170da0988
-    name: "Sainana"
+    name: "Сайнана"
 
 - name:
     original: "Seeds of Rebellion"
+    translated: "Семена неповиновения"
   level: 50
   icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-014-chrhdb303_01440/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=04c5f90b7e24c89c
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=30a99a76b1a6df7a
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=656b95769a7f44ee
   actors:
   - id: 1005501
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8f2e915be1715e53
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1005503
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2b089b1c6d13a58d
     name: "Элли"
@@ -686,7 +697,7 @@
     name: "Хильдибранд"
   - id: 1008777
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f5dcd98cf3b0aa24
-    name: "Lewenhart"
+    name: "Левенхарт"
   - id: 1009319
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=302af5cd7462ea33
     name: "Левенхарт"
@@ -695,7 +706,7 @@
     name: "Хильдибранд"
   - id: 1009331
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=95afc8b60aa5ee69
-    name: "Крохотный торгаш"
+    name: "Мелкий торговец"
   - id: 1009335
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bf62b875ec0f5c89
     name: "Хильдибранд"
@@ -711,7 +722,7 @@
   fates:
   - id: 336
     url: https://translate.xivrus.ru/translate/xivrus/fate/ru/?checksum=87df09699685af62
-    name: "The Mandragoras"
+    name: "Мандрагоры"
   quest_items:
   - id: 2001343
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=8281bda5bc685002
@@ -720,26 +731,27 @@
   eobjects:
   - id: 2004324
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=18c9f2221fba1f68
-    name: "Саженец мандрагоры"
+    name: "Росток мандрагоры"
   - id: 2004325
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=600eae20ca0b3c3c
-    name: "Саженец мандрагоры"
+    name: "Росток мандрагоры"
   - id: 2004326
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=00e4e84d208ea879
-    name: "Саженец мандрагоры"
+    name: "Росток мандрагоры"
 
 - name:
     original: "A Case of Indecency"
+    translated: "Непристойное дело"
   level: 50
   icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-014-chrhdb304_01441/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=1957f660b148fca5
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=11df82a312dfdece
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=23340feddd526c5e
   actors:
   - id: 1005501
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8f2e915be1715e53
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1005503
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2b089b1c6d13a58d
     name: "Элли"
@@ -751,7 +763,7 @@
     name: "Хильдибранд"
   - id: 1008777
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f5dcd98cf3b0aa24
-    name: "Lewenhart"
+    name: "Левенхарт"
   - id: 1009337
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e8595c2e56d89ced
     name: "Арабелла"
@@ -778,11 +790,11 @@
     name: "Arabella"
   - id: 1009570
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=12ac8376d8428b9a
-    name: "gossipy gentlewoman"
+    name: "сплетничающая аристократка"
   quest_items:
   - id: 2001344
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=bb6e073bf6d54ecc
-    name: "комплект одежды слуги"
+    name: "комплект формы прислуги"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=bb6e073bf6d54ecc
   - id: 2001345
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=c8b5d7d2183145f7
@@ -795,11 +807,12 @@
 
 - name:
     original: "Eight-armed and Dangerous"
+    translated: "Осьминог и опасен"
   level: 50
   icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-001-chrhdb401_00166/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=c8d09d2c5790bb2e
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=a6fe072c7d736633
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=a96026f0d735e45e
   actors:
   - id: 1001857
@@ -807,7 +820,7 @@
     name: "Ююбая"
   - id: 1005501
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8f2e915be1715e53
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1005503
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2b089b1c6d13a58d
     name: "Элли"
@@ -822,19 +835,19 @@
     name: "Ганелон"
   - id: 1010165
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3d25fe0fbe11c387
-    name: "Hewe"
+    name: "Хью"
   - id: 1010166
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=672289c8d5701288
-    name: "Hutchin"
+    name: "Хутчин"
   - id: 1010167
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0c8e042a33140adc
-    name: "Hotch"
+    name: "Хотч"
   - id: 1010186
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=440d10e7ef91be77
     name: "Элли"
   - id: 1010188
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=460024098163c8a9
-    name: "Бешеная крыса"
+    name: "Свирепая Крыса"
   - id: 1010280
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3500fedb6cf70ee0
     name: "Элли"
@@ -843,19 +856,19 @@
     name: "Хильдибранд"
   - id: 1010282
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3bf5605c2430716d
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1010286
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1a93fc42a231ff11
     name: "Хильдибранд"
   - id: 1010287
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4a2ca3d525a01618
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1010288
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cf3d57830fe68a91
     name: "Хильдибранд"
   - id: 1010513
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=dc9e2ec23a96f7f1
-    name: "Ultros"
+    name: "Ультрос"
   - id: 1010518
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b7486aa8f0f4ba31
     name: "Ультрос"
@@ -864,20 +877,21 @@
     name: "Ультрос"
   - id: 1010557
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=594337706a329ff7
-    name: "Haymo"
+    name: "Хеймо"
 
 - name:
     original: "What Price Victory"
+    translated: "Какова цена победы"
   level: 50
   icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-002-chrhdb402_00202/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=1a989c36a75381a9
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=99fdd9ab3c36998d
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=cee41885754615ca
   actors:
   - id: 1010273
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b12f5a97f598e23c
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1010275
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a0c098d699f97a4e
     name: "Элли"
@@ -907,26 +921,27 @@
     name: "Суровый Луг"
   - id: 1010784
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=95d123b886bb84d9
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
 
 - name:
     original: "The Trouble with Truffles"
+    translated: "Трюфельная проблема"
   level: 50
   icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-002-chrhdb403_00203/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=936747951de3b3c5
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=37c30de0a399d173
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=41f79399b5d7fa43
   actors:
   - id: 1001679
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5c527f888082f9e5
-    name: "Синтгохт"
+    name: "Синтгот"
   - id: 1001857
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8789f2bde35ae692
     name: "Ююбая"
   - id: 1005501
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8f2e915be1715e53
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1005504
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=54dbc4b58d23584d
     name: "Бриардьен"
@@ -941,7 +956,7 @@
     name: "Хильдибранд"
   - id: 1010185
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6db1417458332986
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1010290
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f28932bceeea0dcd
     name: "Хильдибранд"
@@ -950,20 +965,20 @@
     name: "Хильдибранд"
   - id: 1010314
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3801d7f4d48fd0af
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1010316
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=87ef8207b70f38a1
     name: "Бриардьен"
   - id: 1010516
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=97a3b1e05f62b94f
-    name: "Ultros"
+    name: "Ультрос"
   - id: 1010520
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=defa3a147ea5fdcf
     name: "Ультрос"
   quest_items:
   - id: 2001508
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=ac85d0e140ccd14a
-    name: "ящик с отходами колизея"
+    name: "ящик с отходами из Колизея"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=ac85d0e140ccd14a
   - id: 2001509
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=909d2152a9e03d7a
@@ -972,26 +987,27 @@
   eobjects:
   - id: 2004899
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=1034833daf5d1a18
-    name: "Мусор колизея"
+    name: "Мусор из Колизея"
   - id: 2004900
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=2bd4b35f4eab4ed4
-    name: "Мусор колизея"
+    name: "Мусор из Колизея"
   - id: 2004901
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=79011e04f76ad94f
-    name: "Мусор колизея"
+    name: "Мусор из Колизея"
 
 - name:
     original: "The Coliseum Conundrum"
+    translated: "Загадка Колизея"
   level: 50
   icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-002-chrhdb404_00204/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=e0ecebc17a58eb37
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=77990c23ae570830
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=042d220117336eaa
   actors:
   - id: 1001679
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5c527f888082f9e5
-    name: "Синтгохт"
+    name: "Синтгот"
   - id: 1010161
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c2b279d97d7ea414
     name: "Суровый Луг"
@@ -1003,7 +1019,7 @@
     name: "Хильдибранд"
   - id: 1010327
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=07bdc25aba84d4e8
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1010328
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c945bce9a7737bd6
     name: "Элли"
@@ -1024,7 +1040,7 @@
     name: "Хильдибранд"
   - id: 1010704
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3f81ad3a7b42164b
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1010705
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b7478bcd2d2c6bc1
     name: "Элли"
@@ -1034,11 +1050,12 @@
 
 - name:
     original: "Shades of Sil'dih"
+    translated: "Тени Силь'ди"
   level: 50
   icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-004-chrhdb501_00490/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=5c66f5f9a4294f97
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=a219330200d2c1a1
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=0eb243aa3bf34d53
   actors:
   - id: 1001285
@@ -1046,7 +1063,7 @@
     name: "Вимонд"
   - id: 1005501
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8f2e915be1715e53
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1005503
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2b089b1c6d13a58d
     name: "Элли"
@@ -1055,7 +1072,7 @@
     name: "Бриардьен"
   - id: 1005788
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7f7c238925e6da7a
-    name: "Eleazar"
+    name: "Элеазар"
   - id: 1008264
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d3a811c575d467df
     name: "Хильдибранд"
@@ -1064,7 +1081,7 @@
     name: "Элли"
   - id: 1011276
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f9675e36fc2f2b81
-    name: "Phillice"
+    name: "Филлис"
   - id: 1011619
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6746ab855475c876
     name: "Элли"
@@ -1073,10 +1090,10 @@
     name: "Хамфри"
   - id: 1011661
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bb6805ba601faf58
-    name: "Humphrey"
+    name: "Хамфри"
   - id: 1011664
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e4dd7f92ebc3a9f2
-    name: "Guigue"
+    name: "Гвиги"
   - id: 1011671
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3fe7a19cfdb70520
     name: "Элли"
@@ -1085,7 +1102,7 @@
     name: "Хильдибранд"
   - id: 1011673
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a16f47d4851896e2
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1011674
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0874ee8e37880c8b
     name: "Бриардьен"
@@ -1100,24 +1117,25 @@
     name: "Хильдибранд"
   - id: 1011678
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ec1ea076355daa3f
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1011679
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1198da25ed8e0f91
     name: "Бриардьен"
   - id: 1011680
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5aa7227ddf027934
-    name: "haggard hag"
+    name: "свихнувшаяся старуха"
   - id: 1011831
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=893a96ad458e34ec
     name: "Элли"
 
 - name:
     original: "Sibling Strife"
+    translated: "Сестринские ссоры"
   level: 50
   icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-004-chrhdb502_00491/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=87d76947fe433f60
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=6d7e8eb31f998d9f
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=e4f10cf89445e368
   actors:
   - id: 1001294
@@ -1131,7 +1149,7 @@
     name: "Эрасмус"
   - id: 1005501
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8f2e915be1715e53
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1005503
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2b089b1c6d13a58d
     name: "Элли"
@@ -1140,7 +1158,7 @@
     name: "Бриардьен"
   - id: 1005739
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=80b182ec969e4dbd
-    name: "Дурилда"
+    name: "Дурильда"
   - id: 1005740
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=33b169bfca609922
     name: "Мария"
@@ -1161,7 +1179,7 @@
     name: "Хильдибранд"
   - id: 1011678
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ec1ea076355daa3f
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1011679
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1198da25ed8e0f91
     name: "Бриардьен"
@@ -1182,7 +1200,7 @@
     name: "Хильдибранд"
   - id: 1011686
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=17ee88eef62b64af
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1011687
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2868c0cfe40a51c0
     name: "Бриардьен"
@@ -1197,15 +1215,16 @@
     name: "Бриардьен"
   - id: 1011821
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9b37cf56649dfa16
-    name: "Hob"
+    name: "Хоб"
 
 - name:
     original: "Beneath the Mask"
+    translated: "Под покровом маски"
   level: 50
   icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-004-chrhdb503_00492/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=11ee243809178e26
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=91f2e8dfc66feb64
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=76c0fff6ff5dea70
   actors:
   - id: 1005513
@@ -1219,10 +1238,10 @@
     name: "Хильдибранд"
   - id: 1011692
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=df8bf18d5af75125
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1011693
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6ace7e72b80fec06
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1011694
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=88f44e16dfe09b5f
     name: "Бриардьен"
@@ -1244,34 +1263,35 @@
   quest_items:
   - id: 2001566
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=8df64810c04e3bf9
-    name: "щепотка разоблачающего порошка"
+    name: "щепотка демаскирующего порошка"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=8df64810c04e3bf9
   eobjects:
   - id: 2005164
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=be6df50c8d51e45c
-    name: "Письмо с водяными знаками"
+    name: "промокшее письмо"
   - id: 2005165
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=5c04ac437154d126
-    name: "Письмо с водяными знаками"
+    name: "промокшее письмо"
   - id: 2005166
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=a38e34064e2a6bf4
-    name: "Письмо с водяными знаками"
+    name: "промокшее письмо"
 
 - name:
     original: "Truths Untold"
+    translated: "Нераскрытая истина"
   level: 50
   icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-004-chrhdb504_00493/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=d9b1279af461c476
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=33743d763c209910
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=1e22871b30109996
   actors:
   - id: 1001679
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5c527f888082f9e5
-    name: "Синтгохт"
+    name: "Синтгот"
   - id: 1005501
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8f2e915be1715e53
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1005504
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=54dbc4b58d23584d
     name: "Бриардьен"
@@ -1286,19 +1306,19 @@
     name: "Гильгамеш"
   - id: 1008774
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8c85d63483bf90fe
-    name: "Vannes"
+    name: "Ванн"
   - id: 1008777
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f5dcd98cf3b0aa24
-    name: "Lewenhart"
+    name: "Левенхарт"
   - id: 1009419
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bc262ffb8c50c821
-    name: "Avila"
+    name: "Авила"
   - id: 1010309
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c9fbabcfa5da4d14
-    name: "Hegelina"
+    name: "Хегелина"
   - id: 1011276
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f9675e36fc2f2b81
-    name: "Phillice"
+    name: "Филлис"
   - id: 1011691
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4a95ca073d1fc89e
     name: "Хильдибранд"
@@ -1328,7 +1348,7 @@
     name: "Джест"
   - id: 1011883
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5c18b20378f12fbd
-    name: "Arabella"
+    name: "Арабелла"
   quest_items:
   - id: 2001559
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=5537f163fc807b0f
@@ -1341,11 +1361,12 @@
 
 - name:
     original: "Her Last Vow"
+    translated: "Её последняя воля"
   level: 50
   icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-005-chrhdb505_00502/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=10f219f8a0ea1843
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=65c8a114ce6d18a6
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=b680104457279b3b
   cutscenes:
   - name: "Кат-сцена 1"
@@ -1371,7 +1392,7 @@
     name: "Сеси"
   - id: 1011716
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=53495a021db8eafb
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1011717
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3d38260431268f5a
     name: "Бриардьен"
@@ -1398,7 +1419,7 @@
     name: "Бриардьен"
   - id: 1011727
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=60103061d0554920
-    name: "Нашу Мхакаракка"
+    name: "Нашу Макаракка"
   - id: 1011826
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4ab46049d175d393
     name: "Годберт"
