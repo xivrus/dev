@@ -11,23 +11,23 @@ title: Побочный сюжет
 
 ===
 
-* [Chronicles of Light](sidequests/chronicles-of-light)
+* [Chronicles of Light]({{ '/markdown/sidequests/chronicles-of-light' | relative_url }})
   * Tales of the Dragonsong War
   * Tales from the Shadows
   * Tales of Newfound Adventure
-* [Hildibrand Sidequests](sidequests/hildibrand)
+* [Hildibrand Sidequests]({{ '/markdown/sidequests/hildibrand' | relative_url }})
   * Hildibrand Adventures
   * Further Hildibrand Adventures
   * Even Further Hildibrand Adventures
   * Somehow Further Hildibrand Adventures
   * Manderville Weapons
   * Inconceivably Further Hildibrand Adventures
-* [Weapon Enhancement Sidequests](sidequests/weapon-enhancements)
+* [Weapon Enhancement Sidequests]({{ '/markdown/sidequests/weapon-enhancements' | relative_url }})
   * Zodiac Weapons
   * Anima Weapons
   * The Forbidden Land, Eureka
   * Resistance Weapons
-* [Records of Unusual Endeavors](sidequests/records-of-unusual-endeavors)
+* [Records of Unusual Endeavors]({{ '/markdown/sidequests/records-of-unusual-endeavors' | relative_url }})
   * Doman Adventurers' Guild Quests
   * Doman Reconstruction Quests
   * Ishgardian Restoration Main Quests
@@ -38,17 +38,17 @@ title: Побочный сюжет
   * Eureka Orthos
   * Island Sanctuary Quests
   * Variant Dungeons
-* [Side Story Quests](sidequests/side-story)
+* [Side Story Quests]({{ '/markdown/sidequests/side-story' | relative_url }})
   * Tales from the Calamity
   * Delivery Moogle Quests
   * Scholasticate Quests
   * Void Quests
   * Tataru's Grand Endeavor
-* [Lominsan Sidequests](sidequests/lominsa)
-* [Gridanian Sidequests](sidequests/gridania)
-* [Ul'dahn Sidequests](sidequests/uldah)
-* [Coerthan Sidequests](sidequests/coerthas)
-* [Mor Dhonan Sidequests](sidequests/mor-dhona)
+* [Lominsan Sidequests]({{ '/markdown/sidequests/lominsa' | relative_url }})
+* [Gridanian Sidequests]({{ '/markdown/sidequests/gridania' | relative_url }})
+* [Ul'dahn Sidequests]({{ '/markdown/sidequests/uldah' | relative_url }})
+* [Coerthan Sidequests]({{ '/markdown/sidequests/coerthas' | relative_url }})
+* [Mor Dhonan Sidequests]({{ '/markdown/sidequests/mor-dhona' | relative_url }})
 * Ishgardian Sidequests
 * Abalathian Sidequests
 * Dravanian Sidequests
