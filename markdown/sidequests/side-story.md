@@ -4,7 +4,7 @@ title: Побочный сюжет
 quest_list: side-story
 ---
 
-## Delivery Moogle {#delivery-moogle}
+# Delivery Moogle {#delivery-moogle}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "Of Errant Epistles" %}
@@ -34,7 +34,7 @@ quest_list: side-story
 	{% include quest.liquid quest_name = "The Little Postmoogle That Could" %}
 </ul>
 
-## The Legacy of Louisoix Leveilleur {#the-legacy-of-louisoix-leveilleur}
+# The Legacy of Louisoix Leveilleur {#the-legacy-of-louisoix-leveilleur}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = " Remembering the Past" %}

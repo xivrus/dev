@@ -4,9 +4,7 @@ title: Гридания
 quest_list: gridania
 ---
 
-# Побочные задания Гридании {#gridanian-sidequests}
-
-## Central Shroud / Центральная Роща {#gridanian-sidequests-central-shroud}
+# Central Shroud / Центральная Роща {#central-shroud}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "Idle Initiatives" %}
@@ -32,7 +30,7 @@ quest_list: gridania
 	{% include quest.liquid quest_name = "Bird in Hand" %}
 </ul>
 
-## East Shroud / Восточная Роща {#gridanian-sidequests-east-shroud}
+# East Shroud / Восточная Роща {#east-shroud}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "Leves of Hawthorne" %}
@@ -51,7 +49,7 @@ quest_list: gridania
 	{% include quest.liquid quest_name = "Windy Wedding" %}
 </ul>
 
-## Gridania / Гридания {#gridanian-sidequests-gridania}
+# Gridania / Гридания {#gridania}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "Coming to Gridania" %}
@@ -92,7 +90,7 @@ quest_list: gridania
 	{% include quest.liquid quest_name = "One More Night in Amdapor" %}
 </ul>
 
-## North Shroud / Северная Роща {#gridanian-sidequests-north-shroud}
+# North Shroud / Северная Роща {#north-shroud}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "Jumping at Shadows" %}
@@ -132,7 +130,7 @@ quest_list: gridania
 	{% include quest.liquid quest_name = "Kettle to the Mettle" %}
 </ul>
 
-## South Shroud / Южная Роща {#gridanian-sidequests-south-shroud}
+# South Shroud / Южная Роща {#south-shroud}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "Leves of Quarrymill" %}

@@ -4,9 +4,7 @@ title: Уль'да
 quest_list: uldah
 ---
 
-# Побочные задания Уль'ды {#uldahn-sidequests}
-
-## Central Thanalan / Центральный Таналан {#uldahn-sidequests-central-thanalan}
+# Central Thanalan / Центральный Таналан {#central-thanalan}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "The Slaying of the Shrews" %}
@@ -24,14 +22,14 @@ quest_list: uldah
 	{% include quest.liquid quest_name = "Melding Materia Muchly" %}
 </ul>
 
-## Площадь Чокобо {#uldahn-sidequests-chocobo-square}
+# Площадь Чокобо {#chocobo-square}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "So You Want to Be a Jockey" %}
 	{% include quest.liquid quest_name = "Like Sire Like Fledgling" %}
 </ul>
 
-## Eastern Thanalan / Восточный Таналан {#uldahn-sidequests-eastern-thanalan}
+# Eastern Thanalan / Восточный Таналан {#eastern-thanalan}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "Leves of Camp Drybone" %}
@@ -63,7 +61,7 @@ quest_list: uldah
 	{% include quest.liquid quest_name = "D Is for Dead" %}
 </ul>
 
-## Northern Thanalan / Северный Таналан {#uldahn-sidequests-northern-thanalan}
+# Northern Thanalan / Северный Таналан {#northern-thanalan}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "Thieves and Robbers" %}
@@ -76,7 +74,7 @@ quest_list: uldah
 	{% include quest.liquid quest_name = "An Eye for Elixirs" %}
 </ul>
 
-## Southern Thanalan / Южный Таналан {#uldahn-sidequests-southern-thanalan}
+# Southern Thanalan / Южный Таналан {#southern-thanalan}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "Leves of Little Ala Mhigo" %}
@@ -102,7 +100,7 @@ quest_list: uldah
 	{% include quest.liquid quest_name = "Journey's Beginning" %}
 </ul>
 
-## The Gold Saucer / <<Золотое Блюдце>> {#uldahn-sidequests-the-gold-saucer}
+# The Gold Saucer / <<Золотое Блюдце>> {#the-gold-saucer}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "World of Wonders" %}
@@ -111,7 +109,7 @@ quest_list: uldah
 	{% include quest.liquid quest_name = "The Adventurer with All the Cards" %}
 </ul>
 
-## The Waking Sands / <<Шепчущие Пески>> {#uldahn-sidequests-the-waking-sands}
+# The Waking Sands / <<Шепчущие Пески>> {#the-waking-sands}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "Primal Fear" %}
@@ -120,7 +118,7 @@ quest_list: uldah
 	{% include quest.liquid quest_name = "Into the Valley of the Skull" %}
 </ul>
 
-## Ul'dah / Уль'да {#uldahn-sidequests-uldah}
+# Ul'dah / Уль'да {#uldah}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "Coming to Ul'dah" %}
@@ -161,7 +159,7 @@ quest_list: uldah
 	{% include quest.liquid quest_name = " Remembering the Past" %}
 </ul>
 
-## Western Thanalan / Западный Таналан {#uldahn-sidequests-western-thanalan}
+# Western Thanalan / Западный Таналан {#western-thanalan}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "The Greatest Story Never Told" %}

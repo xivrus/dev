@@ -4,7 +4,7 @@ title: Улучшение оружия
 quest_list: weapon-enhancements
 ---
 
-## Оружие Зодиака {#zodiac}
+# Оружие Зодиака {#zodiac}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "Up in Arms" %}
@@ -23,61 +23,61 @@ quest_list: weapon-enhancements
 	{% include quest.liquid quest_name = "The Vital Title" id = 2287 %}
 </ul>
 
-### Паладин {#zodiac-pld}
+## Паладин {#zodiac-pld}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "A Relic Reborn (Curtana)" %}
 </ul>
 
-### Монах {#zodiac-mnk}
+## Монах {#zodiac-mnk}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "A Relic Reborn (Sphairai)" %}
 </ul>
 
-### Воин {#zodiac-war}
+## Воин {#zodiac-war}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "A Relic Reborn (Bravura)" %}
 </ul>
 
-### Драгун {#zodiac-drg}
+## Драгун {#zodiac-drg}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "A Relic Reborn (Gae Bolg)" %}
 </ul>
 
-### Бард {#zodiac-brd}
+## Бард {#zodiac-brd}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "A Relic Reborn (Artemis Bow)" %}
 </ul>
 
-### Ниндзя {#zodiac-nin}
+## Ниндзя {#zodiac-nin}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "A Relic Reborn (Yoshimitsu)" %}
 </ul>
 
-### Белый маг {#zodiac-whm}
+## Белый маг {#zodiac-whm}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "A Relic Reborn (Thyrus)" %}
 </ul>
 
-### Чёрный маг {#zodiac-blm}
+## Чёрный маг {#zodiac-blm}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "A Relic Reborn (Stardust Rod)" %}
 </ul>
 
-### Призыватель {#zodiac-smn}
+## Призыватель {#zodiac-smn}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "A Relic Reborn (The Veil of Wiyu)" %}
 </ul>
 
-### Учёный {#zodiac-sch}
+## Учёный {#zodiac-sch}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "A Relic Reborn (Omnilex)" %}

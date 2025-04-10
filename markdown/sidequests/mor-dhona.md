@@ -4,8 +4,6 @@ title: Мор Дона
 quest_list: mod-dhona
 ---
 
-# Побочные задания Мор Доны {#mor-dhonan-sidequests}
-
 <ul markdown="0">
 	{% include quest.liquid quest_name = "A Legend for a Legend" %}
 	{% include quest.liquid quest_name = "Simply to Dye For" %}

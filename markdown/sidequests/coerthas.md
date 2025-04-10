@@ -4,9 +4,7 @@ title: Кёртас
 quest_list: coerthas
 ---
 
-# Побочные задания Кёртаса {#coerthas-sidequests}
-
-## Coerthas Central Highlands / Центральные Нагорья Кёртаса {#coerthas-sidequests-coerthas-central-highlands}
+# Coerthas Central Highlands / Центральные Нагорья Кёртаса {#coerthas-central-highlands}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "Leves of the Observatorium" %}
@@ -55,7 +53,7 @@ quest_list: coerthas
 	{% include quest.liquid quest_name = "Doubt Truth to Be a Liar" %}
 </ul>
 
-## Coerthas Western Highlands / Западное Высокогорье Кёртаса {#coerthas-sidequests-coerthas-western-highlands}
+# Coerthas Western Highlands / Западное Высокогорье Кёртаса {#coerthas-western-highlands}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "Contingency Supplies" %}

@@ -4,9 +4,7 @@ title: Лимса Ломинса
 quest_list: lominsa
 ---
 
-# Побочные задания Лимса Ломинсы {#lominsan-sidequests}
-
-## Eastern La Noscea / Восточная Ла Ноша {#lominsan-sidequests-eastern-la-noscea}
+# Eastern La Noscea / Восточная Ла Ноша {#eastern-la-noscea}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "Leves of Costa del Sol" %}
@@ -28,7 +26,7 @@ quest_list: lominsa
 	{% include quest.liquid quest_name = "Treasures and Tribulations" %}
 </ul>
 
-## Limsa Lominsa / Лимса Ломинса {#lominsan-sidequests-limsa-lominsa}
+# Limsa Lominsa / Лимса Ломинса {#limsa-lominsa}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "Coming to Limsa Lominsa" %}
@@ -70,7 +68,7 @@ quest_list: lominsa
 	{% include quest.liquid quest_name = "Storming the Hull" %}
 </ul>
 
-## Lower La Noscea / Нижняя Ла Ноша {#lominsan-sidequests-lower-la-noscea}
+# Lower La Noscea / Нижняя Ла Ноша {#lower-la-noscea}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "Cry Me a Liver" %}
@@ -96,7 +94,7 @@ quest_list: lominsa
 	{% include quest.liquid quest_name = "Leves of Moraby" %}
 </ul>
 
-## Middle La Noscea / Центральная Ла Ноша {#lominsan-sidequests-central-la-noscea}
+# Middle La Noscea / Центральная Ла Ноша {#central-la-noscea}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "Rocks in a Hard Place" %}
@@ -109,7 +107,7 @@ quest_list: lominsa
 	{% include quest.liquid quest_name = "Baiting Buzzards" %}
 </ul>
 
-## Outer La Noscea / Внешняя Ла Ноша {#lominsan-sidequests-outer-la-noscea}
+# Outer La Noscea / Внешняя Ла Ноша {#outer-la-noscea}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "Never Trout That I Love" %}
@@ -125,7 +123,7 @@ quest_list: lominsa
 	{% include quest.liquid quest_name = "Claiming the Booty" %}
 </ul>
 
-## Upper La Noscea / Верхняя Ла Ноша {#lominsan-sidequests-upper-la-noscea}
+# Upper La Noscea / Верхняя Ла Ноша {#upper-la-noscea}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "The Hottest of Box Lunches" %}
@@ -136,7 +134,7 @@ quest_list: lominsa
 	{% include quest.liquid quest_name = "The Adventure of the Fainting Goldsmith" %}
 </ul>
 
-## Western La Noscea / Западная Ла Ноша {#lominsan-sidequests-western-la-noscea}
+# Western La Noscea / Западная Ла Ноша {#western-la-noscea}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "Simply the Hest" %}
@@ -173,7 +171,7 @@ quest_list: lominsa
 	{% include quest.liquid quest_name = "Why So Sirius" %}
 </ul>
 
-## Wolves' Den Pier / Пирс Волчьего логова {#lominsan-sidequests-wolves-den-pier}
+# Wolves' Den Pier / Пирс Волчьего логова {#wolves-den-pier}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "It's Time to Duel" %}

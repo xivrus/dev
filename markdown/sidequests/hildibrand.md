@@ -4,7 +4,7 @@ title: Хильдибранд
 quest_list: hildibrand
 ---
 
-## Hildibrand Adventures / Приключения Хильдибранда {#hildi-arr}
+# Hildibrand Adventures / Приключения Хильдибранда {#arr}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "The Rise and Fall of Gentlemen" %}
@@ -30,7 +30,7 @@ quest_list: hildibrand
 	{% include quest.liquid quest_name = "Her Last Vow" %}
 </ul>
 
-## Further Hildibrand Adventures / Дальнейшие приключения Хильдибранда {#hildi-hw}
+# Further Hildibrand Adventures / Дальнейшие приключения Хильдибранда {#hw}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "A Gentleman Falls, Rather than Flies" %}
@@ -43,7 +43,7 @@ quest_list: hildibrand
 	{% include quest.liquid quest_name = "If I Could Turn Back Time" %}
 </ul>
 
-## Even Further Hildibrand Adventures / Ещё дальнейшие приключения Хильдибранда {#hildi-sb}
+# Even Further Hildibrand Adventures / Ещё дальнейшие приключения Хильдибранда {#sb}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "A Hingan Tale: Nashu Goes East" %}
@@ -57,7 +57,7 @@ quest_list: hildibrand
 	{% include quest.liquid quest_name = "Don't Do the Dewprism" %}
 </ul>
 
-## Somehow Further Hildibrand Adventures / Каким-то образом дальнейшие приключения Хильдибранда {#hildi-ew}
+# Somehow Further Hildibrand Adventures / Каким-то образом дальнейшие приключения Хильдибранда {#ew}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "The Sleeping Gentleman" %}
@@ -72,7 +72,7 @@ quest_list: hildibrand
 	{% include quest.liquid quest_name = "Gentlemen at Heart" %}
 </ul>
 
-### Manderville Weapons / Оружие Мандервилля {#hildi-ew-relic}
+## Manderville Weapons / Оружие Мандервилля {#ew-relic}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = " Make It a Manderville" %}
@@ -85,7 +85,7 @@ quest_list: hildibrand
 	{% include quest.liquid quest_name = " Positively Mandervillous" %}
 </ul>
 
-## Inconceivably Further Hildibrand Adventures / Необъяснимо дальнейшие приключения Хильдибранда {#hildi-dt}
+# Inconceivably Further Hildibrand Adventures / Необъяснимо дальнейшие приключения Хильдибранда {#dt}
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "The Case of the Displaced Inspector" %}
