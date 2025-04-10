@@ -3,6 +3,14 @@ layout: page
 title: Побочный сюжет
 ---
 
+**ВНИМАНИЕ!**
+* Список квестов берётся из <ffxiv.consolegameswiki.com>.
+  * Если какая-то категория квестов даётся на сайте в неудобном формате (например, квесты реликов), то второй источник --- [Lodestone](https://eu.finalfantasyxiv.com/lodestone/playguide/db/quest/).
+* Категории квестов поделены официально.
+* В списках есть как жёлтые, так и синие квесты. Поэтому некоторые квесты дублируются из других веток (например, <<So You Want to Be ...>>) --- считаем это за норму.
+
+===
+
 * [Chronicles of Light](sidequests/chronicles-of-light)
   * Tales of the Dragonsong War
   * Tales from the Shadows
