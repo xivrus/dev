@@ -1,4 +1,74 @@
 - name:
+    original: " Remembering the Past"
+  level: 50
+  icon: 61411
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-047-subwil901_04779/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=93b75705e2b2f3a7
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=3189df1d9edb8454
+  actors:
+  - id: 1045615
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=226167d2ba688b8f
+    name: "Nananji"
+  - id: 1045616
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=732e51ca179f79c1
+    name: "Nananji"
+  - id: 1045617
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5b922b4d43fad60b
+    name: "Nananji"
+  - id: 1045618
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6ac556670595c60b
+    name: "Nananji"
+  - id: 1045619
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=42553abd051153fe
+    name: "Nananji"
+  eobjects:
+  - id: 2013396
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=8ca207021eac59ea
+    name: "Цель"
+
+- name:
+    original: " Preserving the Future"
+  level: 50
+  icon: 61411
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-047-subwil902_04780/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=c1e86eb1bc8af49f
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=9ef38e62660d37c9
+  actors:
+  - id: 1045615
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=226167d2ba688b8f
+    name: "Nananji"
+  - id: 1045619
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=42553abd051153fe
+    name: "Nananji"
+  - id: 1045620
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d333fc415e10ca25
+    name: "Nananji"
+  - id: 1045621
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=87b085c84dce93aa
+    name: "Nananji"
+  - id: 1045623
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e1517fc4818c1610
+    name: "Roegadyn porter"
+  - id: 1045624
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0f8193d369a00986
+    name: "shopkeep"
+  - id: 1045625
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6185a156f356064b
+    name: "veteran shipwright"
+  - id: 1045626
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d2e44b702e9d0a8c
+    name: "Nananji"
+  - id: 1045627
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=86364bd0e030ecab
+    name: "Orn Guincum"
+  eobjects:
+  - id: 2013397
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=895c6c97cdf94b2e
+    name: "Цель"
+
+- name:
     original: "Of Errant Epistles"
   level: 50
   icon: 61411
@@ -1412,33 +1482,4 @@
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=06a777151d2de938
     name: "letter to Raya-O-Senna"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=06a777151d2de938
-
-- name:
-    original: " Remembering the Past"
-  level: 50
-  icon: 61411
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-047-subwil901_04779/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=93b75705e2b2f3a7
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=3189df1d9edb8454
-  actors:
-  - id: 1045615
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=226167d2ba688b8f
-    name: "Nananji"
-  - id: 1045616
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=732e51ca179f79c1
-    name: "Nananji"
-  - id: 1045617
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5b922b4d43fad60b
-    name: "Nananji"
-  - id: 1045618
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6ac556670595c60b
-    name: "Nananji"
-  - id: 1045619
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=42553abd051153fe
-    name: "Nananji"
-  eobjects:
-  - id: 2013396
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=8ca207021eac59ea
-    name: "Цель"
 

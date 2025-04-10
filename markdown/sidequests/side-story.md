@@ -4,6 +4,13 @@ title: Побочный сюжет
 quest_list: side-story
 ---
 
+# Tales from the Calamity {#tales-from-the-calamity}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = " Remembering the Past" %}
+	{% include quest.liquid quest_name = " Preserving the Future" %}
+</ul>
+
 # Delivery Moogle {#delivery-moogle}
 
 <ul markdown="0">
@@ -32,10 +39,4 @@ quest_list: side-story
 	{% include quest.liquid quest_name = "Blues on Emerald Avenue" %}
 	{% include quest.liquid quest_name = "Better Left Unfound" %}
 	{% include quest.liquid quest_name = "The Little Postmoogle That Could" %}
-</ul>
-
-# The Legacy of Louisoix Leveilleur {#the-legacy-of-louisoix-leveilleur}
-
-<ul markdown="0">
-	{% include quest.liquid quest_name = " Remembering the Past" %}
 </ul>
