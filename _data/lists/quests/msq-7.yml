@@ -6405,6 +6405,7 @@
 
 - name:
     original: "A New Family"
+    translated: "Новая семья"
   level: 99
   icon: 61412
   url:
@@ -6464,7 +6465,7 @@
     name: "Гулуул Джа"
   - id: 1048161
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b4027241e0ee19a2
-    name: "Shale"
+    name: "Шейл"
   eobjects:
   - id: 2013767
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=110b259cd46e1ba3
@@ -6646,7 +6647,7 @@
     name: "Коана"
   - id: 1048228
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8d8a3655c1661795
-    name: "Shale"
+    name: "Шейл"
 
 - name:
     original: "Those Who Live Forever"
@@ -7114,10 +7115,10 @@
     name: "Г'раха Тиа"
   - id: 1047935
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=16d8ee03a4670cd1
-    name: "Robor"
+    name: "Робор"
   - id: 1047936
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=95a3b7ea1d23083b
-    name: "Alayla"
+    name: "Алайла"
   - id: 1047937
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6a43c083ce493934
     name: "Г'раха Тиа"
@@ -7129,10 +7130,10 @@
     name: "Крайл"
   - id: 1047940
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c18cf5af357087e7
-    name: "Robor"
+    name: "Робор"
   - id: 1047941
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9035a6a8654af01e
-    name: "Alayla"
+    name: "Алайла"
   - id: 1047942
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c727c1bf81bb2cde
     name: "indecisive man"
@@ -7159,10 +7160,10 @@
     name: "Г'раха Тиа"
   - id: 1047950
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=16a46a0b79fa632b
-    name: "Robor"
+    name: "Робор"
   - id: 1047951
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=18478ebf9425f123
-    name: "Alayla"
+    name: "Алайла"
   statuses:
   - id: 404
     url: https://translate.xivrus.ru/translate/xivrus/status/ru/?checksum=0f10f98d02412069
@@ -7651,7 +7652,7 @@
     name: "Bol Wuruq"
   - id: 1048161
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b4027241e0ee19a2
-    name: "Shale"
+    name: "Шейл"
   - id: 1051846
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cf55114de2a2e1bf
     name: "disheartened man"
@@ -7784,7 +7785,7 @@
     name: "Вук Ламат"
   - id: 1048161
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b4027241e0ee19a2
-    name: "Shale"
+    name: "Шейл"
   - id: 1052185
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5b13875a31afe624
     name: "Гулуул Джа"
@@ -7894,7 +7895,7 @@
   actors:
   - id: 1048161
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b4027241e0ee19a2
-    name: "Shale"
+    name: "Шейл"
   - id: 1052185
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5b13875a31afe624
     name: "Гулуул Джа"
@@ -8018,7 +8019,7 @@
     name: "Коана"
   - id: 1048161
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b4027241e0ee19a2
-    name: "Shale"
+    name: "Шейл"
   - id: 1049680
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=10d8888aa8429caf
     name: "Вавлика"
@@ -8198,7 +8199,7 @@
     name: "Геод"
   - id: 1048161
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b4027241e0ee19a2
-    name: "Shale"
+    name: "Шейл"
   - id: 1052261
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9b763d900352fdb1
     name: "Wuk Lamat"
@@ -8244,4 +8245,584 @@
   - id: 1052522
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d47093af80aeb0d9
     name: "Erenville"
+
+- name:
+    original: "A Glimmer of the Past"
+  level: 100
+  icon: 61412
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-052-kingmh101_05299/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=2d45063c52b82412
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=8649aa72bb108849
+  cutscenes:
+  - name: "Кат-сцена 1"
+    start: "000010"
+    end: "000310"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-072-voiceman_07200/
+  - name: "Кат-сцена 2"
+    start: "000320"
+    end: "000500"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-072-voiceman_07200/
+  actors:
+  - id: 1032779
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c91559f6c0e4b4f9
+    name: "Г'раха Тиа"
+  - id: 1047302
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f58013ea37fafd57
+    name: "Вук Ламат"
+  - id: 1049688
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4dbff630397b1863
+    name: "Геод"
+  - id: 1052483
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1ed712ea97949508
+    name: "Krile"
+  - id: 1053809
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=54eee93030682d1a
+    name: "G'raha Tia"
+  - id: 1053810
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5289a0440ce5787d
+    name: "Sphene"
+  - id: 1053811
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=eac249efa8bc4f08
+    name: "Wuk Lamat"
+  - id: 1053812
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8b5e4873501e6759
+    name: "Gulool Ja"
+  - id: 1053813
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=219edd18785b3710
+    name: "Y'shtola"
+  - id: 1053814
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4dd372ed650bba4d
+    name: "Alisaie"
+  - id: 1053815
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=71aee7551b349a50
+    name: "Wuk Lamat"
+  - id: 1053816
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=37d5284183fff6b6
+    name: "Gulool Ja"
+  - id: 1053903
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f07fd41aa248446a
+    name: "Шейл"
+  - id: 1054140
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7dc33d56c0e088e3
+    name: "Sphene"
+  eobjects:
+  - id: 2014751
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=df6532550a6bf6fc
+    name: "entrance to the break room"
+
+- name:
+    original: "Memories of a Bygone Age"
+  level: 100
+  icon: 61412
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-053-kingmh102_05300/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=e5b46af06d68571f
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=9cea7c563bd7f92f
+  cutscenes:
+  - name: "Кат-сцена 1"
+    start: "000510"
+    end: "000700"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-072-voiceman_07200/
+  - name: "Кат-сцена 2"
+    start: "000710"
+    end: "000940"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-072-voiceman_07200/
+  actors:
+  - id: 1047302
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f58013ea37fafd57
+    name: "Вук Ламат"
+  - id: 1048161
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b4027241e0ee19a2
+    name: "Шейл"
+  - id: 1049242
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5cd267e16cad1fec
+    name: "Delia"
+  - id: 1053815
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=71aee7551b349a50
+    name: "Wuk Lamat"
+  - id: 1053816
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=37d5284183fff6b6
+    name: "Gulool Ja"
+  - id: 1053818
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3bc80ab91bca310d
+    name: "Wuk Lamat"
+  - id: 1053819
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=755d51f4c65d632d
+    name: "Gulool Ja"
+  - id: 1053820
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b4640c58a154f073
+    name: "Gulool Ja"
+  - id: 1053821
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0195f29937dc2e9a
+    name: "Sphene"
+  - id: 1053822
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a1abe7378e3b9af4
+    name: "Wuk Lamat"
+  - id: 1053823
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a56c03c3c9f14b58
+    name: "exuberant citizen"
+  - id: 1053824
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c4922a47bb59407b
+    name: "Wuk Lamat"
+  - id: 1053825
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=416e3da6bf0efa42
+    name: "Gulool Ja"
+  - id: 1053826
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a30af8e09e0ace2f
+    name: "Sphene"
+  - id: 1053827
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=351ed2b714a8a593
+    name: "Wuk Lamat"
+  - id: 1053828
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=615684c42ff448f9
+    name: "Gulool Ja"
+  - id: 1053829
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4c01a0aaa4ee44a6
+    name: "Sphene"
+  - id: 1054140
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7dc33d56c0e088e3
+    name: "Sphene"
+  eobjects:
+  - id: 2014674
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=ca26ad22c0ca04f6
+    name: "destination"
+
+- name:
+    original: "In Search of Meaning"
+  level: 100
+  icon: 61412
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-053-kingmh103_05301/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=f0fb4da63b56a601
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=3dd9788c141eef1c
+  actors:
+  - id: 1047302
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f58013ea37fafd57
+    name: "Вук Ламат"
+  - id: 1047311
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=565ac3d74edb4a1d
+    name: "Гулуул Джа"
+  - id: 1052536
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b1c0e1711e04f222
+    name: "Sphene"
+  - id: 1053830
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fcf14330be6cea08
+    name: "Sphene"
+  - id: 1053831
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=27dad04979c0397c
+    name: "Wuk Lamat"
+  - id: 1053832
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=516a9a1d7d1c84b3
+    name: "Gulool Ja"
+  - id: 1053835
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e1539ee6ec25647a
+    name: "Gulool Ja"
+  - id: 1053836
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5cdf37174fc54572
+    name: "Wuk Lamat"
+  - id: 1053837
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b72bb366b397ea0d
+    name: "Sphene"
+  - id: 1053838
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=915276eeddd8859c
+    name: "stricken citizen"
+  - id: 1053839
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0a0dc6a6c9a8fd90
+    name: "Sphene"
+  - id: 1053840
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7d2a48d2a75d4c4d
+    name: "Gulool Ja"
+  - id: 1053841
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d2f4758164745976
+    name: "energetic citizen"
+  - id: 1053842
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=666ab7600bacd171
+    name: "brooding citizen"
+  - id: 1053843
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e4602f20c951f5e2
+    name: "disconcerted citizen"
+  - id: 1053844
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b90af577aef01c46
+    name: "lively citizen"
+  quest_items:
+  - id: 2003739
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=1b01d5cb63b27697
+    name: "wrapped keepsake"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=1b01d5cb63b27697
+
+- name:
+    original: "A Jewel Shattered"
+  level: 100
+  icon: 61412
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-053-kingmh104_05302/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=a15daf0e0898de92
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=735bd2eb18e7a31f
+  cutscenes:
+  - name: "Кат-сцена"
+    start: "000950"
+    end: "001370"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-072-voiceman_07200/
+  actors:
+  - id: 1047302
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f58013ea37fafd57
+    name: "Вук Ламат"
+  - id: 1047311
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=565ac3d74edb4a1d
+    name: "Гулуул Джа"
+  - id: 1052536
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b1c0e1711e04f222
+    name: "Sphene"
+  - id: 1052542
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ec5639caff37e0bd
+    name: "Simulant"
+  - id: 1053845
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6279b5e5126e15a2
+    name: "Sphene"
+  - id: 1053846
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=31c73165a9162498
+    name: "Gulool Ja"
+  - id: 1053847
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d31ef074f1be2ed8
+    name: "Malachite"
+  - id: 1053848
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=90581f0717841e6e
+    name: "Wuk Lamat"
+  - id: 1053849
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=787f86cdf36c2b2a
+    name: "Gulool Ja"
+  - id: 1053850
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7b49acc48938be71
+    name: "Sphene"
+  - id: 1053851
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b8a89afef2206681
+    name: "Wuk Lamat"
+  - id: 1053852
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4fe706d05d0d9712
+    name: "Gulool Ja"
+  - id: 1053853
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5b812659316b4ecc
+    name: "Sphene"
+  - id: 1053854
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bf11df2e4f322a0b
+    name: "Wuk Lamat"
+  - id: 1053855
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=76bee1278da8dcf8
+    name: "Gulool Ja"
+  - id: 1053856
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fc6194632532c6b2
+    name: "Sphene"
+  - id: 1053857
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2219e558a0fa0e14
+    name: "Sphene"
+  - id: 1053858
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bf89bae642e8d919
+    name: "Wuk Lamat"
+  - id: 1053859
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=97b7b11369fa846a
+    name: "Gulool Ja"
+  eobjects:
+  - id: 2014675
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=ab68b8c2da31b214
+    name: "destination"
+
+- name:
+    original: "The Meeting"
+  level: 100
+  icon: 61412
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-053-kingmh105_05303/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=314b0c2af45dfb54
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=5e9a7ec70340a786
+  cutscenes:
+  - name: "Кат-сцена"
+    start: "001380"
+    end: "001670"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-072-voiceman_07200/
+  actors:
+  - id: 1047302
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f58013ea37fafd57
+    name: "Вук Ламат"
+  - id: 1048161
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b4027241e0ee19a2
+    name: "Шейл"
+  - id: 1053857
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2219e558a0fa0e14
+    name: "Sphene"
+  - id: 1053858
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bf89bae642e8d919
+    name: "Wuk Lamat"
+  - id: 1053859
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=97b7b11369fa846a
+    name: "Gulool Ja"
+  - id: 1053860
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b17f938ab10a206f
+    name: "Krile"
+  - id: 1053861
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ec3b56247d4f7a8b
+    name: "G'raha Tia"
+  - id: 1053862
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=559551ee4d4b5893
+    name: "Wuk Lamat"
+  - id: 1053863
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2be775ccf7da7cd1
+    name: "Gulool Ja"
+  - id: 1053864
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5e9df7301d22e20d
+    name: "Sphene"
+
+- name:
+    original: "Descent to the Foundation"
+  level: 100
+  icon: 61412
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-053-kingmh106_05304/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=70765a3a4ef1bf31
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=d6da19867a7c61b8
+  cutscenes:
+  - name: "Кат-сцена 1"
+    start: "001700"
+    end: "001840"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-072-voiceman_07200/
+  - name: "Кат-сцена 2"
+    start: "001850"
+    end: "002060"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-072-voiceman_07200/
+  - name: "Кат-сцена 3"
+    start: "002100"
+    end: "002270"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-072-voiceman_07200/
+  actors:
+  - id: 1047302
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f58013ea37fafd57
+    name: "Вук Ламат"
+  - id: 1048161
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b4027241e0ee19a2
+    name: "Шейл"
+  - id: 1053860
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b17f938ab10a206f
+    name: "Krile"
+  - id: 1053861
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ec3b56247d4f7a8b
+    name: "G'raha Tia"
+  - id: 1053862
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=559551ee4d4b5893
+    name: "Wuk Lamat"
+  - id: 1053863
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2be775ccf7da7cd1
+    name: "Gulool Ja"
+  - id: 1053864
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5e9df7301d22e20d
+    name: "Sphene"
+  - id: 1053865
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b39dfa9bf6fd3c0e
+    name: "Шейл"
+  - id: 1053866
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=067597ad94273616
+    name: "Wuk Lamat"
+  - id: 1053867
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3cb9f01ecce651a8
+    name: "Sphene"
+  - id: 1053868
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1872adee58161384
+    name: "Krile"
+  - id: 1053869
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=70ef20913af6ed02
+    name: "G'raha Tia"
+  - id: 1053870
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8ec8f5e8ae2cb1e9
+    name: "lift attendant"
+  - id: 1053871
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8649e20c420ff62b
+    name: "Sphene"
+  - id: 1053873
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5b4b9b82d37beabb
+    name: "Sphene"
+  eobjects:
+  - id: 2014679
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=a864630bd84a50bf
+    name: "exit"
+  logmessages:
+  - id: 44
+    url: https://translate.xivrus.ru/translate/xivrus/logmessage/ru/?checksum=06ef974de36738d4
+    name: "Торговля будет отменена, если вы отойдёте слишком далеко от цели."
+  - id: 45
+    url: https://translate.xivrus.ru/translate/xivrus/logmessage/ru/?checksum=9cdff64445fc12b9
+    name: "Вы достигли максимального количества символов."
+
+- name:
+    original: "Shared Paths"
+  level: 100
+  icon: 61412
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-053-kingmh107_05305/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=d9fd86bb1ec533c8
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=3ec8df1e407d1872
+  cutscenes:
+  - name: "Кат-сцена 1"
+    start: "002280"
+    end: "002490"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-072-voiceman_07200/
+  - name: "Кат-сцена 2"
+    start: "002500"
+    end: "002790"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-072-voiceman_07200/
+  actors:
+  - id: 1047302
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f58013ea37fafd57
+    name: "Вук Ламат"
+  - id: 1048069
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9e04129f8bf1a712
+    name: "Isadora"
+  - id: 1048161
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b4027241e0ee19a2
+    name: "Шейл"
+  - id: 1053860
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b17f938ab10a206f
+    name: "Krile"
+  - id: 1053861
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ec3b56247d4f7a8b
+    name: "G'raha Tia"
+  - id: 1053862
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=559551ee4d4b5893
+    name: "Wuk Lamat"
+  - id: 1053863
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2be775ccf7da7cd1
+    name: "Gulool Ja"
+  - id: 1053864
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5e9df7301d22e20d
+    name: "Sphene"
+  - id: 1053870
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8ec8f5e8ae2cb1e9
+    name: "lift attendant"
+  - id: 1053873
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5b4b9b82d37beabb
+    name: "Sphene"
+  - id: 1053874
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a5891f97dea8976a
+    name: "Milos"
+  - id: 1053875
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8851ba04d74c2a42
+    name: "Wuk Lamat"
+  - id: 1053876
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d352269086f49ae2
+    name: "Sphene"
+  - id: 1053877
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=29aede608a318e38
+    name: "Alisaie"
+  eobjects:
+  - id: 2014733
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=69bab82ecb037175
+    name: "destination"
+
+- name:
+    original: "Seekers of Eternity"
+  level: 100
+  icon: 61412
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-053-kingmh108_05306/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=e96d99341034d85d
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=335f56ba3cc2a906
+  cutscenes:
+  - name: "Кат-сцена 1"
+    start: "002830"
+    end: "003020"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-072-voiceman_07200/
+  - name: "Кат-сцена 2"
+    start: "003030"
+    end: "003210"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-072-voiceman_07200/
+  - name: "Кат-сцена 3"
+    start: "003220"
+    end: "003500"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-072-voiceman_07200/
+  - name: "Кат-сцена 4"
+    start: "003510"
+    end: "003700"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-072-voiceman_07200/
+  - name: "Кат-сцена 5"
+    start: "003810"
+    end: "003830"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-072-voiceman_07200/
+  actors:
+  - id: 1036119
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9d092b7e3d990a78
+    name: "Ализе"
+  - id: 1047302
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f58013ea37fafd57
+    name: "Вук Ламат"
+  - id: 1048161
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b4027241e0ee19a2
+    name: "Шейл"
+  - id: 1053863
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2be775ccf7da7cd1
+    name: "Gulool Ja"
+  - id: 1053878
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=68b010078d93f2cb
+    name: "Sphene"
+  - id: 1053879
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0bd9d737e932f942
+    name: "Wuk Lamat"
+  - id: 1053880
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=63e61d3adc491cf1
+    name: "Alisaie"
+  - id: 1053881
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=73f9349fd37ba5b5
+    name: "Wuk Lamat"
+  - id: 1053882
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c71c51156b21d7cb
+    name: "Sphene"
+  - id: 1053883
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=973c6d4433289f26
+    name: "Alisaie"
+  - id: 1053884
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4ae8f272f1ea73e8
+    name: "Gulool Ja"
+  - id: 1053885
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c2ce7ed60bb9bd73
+    name: "Erenville"
+  - id: 1053886
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=37c68a1f10502b57
+    name: "terrified citizen"
+  - id: 1053890
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=085d9f07fba68051
+    name: "Erenville"
+  - id: 1053891
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5c8b5ac38cadebb1
+    name: "Wuk Lamat"
+  - id: 1053892
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b1f652dff380972d
+    name: "Gulool Ja"
+  - id: 1053893
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5b8f6d0f040a9541
+    name: "Sphene"
+  - id: 1053894
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2840ddc288d71e85
+    name: "Alisaie"
+  - id: 1053895
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e5ad29914941b6a4
+    name: "Geode"
+  - id: 1053896
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bbd9d4a7c527905b
+    name: "Malachite"
+  - id: 1053899
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bea57cb13f309b30
+    name: "Sphene"
+  - id: 1053900
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=18d399d7aa9432d3
+    name: "Wuk Lamat"
+  - id: 1053901
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=71f1c8d09c8a9f67
+    name: "Gulool Ja"
+  - id: 1054150
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e11942e7d6f03cab
+    name: "Шейл"
+  enemies:
+  - id: 1665
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=a6bc2ce1dc4b0f36
+    name: "Volxia of the Blade"
+  - id: 1745
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=f5fe6b592374f1fc
+    name: "white wolf"
 

@@ -140,4 +140,17 @@ quest_list: msq-7
 	{% include quest.liquid quest_name = "Crossroads" %}
 </ul>
 
+# 7.2 --- Seekers of Eternity {#dt-7-2}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "A Glimmer of the Past" %}
+	{% include quest.liquid quest_name = "Memories of a Bygone Age" %}
+	{% include quest.liquid quest_name = "In Search of Meaning" %}
+	{% include quest.liquid quest_name = "A Jewel Shattered" %}
+	{% include quest.liquid quest_name = "The Meeting" %}
+	{% include quest.liquid quest_name = "Descent to the Foundation" %}
+	{% include quest.liquid quest_name = "Shared Paths" %}
+	{% include quest.liquid quest_name = "Seekers of Eternity" %}
+</ul>
+
 _Продолжение следует..._
