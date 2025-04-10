@@ -4,8 +4,6 @@ title: Мор Дона
 quest_list: mod-dhona
 ---
 
-# Mor Dhona / Мор Дона {#mor-dhona}
-
 <ul markdown="0">
 	{% include quest.liquid quest_name = "A Legend for a Legend" %}
 	{% include quest.liquid quest_name = "Simply to Dye For" %}
