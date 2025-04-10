@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Мор Дона
-quest_list: mod-dhona
+quest_list: mor-dhona
 ---
 
 <ul markdown="0">
