@@ -1965,27 +1965,9 @@
   level: 5
   icon: 61411
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-004-subsea058_00470/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=739a8a3913873583
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=ca8ab161e9cba7d5
-  actors:
-  - id: 1002119
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=31f47d6223e58a69
-    name: "Ostfyr"
-  enemies:
-  - id: 1084
-    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=8f32386a3cd77e22
-    name: "yarzon biter"
-  eobjects:
-  - id: 2001240
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=18982d46c3cc2d6c
-    name: "yarzon nest"
-  - id: 2001241
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=c6967fd1d290434a
-    name: "yarzon nest"
-  - id: 2001242
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=d42afc84014e667a
-    name: "yarzon nest"
+    quest_name: 
 
 - name:
     original: "Orange Crush"
