@@ -1646,8 +1646,12 @@
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f35f8035a1aae118
     name: "Бывший боец Пламени"
   enemies:
-  - id: 0
-  - id: 0
+  - id: 2052
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=e844fa9a5d3bb34b
+    name: "Наёмный боец"
+  - id: 2053
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=4be6c0442dcfe9a8
+    name: "Наёмный стрелок"
 
 - name:
     original: "Allagan Attire"
