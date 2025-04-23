@@ -8098,11 +8098,11 @@
   quest_items:
   - id: 2003710
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=0b7e7643c3768127
-    name: "mending kit"
+    name: "Ремонтный набор"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=0b7e7643c3768127
   - id: 2003711
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=745eb4a40f3d8ed6
-    name: "fur brush"
+    name: "Расчёска для меха"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=745eb4a40f3d8ed6
 
 - name:
@@ -8836,11 +8836,4 @@
   - id: 1054150
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e11942e7d6f03cab
     name: "Шейл"
-  enemies:
-  - id: 1665
-    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=a6bc2ce1dc4b0f36
-    name: "Volxia of the Blade"
-  - id: 1745
-    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=f5fe6b592374f1fc
-    name: "white wolf"
 

@@ -6884,12 +6884,12 @@
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a9af4b79e47fc812
     name: "Альфино"
   enemies:
+  - id: 1939
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=c0a0232c91a60498
+    name: "Потревоженный дух"
   - id: 2021
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=5bd358a765d21e9d
     name: "Лепидот"
-  - id: 2420
-    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=673c2bbb977cba24
-    name: "Альфа-смертоглаз"
   quest_items:
   - id: 2001072
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=9cfbd2ed33735a37
@@ -7442,9 +7442,9 @@
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=89cf9eac9c37f099
     name: "Теледжи Аделеджи"
   enemies:
-  - id: 2736
-    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=bba468f272e26e28
-    name: "shelftooth chief"
+  - id: 2570
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=d3510e50dccdd73e
+    name: "tainted mold"
   - id: 2868
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=56f1ac4945ea8320
     name: "Вооружённый повстанец"
