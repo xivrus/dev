@@ -1776,9 +1776,41 @@
   level: 53
   icon: 61412
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-016-heavna317_01618/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=c35aab680b1efae0
-    quest_name: 
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=b5d909d347a0f637
+  actors:
+  - id: 1012661
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4f50e88a4d010c91
+    name: "Альфино"
+  - id: 1012662
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7e6bc3e20c7af826
+    name: "Эстиниен"
+  - id: 1012663
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=dce46026ff4a960e
+    name: "Исель"
+  - id: 1012664
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3c955e34cebf726c
+    name: "Альфино"
+  - id: 1012665
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=deb03913bb34eeed
+    name: "Эстиниен"
+  - id: 1012666
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2c31dec8f210d464
+    name: "Исель"
+  - id: 1013195
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7ffe0e15523801c2
+    name: "Альфино"
+  eobjects:
+  - id: 2005450
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=ebe42249512c53aa
+    name: "Цель"
+  - id: 2005451
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=1db269fe72ab22f2
+    name: "Цель"
+  - id: 2005452
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=c2ffd8484cf66cf1
+    name: "Цель"
 
 - name:
     original: "Mountaintop Diplomacy"
