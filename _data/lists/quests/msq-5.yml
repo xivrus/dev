@@ -8730,73 +8730,9 @@
   level: 80
   icon: 61412
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-040-luckmj105_04011/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=29099bb977464210
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=9fe0f95b0b42b697
-  cutscenes:
-  - name: "Кат-сцена 1"
-    start: "001440"
-    end: "001650"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-054-voiceman_05400/
-  - name: "Кат-сцена 2"
-    start: "001700"
-    end: "001840"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-054-voiceman_05400/
-  actors:
-  - id: 1012138
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4660d22d810f3eb3
-    name: "Матойя"
-  - id: 1035366
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=458781ef3019ca79
-    name: "Альфино"
-  - id: 1035367
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0b352c94a530f90b
-    name: "Я'штола"
-  - id: 1035369
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=26da54fb2d405625
-    name: "Ализе"
-  - id: 1035371
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=24da923f4d652b5a
-    name: "Г'раха Тиа"
-  - id: 1035372
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=15cb4533b54baf39
-    name: "Альфино"
-  - id: 1035373
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e301564fda912794
-    name: "Ализе"
-  - id: 1035374
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=49525d4dd4903840
-    name: "Я'штола"
-  - id: 1035375
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=697153bc380cefb5
-    name: "Г'раха Тиа"
-  - id: 1035376
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ccd7be1eb0475698
-    name: "Альфино"
-  - id: 1035377
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b7e5191297b848b1
-    name: "Ализе"
-  - id: 1035378
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6335ff81565e81f3
-    name: "Я'штола"
-  - id: 1035379
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=95aab2ba002b6203
-    name: "Г'раха Тиа"
-  - id: 1035380
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4fec99f9fe927b5e
-    name: "Пуро Рогго Грязнуля"
-  - id: 1035381
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a09aad787014e8d2
-    name: "Альфино"
-  - id: 1035382
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ffe821ee3e9eb680
-    name: "Ализе"
-  - id: 1035383
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5e44272a16f5467a
-    name: "Я'штола"
-  - id: 1035384
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=403ab947baed64fc
-    name: "Г'раха Тиа"
+    quest_name: 
 
 - name:
     original: "The Admiral's Resolve"

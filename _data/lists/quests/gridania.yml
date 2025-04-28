@@ -946,7 +946,7 @@
 
 - name:
     original: "Incense and Sensibility"
-    translated: "Аллергия на ладан"
+    translated: "Осторожнее с ладаном"
   level: 1
   icon: 61411
   url:
@@ -956,10 +956,10 @@
   actors:
   - id: 1000705
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1aaa8779ca13fa8e
-    name: "Braya"
+    name: "Брайя"
   - id: 1000786
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4d62d54de395677f
-    name: "Mellaine"
+    name: "Меллейн"
   quest_items:
   - id: 2000101
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=f0fe07bdba43db1c
@@ -968,10 +968,10 @@
   eobjects:
   - id: 2000070
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=a015dd100adacafb
-    name: "censer"
+    name: "Светильник"
   - id: 2000071
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=df25eb924ff53daa
-    name: "censer"
+    name: "Светильник"
 
 - name:
     original: "Coarse Correspondence"
@@ -985,14 +985,14 @@
   actors:
   - id: 1000206
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=02037b0ea9f72241
-    name: "F'mibhas"
+    name: "Ф'мибхас"
   - id: 1000233
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=86037f67d6262017
     name: "Парнелл"
   quest_items:
   - id: 2000079
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=8bb9ea32a23b726a
-    name: "F'mibhas's sealed message"
+    name: "Запечатанное письмо Ф'мибхас"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=8bb9ea32a23b726a
 
 - name:
@@ -1007,17 +1007,17 @@
   actors:
   - id: 1000194
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8eb7f4bd9340b7d7
-    name: "Idele"
+    name: "Идель"
   - id: 1000686
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d0a3c8acb7a39a43
-    name: "Louhelic"
+    name: "Логелик"
   - id: 1000789
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=487422a296b46e46
-    name: "Artor"
+    name: "Артор"
   quest_items:
   - id: 2000024
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=6786ffe7f0192985
-    name: "recruit's toolbox"
+    name: "Набор инструментов для начинающих"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=6786ffe7f0192985
 
 - name:
@@ -1032,10 +1032,10 @@
   actors:
   - id: 1000429
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7c86bcbba5766c74
-    name: "Millicent"
+    name: "Миллисента"
   - id: 1000788
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6a05d654fcf65d70
-    name: "Duimessand"
+    name: "Двемессанд"
 
 - name:
     original: "So You Want to Be an Archer"
@@ -1099,7 +1099,7 @@
 
 - name:
     original: "Parsemontrenomics"
-    translated: "Парсмонтрекономика"
+    translated: "Парсмонтрэкономика"
   level: 1
   icon: 61411
   url:
@@ -1109,13 +1109,13 @@
   actors:
   - id: 1000214
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4e546535233b73b1
-    name: "Gurthcid"
+    name: "Гурфчид"
   - id: 1000218
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=58018b9ce19a2d7d
-    name: "Admiranda"
+    name: "Адмиранда"
   - id: 1000238
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6fbbd4c3d375f335
-    name: "Alaric"
+    name: "Аларик"
   - id: 1000248
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c6fc2d828cd16e25
     name: " Кенгалед"
@@ -1125,15 +1125,15 @@
   quest_items:
   - id: 2000081
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=8bcee1bc344fa12c
-    name: "bone spearhead"
+    name: "Костяной наконечник"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=8bcee1bc344fa12c
   - id: 2000082
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=eb81af51583c7d49
-    name: "pot of beeswax oil"
+    name: "Банка медового масла"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=eb81af51583c7d49
   - id: 2000083
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=496bd00d1adf0868
-    name: "length of brambleweed rope"
+    name: "Мера конопляной верёвки"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=496bd00d1adf0868
 
 - name:
@@ -1276,7 +1276,7 @@
   actors:
   - id: 1000705
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1aaa8779ca13fa8e
-    name: "Braya"
+    name: "Брайя"
   enemies:
   - id: 1046
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=2b756cd158cde44d
@@ -1568,7 +1568,7 @@
   actors:
   - id: 1000705
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1aaa8779ca13fa8e
-    name: "Braya"
+    name: "Брайя"
   - id: 1008174
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8e3f348991a298ae
     name: "injured mare"
