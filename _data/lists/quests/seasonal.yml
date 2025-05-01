@@ -833,7 +833,7 @@
   actors:
   - id: 1000162
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d808b2e7b52b866c
-    name: "Nicoliaux"
+    name: "Николя"
   - id: 1000248
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c6fc2d828cd16e25
     name: " Кенгалед"
@@ -3496,7 +3496,7 @@
     name: "Э-Суми-Ян"
   - id: 1025194
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=52b7d2789b6a41da
-    name: "Nicoliaux"
+    name: "Николя"
   - id: 1042432
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=308939428ecf9ca5
     name: "Джигли Алиапо"
@@ -4636,9 +4636,64 @@
   level: 15
   icon: 61411
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-014-fesest006_01419/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=c9c1a94e96a28f05
-    quest_name: 
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=20a26600a3c6c9d3
+  actors:
+  - id: 1007900
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c0a8f50c4aa7cf5f
+    name: "Джигли Алиапо"
+  - id: 1007902
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ef9ec093665cfcde
+    name: "Orselfaux"
+  - id: 1007919
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a7a66dfe54333743
+    name: "coddled spriggan"
+  - id: 1007920
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2d9a2501fab6543b
+    name: "coddled spriggan"
+  - id: 1007921
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=904b08aa1b970c94
+    name: "coddled spriggan"
+  - id: 1007924
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6ca83edda02ffa39
+    name: "coddled spriggan"
+  - id: 1007926
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b117a727b7e09a01
+    name: "coddled spriggan"
+  - id: 1007927
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2061f46c05735590
+    name: "coddled spriggan"
+  - id: 1007928
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8d3282f5a62d584e
+    name: "coddled spriggan"
+  - id: 1007934
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=dd34e768c933796c
+    name: "Augustiniel"
+  - id: 1008099
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=92dc56e424ed24ff
+    name: "Dreamer"
+  - id: 1008100
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=33e199d59574fac3
+    name: "Dreamer"
+  eobjects:
+  - id: 2003618
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=a7850b7004888db5
+    name: "pristine Archon egg"
+  - id: 2003620
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=5e82e86bb6bbeb5e
+    name: "midnight Archon egg"
+  - id: 2003622
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=1047a50d4f2952eb
+    name: "pristine egg basket"
+  - id: 2003623
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=3d49842f7da636c7
+    name: "midnight egg basket"
+  statuses:
+  - id: 404
+    url: https://translate.xivrus.ru/translate/xivrus/status/ru/?checksum=0f10f98d02412069
+    name: "Transporting"
+    desc: "Переноска предмета в руках и утомление с каждой секундой."
 
 - name:
     original: "Hard-boiled"
@@ -8669,7 +8724,7 @@
     name: "Франскет"
   - id: 1000300
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c4e7115ccb3a6177
-    name: "Samiane"
+    name: "Самиана"
   - id: 1000367
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4f0a33f1e294de15
     name: "Ходдин"
