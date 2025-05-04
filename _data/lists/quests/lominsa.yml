@@ -1,5 +1,6 @@
 - name:
     original: "Leves of Costa del Sol"
+    translated: "Поручения Коста-дель-Соль"
   level: 30
   icon: 61419
   url:
@@ -9,10 +10,11 @@
   actors:
   - id: 1004344
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b069446468908c2b
-    name: "Нахтахр"
+    name: "Нактахр"
 
 - name:
     original: "Costa Beach Party"
+    translated: "Пляжная вечеринка Косты"
   level: 30
   icon: 61411
   url:
@@ -28,19 +30,20 @@
     name: "Кучер"
   - id: 1006275
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3c1e6ef2d33dfd23
-    name: "leggy dancer"
+    name: "Длинноногая танцовщица"
   - id: 1006276
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4e1d50c26637f6d2
-    name: "burly dancer"
+    name: "Пышная танцовщица"
   - id: 1006277
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a3ea39aaa2b5f1c4
-    name: "hearty dancer"
+    name: "Добродушная танцовщица"
   - id: 1006278
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2e0c8704234707a8
-    name: "ungainly dancer"
+    name: "Расчётливая танцовщица"
 
 - name:
     original: "Who Moved My Headcheese"
+    translated: "Кто-то украл твой сладкий рулет?"
   level: 32
   icon: 61411
   url:
@@ -50,7 +53,7 @@
   actors:
   - id: 1006269
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=404e99b9d918d812
-    name: "Kuzai Tazai"
+    name: "Кузай Тазай"
   enemies:
   - id: 1157
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=677b928604589fe6
@@ -61,7 +64,7 @@
   quest_items:
   - id: 2000650
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=31a8bfe53ef64b3d
-    name: "bloodstained sack"
+    name: "Окровавленный свёрток"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=31a8bfe53ef64b3d
   eobjects:
   - id: 2002050
@@ -85,6 +88,7 @@
 
 - name:
     original: "Get a Grip"
+    translated: "Мёртвая хватка"
   level: 32
   icon: 61411
   url:
@@ -94,26 +98,27 @@
   actors:
   - id: 1006269
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=404e99b9d918d812
-    name: "Kuzai Tazai"
+    name: "Кузай Тазай"
   enemies:
   - id: 1081
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=b4e6d078ae9341d9
-    name: "big claw"
+    name: "Огромный щелкун"
   - id: 1995
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=c74d5b11cd97fda0
-    name: "gripper"
+    name: "Хвататель"
   quest_items:
   - id: 2000830
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=90b651c3b0e2110f
-    name: "light-green alchemic concoction"
+    name: "Светло-зелёное зелье"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=90b651c3b0e2110f
   eobjects:
   - id: 2002052
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=963c6778e68908ac
-    name: "unsavory shoreline"
+    name: "Жуткий берег"
 
 - name:
     original: "Unrefined Methods"
+    translated: "Методы не выбираем"
   level: 32
   icon: 61411
   url:
@@ -123,7 +128,7 @@
   actors:
   - id: 1006270
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=215cda9d7a130748
-    name: "Fyrilsunn"
+    name: "Фирилсанн"
   enemies:
   - id: 963
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=ed8163813e6b2393
@@ -131,21 +136,22 @@
   quest_items:
   - id: 2000651
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=8a2c58877c078ebb
-    name: "makeshift bomb"
+    name: "Самодельная бомба"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=8a2c58877c078ebb
   eobjects:
   - id: 2002053
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=0b221ae02d6fc4e5
-    name: "brass contraption"
+    name: "Бронзовое устройство"
   - id: 2002054
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=1435e2f8667f23f3
-    name: "brass contraption"
+    name: "Бронзовое устройство"
   - id: 2002055
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=7a8ae57e0108c781
-    name: "brass contraption"
+    name: "Бронзовое устройство"
 
 - name:
     original: "Buffaloed All the Way"
+    translated: "Буффало на дороге"
   level: 32
   icon: 61411
   url:
@@ -163,6 +169,7 @@
 
 - name:
     original: "Pests in the Pillars"
+    translated: "Паразиты на колоннах"
   level: 32
   icon: 61411
   url:
@@ -180,21 +187,22 @@
   quest_items:
   - id: 2000863
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=b30ecf606997a5d2
-    name: "steel spatula"
+    name: "Стальной шпатель"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=b30ecf606997a5d2
   eobjects:
   - id: 2002415
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=ae445a1ca1defcd5
-    name: "sturdy pillar"
+    name: "Несущая колонна"
   - id: 2002416
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=5f5acba3022176d7
-    name: "sturdy pillar"
+    name: "Несущая колонна"
   - id: 2002417
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=64270a032f93fa46
-    name: "sturdy pillar"
+    name: "Несущая колонна"
 
 - name:
     original: "To You from Failing Hands We Throw"
+    translated: "Не удержать дрожащими руками"
   level: 32
   icon: 61411
   url:
@@ -204,28 +212,29 @@
   actors:
   - id: 1006270
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=215cda9d7a130748
-    name: "Fyrilsunn"
+    name: "Фирилсанн"
   quest_items:
   - id: 2000652
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=70d35e5622b40718
-    name: "lion medal"
+    name: "Медаль со львом"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=70d35e5622b40718
   eobjects:
   - id: 2002056
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=257db35a3b651fc2
-    name: "lion medal"
+    name: "Медаль со львом"
   - id: 2002057
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=542c0ab99898de43
-    name: "lion medal"
+    name: "Медаль со львом"
   - id: 2002058
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=525614490e00b195
-    name: "lion medal"
+    name: "Медаль со львом"
   - id: 2002547
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=3d2919c985db1b45
     name: "Цель"
 
 - name:
     original: "Raptor 'round Your Little Finger"
+    translated: "Как рапторами об стену"
   level: 32
   icon: 61411
   url:
@@ -235,7 +244,7 @@
   actors:
   - id: 1006307
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b2200e0a8aa0a6d5
-    name: "Etgar"
+    name: "Этгар"
   enemies:
   - id: 2012
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=58e401889a1cf17d
@@ -243,6 +252,7 @@
 
 - name:
     original: "Put a Cork in It"
+    translated: "Пробка и готово"
   level: 32
   icon: 61411
   url:
@@ -260,7 +270,7 @@
   quest_items:
   - id: 2000654
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=400be132bd1536f0
-    name: "piece of impeccable cork"
+    name: "Кусок идеальной пробки"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=400be132bd1536f0
 
 - name:
@@ -274,7 +284,7 @@
   actors:
   - id: 1006307
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b2200e0a8aa0a6d5
-    name: "Etgar"
+    name: "Этгар"
   - id: 1006310
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=341648558e603317
     name: "Ul'dahn artist"
@@ -290,7 +300,7 @@
   actors:
   - id: 1006307
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b2200e0a8aa0a6d5
-    name: "Etgar"
+    name: "Этгар"
   enemies:
   - id: 1040
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=a55abdcac1638292
