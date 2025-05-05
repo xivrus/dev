@@ -8540,9 +8540,85 @@
   level: 70
   icon: 61412
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-030-stmbdd103_03072/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=5dc34025a0605e64
-    quest_name: 
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=a927882e1387433e
+  cutscenes:
+  - name: "Кат-сцена 1"
+    start: "000470"
+    end: "000640"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-043-voiceman_04300/
+  - name: "Кат-сцена 2"
+    start: "000650"
+    end: "000821"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-043-voiceman_04300/
+  - name: "Кат-сцена 3"
+    start: "000830"
+    end: "000840"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-043-voiceman_04300/
+  - name: "Кат-сцена 4"
+    start: "000850"
+    end: "001100"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-043-voiceman_04300/
+  - name: "Кат-сцена 5"
+    start: "001110"
+    end: "001160"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-043-voiceman_04300/
+  actors:
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cd379fadf38ce2ae
+    name: "Альфино"
+  - id: 1019541
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=31b39ffc4a9ddf03
+    name: "Ализе"
+  - id: 1019544
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d6a3734cd792abb6
+    name: "Хиен"
+  - id: 1024974
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1c8872a84e55a0c2
+    name: "Страж Кинкана"
+  - id: 1024998
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6b5ae112bfd3ef07
+    name: "Альфино"
+  - id: 1024999
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=48be360c0ce0fc54
+    name: "Хиен"
+  - id: 1025009
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=92b701ca391a92c1
+    name: "Ализе"
+  - id: 1025094
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9e859f7fb47a8a2d
+    name: "Югири"
+  - id: 1025095
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ec146908855fedb1
+    name: "Хиен"
+  - id: 1025096
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bde3826abb952159
+    name: "Ёцую"
+  - id: 1025097
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=747c76623bdd2298
+    name: "Иссе"
+  - id: 1025098
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=06453ea90088b585
+    name: "Азами"
+  - id: 1025101
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d7e005a791e66ac7
+    name: "Альфино"
+  - id: 1025102
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e9b62370c4d6bb5e
+    name: "Ализе"
+  - id: 1025103
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=17eec584c3732838
+    name: "Югири"
+  - id: 1025104
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=85e2dfbd678d96fc
+    name: "Хиен"
+  - id: 1025105
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7e8ba4a92ceaf3eb
+    name: "Ёцую"
+  - id: 1025545
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2d2ad91e1a7c75ae
+    name: "Югири"
 
 - name:
     original: "Conscripts and Contingencies"

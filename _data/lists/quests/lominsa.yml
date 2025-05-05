@@ -275,6 +275,7 @@
 
 - name:
     original: "Mona Lisa Smile"
+    translated: "Совершенное оформление"
   level: 32
   icon: 61411
   url:
@@ -287,10 +288,11 @@
     name: "Этгар"
   - id: 1006310
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=341648558e603317
-    name: "Ul'dahn artist"
+    name: "Ульданский художник"
 
 - name:
     original: "Anise, Chocolate, and a Hint of Toad"
+    translated: "Анис и шоколад с ноткой жабы"
   level: 33
   icon: 61411
   url:
@@ -308,6 +310,7 @@
 
 - name:
     original: "The Wind, It Passes"
+    translated: "Поле, свежий ветер, я давно его хотел"
   level: 33
   icon: 61411
   url:
@@ -328,7 +331,7 @@
   quest_items:
   - id: 2000660
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=dfd00b87dee087df
-    name: "wind sprite core"
+    name: "Ядро воздушного духа"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=dfd00b87dee087df
   eobjects:
   - id: 2002063
@@ -337,6 +340,7 @@
 
 - name:
     original: "Bird's-eye View"
+    translated: "С высоты птичьего полёта"
   level: 33
   icon: 61411
   url:
@@ -349,11 +353,11 @@
     name: "Гегеруджу"
   - id: 1006320
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=15dd1e09bf7f8eda
-    name: "pitiless poacher"
+    name: "Жалкий браконьер"
   quest_items:
   - id: 2000661
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=f63f910dadfd0f1a
-    name: "bouquet of Oschon roselles"
+    name: "Букет роз Осшона"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=f63f910dadfd0f1a
   eobjects:
   - id: 2002064
@@ -371,6 +375,7 @@
 
 - name:
     original: "The Stench of Danger"
+    translated: "Запах угрозы"
   level: 33
   icon: 61411
   url:
@@ -391,6 +396,7 @@
 
 - name:
     original: "Leves of Wineport"
+    translated: "Поручения Винного Порта"
   level: 35
   icon: 61419
   url:
@@ -511,6 +517,7 @@
 
 - name:
     original: "Suspiciously Sober"
+    translated: "Подозрительно трезв"
   level: 1
   icon: 61411
   url:
@@ -523,13 +530,14 @@
     name: "Глазраль"
   - id: 1003275
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d4e50d2b0840a8a0
-    name: "Фрайдвиб"
+    name: "Фридвиб"
   - id: 1003604
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9e126d261414a8a5
     name: "Альдскиф"
 
 - name:
     original: "Proper Procedure"
+    translated: "Бумаги, пожалуйста"
   level: 1
   icon: 61411
   url:
@@ -539,18 +547,19 @@
   actors:
   - id: 1000898
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3204b05d4f5aa06b
-    name: "P'tahjha"
+    name: "П'тахджа"
   - id: 1001209
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d61d078ff188f597
-    name: "Sweetnix Rosycheeks"
+    name: "Сладкоплюх Розовощёк"
   quest_items:
   - id: 2000448
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=15ffdbf5cfec88d8
-    name: "letter from Sweetnix"
+    name: "Письмо от Сладкоплюха"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=15ffdbf5cfec88d8
 
 - name:
     original: "The Right Price"
+    translated: "Правильная цена"
   level: 1
   icon: 61411
   url:
@@ -560,7 +569,7 @@
   actors:
   - id: 1001203
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e73531d7b59b39f5
-    name: "Iron Thunder"
+    name: "Железная Буря"
   - id: 1001208
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1c4310749a3a287f
     name: "Кекерун"
@@ -569,18 +578,19 @@
     name: "Свозбуль"
   - id: 1003254
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=38a2de3c8af1204b
-    name: "Syneyhil"
+    name: "Синхил"
   - id: 1003272
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d36c224dc1455f58
     name: "Бансинг"
   quest_items:
   - id: 2000460
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=2309567c932b08db
-    name: "price list"
+    name: "Список цен"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=2309567c932b08db
 
 - name:
     original: "Duty Calls"
+    translated: "Долг зовёт"
   level: 1
   icon: 61411
   url:
@@ -590,21 +600,22 @@
   actors:
   - id: 1000898
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3204b05d4f5aa06b
-    name: "P'tahjha"
+    name: "П'тахджа"
   - id: 1001023
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2e79edf88d1d1d09
     name: "Сундимал"
   - id: 1001537
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=869e30c4b08b3841
-    name: "Latisha"
+    name: "Латиша"
   quest_items:
   - id: 2000449
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=34c7682832c316a4
-    name: "log assessor's ledger"
+    name: "Гроссбух"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=34c7682832c316a4
 
 - name:
     original: "Edelweiss, Edelweiss"
+    translated: "Эдельвейс, эдельвейс"
   level: 1
   icon: 61411
   url:
@@ -621,7 +632,7 @@
   quest_items:
   - id: 2001513
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=5756f34004ba01ba
-    name: "package for the Dutiful Sisters"
+    name: "Загадочный свёрток"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=5756f34004ba01ba
 
 - name:
@@ -715,6 +726,7 @@
 
 - name:
     original: "A Thousand Words"
+    translated: "Вместо тысячи слов"
   level: 1
   icon: 61411
   url:
@@ -724,21 +736,22 @@
   actors:
   - id: 1000937
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9d49ae161a396c7f
-    name: "Godebert"
+    name: "Годеберт"
   - id: 1000957
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=57edc3f1a2ca523b
-    name: "R'sushmo"
+    name: "Р'сушмо"
   - id: 1001537
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=869e30c4b08b3841
-    name: "Latisha"
+    name: "Латиша"
   quest_items:
   - id: 2000455
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=0a0b92e68611a476
-    name: "artist's rendition"
+    name: "Шедевральный рисунок"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=0a0b92e68611a476
 
 - name:
     original: "Licensed to Reave"
+    translated: "Официальный разбой"
   level: 1
   icon: 61411
   url:
@@ -751,7 +764,7 @@
     name: "Карваллэн"
   - id: 1000916
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=26dd599f42c69d3a
-    name: "Mordyn"
+    name: "Мордин"
   - id: 1000938
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=acb1f798e17e321e
     name: "Гиннаде"
@@ -761,11 +774,12 @@
   quest_items:
   - id: 2000451
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=87c0ff471cf34bbd
-    name: "Seventh Sage sampler"
+    name: "Образец из «Девятого мудреца»"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=87c0ff471cf34bbd
 
 - name:
     original: "Lost and Found"
+    translated: "Потерянные и обретённые"
   level: 1
   icon: 61411
   url:
@@ -778,15 +792,16 @@
     name: "Гиннаде"
   - id: 1002433
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e8f3608f1c6ed8b3
-    name: "N'delika"
+    name: "Н'делика"
   quest_items:
   - id: 2000453
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=8f13f9bb968d311d
-    name: "missing persons list"
+    name: "Список пропавших"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=8f13f9bb968d311d
 
 - name:
     original: "I Stay the Streetlight"
+    translated: "Ночь, улица, фонарь"
   level: 1
   icon: 61411
   url:
@@ -799,37 +814,38 @@
     name: "Сисипу"
   - id: 1002434
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=44f5cd7124127833
-    name: "N'tanmo"
+    name: "Н'танмо"
   quest_items:
   - id: 2000444
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=2ed10026af702739
-    name: "pot of streetlamp oil"
+    name: "Фляга масла для фонарей"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=2ed10026af702739
   eobjects:
   - id: 2001572
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=52ea8a62e03e0446
-    name: "guttering streetlamp"
+    name: "Затухающая лампа"
   - id: 2001573
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=242759d08d9d2155
-    name: "guttering streetlamp"
+    name: "Затухающая лампа"
   - id: 2001574
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=b2d5968bc5c187ed
-    name: "guttering streetlamp"
+    name: "Затухающая лампа"
   - id: 2001575
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=0d396eaf81c27aef
-    name: "guttering streetlamp"
+    name: "Затухающая лампа"
   - id: 2001576
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=0920e96a3d50bdad
-    name: "guttering streetlamp"
+    name: "Затухающая лампа"
   - id: 2001577
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=720436b3429c59d8
-    name: "guttering streetlamp"
+    name: "Затухающая лампа"
   - id: 2001578
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=db4c22b87b8bade0
-    name: "guttering streetlamp"
+    name: "Затухающая лампа"
 
 - name:
     original: "A Sheepish Request"
+    translated: "Овечья услуга"
   level: 1
   icon: 61411
   url:
@@ -839,10 +855,10 @@
   actors:
   - id: 1000959
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d5e31ee1b0fa65d6
-    name: "H'lahono"
+    name: "Х'лахоно"
   - id: 1003603
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a19032339f80a390
-    name: "Abylfarr"
+    name: "Абильфарр"
   enemies:
   - id: 1098
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=2dbf8063902c5217
@@ -850,11 +866,12 @@
   quest_items:
   - id: 2000450
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=ed09b208badcefb8
-    name: "slice of fresh lamb"
+    name: "Отрез молодой баранины"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=ed09b208badcefb8
 
 - name:
     original: "Back in the Water"
+    translated: "Душа просит моря"
   level: 1
   icon: 61411
   url:
@@ -871,6 +888,7 @@
 
 - name:
     original: "The Rats in the Wharf"
+    translated: "Крысы в трюме"
   level: 1
   icon: 61411
   url:
@@ -891,6 +909,7 @@
 
 - name:
     original: "Glory Days"
+    translated: "Дни былой славы"
   level: 1
   icon: 61411
   url:
@@ -903,7 +922,7 @@
     name: "Бадерон"
   - id: 1001024
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8eba5e8705902163
-    name: "Klindrael"
+    name: "Клиндраэл"
   - id: 1003601
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=904120b253fc8b53
     name: "С'доджби"
@@ -914,11 +933,12 @@
   quest_items:
   - id: 2000454
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=4fafea708f4c94d4
-    name: "aurelia umbrella"
+    name: "Зонтик аурелии"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=4fafea708f4c94d4
 
 - name:
     original: "Soothing the Savage Siren"
+    translated: "Усмирение строптивой сирены"
   level: 1
   icon: 61411
   url:
@@ -931,10 +951,11 @@
     name: "Росвен"
   - id: 1000919
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b7f8db5bce5521d0
-    name: "O'kalkaya"
+    name: "О'калкая"
 
 - name:
     original: "Fool Me Once"
+    translated: "Обмани меня снова"
   level: 4
   icon: 61411
   url:
@@ -947,10 +968,11 @@
     name: "Нинья"
   - id: 1002605
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=52298057b6cb34b4
-    name: "Ancreta"
+    name: "Анкрета"
 
 - name:
     original: "Leves of Swiftperch"
+    translated: "Поручения Свифтперча"
   level: 10
   icon: 61419
   url:
@@ -967,6 +989,7 @@
 
 - name:
     original: "Good for What Ales You"
+    translated: "Лучше эль в руках, чем пираты на кораблях"
   level: 14
   icon: 61411
   url:
@@ -979,26 +1002,26 @@
     name: "Додозан"
   - id: 1007797
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5dc83b5ea0e68b5a
-    name: "young Executioner"
+    name: "Молодой Рубака"
   - id: 1007960
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=49f600e51b2d06f1
-    name: "small-boned seller"
+    name: "Маленький продавец"
   - id: 1007961
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a09a08bbb9b15c70
-    name: "preoccupied porter"
+    name: "Занятый перевозчик"
   - id: 1007962
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6918546bf5882389
-    name: "affable angler"
+    name: "Разговорчивая рыбачка"
   - id: 1007978
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=aaf1e30bed936dbd
-    name: "Moenskaet"
+    name: "Моэнскат"
   - id: 1007989
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=35766a02bd857a00
-    name: "Executioner deckhand"
+    name: "Матрос Рубак"
   quest_items:
   - id: 2001250
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=f3cfc7c560c0badf
-    name: "Dodozan's payment"
+    name: "Компенсация для Додозана"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=f3cfc7c560c0badf
 
 - name:
@@ -1079,6 +1102,7 @@
 
 - name:
     original: "An Ill-conceived Venture"
+    translated: "Провальное странствие"
   level: 17
   icon: 61419
   url:
@@ -1094,7 +1118,7 @@
     name: "Беспокойный приключенец"
   - id: 1008799
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0754f6827e63a6d2
-    name: "novice retainer"
+    name: "Начинающая слуга"
   enemies:
   - id: 2756
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=e75d95779cb434c0
@@ -1227,6 +1251,7 @@
 
 - name:
     original: "Things Are Getting Sirius"
+    translated: "Сириус-ное дело"
   level: 60
   icon: 61419
   url:
@@ -1236,16 +1261,16 @@
   actors:
   - id: 1003550
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2d7d96d78ee28e0a
-    name: "Трахейт"
+    name: "Тракрат"
   - id: 1016103
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e6b95d72fc64736c
-    name: "storm flyer"
+    name: "Пилот Водоворота"
   - id: 1016104
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5892ce7c1a0fbecd
-    name: "Трахейт"
+    name: "Тракрат"
   - id: 1016105
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=aa8803cef139b072
-    name: "storm flyer"
+    name: "Пилот Водоворота"
   - id: 1016106
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=415bcff9ec38b27d
     name: "Гонец Водоворота"
@@ -1254,15 +1279,16 @@
     name: "Мимидоа"
   - id: 1016108
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0953d0f3d38bc281
-    name: "Diamanda"
+    name: "Диаманда"
   quest_items:
   - id: 2001900
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=8837431edc69a499
-    name: "blunt whittle"
+    name: "Затупившийся клинок"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=8837431edc69a499
 
 - name:
     original: "Storming the Hull"
+    translated: "Водоворот на Халлбрейкере"
   level: 60
   icon: 61419
   url:
@@ -1272,10 +1298,10 @@
   actors:
   - id: 1009231
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f10394ad6ee80d94
-    name: "Denston"
+    name: "Денстон"
   - id: 1009382
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=96a518f7582fe778
-    name: "Denston"
+    name: "Денстон"
   - id: 1009461
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8c9ea5a7485aaa4e
     name: "Эйнзар"
@@ -1294,7 +1320,7 @@
     name: "Anaoc"
   - id: 1002605
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=52298057b6cb34b4
-    name: "Ancreta"
+    name: "Анкрета"
   enemies:
   - id: 1100
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=a760c2e0fc2d436a
@@ -3335,7 +3361,7 @@
     name: "Мимидоа"
   - id: 1005525
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d894c3767d94d01b
-    name: "Diamanda"
+    name: "Диаманда"
   - id: 1006503
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ef78ddba7883fc51
     name: "Дэвид"
@@ -3354,7 +3380,7 @@
     name: "Мимидоа"
   - id: 1005525
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d894c3767d94d01b
-    name: "Diamanda"
+    name: "Диаманда"
 
 - name:
     original: "It's Time to Duel"
