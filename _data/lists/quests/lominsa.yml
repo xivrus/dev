@@ -774,7 +774,7 @@
   quest_items:
   - id: 2000451
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=87c0ff471cf34bbd
-    name: "Образец из «Девятого мудреца»"
+    name: "Образец из «Седьмого мудреца»"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=87c0ff471cf34bbd
 
 - name:
@@ -1308,6 +1308,7 @@
 
 - name:
     original: "Cry Me a Liver"
+    translated: "Река и печень"
   level: 4
   icon: 61411
   url:
@@ -1317,7 +1318,7 @@
   actors:
   - id: 1002571
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=30f884508c09d6f9
-    name: "Anaoc"
+    name: "Анаок"
   - id: 1002605
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=52298057b6cb34b4
     name: "Анкрета"
@@ -1328,11 +1329,12 @@
   quest_items:
   - id: 2000427
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=6ab8c8d02f04cfc4
-    name: "rivertoad liver"
+    name: "Печень жабы"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=6ab8c8d02f04cfc4
 
 - name:
     original: "Moegramm Had a Little Lamb"
+    translated: "Мограмм и его овечки"
   level: 4
   icon: 61411
   url:
@@ -1342,27 +1344,28 @@
   actors:
   - id: 1002550
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f04e9811b987fccc
-    name: "Chartain"
+    name: "Чартейн"
   - id: 1002600
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5a71c2927a55aaac
-    name: "shaggy sheep"
+    name: "Лохматая овца"
   - id: 1002611
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8ad792ec0ff62da6
-    name: "shaggy sheep"
+    name: "Лохматая овца"
   - id: 1002614
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=851a34ffb4eac3ba
-    name: "shaggy sheep"
+    name: "Лохматая овца"
   - id: 1002657
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fbb556293faf21f4
-    name: "Moegramm"
+    name: "Мограмм"
   quest_items:
   - id: 2000437
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=a3519707942c61e3
-    name: "lice comb"
+    name: "Специальная расчёска"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=a3519707942c61e3
 
 - name:
     original: "Where the Heart Is (Mist)"
+    translated: "Тепло очага (Мгла)"
   level: 5
   icon: 61419
   url:
@@ -1372,16 +1375,17 @@
   actors:
   - id: 1002579
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f700f6293f893b1c
-    name: "Ahctkoen"
+    name: "Ахткоэн"
   - id: 1005529
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c68f64cb323a9107
-    name: "Roeganlona"
+    name: "Роганлона"
   - id: 1005881
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=72f1d8e7bf8b2406
-    name: "storm recruit"
+    name: "Рекрут Водоворота"
 
 - name:
     original: "Wool's Errand"
+    translated: "Шерстяная доставка"
   level: 4
   icon: 61411
   url:
@@ -1391,22 +1395,23 @@
   actors:
   - id: 1002571
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=30f884508c09d6f9
-    name: "Anaoc"
+    name: "Анаок"
   - id: 1002652
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1736fcbeff3c5769
-    name: "Weitzaren"
+    name: "Вентзарен"
   quest_items:
   - id: 2000428
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=d95640376c36e676
-    name: "sack of fleece"
+    name: "Мешок шерсти"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=d95640376c36e676
   eobjects:
   - id: 2001487
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=0a6022bf4895d414
-    name: "sack of fleece"
+    name: "Мешок шерсти"
 
 - name:
     original: "Much Ado About Dodos"
+    translated: "Додозначно, это проблема"
   level: 4
   icon: 61411
   url:
@@ -1416,31 +1421,32 @@
   actors:
   - id: 1002657
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fbb556293faf21f4
-    name: "Moegramm"
+    name: "Мограмм"
   - id: 1002660
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ea4abc44cfcdc671
-    name: "X'payan"
+    name: "Ше'пайя"
   - id: 1002661
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fa9ed2bd043fd99f
-    name: "bolting dodo"
+    name: "Сбежавший додо"
   - id: 1002687
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=87f0ebc94580cd8f
-    name: "bolting dodo"
+    name: "Сбежавший додо"
   - id: 1002688
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d8a38239becd9116
-    name: "bolting dodo"
+    name: "Сбежавший додо"
   quest_items:
   - id: 2000435
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=f0c2962b9bdea0c1
-    name: "empty dodo-sized sack"
+    name: "Пустой мешок-размером-с-додо"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=f0c2962b9bdea0c1
   - id: 2000436
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=3297cb2d120a700a
-    name: "full dodo-sized sack"
+    name: "Полный мешок-размером-с-додо"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=3297cb2d120a700a
 
 - name:
     original: "Whack-a-Mole"
+    translated: "Прибей крота!"
   level: 4
   icon: 61411
   url:
@@ -1450,7 +1456,7 @@
   actors:
   - id: 1002659
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=33ee1aec82814666
-    name: "Arenlona"
+    name: "Аренлона"
   enemies:
   - id: 1049
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=e1d6dc3c582cb886
@@ -1458,16 +1464,17 @@
   eobjects:
   - id: 2001495
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=5cd5d948b3aebdf5
-    name: "pumpkin vine"
+    name: "Тыквенный участок"
   - id: 2001496
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=d9f675b3cd7b2e98
-    name: "pumpkin vine"
+    name: "Тыквенный участок"
   - id: 2001497
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=7e8051a00ec39f37
-    name: "pumpkin vine"
+    name: "Тыквенный участок"
 
 - name:
     original: "What Goes Around"
+    translated: "Что это — большое и вертится?"
   level: 4
   icon: 61411
   url:
@@ -1477,22 +1484,23 @@
   actors:
   - id: 1002652
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1736fcbeff3c5769
-    name: "Weitzaren"
+    name: "Вентзарен"
   - id: 1002653
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a1e60fa7ed7bc58f
-    name: "Loetrswys"
+    name: "Лортсвис"
   - id: 1002654
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c566452476558b5a
-    name: "R'jumani"
+    name: "Р'джумани"
   - id: 1002655
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c481ca6dd4616e98
-    name: "Eshushu"
+    name: "Эшушу"
   - id: 1002656
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a33646be5f35cf48
-    name: "Waentzirn"
+    name: "Ваэнтзирн"
 
 - name:
     original: "Flour Power"
+    translated: "Мучные муки"
   level: 4
   icon: 61411
   url:
@@ -1502,10 +1510,10 @@
   actors:
   - id: 1002591
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e1ddfe6584b83345
-    name: "Skarnmhar"
+    name: "Скарнмхар"
   - id: 1002652
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1736fcbeff3c5769
-    name: "Weitzaren"
+    name: "Вентзарен"
   enemies:
   - id: 184
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=a4ad13ebc769fce3
@@ -1513,11 +1521,12 @@
   quest_items:
   - id: 2000429
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=ce43d7395d485eb0
-    name: "sack of flour"
+    name: "Мешок муки"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=ce43d7395d485eb0
 
 - name:
     original: "Beetle Juice"
+    translated: "Сок из насекомых"
   level: 4
   icon: 61411
   url:
@@ -1527,7 +1536,7 @@
   actors:
   - id: 1002659
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=33ee1aec82814666
-    name: "Arenlona"
+    name: "Аренлона"
   enemies:
   - id: 1046
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=2b756cd158cde44d
@@ -1535,16 +1544,16 @@
   quest_items:
   - id: 2000438
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=5810eda693bd701a
-    name: "phial of aphid nectar"
+    name: "Экстракт тли"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=5810eda693bd701a
   - id: 2000439
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=a3c1c548231ade16
-    name: "phial of ladybug viscera"
+    name: "Фиал выделений божьих коровок"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=a3c1c548231ade16
   eobjects:
   - id: 2001488
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=76b030498d929904
-    name: "Althyk lavender"
+    name: "Элтикская лаванда"
 
 - name:
     original: "Fire and Brimstone"
@@ -1595,10 +1604,10 @@
     name: "Стаельвирн"
   - id: 1002653
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a1e60fa7ed7bc58f
-    name: "Loetrswys"
+    name: "Лортсвис"
   - id: 1002657
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fbb556293faf21f4
-    name: "Moegramm"
+    name: "Мограмм"
   - id: 1002658
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7572a540d2c89d29
     name: "Broenruht"
@@ -1619,10 +1628,10 @@
   actors:
   - id: 1002571
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=30f884508c09d6f9
-    name: "Anaoc"
+    name: "Анаок"
   - id: 1002591
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e1ddfe6584b83345
-    name: "Skarnmhar"
+    name: "Скарнмхар"
   - id: 1002678
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e791915ad4a9ea8f
     name: "Wahoy Mahoy"
@@ -1663,13 +1672,13 @@
     name: "K'wabati"
   - id: 1002571
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=30f884508c09d6f9
-    name: "Anaoc"
+    name: "Анаок"
   - id: 1002591
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e1ddfe6584b83345
-    name: "Skarnmhar"
+    name: "Скарнмхар"
   - id: 1002659
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=33ee1aec82814666
-    name: "Arenlona"
+    name: "Аренлона"
   enemies:
   - id: 1155
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=918eeed1c8d73c9c
