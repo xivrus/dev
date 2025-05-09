@@ -1557,6 +1557,7 @@
 
 - name:
     original: "Fire and Brimstone"
+    translated: "Огонь и сера"
   level: 4
   icon: 61411
   url:
@@ -1566,7 +1567,7 @@
   actors:
   - id: 1002658
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7572a540d2c89d29
-    name: "Broenruht"
+    name: "Бронрухт"
   enemies:
   - id: 201
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=428244c471de128a
@@ -1574,21 +1575,22 @@
   quest_items:
   - id: 2000440
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=68edb9814ea39c7a
-    name: "clear earth crystal"
+    name: "Чистый кристалл земли"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=68edb9814ea39c7a
   eobjects:
   - id: 2001500
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=38ab481de275465d
-    name: "gas plume"
+    name: "Источник газа"
   - id: 2001501
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=a86c9ffafe59e705
-    name: "gas plume"
+    name: "Источник газа"
   - id: 2001502
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=c582a163621eab0e
-    name: "gas plume"
+    name: "Источник газа"
 
 - name:
     original: "Kobolds Ahoy"
+    translated: "Привет вам, кобольды"
   level: 4
   icon: 61411
   url:
@@ -1598,7 +1600,7 @@
   actors:
   - id: 1002119
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=31f47d6223e58a69
-    name: "Ostfyr"
+    name: "Остфир"
   - id: 1002626
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c86462917053ba4f
     name: "Стаельвирн"
@@ -1610,15 +1612,16 @@
     name: "Мограмм"
   - id: 1002658
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7572a540d2c89d29
-    name: "Broenruht"
+    name: "Бронрухт"
   quest_items:
   - id: 2000562
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=c8c836f1fb607230
-    name: "report on kobolds"
+    name: "Отчёт о кобольдах"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=c8c836f1fb607230
 
 - name:
     original: "Kobolds and Indigents"
+    translated: "Обездоленные кобольды"
   level: 4
   icon: 61411
   url:
@@ -1634,7 +1637,7 @@
     name: "Скарнмхар"
   - id: 1002678
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e791915ad4a9ea8f
-    name: "Wahoy Mahoy"
+    name: "Вахой Махой"
   enemies:
   - id: 1155
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=918eeed1c8d73c9c
@@ -1645,18 +1648,19 @@
   quest_items:
   - id: 2000430
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=f027e6e3091963ff
-    name: "bundle of raiments"
+    name: "Свёрток с одеяниями"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=f027e6e3091963ff
   eobjects:
   - id: 2000450
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=da076d40605f7e2f
-    name: "damaged wain"
+    name: "Повреждённая телега"
   - id: 2001489
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=51979c5ffa70e57b
-    name: "damaged wain"
+    name: "Повреждённая телега"
 
 - name:
     original: "Bait and Swat"
+    translated: "Сыр и мышеловка"
   level: 4
   icon: 61411
   url:
@@ -1669,7 +1673,7 @@
     name: "Бадерон"
   - id: 1002221
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4b34b66cac0a6578
-    name: "K'wabati"
+    name: "Ше'вабати"
   - id: 1002571
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=30f884508c09d6f9
     name: "Анаок"
@@ -1689,7 +1693,7 @@
   quest_items:
   - id: 2000434
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=4faf1119ccee8912
-    name: "crate of meat"
+    name: "Ящик мяса"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=4faf1119ccee8912
   eobjects:
   - id: 2001491
@@ -1701,6 +1705,7 @@
 
 - name:
     original: "A Bridge Too Full"
+    translated: "Трещащий по швам мост"
   level: 10
   icon: 61411
   url:
@@ -1710,25 +1715,25 @@
   actors:
   - id: 1002231
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=da965089a2edda2c
-    name: "Doesrael"
+    name: "Дозраль"
   - id: 1002447
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=378b8f178956b32e
-    name: "Wyrstmaga"
+    name: "Вирстмага"
   - id: 1002448
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c5d84e3c2e0500c7
-    name: "panicked Yellowjacket"
+    name: "Паникующая Жилетка"
   - id: 1002449
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e10f4470b898a25a
-    name: "irate coachman"
+    name: "Раздражённый погонщик"
   - id: 1002450
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5f80bc06a4874661
-    name: "irate coachman"
+    name: "Раздражённый погонщик"
   - id: 1002451
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=92a258f3d51892e9
-    name: "troubled coachman"
+    name: "Обеспокоенный погонщик"
   - id: 1002452
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=914cc08bf25613dd
-    name: "troubled coachman"
+    name: "Обеспокоенный погонщик"
   eobjects:
   - id: 2000756
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=8501c9de72e58213
@@ -1736,6 +1741,7 @@
 
 - name:
     original: "What Counts"
+    translated: "Счёт всему голова"
   level: 10
   icon: 61411
   url:
@@ -1745,29 +1751,30 @@
   actors:
   - id: 1002232
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=64840d0218688fff
-    name: "Yulgi Honalgi"
+    name: "Юлги Хоналги"
   - id: 1002234
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e102dcce03e62ef1
-    name: "Razyn Mylzyn"
+    name: "Разин Милзин"
   - id: 1002235
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0bdca9f8c8ec7de1
-    name: "Ruimo Falaimo"
+    name: "Руимо Фалаимо"
   eobjects:
   - id: 2000760
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=e437ec0a923f79a6
-    name: "forecastle planks"
+    name: "Доски для передней палубы"
   - id: 2000761
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=38ef34de0c63ff83
-    name: "quarterdeck logs"
+    name: "Доски для кормовой палубы"
   - id: 2000764
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=bdcbb02180314cec
-    name: "forecastle planks"
+    name: "Доски для передней палубы"
   - id: 2000765
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=24c47c33a24b57d0
-    name: "forecastle planks"
+    name: "Доски для передней палубы"
 
 - name:
     original: "Failure to Lunch"
+    translated: "Беды с обедом"
   level: 10
   icon: 61411
   url:
@@ -1777,28 +1784,29 @@
   actors:
   - id: 1002233
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=84383c0f11a132d5
-    name: "Wafufu"
+    name: "Вафуфу"
   - id: 1002453
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=48af040d374422fb
-    name: "Lyngstyrm"
+    name: "Лингстирм"
   - id: 1002455
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0a79626f9711131c
-    name: "Maetimynd"
+    name: "Мэтеминд"
   quest_items:
   - id: 2000218
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=221e6905111cee50
-    name: "packed lunch"
+    name: "Упакованный обед"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=221e6905111cee50
   eobjects:
   - id: 2000762
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=90479992859b2390
-    name: "packed lunch"
+    name: "Упакованный обед"
   - id: 2000763
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=5415f039e5a399d9
-    name: "packed lunch"
+    name: "Упакованный обед"
 
 - name:
     original: "Nailed It"
+    translated: "Скобы и молнии"
   level: 10
   icon: 61411
   url:
@@ -1808,7 +1816,7 @@
   actors:
   - id: 1002454
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b06b0a92b08ccb6d
-    name: "Hezzkhezl"
+    name: "Хеззкезл"
   enemies:
   - id: 117
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=cd0f1c2ed610e4d9
@@ -1816,11 +1824,12 @@
   quest_items:
   - id: 2000219
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=83862db97030fa5f
-    name: "lightning sprite core"
+    name: "Ядро молниевого духа"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=83862db97030fa5f
 
 - name:
     original: "Constant Carvings"
+    translated: "Резьба по кости"
   level: 10
   icon: 61411
   url:
@@ -1833,7 +1842,7 @@
     name: "Мимидоа"
   - id: 1002445
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=667a54ffc7c265ee
-    name: "Rostnzeh"
+    name: "Ростнзен"
   enemies:
   - id: 2756
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=e75d95779cb434c0
@@ -1841,11 +1850,12 @@
   quest_items:
   - id: 2000220
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=a1331bb2f5d0195c
-    name: "curved jackal fang"
+    name: "Изогнутый клык шакала"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=a1331bb2f5d0195c
 
 - name:
     original: "Forbidden Island"
+    translated: "Чужие"
   level: 10
   icon: 61411
   url:
@@ -1855,32 +1865,33 @@
   actors:
   - id: 1002446
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=268943606a99b22a
-    name: "A'zumyn"
+    name: "А'зумун"
   enemies:
   - id: 571
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=68fd32158481a8a9
     name: "Тавнирский митлинг"
   - id: 572
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=5385ce14ba9c26b2
-    name: "Thavnairian mite"
+    name: "Тавнирский мит"
   quest_items:
   - id: 2000221
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=3c9f5f324346c7eb
-    name: "lump of fetid dodo flesh"
+    name: "Кусок пахучего мяса додо"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=3c9f5f324346c7eb
   eobjects:
   - id: 2000772
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=41fbb5e727f3db0c
-    name: "suspicious mound"
+    name: "Подозрительный холмик"
   - id: 2000773
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=6aa437cb90026d49
-    name: "suspicious mound"
+    name: "Подозрительный холмик"
   - id: 2000774
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=c3c3d79021f86dbf
-    name: "suspicious mound"
+    name: "Подозрительный холмик"
 
 - name:
     original: "Say It with Flowers"
+    translated: "Чувственный жест"
   level: 10
   icon: 61411
   url:
@@ -1893,7 +1904,7 @@
     name: "Гимтота"
   - id: 1002445
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=667a54ffc7c265ee
-    name: "Rostnzeh"
+    name: "Ростнзен"
   enemies:
   - id: 1085
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=3f56acb3b672b5f2
@@ -1901,21 +1912,22 @@
   quest_items:
   - id: 2000225
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=f21286d455062948
-    name: "La Noscean lilybell"
+    name: "Лилия Ла Ноши"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=f21286d455062948
   eobjects:
   - id: 2000775
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=13185571edcdb9ec
-    name: "La Noscean lilybell"
+    name: "Лилия Ла Ноши"
   - id: 2000776
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=55fad8a292074cd1
-    name: "La Noscean lilybell"
+    name: "Лилия Ла Ноши"
   - id: 2000777
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=dfa2e98a9a3b448e
-    name: "La Noscean lilybell"
+    name: "Лилия Ла Ноши"
 
 - name:
     original: "Leves of Moraby"
+    translated: "Поручения Мораби"
   level: 20
   icon: 61419
   url:
@@ -1925,10 +1937,11 @@
   actors:
   - id: 1004347
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a2d3f2fcd3943d9b
-    name: "Оураван"
+    name: "Ораванн"
 
 - name:
     original: "Rocks in a Hard Place"
+    translated: "Неодолимые камни"
   level: 4
   icon: 61411
   url:
@@ -1942,30 +1955,30 @@
   quest_items:
   - id: 2000350
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=c26e1b5c121fb83a
-    name: "tiller's shovel"
+    name: "Фермерская лопата"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=c26e1b5c121fb83a
   eobjects:
   - id: 2001243
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=77048f9c9a38f606
-    name: "cumbersome rock"
+    name: "Здоровенный булыжник"
   - id: 2001244
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=03d00baa4b4703c5
-    name: "cumbersome rock"
+    name: "Здоровенный булыжник"
   - id: 2001245
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=41976d13006cfde4
-    name: "cumbersome rock"
+    name: "Здоровенный булыжник"
   - id: 2001246
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=ddf4109f2800424a
-    name: "strewn debris"
+    name: "Разбросанный мусор"
   - id: 2001247
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=9798fdcece4a7121
-    name: "strewn debris"
+    name: "Разбросанный мусор"
   - id: 2001248
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=8d14d4a14022999d
-    name: "strewn debris"
+    name: "Разбросанный мусор"
   - id: 2001272
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=000f00fc01352b70
-    name: "tiller's shovel"
+    name: "Фермерская лопата"
 
 - name:
     original: "The Time Is Ripe"
@@ -2016,7 +2029,7 @@
   actors:
   - id: 1002119
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=31f47d6223e58a69
-    name: "Ostfyr"
+    name: "Остфир"
   enemies:
   - id: 1084
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=8f32386a3cd77e22
