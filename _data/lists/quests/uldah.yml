@@ -2454,24 +2454,9 @@
   level: 4
   icon: 61411
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-003-subwil029_00390/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=cc3a103fa0394efd
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=9f92c6bc2817be3f
-  actors:
-  - id: 1001313
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=21d2985024cbcf53
-    name: "Ботульф"
-  - id: 1001390
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8cfbbe96d34d6e39
-    name: "Мимишу"
-  - id: 1001992
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1489848b161f6014
-    name: "Oswell"
-  quest_items:
-  - id: 2000410
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=91f981355a1ff9bc
-    name: "package to Horizon"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=91f981355a1ff9bc
+    quest_name: 
 
 - name:
     original: "Leves of Horizon"
