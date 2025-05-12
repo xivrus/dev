@@ -2152,6 +2152,7 @@
 
 - name:
     original: "Never Trout That I Love"
+    translated: "Песнь форели и пламени"
   level: 34
   icon: 61411
   url:
@@ -2164,29 +2165,30 @@
     name: "Блоэдин"
   - id: 1006326
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a2f2476fe2b0a37f
-    name: "eager Red Swallow"
+    name: "Яростная Чайка"
   - id: 1006327
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0b460c5cb39d9557
-    name: "ardent Red Swallow"
+    name: "Верующая Чайка"
   - id: 1006328
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b23ab9015eb46344
-    name: "starving Red Swallow"
+    name: "Проголодавшаяся Чайка"
   quest_items:
   - id: 2000666
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=6582666e3b369602
-    name: "large warmwater trout"
+    name: "Большая тепловодная форель"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=6582666e3b369602
   - id: 2000667
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=ccdd41f6bb57a4c2
-    name: "large grilled trout"
+    name: "Прожаренная форель"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=ccdd41f6bb57a4c2
   eobjects:
   - id: 2002087
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=9a14f56d4e958805
-    name: "campfire"
+    name: "Костёр"
 
 - name:
     original: "Dead or Sumfin' Like It"
+    translated: "Померли, или типа того"
   level: 34
   icon: 61411
   url:
@@ -2196,7 +2198,7 @@
   actors:
   - id: 1006330
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a55ea71ad52d870d
-    name: "Augustine"
+    name: "Августин"
   enemies:
   - id: 397
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=4a9a0c42fdc88384
@@ -2204,6 +2206,7 @@
 
 - name:
     original: "Return to Your Dust"
+    translated: "Прах к праху, големы к пыли"
   level: 34
   icon: 61411
   url:
@@ -2217,7 +2220,7 @@
   enemies:
   - id: 2059
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=6bb34a210327541f
-    name: "the Unbreakable"
+    name: "Непробиваемый"
   - id: 4286
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=041fd3805ffd3613
     name: "wrothful golem"
@@ -2228,7 +2231,7 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=4a3d247352077442
   - id: 2000960
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=326ee4d20de86819
-    name: "glass bottle"
+    name: "Стеклянная бутылка"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=326ee4d20de86819
   eobjects:
   - id: 2002088
@@ -2243,6 +2246,7 @@
 
 - name:
     original: "Deduce, Reuse, Recycle"
+    translated: "Адаптируйся, импровизируй... и никакого металла!"
   level: 34
   icon: 61411
   url:
@@ -2252,38 +2256,39 @@
   actors:
   - id: 1006331
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=92971ea0cd0c5284
-    name: "Swygrael"
+    name: "Свиграль"
   quest_items:
   - id: 2000669
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=c72df8cf8f8ed770
-    name: "velociraptor claw"
+    name: "Коготь велоцираптора"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=c72df8cf8f8ed770
   - id: 2000929
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=30668aa4e1e644fc
-    name: "serrated arrowhead"
+    name: "Испорченный наконечник стрелы"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=30668aa4e1e644fc
   eobjects:
   - id: 2002338
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=064a7d297b8fcfb4
-    name: "serrated arrowhead"
+    name: "Наконечник стрелы"
   - id: 2002339
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=bd3963ebc99dd02f
-    name: "serrated arrowhead"
+    name: "Наконечник стрелы"
   - id: 2002340
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=792d0e9957602c82
-    name: "serrated arrowhead"
+    name: "Наконечник стрелы"
   - id: 2002341
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=061dfd5fb419725b
-    name: "velociraptor claw"
+    name: "Коготь велоцираптора"
   - id: 2002342
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=9309c0eddea85929
-    name: "velociraptor claw"
+    name: "Коготь велоцираптора"
   - id: 2002343
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=cb32bf69984d046f
-    name: "velociraptor claw"
+    name: "Коготь велоцираптора"
 
 - name:
     original: "Don't Let the Cat out of the Bag"
+    translated: "Кот из мешка"
   level: 34
   icon: 61411
   url:
@@ -2293,7 +2298,7 @@
   actors:
   - id: 1006331
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=92971ea0cd0c5284
-    name: "Swygrael"
+    name: "Свиграль"
   enemies:
   - id: 2192
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=79eb3f64e7186a08
@@ -2301,15 +2306,16 @@
   quest_items:
   - id: 2000670
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=8ab1e3ec3147e977
-    name: "empty coeurl-sized sack"
+    name: "Пустой мешок-размером-с-куэрла"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=8ab1e3ec3147e977
   - id: 2000671
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=0d58b5f471d5ccbc
-    name: "full coeurl-sized sack"
+    name: "Полный мешок-размером-с-куэрла"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=0d58b5f471d5ccbc
 
 - name:
     original: "Looking for Trouble"
+    translated: "Кобольдская вылазка"
   level: 34
   icon: 61411
   url:
@@ -2343,6 +2349,7 @@
 
 - name:
     original: "Helm Me You Love Me"
+    translated: "Плохому жрецу шлем мешает"
   level: 34
   icon: 61411
   url:
@@ -2352,7 +2359,7 @@
   actors:
   - id: 1006324
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c3733e9607651734
-    name: "Blaugybal"
+    name: "Благибал"
   - id: 1006325
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2edf4e9ff02fc1a7
     name: "Блоэдин"
@@ -2363,28 +2370,29 @@
   quest_items:
   - id: 2000672
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=035ebc4a587398e4
-    name: "smoldering coal"
+    name: "Тлеющий уголь"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=035ebc4a587398e4
   - id: 2000871
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=e3b5aeba6c24a9b8
-    name: "kobold priest's helm"
+    name: "Шлем жреца кобольдов"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=e3b5aeba6c24a9b8
   eobjects:
   - id: 2002093
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=e302b1116e83a1ea
-    name: "kobold bomb"
+    name: "Бомба кобольдов"
   - id: 2002094
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=05c07c0ad0facd83
-    name: "kobold bomb"
+    name: "Бомба кобольдов"
   - id: 2002095
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=7afc530518500e96
-    name: "kobold bomb"
+    name: "Бомба кобольдов"
   - id: 2002259
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=679ee5e154cd7013
     name: "Цель"
 
 - name:
     original: "A Pirate's Life for Me"
+    translated: "Ностальгия по пиратству"
   level: 47
   icon: 61411
   url:
@@ -2397,19 +2405,20 @@
     name: "Блоэдин"
   - id: 1006590
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b4d5848dbeab861a
-    name: "Red Swallow private first class"
+    name: "Рядовой первого класса Чаек"
   - id: 1006591
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d8205bf103939f15
-    name: "Red Swallow private third class"
+    name: "Рядовой третьего класса Чаек"
   - id: 1006592
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e860f04b794daada
-    name: "Red Swallow private second class"
+    name: "Рядовой второго класса Чаек"
   - id: 1006593
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5e11b07c4d058f00
-    name: "Red Swallow corporal"
+    name: "Капрал Чаек"
 
 - name:
     original: "Honor the Fallen"
+    translated: "Честь и память о павших"
   level: 47
   icon: 61411
   url:
@@ -2419,28 +2428,29 @@
   actors:
   - id: 1006594
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5b25c12be6c38fe9
-    name: "Ру'маджа"
+    name: "Ф'мажха"
   quest_items:
   - id: 2000775
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=66a97d424b864863
-    name: "mark of the Red Swallow"
+    name: "Жетон Красных Чаек"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=66a97d424b864863
   eobjects:
   - id: 2002566
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=53a65459f329c111
-    name: "mark of the Red Swallow"
+    name: "Жетон Красных Чаек"
   - id: 2002567
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=5ddd41c9a8af2296
-    name: "mark of the Red Swallow"
+    name: "Жетон Красных Чаек"
   - id: 2002568
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=9f09db148c7468da
-    name: "mark of the Red Swallow"
+    name: "Жетон Красных Чаек"
   - id: 2002569
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=87eb50d8724f715f
-    name: "mark of the Red Swallow"
+    name: "Жетон Красных Чаек"
 
 - name:
     original: "Operation Crucible Down"
+    translated: "Уничтожение горнила"
   level: 47
   icon: 61411
   url:
@@ -2454,21 +2464,22 @@
   quest_items:
   - id: 2000776
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=1d163fc61f341dd3
-    name: "makeshift fragment bomb"
+    name: "Самодельные бомбы"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=1d163fc61f341dd3
   eobjects:
   - id: 2002242
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=be257328da510358
-    name: "kobold supplies"
+    name: "Припасы кобольдов"
   - id: 2002243
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=071d120462cad833
-    name: "kobold supplies"
+    name: "Припасы кобольдов"
   - id: 2002244
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=941d71164878903e
-    name: "kobold supplies"
+    name: "Припасы кобольдов"
 
 - name:
     original: "Claiming the Booty"
+    translated: "А вот и заслуженная компенсация"
   level: 47
   icon: 61411
   url:
@@ -2484,15 +2495,16 @@
     name: "Блоэдин"
   - id: 1007487
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=60409914545a6b3d
-    name: "Slafswys"
+    name: "Слафсвис"
   quest_items:
   - id: 2000777
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=9bca3712f8b0cd01
-    name: "copy of the Operation Crucible Down report"
+    name: "Рапорт об уничтожении горнила"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=9bca3712f8b0cd01
 
 - name:
     original: "The Hottest of Box Lunches"
+    translated: "Ланч бокс для учёного"
   level: 23
   icon: 61411
   url:
@@ -2502,18 +2514,19 @@
   actors:
   - id: 1006194
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d0ad61697ad8873a
-    name: "Gegeroon"
+    name: "Гегерун"
   - id: 1006195
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=878f2d86f4920d10
     name: "Танга Тонга"
   quest_items:
   - id: 2000591
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=4d254617a3aefa85
-    name: "hot box lunch"
+    name: "Коробка с горячим обедом"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=4d254617a3aefa85
 
 - name:
     original: "Buried Truth"
+    translated: "Истина в камне"
   level: 23
   icon: 61411
   url:
@@ -2527,34 +2540,35 @@
   quest_items:
   - id: 2000592
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=1e43f81ec048f571
-    name: "oblong fossil"
+    name: "Продолговатая окаменелость"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=1e43f81ec048f571
   - id: 2000593
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=884a26235a853397
-    name: "round fossil"
+    name: "Круглая окаменелость"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=884a26235a853397
   eobjects:
   - id: 2001947
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=140b2b9731065ba8
-    name: "oblong fossil"
+    name: "Продолговатая окаменелость"
   - id: 2001948
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=daeb0011e15428ab
-    name: "oblong fossil"
+    name: "Продолговатая окаменелость"
   - id: 2002827
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=06dc0baf7d6945e6
-    name: "round fossil"
+    name: "Круглая окаменелость"
   - id: 2002828
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=02d34b75fef87a55
-    name: "round fossil"
+    name: "Круглая окаменелость"
   - id: 2002829
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=85f3f803b4ddc766
-    name: "oblong fossil"
+    name: "Продолговатая окаменелость"
   - id: 2002830
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=a81cf7ababcf1be1
-    name: "oblong fossil"
+    name: "Продолговатая окаменелость"
 
 - name:
     original: "One Swallow Does Not a Victory Make"
+    translated: "Одна Чайка в поле не воин"
   level: 34
   icon: 61411
   url:
@@ -2564,18 +2578,19 @@
   actors:
   - id: 1006324
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c3733e9607651734
-    name: "Blaugybal"
+    name: "Благибал"
   - id: 1006325
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2edf4e9ff02fc1a7
     name: "Блоэдин"
   quest_items:
   - id: 2000665
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=ed4daf89a958003d
-    name: "plea to Bloeidin"
+    name: "Прошение Блоэдину"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=ed4daf89a958003d
 
 - name:
     original: "The Monster of Bronze Lake"
+    translated: "Чудище Бронзового озера"
   level: 34
   icon: 61411
   url:
@@ -2601,6 +2616,7 @@
 
 - name:
     original: "Red, Red Wine"
+    translated: "Красное, красное вино"
   level: 34
   icon: 61411
   url:
@@ -2610,27 +2626,27 @@
   actors:
   - id: 1006333
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=443452c0cb77356f
-    name: "A'rhunlika"
+    name: "А'рунлика"
   - id: 1006334
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=72aeb3c99ed2c7f8
-    name: "Imumu"
+    name: "Имуму"
   - id: 1006335
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a31639fa04ab3d09
-    name: "H'bhowaka"
+    name: "Х'бовака"
   - id: 1006336
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=91d2f538704a03cf
-    name: "Ostsygg"
+    name: "Остсигг"
   - id: 1006337
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9fe68fda30e004e9
-    name: "Swaenlona"
+    name: "Сванлона"
   quest_items:
   - id: 2000674
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=e90a045931eb388f
-    name: "bottle of mulled wine"
+    name: "Бутылки вина"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=e90a045931eb388f
   - id: 2000675
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=5639ce25bca3810e
-    name: "bottle of warmwine"
+    name: "Бутылки горячего вина"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=5639ce25bca3810e
   eobjects:
   - id: 2002096
@@ -2638,10 +2654,11 @@
     name: "Цель"
   - id: 2002260
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=9a36bcda858d87d9
-    name: "warmwine"
+    name: "Нагретое вино"
 
 - name:
     original: "The Adventure of the Fainting Goldsmith"
+    translated: "Невероятное приключение ювелира на грани беспамятства"
   level: 34
   icon: 61411
   url:
@@ -2658,7 +2675,7 @@
   quest_items:
   - id: 2000676
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=f78744663bf9bbb2
-    name: "bottle of lake water"
+    name: "Бутыль ледяной воды"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=f78744663bf9bbb2
 
 - name:
