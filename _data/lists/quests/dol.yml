@@ -1361,8 +1361,15 @@
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=5915f24be657fa7a
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=8fd8a8256c42d04b
   actors:
-  - id: 0
-  - id: 0
+  - id: 1000857
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e8a913e371ade18b
+    name: "Сисипу"
+  - id: 1003628
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cb6c372b185a9f40
+    name: "Tocktix"
+  - id: 1004962
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6e91ec6901e1a13b
+    name: "У'горомули"
 
 - name:
     original: "Fishing in the Rain"
