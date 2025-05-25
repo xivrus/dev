@@ -1,4 +1,44 @@
 - name:
+    original: "Heavensssturn Trivia"
+    translated: "Что? Где? Змея?"
+  level: 15
+  icon: 61411
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-051-fesnyx101_05186/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=32c6f017a0ab933d
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=f030b0ca0ea874b2
+  actors:
+  - id: 1050356
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9e3eca42abc72762
+    name: "Хэби бугё"
+  - id: 1050357
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2f124693e578cf7f
+    name: "Синяя хэби ёрики"
+  - id: 1050358
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a7d51bd018cf10de
+    name: "Желтая хэби ёрики"
+  - id: 1050359
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b3f7776f6cda247c
+    name: "Красная хэби ёрики"
+  - id: 1051123
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f6530e5b7b123090
+    name: "Великий Белый Цутиноко"
+  - id: 1051542
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8b0a61e2b487b679
+    name: "Синяя хэби ёрики"
+  - id: 1051543
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e2277dd7a1baaa72
+    name: "Желтая хэби ёрики"
+  - id: 1051544
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=028b0fc1d931b1aa
+    name: "Красная хэби ёрики"
+  quest_items:
+  - id: 2003684
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=278ca18c27a7a91d
+    name: "white tsuchinoko ornament"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=278ca18c27a7a91d
+
+- name:
     original: "To Be a Mascot"
   level: 15
   icon: 61411
@@ -4767,6 +4807,82 @@
     url: https://translate.xivrus.ru/translate/xivrus/status/ru/?checksum=0f10f98d02412069
     name: "Transporting"
     desc: "Переноска предмета в руках и утомление с каждой секундой."
+
+- name:
+    original: "Royal Rumblings"
+  level: 15
+  icon: 61411
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-053-fesgsc901_05322/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=894dbc13224ad996
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=3e6291d6373b504b
+  actors:
+  - id: 1011055
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=127ba6161e3b9355
+    name: "King Elmer III"
+  - id: 1044696
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ef7f7dfea8546f37
+    name: "Олье"
+  - id: 1049020
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3b001cfc88149ecc
+    name: "Увлечённый горожанин"
+  - id: 1049021
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=11c9f3ae4cd2f947
+    name: "Олье"
+  - id: 1049022
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b3ade9452d9fd864
+    name: "Олье"
+  - id: 1049023
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7594fa24c4262033
+    name: "Олье"
+  - id: 1049024
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=23cb379cd24d5c61
+    name: "Олье"
+  - id: 1049025
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c7eaf41da7314359
+    name: "Олье"
+  - id: 1049026
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ddbd05b31b4cf7d5
+    name: "Олье"
+  - id: 1049027
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=948ff6bbe70b5067
+    name: "pondering patron"
+  - id: 1049028
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ff6c8a20b8e934c8
+    name: "flustered lass"
+  - id: 1049029
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=07808b35a979a5b1
+    name: "gazing patron"
+  - id: 1049041
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7ed8d40a6587dc54
+    name: "King Elmer III"
+  - id: 1049042
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e24535b23c7b8b39
+    name: "false king"
+  - id: 1049043
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=89740948845b6171
+    name: "raring contender"
+  - id: 1049044
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=df6b591932393545
+    name: "lost child"
+  - id: 1049045
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e05a3fa77442301a
+    name: "kindly attendant"
+  quest_items:
+  - id: 2003750
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=e5bc110760db6021
+    name: "King Elmer III card"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=e5bc110760db6021
+  eobjects:
+  - id: 2014700
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=073bc78487c7d655
+    name: "vantage point"
+  - id: 2014702
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=db42f262bcf9eb42
+    name: "dropped card"
+  - id: 2014703
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=3a9cc465e874a5c8
+    name: "Цель"
 
 - name:
     original: "Of Impish Importance"

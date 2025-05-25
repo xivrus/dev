@@ -6,6 +6,12 @@ quest_list: seasonal
 
 ## Фестиваль духов / Heavensturn {#heavensturn}
 
+### 2025 {#heavensturn-2025}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "Heavensssturn Trivia" %}
+</ul>
+
 ### 2024 {#heavensturn-2024}
 
 <ul markdown="0">
@@ -368,6 +374,12 @@ quest_list: seasonal
 </ul>
 
 ## Празднества <<Золотого блюдца>> / Make It Rain {#make-it-rain}
+
+### 2025 {#make-it-rain-2025}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "Royal Rumblings" %}
+</ul>
 
 ### 2024 {#make-it-rain-2024}
 
