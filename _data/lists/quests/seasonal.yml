@@ -4810,6 +4810,7 @@
 
 - name:
     original: "Royal Rumblings"
+    translated: "Король-самозванец"
   level: 15
   icon: 61411
   url:
@@ -4819,7 +4820,7 @@
   actors:
   - id: 1011055
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=127ba6161e3b9355
-    name: "King Elmer III"
+    name: "Король Элмер III"
   - id: 1044696
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ef7f7dfea8546f37
     name: "Олье"
@@ -4846,40 +4847,40 @@
     name: "Олье"
   - id: 1049027
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=948ff6bbe70b5067
-    name: "pondering patron"
+    name: "Задумчивый посетитель"
   - id: 1049028
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ff6c8a20b8e934c8
-    name: "flustered lass"
+    name: "Взволнованная девушка"
   - id: 1049029
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=07808b35a979a5b1
-    name: "gazing patron"
+    name: "Любопытная девушка"
   - id: 1049041
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7ed8d40a6587dc54
-    name: "King Elmer III"
+    name: "Король Элмер III"
   - id: 1049042
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e24535b23c7b8b39
-    name: "false king"
+    name: "Король-самозванец"
   - id: 1049043
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=89740948845b6171
-    name: "raring contender"
+    name: "Ярый соперник"
   - id: 1049044
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=df6b591932393545
-    name: "lost child"
+    name: "Потерявшийся ребёнок"
   - id: 1049045
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e05a3fa77442301a
-    name: "kindly attendant"
+    name: "Доброжелательная сотрудница"
   quest_items:
   - id: 2003750
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=e5bc110760db6021
-    name: "King Elmer III card"
+    name: "Карта «Король Элмер III»"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=e5bc110760db6021
   eobjects:
   - id: 2014700
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=073bc78487c7d655
-    name: "vantage point"
+    name: "Точка обзора"
   - id: 2014702
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=db42f262bcf9eb42
-    name: "dropped card"
+    name: "Выпавшая карта"
   - id: 2014703
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=3a9cc465e874a5c8
     name: "Цель"
