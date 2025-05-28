@@ -5751,9 +5751,69 @@
   level: 60
   icon: 61412
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-022-heavnd103_02244/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=8024c90ffbbc4f55
-    quest_name: 
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=8f0090412e98fbb9
+  cutscenes:
+  - name: "Кат-сцена 1"
+    start: "000600"
+    end: "000910"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-033-voiceman_03300/
+  - name: "Кат-сцена 2"
+    start: "000920"
+    end: "001000"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-033-voiceman_03300/
+  - name: "Кат-сцена 3"
+    start: "001010"
+    end: "001070"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-033-voiceman_03300/
+  actors:
+  - id: 1012078
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b01561d236dcc553
+    name: "Могхан"
+  - id: 1012904
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6296e52cdba036de
+    name: "Моглин"
+  - id: 1013802
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ed1c1051b3755872
+    name: "Могхан"
+  - id: 1016810
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=11ddfbdce6967b59
+    name: "Эмерик"
+  - id: 1016811
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a2189eac188d5585
+    name: "Эмерик"
+  - id: 1016812
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6f91a56a9e60a7ef
+    name: "Великолепная виверна"
+  - id: 1016813
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=05da667da7f341d3
+    name: "Эмерик"
+  - id: 1016819
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8282e8a473d1be5e
+    name: "Альфино"
+  - id: 1016822
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5df7605ca4abab8a
+    name: "Альфино"
+  - id: 1016825
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=43ee332fc673d970
+    name: "Альфино"
+  - id: 1016882
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f29e2477c8981ad9
+    name: "Эмерик"
+  - id: 1017011
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=52e12278359402e0
+    name: "Альфино"
+  - id: 1017022
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b988b8a9abd74c65
+    name: "Альфино"
+  - id: 1017023
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=898664d4fe8e8e65
+    name: "Эмерик"
+  eobjects:
+  - id: 2006956
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=82994259fec7c46b
+    name: "Цель"
 
 - name:
     original: "An End to the Song"
