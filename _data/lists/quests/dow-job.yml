@@ -2913,51 +2913,9 @@
   level: 54
   icon: 62404
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-016-jobdrg540_01692/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=2628b63324e63825
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=d5c932c16649e391
-  actors:
-  - id: 1006748
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7fea2a32a1104a81
-    name: "Альберик"
-  - id: 1007116
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=68739348cee73ba4
-    name: "Альберик"
-  - id: 1011241
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6da354e8739986e7
-    name: "Тьермон"
-  - id: 1013450
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1bad01d25ac36a4f
-    name: "Юстиния"
-  - id: 1013451
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7093775fbae11b98
-    name: "Montorgains"
-  - id: 1013452
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9ff987bb02c676cb
-    name: "Брюсмон"
-  - id: 1013456
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c0052b587fad856f
-    name: "Юстиния"
-  - id: 1013457
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ecd25a0fe5b00019
-    name: "Брюсмон"
-  - id: 1013464
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=76e1bc92e63254ed
-    name: "Montorgains"
-  - id: 1014383
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bd4eb25a4471067f
-    name: "Юстиния"
-  - id: 1014384
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=30c45472d739a788
-    name: "Montorgains"
-  - id: 1014387
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8ede234f9e9f1112
-    name: "Брюсмон"
-  quest_items:
-  - id: 2001637
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=bd91a21eed630c58
-    name: "polished culet"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=bd91a21eed630c58
+    quest_name: 
 
 - name:
     original: "Dragoon's Errand"
