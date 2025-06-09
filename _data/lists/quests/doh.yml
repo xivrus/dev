@@ -2610,8 +2610,10 @@
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=866cc68fba36e08e
     name: "Gerhardt"
   quest_items:
-  - id: 0
-  - id: 0
+  - id: 2001716
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=32429950551a5535
+    name: "letter to Guildmaster Geva"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=32429950551a5535
 
 - name:
     original: "A Taxing Request"
@@ -2903,22 +2905,9 @@
   level: 25
   icon: 62315
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-005-clswvr250_00592/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=89aa43a8e9f624b3
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=135cf481e5956894
-  actors:
-  - id: 1003818
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=02a47889aa038b84
-    name: "Багровая Роза"
-  - id: 1003821
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=abc88d55a320e492
-    name: "Kokomo"
-  - id: 1003823
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c8c78635f85f4838
-    name: "Babawai"
-  - id: 1003913
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b1530b9f6c47fabb
-    name: "Wawarukka"
+    quest_name: 
 
 - name:
     original: "Miner on a Mission"
