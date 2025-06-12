@@ -1,5 +1,6 @@
 - name:
     original: "Idle Initiatives"
+    translated: "Бездельничающие рекруты"
   level: 4
   icon: 61411
   url:
@@ -12,16 +13,17 @@
     name: "Цуб Каназом"
   - id: 1000792
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d415d427f9ba33f4
-    name: "meditating initiate"
+    name: "Медитирующий рекрут"
   - id: 1000793
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9a98614658f92c78
-    name: "daydreaming initiate"
+    name: "Мечтающий рекрут"
   - id: 1000794
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7e1c76c4f8ccb1f8
-    name: "slumbering initiate"
+    name: "Спящий рекрут"
 
 - name:
     original: "More than a Flesh Wound"
+    translated: "Фатальный удар по гордости"
   level: 4
   icon: 61411
   url:
@@ -31,10 +33,11 @@
   actors:
   - id: 1000430
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f2d7a38201fcdb41
-    name: "Arold"
+    name: "Арольд"
 
 - name:
     original: "Splitting Shells"
+    translated: "Полезные панцири"
   level: 4
   icon: 61411
   url:
@@ -55,11 +58,12 @@
   quest_items:
   - id: 2000142
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=70ae5e64ad40e28f
-    name: "bog yarzon shell"
+    name: "Панцирь болотного ярзона"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=70ae5e64ad40e28f
 
 - name:
     original: "Parasite Cleave"
+    translated: "Немыслимый гнев старого ботаника"
   level: 4
   icon: 61411
   url:
@@ -77,21 +81,22 @@
   quest_items:
   - id: 2000061
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=876b3cf317297f2c
-    name: "pot of amber unguent"
+    name: "Горшочек янтарной мази"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=876b3cf317297f2c
   eobjects:
   - id: 2000016
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=f0966ba8daf66f6a
-    name: "decaying tree"
+    name: "Нездоровое дерево"
   - id: 2000017
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=4296560b6dbd5e97
-    name: "decaying tree"
+    name: "Нездоровое дерево"
   - id: 2000018
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=bc4d80a48262c127
-    name: "decaying tree"
+    name: "Нездоровое дерево"
 
 - name:
     original: "Soil Despoilers"
+    translated: "Во спасение почвы"
   level: 4
   icon: 61411
   url:
@@ -101,7 +106,7 @@
   actors:
   - id: 1000455
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ec923cb1c420391e
-    name: "Ealdfrith"
+    name: "Элдфрит"
   - id: 1000461
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=71a8499861852293
     name: "Габино"
@@ -112,6 +117,7 @@
 
 - name:
     original: "Simply the Hest"
+    translated: "Вот так гильдхест"
   level: 10
   icon: 61419
   id: 58
@@ -125,10 +131,11 @@
     name: "Тотонова"
   - id: 1004743
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=029abddbb8fea29b
-    name: "Lost Rabbit"
+    name: "Потерянная Крольчиха"
 
 - name:
     original: "Not a Material Girl"
+    translated: "Чего же ей хочется"
   level: 10
   icon: 61411
   url:
@@ -151,6 +158,7 @@
 
 - name:
     original: "Look, but Won't Touch"
+    translated: "Вижу, но трогать не стану"
   level: 10
   icon: 61411
   url:
@@ -175,6 +183,7 @@
 
 - name:
     original: "Where the Heart Is (The Lavender Beds)"
+    translated: "Тепло очага (Лавандовые Клумбы)"
   level: 10
   icon: 61419
   url:
@@ -184,16 +193,17 @@
   actors:
   - id: 1000478
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1b3a559e6d9d7cf0
-    name: "Margeria"
+    name: "Маргерия"
   - id: 1005530
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=70a9fd9c5dcd570b
-    name: "Emblyn"
+    name: "Эмбин"
   - id: 1005879
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6dd824234f20f212
     name: "Рекрут Двух Змей"
 
 - name:
     original: "Extending Fences"
+    translated: "Эклектичный материал"
   level: 10
   icon: 61411
   url:
@@ -211,11 +221,12 @@
   quest_items:
   - id: 2000093
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=6b1694ce0a7c2b75
-    name: "strand of newly spun diremite webbing"
+    name: "Комок паутины страхомита"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=6b1694ce0a7c2b75
 
 - name:
     original: "Walking the Planks"
+    translated: "Отражения в воде"
   level: 10
   icon: 61411
   url:
@@ -225,42 +236,43 @@
   actors:
   - id: 1000501
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1c1a40640084bcd2
-    name: "Waltheof"
+    name: "Валтиф"
   - id: 1000502
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b6d9b935e205d10e
-    name: "Berthe"
+    name: "Берте"
   - id: 1000505
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2f3d20eecccf933f
-    name: "Daranmert"
+    name: "Даранмерт"
   - id: 1000507
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d2e20bbda763b68d
-    name: "Kyleigh"
+    name: "Килейг"
   quest_items:
   - id: 2000246
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=ae3fb1f2fe25b176
-    name: "smoked crayfish balls"
+    name: "Копчёные раковые шарики"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=ae3fb1f2fe25b176
   - id: 2000247
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=48fbf9d02f8b5145
-    name: "Mun-Tuy bean delivery"
+    name: "Бобы Ман<var 1F /var>Тай"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=48fbf9d02f8b5145
   - id: 2000248
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=48f11156200cf79b
-    name: "suit of unworn plate mail"
+    name: "Новенький латный костюм"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=48f11156200cf79b
   eobjects:
   - id: 2001013
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=02ebad4418e0f8e1
-    name: "crayfish balls"
+    name: "Ящик со съестным"
   - id: 2001014
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=9e56089be22e43b4
-    name: "Mun-Tuy beans"
+    name: "Бобы Ман<var 1F /var>Тай"
   - id: 2001015
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=318f38caaa450399
-    name: "plate mail"
+    name: "Латная броня"
 
 - name:
     original: "Sting in a Bottle"
+    translated: "Жало в бутылке"
   level: 10
   icon: 61411
   url:
@@ -270,10 +282,10 @@
   actors:
   - id: 1000473
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=95b6645b37638de1
-    name: "Margault"
+    name: "Маргельт"
   - id: 1000501
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1c1a40640084bcd2
-    name: "Waltheof"
+    name: "Валтиф"
   enemies:
   - id: 201
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=428244c471de128a
@@ -281,15 +293,16 @@
   quest_items:
   - id: 2000094
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=7f807fa77e29e230
-    name: "bottle of stingbrew"
+    name: "Бутылка жалящего варева"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=7f807fa77e29e230
   - id: 2000099
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=167abf68d393e03a
-    name: "bag of dead hornets"
+    name: "Сумка мёртвых шершней"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=167abf68d393e03a
 
 - name:
     original: "If Ye Break Faith"
+    translated: "Не нарушай их покой"
   level: 10
   icon: 61411
   url:
@@ -299,10 +312,10 @@
   actors:
   - id: 1000494
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d7b01403c7e2a767
-    name: "Finnea"
+    name: "Финнея"
   - id: 1002946
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2f3e920bf40bebaa
-    name: "Balarr"
+    name: "Баларр"
   enemies:
   - id: 1027
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=a99c541e74ad3213
@@ -310,21 +323,22 @@
   quest_items:
   - id: 2000192
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=9f8c334dc589b774
-    name: "букет лилий Нимейи"
+    name: "Букет лилий Нимейи"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=9f8c334dc589b774
   eobjects:
   - id: 2001007
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=cc2f8c8904ab5124
-    name: "barrow"
+    name: "Курган"
   - id: 2001008
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=3b92c892e9898875
-    name: "barrow"
+    name: "Курган"
   - id: 2001009
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=aa9b1643f718a84a
-    name: "barrow"
+    name: "Курган"
 
 - name:
     original: "Favor for the Fisherwoman"
+    translated: "Ты рыбачка"
   level: 10
   icon: 61411
   url:
@@ -334,19 +348,20 @@
   actors:
   - id: 1000502
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b6d9b935e205d10e
-    name: "Berthe"
+    name: "Берте"
   quest_items:
   - id: 2000185
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=fbcd6fd39eed4dc9
-    name: "well-worn fishing rod"
+    name: "Старенькая удочка"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=fbcd6fd39eed4dc9
   eobjects:
   - id: 2000685
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=13d8658b6396b467
-    name: "well-worn fishing rod"
+    name: "Старенькая удочка"
 
 - name:
     original: "Slimy Hollows"
+    translated: "Танцы со слизняками"
   level: 10
   icon: 61411
   url:
@@ -356,7 +371,7 @@
   actors:
   - id: 1000494
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d7b01403c7e2a767
-    name: "Finnea"
+    name: "Финнея"
   enemies:
   - id: 962
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=5548988a207e21c8
@@ -364,21 +379,22 @@
   quest_items:
   - id: 2000100
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=6b03303a56a9ac81
-    name: "bottle of flat ale"
+    name: "Выдохшийся эль"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=6b03303a56a9ac81
   eobjects:
   - id: 2000043
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=9b723b1caf93d8fe
-    name: "moist depression"
+    name: "Влажная выемка"
   - id: 2000044
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=807475afb522e1fa
-    name: "moist depression"
+    name: "Влажная выемка"
   - id: 2000045
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=12a08cebe4a56d9c
-    name: "moist depression"
+    name: "Влажная выемка"
 
 - name:
     original: "So You Think You Can Ride This Chocobo"
+    translated: "Так ты хочешь гонять на этом чокобо"
   level: 15
   icon: 61419
   url:
@@ -388,13 +404,14 @@
   actors:
   - id: 1010464
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d36608965ff589a5
-    name: "race chocobo registrar"
+    name: "Регистратор ездовых чокобо"
   - id: 1010472
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=04d12cb1684d226d
     name: "Кейтерин"
 
 - name:
     original: "Fungal Frolic"
+    translated: "Грибная заварушка"
   level: 29
   icon: 61411
   url:
@@ -404,7 +421,7 @@
   actors:
   - id: 1006261
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fc0d032ea7e1aad7
-    name: "Marcette"
+    name: "Марсетта"
   enemies:
   - id: 166
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=dbe0a33270e66b7c
@@ -412,7 +429,7 @@
   quest_items:
   - id: 2000631
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=0026322554deaaf3
-    name: "toadstool cap"
+    name: "Шляпка поганки"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=0026322554deaaf3
 
 - name:
@@ -426,7 +443,7 @@
   actors:
   - id: 1006261
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fc0d032ea7e1aad7
-    name: "Marcette"
+    name: "Марсетта"
   enemies:
   - id: 2190
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=299aa7af5f53ba34
@@ -480,7 +497,7 @@
   actors:
   - id: 1006261
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fc0d032ea7e1aad7
-    name: "Marcette"
+    name: "Марсетта"
   enemies:
   - id: 2057
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=e248d58284be94ff
@@ -512,7 +529,7 @@
     name: "Локил"
   - id: 1000473
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=95b6645b37638de1
-    name: "Margault"
+    name: "Маргельт"
   - id: 1009569
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cdeff739a1de4257
     name: "Little Leia"
