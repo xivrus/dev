@@ -434,6 +434,7 @@
 
 - name:
     original: "Shocking Discoveries"
+    translated: "Шокирующие открытия"
   level: 29
   icon: 61411
   url:
@@ -451,15 +452,16 @@
   quest_items:
   - id: 2000632
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=7308143a0abc6b70
-    name: "thick glass jar"
+    name: "Сосуд из толстого стекла"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=7308143a0abc6b70
   - id: 2000633
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=f323b00df52d6187
-    name: "live lightning spark"
+    name: "Живая молния"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=f323b00df52d6187
 
 - name:
     original: "In Too Deep"
+    translated: "Пруд отчаяния"
   level: 29
   icon: 61411
   url:
@@ -469,11 +471,11 @@
   actors:
   - id: 1006262
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4d85bb114d18f8fa
-    name: "Hobriaut"
+    name: "Хобриот"
   quest_items:
   - id: 2000634
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=a974dc018aa36ef7
-    name: "bottle of Hopeseed Pond water"
+    name: "Вода из пруда Надежд"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=a974dc018aa36ef7
   eobjects:
   - id: 2002003
@@ -488,6 +490,7 @@
 
 - name:
     original: "Doing the Dirty Work"
+    translated: "Через огонь, воду и дыхание морбола"
   level: 29
   icon: 61411
   url:
@@ -505,15 +508,16 @@
   quest_items:
   - id: 2000862
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=215061e061bf72aa
-    name: "putrid stomach"
+    name: "Ядовитый желудок"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=215061e061bf72aa
   - id: 2000958
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=875aa34aecdcad51
-    name: "bottle of Marcette's medicine"
+    name: "Зелье Марсетты"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=875aa34aecdcad51
 
 - name:
     original: "Bird in Hand"
+    translated: "Птица в руках"
   level: 30
   icon: 61419
   url:
@@ -532,32 +536,32 @@
     name: "Маргельт"
   - id: 1009569
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cdeff739a1de4257
-    name: "Little Leia"
+    name: "Маленькая Лея"
   quest_items:
   - id: 2001359
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=8dedc3a4e192ee99
-    name: "gigantic krakka root"
+    name: "Гигантский краккакорень"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=8dedc3a4e192ee99
   - id: 2001360
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=a0ad50d155bafbe4
-    name: "pile of vegetable scraps"
+    name: "Объедки овощей"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=a0ad50d155bafbe4
   eobjects:
   - id: 2004432
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=2e412e528148e0a5
-    name: "vegetable scraps"
+    name: "Объедки овощей"
   - id: 2004433
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=3aa700266f350dce
-    name: "vegetable scraps"
+    name: "Объедки овощей"
   - id: 2004434
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=a04900fb765801e4
-    name: "vegetable scraps"
+    name: "Объедки овощей"
   - id: 2004435
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=ca9a0cc61d1c1d7e
-    name: "vegetable scraps"
+    name: "Объедки овощей"
   - id: 2004436
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=a41b824ed4f9cdc5
-    name: "vegetable scraps"
+    name: "Объедки овощей"
 
 - name:
     original: "Leves of Hawthorne"
