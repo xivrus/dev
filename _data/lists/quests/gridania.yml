@@ -565,6 +565,7 @@
 
 - name:
     original: "Leves of Hawthorne"
+    translated: "Поручения Хоторна"
   level: 15
   icon: 61419
   url:
@@ -574,10 +575,11 @@
   actors:
   - id: 1000821
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=04da72a921b377f1
-    name: "Квина Льехга"
+    name: "Кина Льега"
 
 - name:
     original: "The Replacement Culler"
+    translated: "Приключенец на подмену"
   level: 20
   icon: 61411
   url:
@@ -587,7 +589,7 @@
   actors:
   - id: 1000536
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=56c237663c327e09
-    name: "Florimond"
+    name: "Флоримонд"
   - id: 1000619
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9c773b7b26bb7ebd
     name: "Аниуд"
@@ -598,6 +600,7 @@
 
 - name:
     original: "Meat of the Matter"
+    translated: "Всё дело в мясе"
   level: 20
   icon: 61411
   url:
@@ -611,7 +614,7 @@
   quest_items:
   - id: 2000572
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=01cee2ec4f8bec45
-    name: "box of hunting tools"
+    name: "Охотничьи приспособления"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=01cee2ec4f8bec45
   eobjects:
   - id: 2000720
@@ -626,6 +629,7 @@
 
 - name:
     original: "Stand-in Sentry"
+    translated: "Стоячий патруль"
   level: 20
   icon: 61411
   url:
@@ -635,7 +639,7 @@
   actors:
   - id: 1006189
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5ac2c0f170c94762
-    name: "Piralnaut"
+    name: "Пирално"
   enemies:
   - id: 202
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=41e2c7cc4c7e393d
@@ -649,25 +653,26 @@
   eobjects:
   - id: 2000717
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=ac62337aa4770892
-    name: "Twin Adder standard"
+    name: "Гриданский штандарт"
   - id: 2000718
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=0976074a8371024b
-    name: "Twin Adder standard"
+    name: "Гриданский штандарт"
   - id: 2000719
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=62f4579e2ea22413
-    name: "Twin Adder standard"
+    name: "Гриданский штандарт"
   - id: 2002606
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=32873c606275e48c
-    name: "Twin Adder standard"
+    name: "Гриданский штандарт"
   - id: 2002607
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=8b414a4ada286c42
-    name: "Twin Adder standard"
+    name: "Гриданский штандарт"
   - id: 2002608
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=f516a61a4aadc35e
-    name: "Twin Adder standard"
+    name: "Гриданский штандарт"
 
 - name:
     original: "Swinophobia"
+    translated: "Хрякофобия"
   level: 20
   icon: 61411
   url:
@@ -677,7 +682,7 @@
   actors:
   - id: 1006189
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5ac2c0f170c94762
-    name: "Piralnaut"
+    name: "Пирално"
   enemies:
   - id: 502
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=b8d8d790a39cb0da
@@ -685,6 +690,7 @@
 
 - name:
     original: "Roof Riders"
+    translated: "Давай погуляем по крышам"
   level: 21
   icon: 61411
   url:
@@ -701,32 +707,33 @@
   quest_items:
   - id: 2000575
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=7803c45fcd250c39
-    name: "small cane"
+    name: "Маленький жезл"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=7803c45fcd250c39
   - id: 2000576
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=13d00c15f9735129
-    name: "young leaf"
+    name: "Молодой листочек"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=13d00c15f9735129
   - id: 2000892
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=55f2cc910136333b
-    name: "small cane"
+    name: "Маленький жезл"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=55f2cc910136333b
   eobjects:
   - id: 2001909
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=4910cb1a9c6d40ca
-    name: "small cane"
+    name: "Маленький жезл"
   - id: 2001910
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=010633344772b451
-    name: "young leaf"
+    name: "Молодые побеги"
   - id: 2001911
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=a60e3cd406bd1316
-    name: "young leaf"
+    name: "Молодые побеги"
   - id: 2001912
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=2fed017b7bf93ab8
-    name: "young leaf"
+    name: "Молодые побеги"
 
 - name:
     original: "Sylph Says"
+    translated: "И молвил сильф..."
   level: 21
   icon: 61411
   url:
@@ -736,10 +743,11 @@
   actors:
   - id: 1006190
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=761fdc1d6e8159a5
-    name: "Laxio"
+    name: "Лаксио"
 
 - name:
     original: "Buzz Kill"
+    translated: "Убийство жужжащих"
   level: 21
   icon: 61411
   url:
@@ -749,7 +757,7 @@
   actors:
   - id: 1006190
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=761fdc1d6e8159a5
-    name: "Laxio"
+    name: "Лаксио"
   enemies:
   - id: 2225
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=4078ecca8077e6b3
@@ -761,6 +769,7 @@
 
 - name:
     original: "A Porcine Plight"
+    translated: "Поросячья просьба"
   level: 21
   icon: 61411
   url:
@@ -781,13 +790,14 @@
   eobjects:
   - id: 2001920
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=44c8dfc41acffa56
-    name: "suspicious thicket"
+    name: "Подозрительный куст"
   - id: 2001921
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=25a8c5977fa04a79
-    name: "suspicious thicket"
+    name: "Подозрительный куст"
 
 - name:
     original: "Threads Unraveled"
+    translated: "Нити из небесного шёлка"
   level: 21
   icon: 61411
   url:
@@ -801,21 +811,22 @@
   quest_items:
   - id: 2000579
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=cd58898b480dcd8b
-    name: "spindle of cloud silk"
+    name: "Нити из небесного шёлка"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=cd58898b480dcd8b
   eobjects:
   - id: 2001922
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=e3171d8181d6ceae
-    name: "cloud silk"
+    name: "Моток нити"
   - id: 2001923
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=5ffab735e74356f4
-    name: "cloud silk"
+    name: "Моток нити"
   - id: 2001924
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=36b5f85e3200329a
-    name: "cloud silk"
+    name: "Моток нити"
 
 - name:
     original: "The Blood Price"
+    translated: "Джигга в бутылке"
   level: 24
   icon: 61411
   url:
@@ -833,15 +844,16 @@
   quest_items:
   - id: 2000597
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=fe1b7ce59bca552b
-    name: "empty blood bottle"
+    name: "Пустой фиал под кровь"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=fe1b7ce59bca552b
   - id: 2000598
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=0b3ce8f7be5711d9
-    name: "bottle of djigga blood"
+    name: "Фиал с кровью джигги"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=0b3ce8f7be5711d9
 
 - name:
     original: "Some Seedy Business"
+    translated: "Дело с семенами"
   level: 43
   icon: 61411
   url:
@@ -854,10 +866,10 @@
     name: "Деллексия"
   - id: 1000617
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=023eaf35c03bf1ab
-    name: "Jeulerand"
+    name: "Джелеранд"
   - id: 1006715
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7909a60ce80bfc7a
-    name: "Kain"
+    name: "Каин"
   enemies:
   - id: 2313
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=67b8bac22b8a6dae
@@ -871,25 +883,26 @@
   quest_items:
   - id: 2000749
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=8407b5b00d70a8e9
-    name: "atomizer of sweetrose perfume"
+    name: "Сладкорозовый парфюм"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=8407b5b00d70a8e9
   - id: 2000750
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=d2f43b5270fa7814
-    name: "sylvan lily seed"
+    name: "Семя серебряной лилии"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=d2f43b5270fa7814
   eobjects:
   - id: 2002190
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=09ae439acbaf1185
-    name: "sylvan lily seed"
+    name: "Семя серебряной лилии"
   - id: 2002191
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=9d99e4ee91d17a45
-    name: "sylvan lily seed"
+    name: "Семя серебряной лилии"
   - id: 2002192
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=32879dd8b209bbc1
-    name: "sylvan lily seed"
+    name: "Семя серебряной лилии"
 
 - name:
     original: "This One's for the Lovers"
+    translated: "Букет для влюблённых"
   level: 43
   icon: 61411
   url:
@@ -899,18 +912,19 @@
   actors:
   - id: 1006715
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7909a60ce80bfc7a
-    name: "Kain"
+    name: "Каин"
   - id: 1007568
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=12e09fe843da9d31
-    name: "nervy nipper"
+    name: "Нервный мужчина"
   quest_items:
   - id: 2000865
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=70a39687bf6ed3a2
-    name: "bouquet of Azeyma roses"
+    name: "Букет роз Азимы"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=70a39687bf6ed3a2
 
 - name:
     original: "Windy Wedding"
+    translated: "Прогноз на свадьбу: ветрено"
   level: 43
   icon: 61411
   url:
@@ -920,7 +934,7 @@
   actors:
   - id: 1006717
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=32043dc31ddbe6c4
-    name: "Elfleda"
+    name: "Эфледа"
   enemies:
   - id: 115
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=4bf0d6cf86e0a5c3
@@ -928,7 +942,7 @@
   quest_items:
   - id: 2000751
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=343f6f53b3ee28a7
-    name: "wind sprite core"
+    name: "Ядро ветряного духа"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=343f6f53b3ee28a7
 
 - name:
@@ -1375,6 +1389,7 @@
 
 - name:
     original: "Leves of Bentbranch"
+    translated: "Поручения Согнутой Ветви"
   level: 10
   icon: 61419
   url:
@@ -1391,6 +1406,7 @@
 
 - name:
     original: "Saw That One Coming"
+    translated: "С пилой в руке, но с миром в сердце"
   level: 14
   icon: 61411
   url:
@@ -1403,32 +1419,32 @@
     name: "Беатин"
   - id: 1000375
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=abbb36c444e89fd1
-    name: "Eral"
+    name: "Эрал"
   - id: 1007792
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3b31718e8bb8495e
-    name: "Yedythe"
+    name: "Йедит"
   - id: 1007793
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4d075361d1e57c7a
-    name: "bubbly boy"
+    name: "Недовольный мальчик"
   - id: 1007794
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=253538b5839a60b5
-    name: "gleeful girl"
+    name: "Весёлая девочка"
   - id: 1007795
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=911c8d5662ac46a3
-    name: "bashful boy"
+    name: "Непоседливый мальчик"
   - id: 1007990
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=54d3bc5982f25d3a
-    name: "bubbly boy"
+    name: "Недовольный мальчик"
   - id: 1007991
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=42459964edaba5bc
-    name: "gleeful girl"
+    name: "Весёлая девочка"
   - id: 1007992
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=af0e2ff29ed3f7f4
-    name: "bashful boy"
+    name: "Непоседливый мальчик"
   quest_items:
   - id: 2001249
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=4dd891c2611bc5e6
-    name: "wooden toy"
+    name: "Деревянная игрушка"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=4dd891c2611bc5e6
 
 - name:
@@ -1466,7 +1482,7 @@
   actors:
   - id: 1000375
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=abbb36c444e89fd1
-    name: "Eral"
+    name: "Эрал"
   - id: 1000389
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=aba089277367f2b0
     name: "Nojiro Marujiro"
@@ -1494,7 +1510,7 @@
   actors:
   - id: 1000375
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=abbb36c444e89fd1
-    name: "Eral"
+    name: "Эрал"
   - id: 1000384
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=88d9e1afaf82ccab
     name: "Нао Гамдула"
@@ -1606,7 +1622,7 @@
   actors:
   - id: 1000617
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=023eaf35c03bf1ab
-    name: "Jeulerand"
+    name: "Джелеранд"
   - id: 1006711
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=da6fdfc8910ca08d
     name: "Selaine"
