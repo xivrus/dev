@@ -2512,8 +2512,12 @@
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=8784ecb4059b2a6a
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=28d5d620175c8ecf
   actors:
-  - id: 0
-  - id: 0
+  - id: 1006194
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d0ad61697ad8873a
+    name: "Гегерун"
+  - id: 1006195
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=878f2d86f4920d10
+    name: "Танга Тонга"
   quest_items:
   - id: 2000591
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=4d254617a3aefa85
