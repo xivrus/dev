@@ -1562,8 +1562,9 @@
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=aead4f31293f7a08
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=0c58b77efacdd1a8
   actors:
-  - id: 0
-  - id: 0
+  - id: 1011907
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=46febd75835af0dd
+    name: "Жантелон"
   quest_items:
   - id: 2001603
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=298b902e3fb21825
