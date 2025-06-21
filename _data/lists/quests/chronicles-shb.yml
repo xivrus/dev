@@ -84,9 +84,31 @@
   level: 80
   icon: 61419
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-032-luckra103_03257/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=7244e0451eff5fc6
-    quest_name: 
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=8d5c6e1ffcf59f66
+  actors:
+  - id: 1027137
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=37204e9408aa1b56
+    name: "Рин"
+  - id: 1030107
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9a3c90e796534168
+    name: "Рин"
+  - id: 1030108
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=18f3d4a984629b87
+    name: "Танкред"
+  - id: 1030109
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5c017cf3bb233d31
+    name: "Урианже"
+  - id: 1030110
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=31897b23b2ae051a
+    name: "Рин"
+  - id: 1030111
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3bc28a3fb42330bc
+    name: "Танкред"
+  - id: 1030112
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=489167b61f8bfd19
+    name: "Урианже"
 
 - name:
     original: "Nor Any Drop to Drink"
