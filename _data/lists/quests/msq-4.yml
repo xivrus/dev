@@ -1433,9 +1433,72 @@
   level: 61
   icon: 61412
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-024-stmbda136_02466/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=357e799f243e93ba
-    quest_name: 
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=3d27d25221a98251
+  cutscenes:
+  - name: "Кат-сцена"
+    start: "002290"
+    end: "002550"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-040-voiceman_04000/
+  actors:
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cd379fadf38ce2ae
+    name: "Альфино"
+  - id: 1017687
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=160c04a80e3370af
+    name: "Ализе"
+  - id: 1020304
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=492945db45277bfd
+    name: "Робанн"
+  - id: 1020308
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=176fddee90d1e012
+    name: "Крайл"
+  - id: 1020354
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c23bc656e201c60a
+    name: "Пипин"
+  - id: 1020359
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=964b91b88962369d
+    name: "М'нааго"
+  - id: 1020392
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=276d345a596482aa
+    name: "Офицер Ордена"
+  - id: 1020393
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=25a913b0bc3c8246
+    name: "Офицер Водоворота"
+  - id: 1020400
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8d795666ecf12a68
+    name: "Робанн"
+  - id: 1020426
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=56a59859e65706c4
+    name: "Альфино"
+  - id: 1020427
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8acabaa77b17575e
+    name: "Ализе"
+  - id: 1020429
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5f99e0a9140e29e3
+    name: "Альфино"
+  - id: 1020430
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ac1efd0cfe4d3e87
+    name: "Ализе"
+  - id: 1020431
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=78e4e6df1caa381c
+    name: "Конрад"
+  - id: 1020432
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9139f38030722e8d
+    name: "Лиз"
+  - id: 1020433
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0832712feb73c97c
+    name: "Конрад"
+  - id: 1020525
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7e2e68eaecf6633a
+    name: "Альфино"
+  - id: 1020526
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1ede4c5e9e09b45b
+    name: "Ализе"
+  - id: 1020527
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=81187338021d2285
+    name: "Лиз"
 
 - name:
     original: "Lies, Damn Lies, and Pirates"

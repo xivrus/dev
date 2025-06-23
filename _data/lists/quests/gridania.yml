@@ -1473,6 +1473,7 @@
 
 - name:
     original: "The House That Death Built"
+    translated: "Дом, построенный смертью"
   level: 17
   icon: 61419
   url:
@@ -1520,7 +1521,7 @@
   quest_items:
   - id: 2001346
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=6fea4b7702220059
-    name: "age-worn log"
+    name: "Изношенный журнал"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=6fea4b7702220059
 
 - name:
@@ -1567,6 +1568,7 @@
 
 - name:
     original: "Beneath the Planks"
+    translated: "Под досками"
   level: 29
   icon: 61411
   url:
@@ -1587,16 +1589,17 @@
   eobjects:
   - id: 2002000
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=ecbbf57e3696c90e
-    name: "damp scaffolding"
+    name: "Влажная перекладина"
   - id: 2002001
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=fa9b9d3f2ff2e792
-    name: "damp scaffolding"
+    name: "Влажная перекладина"
   - id: 2002002
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=804abcf124bbcb28
-    name: "damp scaffolding"
+    name: "Влажная перекладина"
 
 - name:
     original: "Unicorn Power"
+    translated: "Единорожья сила"
   level: 30
   icon: 61411
   url:
@@ -1609,10 +1612,11 @@
     name: "Брайя"
   - id: 1008174
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8e3f348991a298ae
-    name: "injured mare"
+    name: "Раненый скакун"
 
 - name:
     original: "Adventurer for Hire"
+    translated: "Приключенец в найм"
   level: 43
   icon: 61411
   url:
@@ -1625,11 +1629,11 @@
     name: "Джелеранд"
   - id: 1006711
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=da6fdfc8910ca08d
-    name: "Selaine"
+    name: "Селейн"
   quest_items:
   - id: 2000950
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=826827c22cb16f44
-    name: "atomizer of sweetrose perfume"
+    name: "Бутылочка сладкорозового парфюма"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=826827c22cb16f44
 
 - name:
@@ -1706,7 +1710,7 @@
 
 - name:
     original: "One Night in Amdapor"
-    translated: "Однажды в Амдапоре"
+    translated: "Ночь в Амдапоре"
   level: 50
   icon: 61419
   url:
@@ -1731,10 +1735,11 @@
     name: "Капни Пакк"
   - id: 1008543
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=796de3c1a070d480
-    name: "Alphene"
+    name: "Альфен"
 
 - name:
     original: "One More Night in Amdapor"
+    translated: "Ещё одна ночь в Амдапоре"
   level: 60
   icon: 61419
   url:
@@ -1756,7 +1761,7 @@
     name: "Капни Пакк"
   - id: 1008543
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=796de3c1a070d480
-    name: "Alphene"
+    name: "Альфен"
   - id: 1011254
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1dc3c12c4360085a
     name: "Э-Суми-Ян"
