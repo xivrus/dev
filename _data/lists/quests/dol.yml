@@ -51,8 +51,9 @@
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=a2ac83ca6f188227
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=0083ce5fb31638c1
   actors:
-  - id: 0
-  - id: 0
+  - id: 1002298
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e6a337d32e63a00f
+    name: "Адальберта"
 
 - name:
     original: "The Cutting Edge"
@@ -262,8 +263,30 @@
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=7d743ece93cfa495
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=dddf730aa12039d3
   actors:
-  - id: 0
-  - id: 0
+  - id: 1002298
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e6a337d32e63a00f
+    name: "Адальберта"
+  - id: 1013230
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4682b7d56cbe5a40
+    name: "Haimirich"
+  - id: 1013860
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5b97db20405b1c2b
+    name: "Muscles"
+  - id: 1013932
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9602643e49938493
+    name: "Wide Gulley"
+  - id: 1013933
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=30526371c2c6e855
+    name: "Haimirich"
+  - id: 1013934
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bd7017a765815ca9
+    name: "Hatchling"
+  - id: 1013935
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2064cc8428656354
+    name: "Muscles"
+  - id: 1013939
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=100e33eaaa630306
+    name: "Muscles"
   quest_items:
   - id: 2001727
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=a3a28be7def507ce
