@@ -3289,9 +3289,23 @@
   level: 10
   icon: 61411
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-005-subwil094_00506/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=751ed8f1b3ee7c1e
-    quest_name: 
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=ef32eef01de54929
+  actors:
+  - id: 1002070
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fb28eb40d1dfdda1
+    name: "Edalene"
+  eobjects:
+  - id: 2001385
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=7228c2e99abaa6a8
+    name: "flotsam"
+  - id: 2001386
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=fb4d17b324a18cdb
+    name: "flotsam"
+  - id: 2001387
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=7d1e526d82b3819e
+    name: "flotsam"
 
 - name:
     original: "Lominsan Rubbish"
