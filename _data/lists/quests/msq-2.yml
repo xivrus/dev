@@ -534,8 +534,10 @@
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=a55abdcac1638292
     name: "Рассерженная жаба"
   quest_items:
-  - id: 0
-  - id: 0
+  - id: 2000237
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=e1edba0de9da51e1
+    name: "ящик с грузом"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=e1edba0de9da51e1
   eobjects:
   - id: 2001016
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=1e01ebd7cd77c24b

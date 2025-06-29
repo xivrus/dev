@@ -1768,6 +1768,7 @@
 
 - name:
     original: "Jumping at Shadows"
+    translated: "Митлинги из теней"
   level: 3
   icon: 61411
   url:
@@ -1785,6 +1786,7 @@
 
 - name:
     original: "The Nose Knows"
+    translated: "Нос не обманешь"
   level: 3
   icon: 61411
   url:
@@ -1794,22 +1796,22 @@
   actors:
   - id: 1000632
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=acd25ce649e3da5d
-    name: "Vionne"
+    name: "Вионна"
   - id: 1000764
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6b7dd93dde3ab343
     name: "Ноланель"
   - id: 1000784
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=259e1a29e480b34d
-    name: "Gillian"
+    name: "Джиллиан"
   quest_items:
   - id: 2000140
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=ce217cd5c2e8c077
-    name: "burlap sack"
+    name: "Загадочный мешок"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=ce217cd5c2e8c077
   eobjects:
   - id: 2000146
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=5e827449ce2ad5ed
-    name: "burlap sacks"
+    name: "Загадочный мешок"
 
 - name:
     original: "A Glim Harvest"
