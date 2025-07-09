@@ -2848,9 +2848,13 @@
   level: 10
   icon: 62315
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-005-clswvr101_00589/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=8cb7d4b208df6d50
-    quest_name: 
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=acc88096b499ac02
+  actors:
+  - id: 1003818
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=02a47889aa038b84
+    name: "Багровая Роза"
 
 - name:
     original: "Practical Needs"
