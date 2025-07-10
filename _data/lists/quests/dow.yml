@@ -58,8 +58,9 @@
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=a85adc019a0d472b
     name: "Сурок-орехокол"
   logmessages:
-  - id: 0
-  - id: 0
+  - id: 1010
+    url: https://translate.xivrus.ru/translate/xivrus/logmessage/ru/?checksum=da921189b79c718a
+    name: "В ваш охотничий журнал добавлена новая страница."
 
 - name:
     original: "My First Gladius"
@@ -75,8 +76,15 @@
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bcd5777da518fc49
     name: "Милла"
   enemies:
-  - id: 0
-  - id: 0
+  - id: 953
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=2cb512966aba18a6
+    name: "Цветочная оса"
+  - id: 1049
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=e1d6dc3c582cb886
+    name: "Голая землеройка"
+  - id: 1050
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=a85adc019a0d472b
+    name: "Сурок-орехокол"
 
 - name:
     original: "Kicking the Hornet's Nest"
