@@ -1489,10 +1489,10 @@
     name: "Nojiro Marujiro"
   - id: 1000438
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7d2f32dd5304b774
-    name: "Irielle"
+    name: "Ириэлль"
   - id: 1000439
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b1edc85567b32935
-    name: "Rolandaix"
+    name: "Роландакс"
   - id: 1017255
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0b1b155d8efd33b4
     name: "Разведчик Лесных Теней"
@@ -2613,6 +2613,7 @@
 
 - name:
     original: "Leves of Quarrymill"
+    translated: "Поручения Каменоломни"
   level: 20
   icon: 61419
   url:
@@ -2622,10 +2623,11 @@
   actors:
   - id: 1000823
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f9bbc6811774b9e3
-    name: "Найелл"
+    name: "Ниелл"
 
 - name:
     original: "Cloven-hoofed Horrors"
+    translated: "Парнокопытный ужас"
   level: 22
   icon: 61411
   url:
@@ -2635,19 +2637,20 @@
   actors:
   - id: 1000594
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1730143c94d392a6
-    name: "Ianna"
+    name: "Ианна"
   enemies:
   - id: 1992
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=6b5d0f4cee27a660
-    name: "scarred antelope"
+    name: "Антилопа в шрамах"
   quest_items:
   - id: 2000828
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=597356ddd3621c3e
-    name: "bowl of sparhawk egg soup"
+    name: "Яичный суп"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=597356ddd3621c3e
 
 - name:
     original: "The Trees Have Eyes"
+    translated: "У деревьев есть глаза"
   level: 22
   icon: 61411
   url:
@@ -2657,7 +2660,7 @@
   actors:
   - id: 1000594
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1730143c94d392a6
-    name: "Ianna"
+    name: "Ианна"
   enemies:
   - id: 176
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=c78dd22f600b3f29
@@ -2668,25 +2671,26 @@
   quest_items:
   - id: 2000582
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=866f9f407fc4a28e
-    name: "pile of antelope umbles"
+    name: "Потроха антилоп"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=866f9f407fc4a28e
   - id: 2000583
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=e754724207dad9a4
-    name: "kedtrap petal"
+    name: "Соцветие мухоловки"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=e754724207dad9a4
   eobjects:
   - id: 2001930
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=e9b838cc8411eb5d
-    name: "withered treant"
+    name: "Иссохший древень"
   - id: 2001931
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=5c78cc2e25777a16
-    name: "withered treant"
+    name: "Иссохший древень"
   - id: 2002258
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=7446b8319b3593be
-    name: "withered treant"
+    name: "Иссохший древень"
 
 - name:
     original: "No Guts, No Glory"
+    translated: "По локоть в воинской славе"
   level: 22
   icon: 61411
   url:
@@ -2696,7 +2700,7 @@
   actors:
   - id: 1000598
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bbc7a2b09c4caf39
-    name: "Auphiliot"
+    name: "Афилиот"
   enemies:
   - id: 1135
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=81927f2a3515019b
@@ -2704,6 +2708,7 @@
 
 - name:
     original: "Occupational Hazards"
+    translated: "Крылатая опасность"
   level: 22
   icon: 61411
   url:
@@ -2713,10 +2718,10 @@
   actors:
   - id: 1000438
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7d2f32dd5304b774
-    name: "Irielle"
+    name: "Ириэлль"
   - id: 1006191
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e767c8686708721c
-    name: "Yoenne"
+    name: "Оенна"
   enemies:
   - id: 43
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=e6d96c92662753b0
@@ -2730,10 +2735,11 @@
   eobjects:
   - id: 2002459
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=523ba85adbdeb76c
-    name: "strange shadow"
+    name: "Странное затемнение"
 
 - name:
     original: "Potsherds for Posterity"
+    translated: "Черепки для потомков"
   level: 22
   icon: 61411
   url:
@@ -2743,40 +2749,41 @@
   actors:
   - id: 1000439
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b1edc85567b32935
-    name: "Rolandaix"
+    name: "Роландакс"
   quest_items:
   - id: 2000585
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=65dd6011b97d1f8e
-    name: "muddy potsherd"
+    name: "Грязный черепок"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=65dd6011b97d1f8e
   eobjects:
   - id: 2000727
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=412ceea08d8771eb
-    name: "muddy potsherd"
+    name: "Грязный черепок"
   - id: 2000728
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=9c190447debc3b94
-    name: "muddy potsherd"
+    name: "Грязный черепок"
   - id: 2000729
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=f05865066831cd17
-    name: "muddy potsherd"
+    name: "Грязный черепок"
   - id: 2001184
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=8c9eb5bb85a7d467
-    name: "muddy potsherd"
+    name: "Грязный черепок"
   - id: 2001185
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=ee81bae9e0c06801
-    name: "muddy potsherd"
+    name: "Грязный черепок"
   - id: 2001186
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=28c62ce885f556ef
-    name: "muddy potsherd"
+    name: "Грязный черепок"
   - id: 2001187
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=0cc3ee9d1aa990b6
-    name: "muddy potsherd"
+    name: "Грязный черепок"
   - id: 2001188
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=1805e54b2c7d8997
-    name: "muddy potsherd"
+    name: "Грязный черепок"
 
 - name:
     original: "Stash Saboteur"
+    translated: "Переполох с кикирнами"
   level: 22
   icon: 61411
   url:
@@ -2786,25 +2793,26 @@
   actors:
   - id: 1000598
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bbc7a2b09c4caf39
-    name: "Auphiliot"
+    name: "Афилиот"
   quest_items:
   - id: 2000586
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=c05d2f19a19665ab
-    name: "firepot"
+    name: "Огненный горшок"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=c05d2f19a19665ab
   eobjects:
   - id: 2001942
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=40e499494da37254
-    name: "storage case"
+    name: "Запасы кикирнов"
   - id: 2001943
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=d10d64534731ae27
-    name: "storage case"
+    name: "Запасы кикирнов"
   - id: 2001944
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=91ab18ecce1c3314
-    name: "storage case"
+    name: "Запасы кикирнов"
 
 - name:
     original: "Enemy Mine"
+    translated: "Враг моего... а, проехали"
   level: 23
   icon: 61411
   url:
@@ -2814,16 +2822,17 @@
   actors:
   - id: 1000598
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bbc7a2b09c4caf39
-    name: "Auphiliot"
+    name: "Афилиот"
   - id: 1006197
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3dda5b940095495f
-    name: "Coeurlclaw poacher"
+    name: "Браконьер Зверолапых"
   - id: 1006198
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=23219e41c6a9445b
-    name: "Авантюрист Краснобрюхов"
+    name: "Разведчик Краснобрюхов"
 
 - name:
     original: "Shadows of the Empire"
+    translated: "Империи наносится ответный удар"
   level: 24
   icon: 61411
   url:
@@ -2833,7 +2842,7 @@
   actors:
   - id: 1000598
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bbc7a2b09c4caf39
-    name: "Auphiliot"
+    name: "Афилиот"
   enemies:
   - id: 2173
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=c460f7aaf1ccd2c6
@@ -2851,6 +2860,7 @@
 
 - name:
     original: "Savage Snares"
+    translated: "Жуткие ловушки"
   level: 26
   icon: 61411
   url:
@@ -2860,7 +2870,7 @@
   actors:
   - id: 1000334
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=89ac8f7e45595bcf
-    name: "Balan"
+    name: "Балан"
   enemies:
   - id: 77
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=41116e9f6a2b01b1
@@ -2874,16 +2884,17 @@
   eobjects:
   - id: 2001966
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=bb80c2e2c81ea6ad
-    name: "iron leg trap"
+    name: "Железный капкан"
   - id: 2001967
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=e0e22ada3e62bf48
-    name: "iron leg trap"
+    name: "Железный капкан"
   - id: 2001968
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=9b86800f8255e4be
-    name: "iron leg trap"
+    name: "Железный капкан"
 
 - name:
     original: "Forest Law"
+    translated: "Лесной закон"
   level: 26
   icon: 61411
   url:
@@ -2893,13 +2904,14 @@
   actors:
   - id: 1000331
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d1b3f6f10eee3e5b
-    name: "Wlfric"
+    name: "Вилфрик"
   - id: 1006235
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7a144978f5e55c5f
-    name: "escaped poacher"
+    name: "Сбежавшая нарушительница"
 
 - name:
     original: "An Apple a Day"
+    translated: "Каждый день по яблочку"
   level: 26
   icon: 61411
   url:
@@ -2909,10 +2921,10 @@
   actors:
   - id: 1006236
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e6804deec542a2ad
-    name: "Deidra"
+    name: "Дейдра"
   - id: 1006237
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=418643970d43805b
-    name: "Fawkes"
+    name: "Фавкес"
   enemies:
   - id: 571
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=68fd32158481a8a9
@@ -2920,30 +2932,31 @@
   quest_items:
   - id: 2000608
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=21864247f47c2906
-    name: "sprite apple"
+    name: "Спелое яблочко"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=21864247f47c2906
   eobjects:
   - id: 2001969
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=34894936485009dc
-    name: "sprite apple"
+    name: "Спелое яблочко"
   - id: 2001970
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=272db43d6b4e3b37
-    name: "sprite apple"
+    name: "Спелое яблочко"
   - id: 2001971
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=cf38011de4694e2d
-    name: "sprite apple"
+    name: "Спелое яблочко"
   - id: 2001972
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=257e40c1e5554b85
-    name: "sprite apple"
+    name: "Спелое яблочко"
   - id: 2001973
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=40c2658e7bedfdd8
-    name: "sprite apple"
+    name: "Спелое яблочко"
   - id: 2002269
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=b2e5b5ff88432e07
-    name: "sprite apple"
+    name: "Спелое яблочко"
 
 - name:
     original: "A Bumper Crop"
+    translated: "Лишний урожай"
   level: 26
   icon: 61411
   url:
@@ -2953,22 +2966,23 @@
   actors:
   - id: 1001186
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ba6a64e778809b86
-    name: "Castellaint"
+    name: "Кастеллан"
   - id: 1006237
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=418643970d43805b
-    name: "Fawkes"
+    name: "Фавкес"
   quest_items:
   - id: 2000857
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=e9d9e08fab133390
-    name: "sprite apple"
+    name: "Спелое яблоко"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=e9d9e08fab133390
   eobjects:
   - id: 2002278
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=e9f63517387e2a9d
-    name: "withered treant"
+    name: "Иссохший древень"
 
 - name:
     original: "Wretched Hive of Villainy"
+    translated: "Логово грязного отребья"
   level: 26
   icon: 61411
   url:
@@ -2978,7 +2992,7 @@
   actors:
   - id: 1000420
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4f3adf0fadd95c1b
-    name: "Faucertaux"
+    name: "Фасерто"
   enemies:
   - id: 83
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=ffdaca3c6a0052cd
@@ -2989,6 +3003,7 @@
 
 - name:
     original: "In Grandfather's Name"
+    translated: "Дедушкино наследие"
   level: 26
   icon: 61411
   url:
@@ -2998,16 +3013,16 @@
   actors:
   - id: 1000328
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=aedf2c68dd97cf4d
-    name: "Cuthbert"
+    name: "Кафберт"
   quest_items:
   - id: 2000609
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=abf80d669e870705
-    name: "the Boughbury Axe"
+    name: "Колун Корнероя"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=abf80d669e870705
   eobjects:
   - id: 2001974
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=119bf092733eff4b
-    name: "the Boughbury Axe"
+    name: "Колун Корнероя"
 
 - name:
     original: "The Marvelous Mun-Tuy Bean"
@@ -3251,7 +3266,7 @@
   actors:
   - id: 1000334
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=89ac8f7e45595bcf
-    name: "Balan"
+    name: "Балан"
   - id: 1004617
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d6ea912a76807985
     name: "Пайо Рейо"
