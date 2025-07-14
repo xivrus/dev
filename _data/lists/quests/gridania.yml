@@ -3026,6 +3026,7 @@
 
 - name:
     original: "The Marvelous Mun-Tuy Bean"
+    translated: "Чудесный Ман<var 1F /var>Тай"
   level: 26
   icon: 61411
   url:
@@ -3035,13 +3036,14 @@
   actors:
   - id: 1000340
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e875a4775f9c94b6
-    name: "Erimmont"
+    name: "Эриммон"
   - id: 1006238
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=84f135eb15090f84
-    name: "Aedoc"
+    name: "Аэдок"
 
 - name:
     original: "Masher for a Day"
+    translated: "Мял на полставки"
   level: 26
   icon: 61411
   url:
@@ -3051,46 +3053,47 @@
   actors:
   - id: 1000340
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e875a4775f9c94b6
-    name: "Erimmont"
+    name: "Эриммон"
   - id: 1000341
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4b7867eb4b6fc766
-    name: "Geoffrey"
+    name: "Джоффри"
   - id: 1006238
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=84f135eb15090f84
-    name: "Aedoc"
+    name: "Аэдок"
   quest_items:
   - id: 2000610
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=50317771b9b0cebc
-    name: "perilla leaf"
+    name: "Лист периллы"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=50317771b9b0cebc
   - id: 2000611
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=7cfb661008645e89
-    name: "bottle of Mun-Tuy sauce"
+    name: "Бутылка соуса Ман<var 1F /var>Тай"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=7cfb661008645e89
   - id: 2000835
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=3f91cfc20060be83
-    name: "onze of Shroud pepper"
+    name: "Онза перца Покрова"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=3f91cfc20060be83
   - id: 2000836
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=31dd46b39991a7ca
-    name: "dried dragon pepper"
+    name: "Засушенный драконий перец"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=31dd46b39991a7ca
   eobjects:
   - id: 2001975
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=6dee4d3e8f1d0197
-    name: "perilla leaf"
+    name: "Лист периллы"
   - id: 2001976
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=5f25eb9604d538b0
-    name: "Mun-Tuy gyle-fat"
+    name: "Смеситель Ман-Тай"
   - id: 2002281
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=e1d31ac6694daa5d
-    name: "Shroud pepper"
+    name: "Перец Покрова"
   - id: 2002282
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=83fa0506756858f4
-    name: "dragon pepper"
+    name: "Драконий перец"
 
 - name:
     original: "Leves of Camp Tranquil"
+    translated: "Поручения лагеря Безмятежности"
   level: 30
   icon: 61419
   url:
@@ -3104,6 +3107,7 @@
 
 - name:
     original: "We'll Always Have Ul'dah"
+    translated: "Мечты об Уль'де"
   level: 30
   icon: 61411
   url:
@@ -3113,10 +3117,10 @@
   actors:
   - id: 1006283
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5d311e6d257a23fa
-    name: "Детох Моссрок"
+    name: "Детох Мошрока"
   - id: 1006284
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=82c97b29ac0c1ea8
-    name: "Ul'dahn trader"
+    name: "Ульданский торговец"
   enemies:
   - id: 397
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=4a9a0c42fdc88384
@@ -3124,11 +3128,12 @@
   quest_items:
   - id: 2000639
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=1fb920aa6bdc7d2e
-    name: "set of Ul'dahn incense"
+    name: "Набор ульданских благовоний"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=1fb920aa6bdc7d2e
 
 - name:
     original: "A Burning Request"
+    translated: "Припекло так припекло"
   level: 30
   icon: 61411
   url:
@@ -3138,7 +3143,7 @@
   actors:
   - id: 1002762
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c0fc7b590f7e0577
-    name: "Florent"
+    name: "Флорент"
   enemies:
   - id: 1135
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=81927f2a3515019b
@@ -3146,18 +3151,18 @@
   quest_items:
   - id: 2000640
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=db5c3034c51f7ebb
-    name: "length of dropped lumber"
+    name: "Упавшая связка дров"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=db5c3034c51f7ebb
   eobjects:
   - id: 2002040
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=227831d0db02c5b4
-    name: "dropped lumber"
+    name: "Упавшая связка дров"
   - id: 2002041
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=1fe933a611d2cd7a
-    name: "dropped lumber"
+    name: "Упавшая связка дров"
   - id: 2002042
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=5287bfc092af9867
-    name: "dropped lumber"
+    name: "Упавшая связка дров"
 
 - name:
     original: "My Feisty Little Chocobo"
@@ -3191,6 +3196,7 @@
 
 - name:
     original: "Slim Pickings"
+    translated: "Скользкая дичь"
   level: 46
   icon: 61411
   url:
@@ -3200,7 +3206,7 @@
   actors:
   - id: 1006586
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b02ad1d3e918d3e3
-    name: "Isarmoix"
+    name: "Исармокс"
   enemies:
   - id: 15
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=d2c059f1d119af3a
@@ -3208,11 +3214,12 @@
   quest_items:
   - id: 2000845
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=f3ab3b3d47039b70
-    name: "slice of wild boar meat"
+    name: "Отрез мяса вепря"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=f3ab3b3d47039b70
 
 - name:
     original: "Serveth Thy Master"
+    translated: "Повелеваю — служи"
   level: 46
   icon: 61411
   url:
@@ -3222,7 +3229,7 @@
   actors:
   - id: 1006587
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e8f82fd7480526ff
-    name: "Kerrich"
+    name: "Кэррик"
   enemies:
   - id: 481
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=c962f0a7bf0e7e04
@@ -3230,7 +3237,7 @@
   quest_items:
   - id: 2000774
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=6661fd1d6a50e0ea
-    name: "ked wing"
+    name: "Крыло кеда"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=6661fd1d6a50e0ea
 
 - name:
@@ -3257,6 +3264,7 @@
 
 - name:
     original: "The Nightmare's End"
+    translated: "Конец кошмару"
   level: 50
   icon: 61419
   url:
@@ -3285,15 +3293,16 @@
   quest_items:
   - id: 2001975
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=6d336ae852784778
-    name: "Avere's ring"
+    name: "Кольцо Авира"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=6d336ae852784778
   eobjects:
   - id: 2007071
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=ab155759e15c21e4
-    name: "rusted gauntlets"
+    name: "Ржавые рукавицы"
 
 - name:
     original: "Dead but Not Gone"
+    translated: "Ушедшая, но не забытая"
   level: 60
   icon: 61419
   url:
@@ -3309,7 +3318,7 @@
     name: "expeditionary"
   - id: 1017715
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=287eb7afdbcfe98d
-    name: "E-Una-Kotor"
+    name: "Э-Уна-Котор"
   - id: 1017716
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=109d78d39be17c34
     name: "expeditionary"
