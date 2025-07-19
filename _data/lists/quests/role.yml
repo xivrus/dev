@@ -295,12 +295,8 @@
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=5f48388c1a8292df
     name: "forgiven clamor"
   eobjects:
-  - id: 2009999
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=96261c75e5939b2a
-    name: "Цель"
-  - id: 2010000
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=94b4368d78213e82
-    name: "Цель"
+  - id: 0
+  - id: 0
 
 - name:
     original: "The Scientific Method"
@@ -3938,51 +3934,9 @@
   level: 94
   icon: 62522
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-048-kingba521_04844/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=d2d544fefda5e4b4
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=1a64c10a8eaf66f9
-  actors:
-  - id: 1037655
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7615b9f2b5612a7a
-    name: "Djinazade"
-  - id: 1048331
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=123e4f1e1738e13c
-    name: "Tepeke"
-  - id: 1048348
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7f6e729af47a05aa
-    name: "Tepeke"
-  - id: 1048350
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cf6f83f84377bb28
-    name: "kindly alchemist"
-  - id: 1048351
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9e6191af010aff4d
-    name: "Tepeke"
-  - id: 1048352
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=76eac7def5ff3bed
-    name: "watchful man"
-  - id: 1048354
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d04c64e1f3792bc6
-    name: "alert Radiant"
-  - id: 1048355
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a4365bd9d9f246aa
-    name: "enthused youth"
-  enemies:
-  - id: 13468
-    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=2b42e6973228e32c
-    name: "cultivated morbol seedling"
-  quest_items:
-  - id: 2003495
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=eae54489209eef94
-    name: "sturdy rope"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=eae54489209eef94
-  - id: 2003496
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=e40de4a9ac6b7235
-    name: "captured morbol seedling"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=e40de4a9ac6b7235
-  logmessages:
-  - id: 10450
-    url: https://translate.xivrus.ru/translate/xivrus/logmessage/ru/?checksum=9fea66db5f75497b
-    name: "The enemy is weak─use <var 31 ((EventItem)) 03E8020202 /var>!"
+    quest_name: 
 
 - name:
     original: "Floundering Fame"
