@@ -1312,25 +1312,9 @@
   level: 4
   icon: 61411
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-004-subsea063_00475/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=96c8cd30557cbbaa
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=cc86fdfb68592807
-  actors:
-  - id: 1002571
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=30f884508c09d6f9
-    name: "Анаок"
-  - id: 1002605
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=52298057b6cb34b4
-    name: "Анкрета"
-  enemies:
-  - id: 1100
-    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=a760c2e0fc2d436a
-    name: "Прибрежная жаба"
-  quest_items:
-  - id: 2000427
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=6ab8c8d02f04cfc4
-    name: "Печень жабы"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=6ab8c8d02f04cfc4
+    quest_name: 
 
 - name:
     original: "Moegramm Had a Little Lamb"

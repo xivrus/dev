@@ -1219,36 +1219,9 @@
   level: 50
   icon: 61411
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-017-heavnz008_01733/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=afa48c62ec5ebe44
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=c59915c6f752acac
-  actors:
-  - id: 1013709
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a0e2ef3fc25da6cd
-    name: "Арине"
-  - id: 1014123
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=300774b4a6e8dbad
-    name: "Sigan"
-  enemies:
-  - id: 2682
-    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=dd3dd0d5d4bdd342
-    name: "Перекованный мечник"
-  - id: 2875
-    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=041bf65d5fd1d23c
-    name: "Фанатичный еретик"
-  quest_items:
-  - id: 2001734
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=e4e2aa810b14d934
-    name: "crate of stolen supplies"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=e4e2aa810b14d934
-  - id: 2001735
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=d51eb1ec858683c3
-    name: "white falcon charm"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=d51eb1ec858683c3
-  eobjects:
-  - id: 2005992
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=3830ecb593930ec3
-    name: "stolen supplies"
+    quest_name: 
 
 - name:
     original: "Memories in the Snow"
