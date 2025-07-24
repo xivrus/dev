@@ -7123,44 +7123,9 @@
   level: 50
   icon: 61412
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-011-gaiuse118_01192/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=331244130a14fba0
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=c4300f8430ce925e
-  actors:
-  - id: 1003785
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=09bc0051a6e69090
-    name: "Татару"
-  - id: 1006693
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1b9527cdef1af72c
-    name: "Минфилия"
-  - id: 1007478
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4c4ab1f9d0302d46
-    name: "Урианже"
-  - id: 1007750
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=57c70506ba5736b0
-    name: "Облачённый в белое асцианец"
-  - id: 1007751
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=89162bef35002ac7
-    name: "Облачённый в белое асцианец"
-  - id: 1007769
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5cedb3e80bc0a35c
-    name: "Облачённый в белое асцианец"
-  enemies:
-  - id: 692
-    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=cf3ee963ec2f9978
-    name: "Атакующий бес"
-  - id: 693
-    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=63c953eb76cb3420
-    name: "Огромная горгулья"
-  - id: 694
-    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=1e62ce1ddc320f86
-    name: "Горбатая горгулья"
-  - id: 695
-    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=484ece67ee17dbbe
-    name: "Асцианец-элементалист"
-  - id: 697
-    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=0ae47a32d843e8fd
-    name: "Асцианец-оккультист"
+    quest_name: 
 
 - name:
     original: "Build on the Stone"
