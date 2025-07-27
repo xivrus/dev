@@ -3739,8 +3739,15 @@
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=9ccc736b3eda898a
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=dbd7a56925c83461
   actors:
-  - id: 0
-  - id: 0
+  - id: 1002299
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ddf7aea785411fbe
+    name: "Северьян"
+  - id: 1020094
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1eead91dc78a372e
+    name: "Латунный Клинок"
+  - id: 1020095
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8802047047552914
+    name: "Латунный Клинок"
   eobjects:
   - id: 2008090
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=7f4b46820b365d6e
@@ -3845,24 +3852,8 @@
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=deb9482a360219e8
     name: "Seserukka"
   eobjects:
-  - id: 2008092
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=5747bfe8980f6a90
-    name: "glowing bloodstain"
-  - id: 2008093
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=abe297bb2378d88c
-    name: "glowing bloodstain"
-  - id: 2008094
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=8fe1e575655f1cce
-    name: "glowing bloodstain"
-  - id: 2008095
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=c5e16321a58fc41b
-    name: "glowing bloodstain"
-  - id: 2008096
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=8a8d10c8d0dd06ce
-    name: "glowing bloodstain"
-  - id: 2008097
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=8abacc37743d5734
-    name: "glowing bloodstain"
+  - id: 0
+  - id: 0
 
 - name:
     original: "A Love Beyond Lifetimes"
