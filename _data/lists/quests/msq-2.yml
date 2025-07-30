@@ -341,16 +341,9 @@
   level: 10
   icon: 61412
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-001-subfst027_00176/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=d91663f00d78f0d2
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=565bdaa6e67064f4
-  actors:
-  - id: 1000100
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bb02c4c60fbc90de
-    name: "Матушка Миунна"
-  - id: 1000470
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=94085e9e5c963336
-    name: "Кейха"
+    quest_name: 
 
 - name:
     original: "You Shall Not Trespass"
