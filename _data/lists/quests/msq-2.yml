@@ -10290,8 +10290,10 @@
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d98b839ff40be92c
     name: "Лаурентис"
   quest_items:
-  - id: 0
-  - id: 0
+  - id: 2001545
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=a71eb00de84ffd93
+    name: "пустой фиал"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=a71eb00de84ffd93
   eobjects:
   - id: 2005069
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=44bab95e20de9689
