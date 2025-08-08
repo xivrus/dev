@@ -8556,8 +8556,12 @@
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=a864630bd84a50bf
     name: "Выход"
   logmessages:
-  - id: 0
-  - id: 0
+  - id: 44
+    url: https://translate.xivrus.ru/translate/xivrus/logmessage/ru/?checksum=06ef974de36738d4
+    name: "Торговля будет отменена, если вы отойдёте слишком далеко от цели."
+  - id: 45
+    url: https://translate.xivrus.ru/translate/xivrus/logmessage/ru/?checksum=9cdff64445fc12b9
+    name: "Вы достигли максимального количества символов."
 
 - name:
     original: "Shared Paths"

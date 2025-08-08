@@ -1054,28 +1054,9 @@
   level: 5
   icon: 61412
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-004-subsea056_00468/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=cef535ea57f55b7a
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=e4062c5bc2bb9726
-  actors:
-  - id: 1002626
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c86462917053ba4f
-    name: "Стаельвирн"
-  - id: 1002631
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9ca3af31b7c8824d
-    name: "Фервагль"
-  enemies:
-  - id: 674
-    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=47cead8da72c5635
-    name: "Угрожающего вида наёмник"
-  - id: 1719
-    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=0c0a6239721314a6
-    name: "Windborn buccaneer"
-  quest_items:
-  - id: 2000348
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=74608088876f919c
-    name: "украденные фермерские инструменты"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=74608088876f919c
+    quest_name: 
 
 - name:
     original: "Just Deserts"
