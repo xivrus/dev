@@ -1,5 +1,6 @@
 - name:
     original: "Heavensssturn Trivia"
+    translated: "Что? Где? Змея?"
   level: 15
   icon: 61411
   url:
@@ -155,6 +156,7 @@
 
 - name:
     original: "The Box of Fortune"
+    translated: "Гадание с Дальнего Востока"
   level: 15
   icon: 61411
   url:
@@ -186,6 +188,7 @@
 
 - name:
     original: "With Great Fortune Comes Great Responsibility"
+    translated: "Удача, несчастье и схождение божества судьбы"
   level: 15
   icon: 61411
   url:
@@ -892,6 +895,7 @@
 
 - name:
     original: "I Promise You a Rose Garden"
+    translated: "Я подарю тебе сад"
   level: 15
   icon: 61411
   url:
@@ -954,6 +958,7 @@
 
 - name:
     original: "The Symbol of Love"
+    translated: "Жест любви"
   level: 15
   icon: 61411
   url:
@@ -979,6 +984,7 @@
 
 - name:
     original: "It's All about Heart"
+    translated: "Сердечко покажет"
   level: 15
   icon: 61411
   url:
@@ -1031,6 +1037,7 @@
 
 - name:
     original: "Suited for Affection"
+    translated: "Влюблённость в образ"
   level: 15
   icon: 61419
   url:
@@ -2207,6 +2214,7 @@
 
 - name:
     original: "A Princely Persona"
+    translated: "Рождение принца"
   level: 15
   icon: 61411
   url:
@@ -2241,6 +2249,7 @@
 
 - name:
     original: "A Princely Debut"
+    translated: "Долгожданный дебют"
   level: 15
   icon: 61411
   url:
@@ -2404,6 +2413,7 @@
 
 - name:
     original: "Inheritance"
+    translated: "Наследница"
   level: 15
   icon: 61411
   url:
@@ -3365,6 +3375,7 @@
 
 - name:
     original: "In Pursuit of Eggcellence"
+    translated: "В погоне за грёзами"
   level: 15
   icon: 61411
   url:
@@ -3407,6 +3418,7 @@
 
 - name:
     original: "Eggceeding Expectations"
+    translated: "Превосходя ожидания"
   level: 15
   icon: 61411
   url:
@@ -3447,6 +3459,7 @@
 
 - name:
     original: "Get Along and Play Knife"
+    translated: "Дружеская поножовщина"
   level: 15
   icon: 61411
   url:
@@ -3481,6 +3494,7 @@
 
 - name:
     original: "Chaos, Carnage, Eggs"
+    translated: "Хаос, разрушение, яйца!"
   level: 15
   icon: 61411
   url:
@@ -4796,6 +4810,7 @@
 
 - name:
     original: "Royal Rumblings"
+    translated: "Король-самозванец"
   level: 15
   icon: 61411
   url:
@@ -4872,6 +4887,7 @@
 
 - name:
     original: "Of Impish Importance"
+    translated: "До-капп-аться до правды"
   level: 15
   icon: 61411
   url:
@@ -4915,6 +4931,7 @@
 
 - name:
     original: "A Golden Opportunity"
+    translated: "Возможность озолотиться"
   level: 15
   icon: 61411
   url:
@@ -4972,6 +4989,7 @@
 
 - name:
     original: "Hearts of Gold"
+    translated: "Золотые сердца"
   level: 15
   icon: 61411
   url:
@@ -5009,6 +5027,7 @@
 
 - name:
     original: "A Prickly Plaint"
+    translated: "Колючий работник"
   level: 15
   icon: 61411
   url:
@@ -5600,6 +5619,84 @@
     name: "attentive attendant"
 
 - name:
+    original: "Dressed to Protect"
+  level: 30
+  icon: 61411
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-053-fessux101_05321/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=8ab4493563e277c8
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=6fb1b0b5fe203d1e
+  actors:
+  - id: 1031451
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=053ebe4ae0af1a88
+    name: "Хармага"
+  - id: 1045128
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b0e7ec593880319f
+    name: "Р'майя"
+  - id: 1051599
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ab98d22635b5e8d7
+    name: "Haermaga"
+  - id: 1053941
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=32e5faf4e77fdbff
+    name: "Mayaru Moyaru"
+  - id: 1053942
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a0194c997b87349b
+    name: "Haermaga"
+  - id: 1053943
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=638be73bc21ebc33
+    name: "Haermaga"
+  - id: 1053944
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=539eb9a61c3bd3d2
+    name: "P'obyano"
+  - id: 1053945
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=95031df6ff59731b
+    name: "impassioned guest"
+  - id: 1053946
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=275623716b550a02
+    name: "Beaudefoin"
+  - id: 1053947
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9648fbee4bd0d0ef
+    name: "Hildelana"
+  - id: 1053948
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f9af235f29f84a8a
+    name: "concerned guest"
+  - id: 1053949
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ab47cf522360ed51
+    name: "R'fhul Tia"
+  - id: 1053950
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=124546e56f5cc83d
+    name: "R'majha"
+  - id: 1053952
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f1b339ea02abc12f
+    name: "eager guest"
+  - id: 1053953
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=20aa277d4def1b14
+    name: "Haermaga"
+  - id: 1053955
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c642b4f4177c3e0f
+    name: "rescued guest"
+  - id: 1054033
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3ba065cdc8f93485
+    name: "T'zanza"
+  - id: 1054034
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=89323526d81e3494
+    name: "Beaudefoin"
+  - id: 1054035
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=26a430a640bd5271
+    name: "Hildelana"
+  - id: 1054036
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=67fd728539320141
+    name: "R'fhul Tia"
+  eobjects:
+  - id: 2014686
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=082c95bfbd56f1d9
+    name: "vantage point"
+  snipes:
+  - id: 67
+    url: https://translate.xivrus.ru/translate/xivrus/snipe/ru/?checksum=b4395fc745497ae1
+    name: "Find the Distressed Guest!"
+
+- name:
     original: "Fire Red, Beast Green"
   level: 30
   icon: 61411
@@ -5702,6 +5799,7 @@
 
 - name:
     original: "Allergic to Sunshine"
+    translated: "Аллергия на солнце"
   level: 30
   icon: 61411
   url:
@@ -5731,6 +5829,7 @@
 
 - name:
     original: "I Am the Sunshine"
+    translated: "Сияние солнца"
   level: 30
   icon: 61411
   url:
@@ -5780,6 +5879,7 @@
 
 - name:
     original: "A Matter of Course"
+    translated: "Само собой разумеется"
   level: 30
   icon: 61411
   url:
@@ -5854,6 +5954,7 @@
 
 - name:
     original: "Fhul Me Once"
+    translated: "Обмани меня однажды"
   level: 30
   icon: 61411
   url:
@@ -6967,7 +7068,124 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=a07ae694df78f34f
 
 - name:
+    original: "An Adventurous Ambition"
+  level: 15
+  icon: 61411
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-052-fesanx101_05297/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=4a94e82d8a002d65
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=505b8b568ca065c5
+  actors:
+  - id: 1000972
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b382f6633e39438a
+    name: "Бадерон"
+  - id: 1001024
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8eba5e8705902163
+    name: "Клиндраэл"
+  - id: 1003601
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=904120b253fc8b53
+    name: "С'доджби"
+  - id: 1017507
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2580aa987c04ee04
+    name: "Странствующий менестрель"
+  - id: 1033619
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=615c11d8460117e6
+    name: "Бадерон"
+  - id: 1053608
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3b2b311b9b2ca8d5
+    name: "S'dhodjbi"
+  - id: 1053610
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c8e451937d6b6076
+    name: "R'tcha"
+  - id: 1053660
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0eb4d4d154ab7792
+    name: "wandering minstrel"
+  - id: 1053661
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9f1341f7929ecbd9
+    name: "wandering minstrel"
+  - id: 1053662
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f164573ea275437a
+    name: "Ayoyo"
+  - id: 1053663
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9acbf875ff038b6e
+    name: "R'tcha"
+  - id: 1053664
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9527a31ebbb18cdf
+    name: "wandering minstrel"
+
+- name:
+    original: "A Light That Ever Burns"
+  level: 15
+  icon: 61411
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-052-fesanx102_05298/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=98cd9fce838051d7
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=8c6ae5247d2fdde1
+  actors:
+  - id: 1002445
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=667a54ffc7c265ee
+    name: "Ростнзен"
+  - id: 1017507
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2580aa987c04ee04
+    name: "Странствующий менестрель"
+  - id: 1050431
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fb6b968556fd171e
+    name: "Айойо"
+  - id: 1053610
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c8e451937d6b6076
+    name: "R'tcha"
+  - id: 1053662
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f164573ea275437a
+    name: "Ayoyo"
+  - id: 1053663
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9acbf875ff038b6e
+    name: "R'tcha"
+  - id: 1053664
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9527a31ebbb18cdf
+    name: "wandering minstrel"
+  - id: 1053665
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5e90e2a68ad33e2c
+    name: "Ayoyo"
+  - id: 1053666
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5709cda4c38b35b0
+    name: "R'tcha"
+  - id: 1053667
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0ff22e53993dc6ca
+    name: "R'tcha"
+  - id: 1053668
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a09faea0988f5c1c
+    name: "Ayoyo"
+  - id: 1053669
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1bbb31fcb1685dbe
+    name: "Ayoyo"
+  - id: 1053670
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d4ef4e9505e21f27
+    name: "R'tcha"
+  - id: 1053671
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2381e20de828e018
+    name: "R'tcha"
+  - id: 1053672
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=978a2f41b0bf1565
+    name: "Ayoyo"
+  - id: 1053673
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6d2386101c48994f
+    name: "R'tcha"
+  - id: 1053674
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8664b4480a2955d7
+    name: "Ayoyo"
+  - id: 1053675
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=507833424e9c5952
+    name: "Ayoyo"
+  - id: 1053676
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=db1ae49af5c32639
+    name: "R'tcha"
+  - id: 1053677
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8c226a5e15352101
+    name: "wandering minstrel"
+
+- name:
     original: "Rising to the Call"
+    translated: "Требуется приключенец"
   level: 15
   icon: 61411
   url:
@@ -7018,6 +7236,7 @@
 
 - name:
     original: "We Who Are About to Set Sail Salute You"
+    translated: "Салют уплывающим вдаль"
   level: 15
   icon: 61411
   url:
@@ -7071,6 +7290,7 @@
 
 - name:
     original: "Siblings Rising"
+    translated: "Братский блиц"
   level: 15
   icon: 61411
   url:
@@ -7114,6 +7334,7 @@
 
 - name:
     original: "What Drives Us"
+    translated: "Для чего мы сражаемся"
   level: 15
   icon: 61411
   url:
@@ -7175,6 +7396,7 @@
 
 - name:
     original: "Newfound Journey"
+    translated: "Новое путешествие"
   level: 15
   icon: 61411
   url:
@@ -7683,7 +7905,124 @@
     name: "Странствующий менестрель"
 
 - name:
+    original: "Frights of Fancy"
+  level: 15
+  icon: 61411
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-053-feshlx101_05375/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=2f199b263d9a1cc9
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=a1a892e3705e0309
+  actors:
+  - id: 1054215
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1e2d6f5685f7623e
+    name: "泣き出した子ども"
+  - id: 1054216
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3a6a09ec21377e6d
+    name: "逃げ出した子ども"
+  - id: 1054477
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d33aa38f9617d35e
+    name: "いかがわしい売り子"
+  - id: 1054483
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b5cacd85619a0fbe
+    name: "パンプキンヘッドの女"
+  - id: 1054484
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=32f97fc5c5eb5ea8
+    name: "仮装パーティーの招待係"
+  - id: 1054485
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6bf88c6a81eca056
+    name: "ダンチョー"
+  - id: 1054486
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=887197ae4ca0b81c
+    name: "うるさい道化師"
+  - id: 1054487
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=da41ccf9fe147e61
+    name: "マジックポット"
+  - id: 1054488
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bccb58bb23ba374e
+    name: "小心者の曲芸師"
+  - id: 1054489
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c0d9f7e6026baa2b
+    name: "怯えている訪問客"
+  - id: 1054490
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=74b92c71bf4a8eb8
+    name: "困っている子ども"
+  - id: 1054491
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2ff49d92f0d80355
+    name: "カボチャの世話をする園芸師"
+  quest_items:
+  - id: 2003760
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=b8bce7d20829a1b4
+    name: "守護天節のお菓子"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=b8bce7d20829a1b4
+  - id: 2003761
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=7c052b76800c060a
+    name: "飾り用のパンプキン"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=7c052b76800c060a
+
+- name:
+    original: "Dressed to Impresario"
+  level: 15
+  icon: 61411
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-053-feshlx102_05376/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=9c3c52d0c1909239
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=9c101c5708c0571f
+  actors:
+  - id: 1054215
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1e2d6f5685f7623e
+    name: "泣き出した子ども"
+  - id: 1054216
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3a6a09ec21377e6d
+    name: "逃げ出した子ども"
+  - id: 1054217
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c5c2b391da01872c
+    name: "困っている子ども"
+  - id: 1054218
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8abd9fe09e068624
+    name: "不思議な案内人"
+  - id: 1054483
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b5cacd85619a0fbe
+    name: "パンプキンヘッドの女"
+  - id: 1054484
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=32f97fc5c5eb5ea8
+    name: "仮装パーティーの招待係"
+  - id: 1054485
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6bf88c6a81eca056
+    name: "ダンチョー"
+  - id: 1054486
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=887197ae4ca0b81c
+    name: "うるさい道化師"
+  - id: 1054487
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=da41ccf9fe147e61
+    name: "マジックポット"
+  - id: 1054488
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bccb58bb23ba374e
+    name: "小心者の曲芸師"
+  - id: 1054489
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c0d9f7e6026baa2b
+    name: "怯えている訪問客"
+  - id: 1054490
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=74b92c71bf4a8eb8
+    name: "困っている子ども"
+  - id: 1054493
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6a68350baa16141d
+    name: "うるさい道化師"
+  - id: 1054494
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1af3e4862025b0d6
+    name: "マジックポット"
+  - id: 1054495
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1166ac2bcabe2b17
+    name: "小心者の曲芸師"
+  - id: 1054496
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=22a5d48bf9a087c6
+    name: "ダンチョー"
+  - id: 1054794
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0a8f1d1525bd56b8
+    name: "ダンチョー"
+
+- name:
     original: "The Aether-starved Ahriman"
+    translated: "Голодный ариман"
   level: 15
   icon: 61411
   url:
@@ -7727,6 +8066,7 @@
 
 - name:
     original: "All Fiends Sated on All Saints' Wake"
+    translated: "Пусть победит страшнейший"
   level: 15
   icon: 61411
   url:
@@ -7776,6 +8116,7 @@
 
 - name:
     original: "The Fright Stuff"
+    translated: "Страшное дело"
   level: 15
   icon: 61411
   url:
@@ -7847,6 +8188,7 @@
 
 - name:
     original: "A Charmed Life"
+    translated: "Вкус жизни в чарах"
   level: 15
   icon: 61411
   url:
@@ -7908,6 +8250,7 @@
 
 - name:
     original: "A Mad Masquerade"
+    translated: "Безумный маскарад"
   level: 15
   icon: 61411
   url:
@@ -7984,6 +8327,7 @@
 
 - name:
     original: "Be Our Guest"
+    translated: "Будь нашим гостем"
   level: 15
   icon: 61411
   url:
@@ -8003,6 +8347,7 @@
 
 - name:
     original: "A Spooky Celebration"
+    translated: "Жутковатое празднование"
   level: 15
   icon: 61413
   url:
@@ -9537,6 +9882,7 @@
 
 - name:
     original: "Reach for the Stalls"
+    translated: "Ярмарка под звёздами"
   level: 15
   icon: 61411
   url:
@@ -9574,6 +9920,7 @@
 
 - name:
     original: "Spreading the Warmth and Cheer"
+    translated: "Время чудес и тепла"
   level: 15
   icon: 61411
   url:
@@ -9638,6 +9985,7 @@
 
 - name:
     original: "Blue Starlight"
+    translated: "Синий Звёздный Свет"
   level: 15
   icon: 61411
   url:
@@ -9684,6 +10032,7 @@
 
 - name:
     original: "Together at a Distance"
+    translated: "На расстоянии, но вместе"
   level: 15
   icon: 61411
   url:
@@ -9733,6 +10082,7 @@
 
 - name:
     original: "Starlight Surprise"
+    translated: "Подарок на Звёздный Свет"
   level: 15
   icon: 61413
   url:
@@ -9789,6 +10139,7 @@
 
 - name:
     original: "Reindeer Fame"
+    translated: "Слава северного оленя"
   level: 15
   icon: 61411
   url:
@@ -9848,6 +10199,7 @@
 
 - name:
     original: "The Ghost of Starlight Present"
+    translated: "Призрак Грядущего Звёздного Cвета"
   level: 15
   icon: 61411
   url:
@@ -10010,6 +10362,7 @@
 
 - name:
     original: "Saintly Inspiration"
+    translated: "Святое вдохновение"
   level: 15
   icon: 61413
   url:
@@ -11333,6 +11686,7 @@
 
 - name:
     original: "A Land on Fire"
+    translated: "Королевство в огне"
   level: 50
   icon: 61411
   url:
@@ -11369,6 +11723,7 @@
 
 - name:
     original: "Pain to Recall"
+    translated: "Болезненные воспоминания"
   level: 50
   icon: 61411
   url:
@@ -11409,6 +11764,7 @@
 
 - name:
     original: "The Path Infernal"
+    translated: "Сквозь огонь"
   level: 50
   icon: 61411
   url:

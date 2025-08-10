@@ -153,4 +153,19 @@ quest_list: msq-7
 	{% include quest.liquid quest_name = "Seekers of Eternity" %}
 </ul>
 
+# 7.3 --- The Promise of Tomorrow {#dt-7-3}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "Targeted Tragedy" %}
+	{% include quest.liquid quest_name = "The Endless Choice" %}
+	{% include quest.liquid quest_name = "My Memories and Yours" %}
+	{% include quest.liquid quest_name = "A Darkness in the Heart" %}
+	{% include quest.liquid quest_name = "Preservation Their Purpose" %}
+	{% include quest.liquid quest_name = "A Calculated Evolution" %}
+	{% include quest.liquid quest_name = "One of Our Own" %}
+	{% include quest.liquid quest_name = "A Terminal Invitation" %}
+	{% include quest.liquid quest_name = "Blades in Waiting" %}
+	{% include quest.liquid quest_name = "The Promise of Tomorrow" %}
+</ul>
+
 _Продолжение следует..._

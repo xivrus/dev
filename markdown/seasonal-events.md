@@ -443,6 +443,12 @@ quest_list: seasonal
 
 ## Фестиваль <<Огненной луны>> / Moonfire Faire {#moonfire-faire}
 
+### 2025 {#moonfire-faire-2025}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "Dressed to Protect" %}
+</ul>
+
 ### 2024 {#moonfire-faire-2024}
 
 <ul markdown="0">
@@ -542,6 +548,13 @@ quest_list: seasonal
 
 ## Фестиваль <<Восхождения>> / The Rising {#the-rising}
 
+### 2025 {#the-rising-2025}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "An Adventurous Ambition" %}
+	{% include quest.liquid quest_name = "A Light That Ever Burns" %}
+</ul>
+
 ### 2024 {#the-rising-2024}
 
 <ul markdown="0">
@@ -615,6 +628,13 @@ quest_list: seasonal
 </ul>
 
 ## Праздник всех святых / All Saints' Wake {#all-saints-wake}
+
+### 2025 {#all-saints-wake-2025}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "Frights of Fancy" %}
+	{% include quest.liquid quest_name = "Dressed to Impresario" %}
+</ul>
 
 ### 2024 {#all-saints-wake-2024}
 
