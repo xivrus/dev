@@ -737,25 +737,9 @@
   level: 39
   icon: 61411
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-009-gaiusb912_00935/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=b2bc15db9a778e7b
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=55a1a67962b99259
-  actors:
-  - id: 1006477
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e8af34f2d42b3827
-    name: "Laurence"
-  - id: 1006698
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c8b84f3c7f572b7d
-    name: "Charmine"
-  quest_items:
-  - id: 2000731
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=bf77521eac177bea
-    name: "alchemic concoction"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=bf77521eac177bea
-  eobjects:
-  - id: 2002165
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=5c9ef32ef9e2cb7d
-    name: "alchemic concoction"
+    quest_name: 
 
 - name:
     original: "The King Rat Must Die"

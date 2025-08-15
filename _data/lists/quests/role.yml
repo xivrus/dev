@@ -2744,9 +2744,62 @@
   level: 90
   icon: 62522
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-045-aktkbz002_04580/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=b4d24999d316ce30
-    quest_name: 
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=a3f7cb3f229fefd3
+  actors:
+  - id: 1002441
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=14f20ea331b3bf0e
+    name: "Мёлвиб"
+  - id: 1009751
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d0ada1f8f73c0c42
+    name: "Эмерик"
+  - id: 1012463
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b15a156b60b20a62
+    name: "Арторель"
+  - id: 1016816
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c887073c0cc737ef
+    name: "Королевский стражник Двух Змей"
+  - id: 1034125
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2f964572d37d0745
+    name: "Форшено"
+  - id: 1042733
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f4172c757e88655d
+    name: "Арторель"
+  - id: 1042734
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=dd3ad01541e62cb9
+    name: "Форшено"
+  - id: 1042735
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=58a82c4c83e4ffcd
+    name: "Королевский стражник Двух Змей"
+  - id: 1042737
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=07cdc2b3d42e9038
+    name: "Форшено"
+  - id: 1042738
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=dbd9261fe2c36196
+    name: "Форшено"
+  - id: 1042739
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=dc4fd667145830d8
+    name: "sullen refugee"
+  - id: 1042740
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f25d99aa774ca1ce
+    name: "weary refugee"
+  - id: 1042741
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=702b21bd537172d4
+    name: "Неподвижный беженец"
+  - id: 1042743
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c48c45faf41acb1f
+    name: "Форшено"
+  - id: 1042744
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3c944b5d6f031504
+    name: "sullen refugee"
+  - id: 1042746
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0089217046110cee
+    name: "Форшено"
+  enemies:
+  - id: 11347
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=b900802dee749fa1
+    name: "Концесветный визгун"
 
 - name:
     original: "Misguided Few"
