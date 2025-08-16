@@ -2794,10 +2794,10 @@
     name: "Папашан"
   - id: 1007163
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4d4c37bf28b1d493
-    name: "Popokkuli"
+    name: "Попоккули"
   - id: 1007164
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c1779c3355110615
-    name: "Seserukka"
+    name: "Сесерукка"
   - id: 1010432
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cf455dff6bc95419
     name: "Кокобуки"
@@ -5620,6 +5620,7 @@
 
 - name:
     original: "Dressed to Protect"
+    translated: "На защите вашего отдыха"
   level: 30
   icon: 61411
   url:
@@ -5638,43 +5639,43 @@
     name: "Haermaga"
   - id: 1053941
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=32e5faf4e77fdbff
-    name: "Mayaru Moyaru"
+    name: "Маяру Мояру"
   - id: 1053942
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a0194c997b87349b
-    name: "Haermaga"
+    name: "Хармага"
   - id: 1053943
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=638be73bc21ebc33
-    name: "Haermaga"
+    name: "Хармага"
   - id: 1053944
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=539eb9a61c3bd3d2
-    name: "P'obyano"
+    name: "П'обьяно"
   - id: 1053945
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=95031df6ff59731b
-    name: "impassioned guest"
+    name: "Воодушевленный посетитель"
   - id: 1053946
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=275623716b550a02
-    name: "Beaudefoin"
+    name: "Бидофин"
   - id: 1053947
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9648fbee4bd0d0ef
-    name: "Hildelana"
+    name: "Хилделана"
   - id: 1053948
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f9af235f29f84a8a
-    name: "concerned guest"
+    name: "Обеспокоенный посетитель"
   - id: 1053949
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ab47cf522360ed51
-    name: "R'fhul Tia"
+    name: "Р'фул Тиа"
   - id: 1053950
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=124546e56f5cc83d
-    name: "R'majha"
+    name: "Р'майя"
   - id: 1053952
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f1b339ea02abc12f
-    name: "eager guest"
+    name: "Нетерпеливая посетительница"
   - id: 1053953
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=20aa277d4def1b14
-    name: "Haermaga"
+    name: "Хармага"
   - id: 1053955
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c642b4f4177c3e0f
-    name: "rescued guest"
+    name: "Спасённая посетительница"
   - id: 1054033
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3ba065cdc8f93485
     name: "T'zanza"
@@ -5690,11 +5691,11 @@
   eobjects:
   - id: 2014686
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=082c95bfbd56f1d9
-    name: "vantage point"
+    name: "Возвышенность"
   snipes:
   - id: 67
     url: https://translate.xivrus.ru/translate/xivrus/snipe/ru/?checksum=b4395fc745497ae1
-    name: "Find the Distressed Guest!"
+    name: "Найдите человека в беде!"
 
 - name:
     original: "Fire Red, Beast Green"
