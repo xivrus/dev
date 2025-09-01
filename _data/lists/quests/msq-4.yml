@@ -9232,59 +9232,9 @@
   level: 70
   icon: 61412
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-031-stmbde107_03149/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=c86027c76fc6fafd
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=1d0dab6cee9575ea
-  cutscenes:
-  - name: "Кат-сцена 1"
-    start: "002530"
-    end: "002770"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-044-voiceman_04400/
-  - name: "Кат-сцена 2"
-    start: "002780"
-    end: "002920"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-044-voiceman_04400/
-  - name: "Кат-сцена 3"
-    start: "002925"
-    end: "003230"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-044-voiceman_04400/
-  actors:
-  - id: 1025549
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=109bd0909e30700a
-    name: "Ализе"
-  - id: 1026240
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4913b97a9d094847
-    name: "Риол"
-  - id: 1026242
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6df3900045f13acb
-    name: "Ализе"
-  - id: 1026243
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=883e350aa778f72e
-    name: "Кан-Э-Сенна"
-  - id: 1026245
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=68b196553d3225ea
-    name: "Лиз"
-  - id: 1026246
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a635689f3cd0d7de
-    name: "Я'штола"
-  - id: 1026247
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=53dd766499accaa1
-    name: "Ализе"
-  - id: 1026248
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2b8752129a730445
-    name: "Белый Валун"
-  - id: 1026249
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7b5125f138504926
-    name: "Ализе"
-  - id: 1026250
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b347f85efd842241
-    name: "Матрос Водоворота"
-  - id: 1026251
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c6e92803cfcb7b22
-    name: "Матрос Водоворота"
-  - id: 1026342
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=73a8897499adb148
-    name: "Эфимия"
+    quest_name: 
 
 - name:
     original: "Soul Searching"
@@ -9555,40 +9505,9 @@
   level: 70
   icon: 61412
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-031-stmbdf105_03183/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=71084c7ad2a60fa0
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=f1bb34fcb258ade9
-  cutscenes:
-  - name: "Кат-сцена 1"
-    start: "002980"
-    end: "003201"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-045-voiceman_04500/
-  - name: "Кат-сцена 2"
-    start: "003210"
-    end: "003320"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-045-voiceman_04500/
-  actors:
-  - id: 1026804
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=362be6dc7928a353
-    name: "Боец Сопротивления"
-  - id: 1026808
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fc70ea69951f2fc2
-    name: "Хиен"
-  - id: 1026823
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=41d13f4c2bbb69ba
-    name: "Лиз"
-  - id: 1026825
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=35d1c733bd0a39f2
-    name: "Робанн"
-  - id: 1026845
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=558f87c8285a63e8
-    name: "Робанн"
-  - id: 1026846
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=43125f2925c701e0
-    name: "Белый Валун"
-  - id: 1026958
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ece675749bcef401
-    name: "Командир Сопротивления"
+    quest_name: 
 
 - name:
     original: "A Brief Reprieve"

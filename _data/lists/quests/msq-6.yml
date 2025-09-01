@@ -212,9 +212,58 @@
   level: 80
   icon: 61412
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-043-aktkma104_04360/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=c31be3a787761909
-    quest_name: 
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=44d82e36cc4531b6
+  cutscenes:
+  - name: "Кат-сцена"
+    start: "001680"
+    end: "001840"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-060-voiceman_06000/
+  actors:
+  - id: 1019541
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=31b39ffc4a9ddf03
+    name: "Ализе"
+  - id: 1037077
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1e6ded23d39672a8
+    name: "Дикон"
+  - id: 1037078
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ad33840aa37e1aa6
+    name: "Эльдос"
+  - id: 1037079
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=956a20df8e580253
+    name: "Пиррондер"
+  - id: 1037080
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3cb5cbc4a31218a8
+    name: "Эрминьяр"
+  - id: 1037081
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d55aa49862140ef7
+    name: "Гизла"
+  - id: 1037082
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a794e5dfc7150792
+    name: "С'миту Тиа"
+  - id: 1038681
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=503331d503b12980
+    name: "Ализе"
+  - id: 1038682
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=81f277debe980be6
+    name: "Ализе"
+  - id: 1038683
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d12211bcd9b17615
+    name: "Ализе"
+  - id: 1038684
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=30fca0e3ad789952
+    name: "Ализе"
+  eobjects:
+  - id: 2011831
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=3fb8b22ef97f9406
+    name: "Столик кафе"
+  - id: 2011832
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=e5acaa76ff5496e2
+    name: "Столик кафе"
+  - id: 2011833
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=3354e397d25f767e
+    name: "Столик кафе"
 
 - name:
     original: "A Labyrinthine Descent"
