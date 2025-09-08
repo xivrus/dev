@@ -3372,8 +3372,18 @@
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e6ab4c2c280e90c7
     name: "Жеантель"
   eobjects:
-  - id: 0
-  - id: 0
+  - id: 2002527
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=2b38f97b2f43674c
+    name: "Потрёпанный мешок"
+  - id: 2002528
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=8e950d4bbeaf9980
+    name: "Потрёпанный мешок"
+  - id: 2002529
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=6a3678e43efeb62c
+    name: "Потрёпанный мешок"
+  - id: 2002530
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=aae09504cca8aed6
+    name: "Потрёпанный мешок"
   logmessages:
   - id: 3667
     url: https://translate.xivrus.ru/translate/xivrus/logmessage/ru/?checksum=d5299c16ec9350b3
@@ -4919,51 +4929,8 @@
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=3b5b8b838a2e289b
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=c3f44a35f9b6feeb
   actors:
-  - id: 1005411
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c69a753df270706b
-    name: "И'толванн"
-  - id: 1009943
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1e03cea6150ab399
-    name: "Джеки"
-  - id: 1010139
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ee6437ab99675718
-    name: "Оборо"
-  - id: 1010560
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5a8179876eb9908e
-    name: "Карасу"
-  - id: 1010597
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=543412895926b0ec
-    name: "Оборо"
-  - id: 1023541
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bf59b1ece9b03b8e
-    name: "Торговец чёрного рынка"
-  - id: 1023544
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7ac0ddd260c4db7c
-    name: "Оборо"
-  - id: 1023545
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3806b9d68484be9e
-    name: "Джеки"
-  - id: 1023546
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5a0058c3aeced015
-    name: "Оборо"
-  - id: 1023547
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d0da6cc6beaa326c
-    name: "rough-hewn Hingan"
-  - id: 1023550
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ce1e3875f6f92b9d
-    name: "Джеки"
-  - id: 1023551
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2af3cdf77609cb24
-    name: "Оборо"
-  - id: 1023582
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6894d4e7fcca5c1c
-    name: "Джеки"
-  - id: 1023751
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5e582e8181d545e1
-    name: "Джеки"
-  - id: 1023752
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f8d98e721fdc0519
-    name: "Оборо"
+  - id: 0
+  - id: 0
   enemies:
   - id: 6354
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=526bdb7a02767461
