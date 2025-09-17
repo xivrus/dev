@@ -333,50 +333,9 @@
   level: 50
   icon: 61419
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-013-chrhdb202_01316/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=8f8e799e40259b8c
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=b0c2ee893c0ddfc5
-  actors:
-  - id: 1005501
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8f2e915be1715e53
-    name: "Нашу Макаракка"
-  - id: 1005513
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=99c7b4ce88d43f95
-    name: "Годберт"
-  - id: 1005740
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=33b169bfca609922
-    name: "Мария"
-  - id: 1008264
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d3a811c575d467df
-    name: "Хильдибранд"
-  - id: 1008593
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e7ce2565d136d7fb
-    name: "Гильгамеш"
-  - id: 1008715
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=929d64d408e1996b
-    name: "Вычурный дурак"
-  - id: 1008716
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=804548a563eadb88
-    name: "Хильдибранд"
-  - id: 1008719
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ff09e5fff7d103e5
-    name: "Нашу Макаракка"
-  - id: 1008721
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=576a17f17d6aef0a
-    name: "Гильгамеш"
-  - id: 1008722
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4f170f3b928cfde8
-    name: "Хильдибранд"
-  eobjects:
-  - id: 2003664
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=04872d93e7d90743
-    name: "Туша доблина"
-  - id: 2003665
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=86674a92253b4d35
-    name: "Туша василиска"
-  - id: 2003666
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=d82e9714c6cf5693
-    name: "Туша аримана"
+    quest_name: 
 
 - name:
     original: "Manderville Men"

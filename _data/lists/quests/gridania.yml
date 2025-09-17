@@ -342,22 +342,9 @@
   level: 10
   icon: 61411
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-003-subfst069_00385/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=5e811e6c532b4b2a
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=0772d14dc5423571
-  actors:
-  - id: 1000502
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b6d9b935e205d10e
-    name: "Берте"
-  quest_items:
-  - id: 2000185
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=fbcd6fd39eed4dc9
-    name: "Старенькая удочка"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=fbcd6fd39eed4dc9
-  eobjects:
-  - id: 2000685
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=13d8658b6396b467
-    name: "Старенькая удочка"
+    quest_name: 
 
 - name:
     original: "Slimy Hollows"

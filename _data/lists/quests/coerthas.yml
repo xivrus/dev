@@ -1959,8 +1959,10 @@
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=0bcd400d58a43c5d
     name: "Одинокий йети"
   quest_items:
-  - id: 0
-  - id: 0
+  - id: 2001749
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=04a74d06c2f9a13b
+    name: "scrap of chainmail"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=04a74d06c2f9a13b
 
 - name:
     original: "Ayleth Absconds"
