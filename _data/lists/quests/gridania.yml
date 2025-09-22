@@ -1815,6 +1815,7 @@
 
 - name:
     original: "A Glim Harvest"
+    translated: "Мерцающий урожай"
   level: 4
   icon: 61411
   url:
@@ -1824,19 +1825,20 @@
   actors:
   - id: 1000671
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ea821f29f3e940e6
-    name: "Linyeve"
+    name: "Линьев"
   quest_items:
   - id: 2000143
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=e3937455ef6ad83f
-    name: "glimshroom"
+    name: "Мерцающая шляпка"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=e3937455ef6ad83f
   eobjects:
   - id: 2000145
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=7d98088bd74fe196
-    name: "glimshroom"
+    name: "Мерцающая шляпка"
 
 - name:
     original: "Death to the Bean Thieves"
+    translated: "Смерть расхитителям бобов"
   level: 4
   icon: 61411
   url:
@@ -1846,10 +1848,10 @@
   actors:
   - id: 1000627
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=74e5dbe6d50adcae
-    name: "Q'djawana"
+    name: "К'джавана"
   - id: 1000656
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=557e1d7f8db0a5ba
-    name: "Dametta"
+    name: "Даметта"
   enemies:
   - id: 184
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=a4ad13ebc769fce3
@@ -1857,11 +1859,12 @@
   quest_items:
   - id: 2000075
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=aa988ff689a012fa
-    name: "bag of stolen Mun-Tuy beans"
+    name: "Мешочек украденных бобов Ман-Тай"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=aa988ff689a012fa
 
 - name:
     original: "The Valued Vilekin"
+    translated: "Ценные насекомые"
   level: 3
   icon: 61411
   url:
@@ -1871,7 +1874,7 @@
   actors:
   - id: 1000612
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a35894aac0713bb4
-    name: "Guithrit"
+    name: "Гитрит"
   - id: 1000629
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5ecbc41299a9b0f3
     name: "Бодвин"
@@ -1882,18 +1885,19 @@
   quest_items:
   - id: 2000144
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=3dcd3632f2b3d4ae
-    name: "basketful of aphids"
+    name: "Пригоршня тли"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=3dcd3632f2b3d4ae
   eobjects:
   - id: 2000140
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=566d4201fe0d52ca
-    name: "tangled undergrowth"
+    name: "Спутанная трава"
   - id: 2000142
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=dbabf0d4bd9badfc
-    name: "tangled undergrowth"
+    name: "Спутанная трава"
 
 - name:
     original: "A Clear Sign"
+    translated: "Внимай указателям"
   level: 4
   icon: 61411
   url:
@@ -1903,20 +1907,21 @@
   actors:
   - id: 1000172
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=844bf9a136067f51
-    name: "Paulemont"
+    name: "Пальмонт"
   - id: 1000627
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=74e5dbe6d50adcae
-    name: "Q'djawana"
+    name: "К'джавана"
   eobjects:
   - id: 2000143
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=b244ac2bafd8c75f
-    name: "dusty malmstone"
+    name: "Грязный указатель"
   - id: 2000144
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=797910b3e6b44728
-    name: "dusty malmstone"
+    name: "Грязный указатель"
 
 - name:
     original: "Hematophagic Harassment"
+    translated: "Убиение кровососов"
   level: 4
   icon: 61411
   url:
@@ -1926,7 +1931,7 @@
   actors:
   - id: 1000640
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=87b8254e3eb02898
-    name: "Eadbert"
+    name: "Эадберт"
   enemies:
   - id: 1042
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=fae99a3d72ba93d7
@@ -1934,6 +1939,7 @@
 
 - name:
     original: "No Quarter Given"
+    translated: "Ни пяди земли"
   level: 4
   icon: 61411
   url:
@@ -1943,7 +1949,7 @@
   actors:
   - id: 1000612
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a35894aac0713bb4
-    name: "Guithrit"
+    name: "Гитрит"
   enemies:
   - id: 192
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=4bc3b5c81c934ba1
@@ -1957,6 +1963,7 @@
 
 - name:
     original: "Harriers of the Hedgetree"
+    translated: "Налётчики пограничья"
   level: 4
   icon: 61411
   url:
@@ -1966,7 +1973,7 @@
   actors:
   - id: 1000640
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=87b8254e3eb02898
-    name: "Eadbert"
+    name: "Эадберт"
   enemies:
   - id: 190
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=6e0a93bdcdf58ed2
@@ -1978,6 +1985,7 @@
 
 - name:
     original: "Drink Your Beans, Dear"
+    translated: "Жуй, пей бобы скорей"
   level: 4
   icon: 61411
   url:
@@ -1987,7 +1995,7 @@
   actors:
   - id: 1000656
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=557e1d7f8db0a5ba
-    name: "Dametta"
+    name: "Даметта"
   enemies:
   - id: 203
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=b0cc34f92a92533e
@@ -1995,11 +2003,12 @@
   quest_items:
   - id: 2000077
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=85f71da81f1e7863
-    name: "microchu leaflet"
+    name: "Молодой лист микрочу"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=85f71da81f1e7863
 
 - name:
     original: "The Kindness of Strangers"
+    translated: "Доброта незнакомцев"
   level: 4
   icon: 61411
   url:
@@ -2012,15 +2021,15 @@
     name: "Матушка Миунна"
   - id: 1000324
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ac7cbb85175eb5be
-    name: "Emeria"
+    name: "Эмерия"
   enemies:
   - id: 189
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=608ee70819b22415
-    name: "Ailbert the Lost"
+    name: "Аилберт Отступник"
   quest_items:
   - id: 2000076
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=98323cb076cd4ab9
-    name: "scented letter"
+    name: "Благоухающее письмо"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=98323cb076cd4ab9
   eobjects:
   - id: 2000009
