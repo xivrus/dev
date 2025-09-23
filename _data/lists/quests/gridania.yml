@@ -1585,7 +1585,7 @@
   enemies:
   - id: 1145
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=1ee90e02ac93fc05
-    name: "leafbleed hare"
+    name: "Слизень — пожиратель листьев"
   eobjects:
   - id: 2002000
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=ecbbf57e3696c90e
@@ -2038,6 +2038,7 @@
 
 - name:
     original: "Potable Perils"
+    translated: "Беды со дна кружки"
   level: 28
   icon: 61411
   url:
@@ -2047,22 +2048,23 @@
   actors:
   - id: 1002804
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cfbb2d54cffe424a
-    name: "Aeluuin"
+    name: "Аэлуин"
   - id: 1006245
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2a6df76dc4ad22ed
-    name: "Somerhild"
+    name: "Сомерхильд"
   quest_items:
   - id: 2000618
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=95a24d4d8e4189f4
-    name: "маленький ключ от комнаты"
+    name: "Маленький ключ от комнаты"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=95a24d4d8e4189f4
   eobjects:
   - id: 2001989
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=53024bffce1c0d11
-    name: "tiny room key"
+    name: "Маленький ключик"
 
 - name:
     original: "No News Is Good News"
+    translated: "Отсутствие новостей — хорошая новость"
   level: 28
   icon: 61411
   url:
@@ -2072,18 +2074,19 @@
   actors:
   - id: 1002779
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=456af582c6f075fd
-    name: "Godwin"
+    name: "Годвин"
   - id: 1006371
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e1d20e9737cf9e5a
     name: "Вортфоре"
   quest_items:
   - id: 2000619
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=d5d5c57ced4a1d3d
-    name: "copy of the Fallgourd Report"
+    name: "Доклад из Плавающей деревни"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=d5d5c57ced4a1d3d
 
 - name:
     original: "Save the Trees"
+    translated: "Во спасение дерев"
   level: 28
   icon: 61411
   url:
@@ -2093,29 +2096,30 @@
   actors:
   - id: 1006248
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7e7095a0537e34b8
-    name: "Oriane"
+    name: "Ориана"
   enemies:
   - id: 1145
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=1ee90e02ac93fc05
-    name: "leafbleed hare"
+    name: "Слизень — пожиратель листьев"
   quest_items:
   - id: 2000620
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=40eaf31424363f51
-    name: "bottle of flat ale"
+    name: "Бутыль выдохшегося эля"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=40eaf31424363f51
   eobjects:
   - id: 2001990
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=f4cb9ec7355ba393
-    name: "scarred tree"
+    name: "Дерево с отметинами"
   - id: 2001991
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=1e59ffcee23697fc
-    name: "scarred tree"
+    name: "Дерево с отметинами"
   - id: 2001992
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=26cb934d761bd365
-    name: "scarred tree"
+    name: "Дерево с отметинами"
 
 - name:
     original: "Pumiceous Pursuits"
+    translated: "В погоне за пемзой"
   level: 28
   icon: 61411
   url:
@@ -2125,26 +2129,27 @@
   actors:
   - id: 1006248
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7e7095a0537e34b8
-    name: "Oriane"
+    name: "Ориана"
   - id: 1006685
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=279b66d211dce50a
-    name: "Yhom Epocan"
+    name: "Ихом Эпочан"
   enemies:
   - id: 2188
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=58b8809b377a3489
-    name: "pumice golem"
+    name: "Пемзяной голем"
   quest_items:
   - id: 2000621
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=204a2e5ad1f0c9d3
-    name: "sealing vessel"
+    name: "Запирающий сосуд"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=204a2e5ad1f0c9d3
   - id: 2000622
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=557836da9ea5c6ba
-    name: "living soulstone"
+    name: "Живой камень души"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=557836da9ea5c6ba
 
 - name:
     original: "Cleaning House"
+    translated: "Большая уборка"
   level: 28
   icon: 61411
   url:
@@ -2154,22 +2159,23 @@
   actors:
   - id: 1002804
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cfbb2d54cffe424a
-    name: "Aeluuin"
+    name: "Аэлуин"
   quest_items:
   - id: 2000623
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=a4fafddfdf536622
-    name: "chocobo duster"
+    name: "Метёлка из пуха чокобо"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=a4fafddfdf536622
   eobjects:
   - id: 2001993
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=2d086bf98114bfdc
-    name: "unique painting"
+    name: "Уникальная картина"
   - id: 2001994
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=5a25a62826cf85a0
-    name: "stunning painting"
+    name: "Восхитительная картина"
 
 - name:
     original: "Trouble on the Road"
+    translated: "Происшествие на дороге"
   level: 28
   icon: 61411
   url:
@@ -2179,10 +2185,10 @@
   actors:
   - id: 1002804
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cfbb2d54cffe424a
-    name: "Aeluuin"
+    name: "Аэлуин"
   - id: 1006249
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4391a60073f67aaa
-    name: "well-equipped adventurer"
+    name: "Вооружённая приключенка"
   - id: 1006250
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f3bc63c02d38502c
     name: "Чокобо"
@@ -2248,7 +2254,7 @@
   actors:
   - id: 1002804
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cfbb2d54cffe424a
-    name: "Aeluuin"
+    name: "Аэлуин"
   - id: 1006253
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a73be55044fe6e8e
     name: "Laughing Fury"
