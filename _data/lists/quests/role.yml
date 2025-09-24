@@ -76,9 +76,48 @@
   level: 74
   icon: 62522
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-032-luckba121_03245/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=b81d2d3e8b28ca16
-    quest_name: 
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=61177b93a5381d76
+  actors:
+  - id: 1027876
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1739a8caf8dfb812
+    name: "Зхин Зин"
+  - id: 1028190
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c9b80de428821878
+    name: "Грэнсон"
+  - id: 1029893
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3329ea912864d83d
+    name: "Грэнсон"
+  - id: 1029898
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cdae286b31eba948
+    name: "Грэнсон"
+  - id: 1029899
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=22835d8354f5ff87
+    name: "Успешный делец"
+  - id: 1029951
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0882778d3357114e
+    name: "Хьюм-торговец"
+  - id: 1029953
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2033fec224b18184
+    name: "Грэнсон"
+  - id: 1029956
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f31702aeab62a3bd
+    name: "Грэнсон"
+  - id: 1029957
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=91abd1fc4d344940
+    name: "Грэнсон"
+  - id: 1029959
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e7868e8cc50d23c1
+    name: "Грэнсон"
+  enemies:
+  - id: 8423
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=cae45754586eb23f
+    name: "Прощённая трусость"
+  eobjects:
+  - id: 2009944
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=59e37424b76827b4
+    name: "Цель"
 
 - name:
     original: "The Princess and Her Knight"

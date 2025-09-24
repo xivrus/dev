@@ -1977,7 +1977,7 @@
   enemies:
   - id: 190
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=6e0a93bdcdf58ed2
-    name: "Ixali scout"
+    name: "Разведчик иксалов"
   eobjects:
   - id: 2000008
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=bd7f41dc3cfeb6a6
@@ -2199,6 +2199,7 @@
 
 - name:
     original: "A Welcome Overstayed"
+    translated: "Предел гостеприимства"
   level: 28
   icon: 61411
   url:
@@ -2208,21 +2209,22 @@
   actors:
   - id: 1002800
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e9f46006feef4143
-    name: "Gogolata"
+    name: "Гоголата"
   - id: 1006251
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ed57a6a4848cb88f
-    name: "haughty houseboy"
+    name: "Надменный дворецкий"
   - id: 1006252
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8b24c83fc85bacf8
     name: "Чокобо"
   quest_items:
   - id: 2000624
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=de8f7a4d7ab4dda9
-    name: "small envelope"
+    name: "Маленький свёрток"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=de8f7a4d7ab4dda9
 
 - name:
     original: "No Place Like Home"
+    translated: "...А дома лучше"
   level: 28
   icon: 61411
   url:
@@ -2232,19 +2234,20 @@
   actors:
   - id: 1002800
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e9f46006feef4143
-    name: "Gogolata"
+    name: "Гоголата"
   quest_items:
   - id: 2000625
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=67acc340dc3697b3
-    name: "box of Gogolata's vendibles"
+    name: "Коробка товаров Гоголаты"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=67acc340dc3697b3
   eobjects:
   - id: 2001995
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=d65b19bec82952c3
-    name: "Gogolata's vendibles"
+    name: "Товары Гоголаты"
 
 - name:
     original: "Meals for Miners"
+    translated: "Перекус для работяг"
   level: 28
   icon: 61411
   url:
@@ -2257,21 +2260,22 @@
     name: "Аэлуин"
   - id: 1006253
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a73be55044fe6e8e
-    name: "Laughing Fury"
+    name: "Громовая Ярость"
   - id: 1006254
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b855fe87052b124c
-    name: "Vavapu"
+    name: "Вавапу"
   - id: 1006258
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fb7f254383af29d5
-    name: "Ademar"
+    name: "Адемар"
   quest_items:
   - id: 2000626
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=613e425df22f93b9
-    name: "basket lunch"
+    name: "Корзина с перекусами"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=613e425df22f93b9
 
 - name:
     original: "Digging in the Dark"
+    translated: "Раскопки во тьме"
   level: 28
   icon: 61411
   url:
@@ -2281,23 +2285,24 @@
   actors:
   - id: 1006258
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fb7f254383af29d5
-    name: "Ademar"
+    name: "Адемар"
   enemies:
   - id: 2189
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=8288eb5ad9563f26
-    name: "Яркий шар"
+    name: "Яркий сполох"
   quest_items:
   - id: 2000627
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=5783c1429152cb9c
-    name: "mountaineer's lamp"
+    name: "Шахтёрская лампа"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=5783c1429152cb9c
   - id: 2000628
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=993ee1568e8b613f
-    name: "balloon lamp"
+    name: "Лампа со сполохом"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=993ee1568e8b613f
 
 - name:
     original: "A Leg Up"
+    translated: "Всё выше и выше"
   level: 28
   icon: 61411
   url:
@@ -2307,11 +2312,11 @@
   actors:
   - id: 1006258
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fb7f254383af29d5
-    name: "Ademar"
+    name: "Адемар"
   quest_items:
   - id: 2000629
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=e7af8d1369ce5689
-    name: "mountaineer's ladder"
+    name: "Шахтёрская стремянка"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=e7af8d1369ce5689
   eobjects:
   - id: 2001996
@@ -2326,6 +2331,7 @@
 
 - name:
     original: "Hunger Is the Best Sauce"
+    translated: "Голод — лучшая приправа"
   level: 36
   icon: 61411
   url:
@@ -2343,7 +2349,7 @@
   quest_items:
   - id: 2000690
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=19b710a429925831
-    name: "lump of fetid dodo flesh"
+    name: "Провонявшее мясо додо"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=19b710a429925831
   eobjects:
   - id: 2002106
@@ -2352,6 +2358,7 @@
 
 - name:
     original: "Tit for Tat"
+    translated: "Око за око, зуб за зуб"
   level: 37
   icon: 61411
   url:
@@ -2361,18 +2368,19 @@
   actors:
   - id: 1006404
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=60a641bce6792945
-    name: "Isaudorel"
+    name: "Исадорель"
   enemies:
   - id: 190
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=6e0a93bdcdf58ed2
-    name: "Ixali scout"
+    name: "Разведчик иксалов"
   eobjects:
   - id: 2002133
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=3731e2cb7da012ec
-    name: "antelope carcass"
+    name: "Труп антилопы"
 
 - name:
     original: "Inquire at the Spire"
+    translated: "Доклад к Шпилю"
   level: 37
   icon: 61411
   url:
@@ -2382,13 +2390,14 @@
   actors:
   - id: 1006405
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cbd6877e82a487f9
-    name: "Ireine"
+    name: "Ирейн"
   - id: 1006406
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3b1d7c0abd42aec9
-    name: "Miah Molkot"
+    name: "Мия Молко"
 
 - name:
     original: "Don't Shut Me Out"
+    translated: "Не смей меня затыкать"
   level: 37
   icon: 61411
   url:
@@ -2398,7 +2407,7 @@
   actors:
   - id: 1006406
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3b1d7c0abd42aec9
-    name: "Miah Molkot"
+    name: "Мия Молко"
   enemies:
   - id: 2004
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=74e2b8fe08bcd637
@@ -2406,15 +2415,16 @@
   quest_items:
   - id: 2000709
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=c80ad33e601b9e7f
-    name: "bomb finger"
+    name: "Запал бомбы"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=c80ad33e601b9e7f
   eobjects:
   - id: 2002134
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=933e50164a3b423a
-    name: "Ixali blockade"
+    name: "Баррикада иксалов"
 
 - name:
     original: "From Gridania, with Love"
+    translated: "Из Гридании с любовью"
   level: 37
   icon: 61411
   url:
@@ -2424,14 +2434,14 @@
   actors:
   - id: 1006403
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ae7654ac537d4f45
-    name: "Belmont"
+    name: "Бельмонт"
   - id: 1006406
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3b1d7c0abd42aec9
-    name: "Miah Molkot"
+    name: "Мия Молко"
   quest_items:
   - id: 2000710
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=c5bb7adbe6842220
-    name: "letter to Belmont"
+    name: "Письмо Бельмонту"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=c5bb7adbe6842220
 
 - name:
