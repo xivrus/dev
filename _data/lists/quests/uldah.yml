@@ -846,9 +846,34 @@
   level: 35
   icon: 61411
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-008-gaiusb504_00873/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=06b0f7df4e0438bf
-    quest_name: 
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=cf2236de9fa621d8
+  actors:
+  - id: 1006355
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8debde10da514338
+    name: "Отец Илиуд"
+  - id: 1006359
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=622a2cae0ebdd639
+    name: "Зазавака"
+  quest_items:
+  - id: 2000681
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=c710d705eca84ca0
+    name: "stick of vilekin repellent"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=c710d705eca84ca0
+  eobjects:
+  - id: 2002097
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=ff3e8c823efbb048
+    name: "Цель"
+  - id: 2002098
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=54b7fe069a885eb0
+    name: "Цель"
+  - id: 2002099
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=eeaf14779bc2cb84
+    name: "Цель"
+  - id: 2002100
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=e77db55bbb97d279
+    name: "Цель"
 
 - name:
     original: "The Voyage of the Goobbue"
