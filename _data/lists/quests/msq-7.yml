@@ -4993,66 +4993,9 @@
   level: 97
   icon: 61412
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-049-kingmd115_04926/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=0480171aa3281cb2
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=d5cefad7e4904c9a
-  cutscenes:
-  - name: "Кат-сцена 1"
-    start: "004190"
-    end: "004380"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-070-voiceman_07003/
-  - name: "Кат-сцена 2"
-    start: "004390"
-    end: "004570"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-070-voiceman_07003/
-  - name: "Кат-сцена 3"
-    start: "004580"
-    end: "004640"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-070-voiceman_07003/
-  actors:
-  - id: 1047358
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=be6ea769fffcf015
-    name: "Вавлика"
-  - id: 1047367
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ddf2a0d8d6e866ac
-    name: "Вук Ламат"
-  - id: 1047368
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=02a730d1fff09f98
-    name: "Ализе"
-  - id: 1047369
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=83e6e1227386e296
-    name: "Крайл"
-  - id: 1047370
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0bed9f3a0649802d
-    name: "Г'раха Тиа"
-  - id: 1047371
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=114a4448f98b485b
-    name: "Вук Ламат"
-  - id: 1047372
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e2d3cfc9fb6f43d7
-    name: "Ализе"
-  - id: 1047373
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=be041822c080546d
-    name: "Крайл"
-  - id: 1047374
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b133b37908d2f899
-    name: "Г'раха Тиа"
-  - id: 1047375
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ecac1217e3385b03
-    name: "Эренвилль"
-  - id: 1051194
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0d042a23ec190c6b
-    name: "Нитовикве"
-  - id: 1051420
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f13e6dba0b6459ef
-    name: "Железнодорожный надзиратель"
-  - id: 1051446
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2d855699830a3323
-    name: "Эренвилль"
-  eobjects:
-  - id: 2013816
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=5f5de4799b5ab287
-    name: "Цель"
+    quest_name: 
 
 - name:
     original: "The Land of Levin"
