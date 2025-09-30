@@ -1999,6 +1999,7 @@
 
 - name:
     original: "Due Diligence"
+    translated: "Лишняя шифровка — не лишняя"
   level: 1
   icon: 61411
   url:
@@ -2015,11 +2016,12 @@
   quest_items:
   - id: 2000136
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=04512768e6902b85
-    name: "sealed envelope"
+    name: "Запечатанный конверт"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=04512768e6902b85
 
 - name:
     original: "Motivational Speaking"
+    translated: "Безотказная мотивация"
   level: 1
   icon: 61411
   url:
@@ -2036,6 +2038,7 @@
 
 - name:
     original: "Gil for Gold"
+    translated: "Гилы на вес золота"
   level: 1
   icon: 61411
   url:
@@ -2052,11 +2055,12 @@
   quest_items:
   - id: 2000245
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=8b49eae6c344b7c6
-    name: "gaudy ring"
+    name: "Липкое и грязное кольцо"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=8b49eae6c344b7c6
 
 - name:
     original: "Unholy Matrimony"
+    translated: "В тисках матриархата"
   level: 1
   icon: 61411
   url:
@@ -2076,21 +2080,22 @@
   quest_items:
   - id: 2000137
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=ab7628c11692464f
-    name: "Franz the Fair flyer"
+    name: "Листовка «Красавец Франц»"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=ab7628c11692464f
   eobjects:
   - id: 2000691
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=04d39a1f18e48bdd
-    name: "exposed wall"
+    name: "Видное место"
   - id: 2000692
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=33efb68db1ca82ab
-    name: "exposed wall"
+    name: "Видное место"
   - id: 2000693
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=70f156062f3e3b66
-    name: "exposed wall"
+    name: "Видное место"
 
 - name:
     original: "The Great Gladiator"
+    translated: "Вот так гладиатор"
   level: 1
   icon: 61411
   url:
@@ -2110,11 +2115,12 @@
   quest_items:
   - id: 2000201
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=be76ff4da042e398
-    name: "order slip"
+    name: "Чек для ювелиров"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=be76ff4da042e398
 
 - name:
     original: "With Open Arms"
+    translated: "Самое радушное приглашение"
   level: 1
   icon: 61411
   url:
@@ -2143,6 +2149,7 @@
 
 - name:
     original: "No Lady Is an Island"
+    translated: "Леди-остров"
   level: 1
   icon: 61411
   url:
@@ -2156,24 +2163,24 @@
   quest_items:
   - id: 2000198
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=90b8d25f05b04cdc
-    name: "handful of dropped gil"
+    name: "Пригоршня гилов"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=90b8d25f05b04cdc
   eobjects:
   - id: 2000695
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=8e767317a0aa4c51
-    name: "dropped gil"
+    name: "Рассыпанные гилы"
   - id: 2000696
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=4ae01ae3c34be5c2
-    name: "dropped gil"
+    name: "Рассыпанные гилы"
   - id: 2000697
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=321301c8e99ecda1
-    name: "dropped gil"
+    name: "Рассыпанные гилы"
   - id: 2001089
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=540eff1b84e1443c
-    name: "dropped gil"
+    name: "Рассыпанные гилы"
   - id: 2001090
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=c87eef0cf73c3d73
-    name: "dropped gil"
+    name: "Рассыпанные гилы"
 
 - name:
     original: "Bottled Fantasy"
@@ -2272,6 +2279,7 @@
 
 - name:
     original: "Decisions, Decisions"
+    translated: "Когда трудно определиться"
   level: 1
   icon: 61411
   url:
@@ -2288,6 +2296,7 @@
 
 - name:
     original: "Vox Populi"
+    translated: "Глас народа"
   level: 1
   icon: 61411
   url:
@@ -2303,13 +2312,13 @@
     name: "Аубелет"
   - id: 1001937
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4ff793d70010eed1
-    name: "Fastred"
+    name: "Фастред"
   - id: 1001939
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=67b63905f3f37d4e
-    name: "Cordial Spider"
+    name: "Добродушный Паук"
   - id: 1001940
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6cd8ae58dee6fb25
-    name: "Dodomun"
+    name: "Додомун"
   - id: 1001942
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d49cf2c844411bd6
     name: "Bobolan"
@@ -2318,16 +2327,17 @@
     name: "Люсью"
   - id: 1001949
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4145fa47ed47da06
-    name: "Rururemu"
+    name: "Рурурему"
   - id: 1003899
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4fe3e131f89d5b22
-    name: "Teteshan"
+    name: "Тетешан"
   - id: 1003902
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0cfe67e1354d4382
-    name: "Cornell"
+    name: "Корнелл"
 
 - name:
     original: "A Luxury Long Lost"
+    translated: "Выбор — роскошь, которой у нас нет"
   level: 1
   icon: 61411
   url:
@@ -2344,11 +2354,12 @@
   quest_items:
   - id: 2000196
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=ac10392ed5ec5639
-    name: "bottle of deep-green tonic"
+    name: "Зелёный тоник"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=ac10392ed5ec5639
 
 - name:
     original: "The Wealth of Nations"
+    translated: "Культурное наследие нации"
   level: 1
   icon: 61411
   url:
@@ -2365,11 +2376,12 @@
   quest_items:
   - id: 2000197
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=7b016d7eb52a3511
-    name: "cracked vase"
+    name: "Ваза с трещиной"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=7b016d7eb52a3511
 
 - name:
     original: "Tougher than Leather"
+    translated: "Конкуренция жёстче шкур"
   level: 1
   icon: 61411
   url:
@@ -2387,11 +2399,12 @@
   quest_items:
   - id: 2000138
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=6a6b35a9923ea788
-    name: "shrew pelt"
+    name: "Шкура землеройки"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=6a6b35a9923ea788
 
 - name:
     original: "Beet Red Beetles Beat Red"
+    translated: "Красное на красном"
   level: 1
   icon: 61411
   url:
@@ -2409,6 +2422,7 @@
 
 - name:
     original: "In the Name of Science"
+    translated: "Во имя науки"
   level: 1
   icon: 61411
   url:
@@ -2426,11 +2440,12 @@
   quest_items:
   - id: 2000385
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=2df15709783606a2
-    name: "bottle of marmot blood"
+    name: "Кровь сурка"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=2df15709783606a2
 
 - name:
     original: "Fantastic Voyage"
+    translated: "Фантастический вояж"
   level: 4
   icon: 61411
   url:
@@ -2440,18 +2455,19 @@
   actors:
   - id: 1001497
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a0fe1f1ca2a1e63c
-    name: "Giginasu"
+    name: "Гигинасу"
   - id: 1001678
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c5c0a78964145d10
     name: "Кекезани"
   quest_items:
   - id: 2000241
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=3ebf248b2c3f20b2
-    name: "torn timetable"
+    name: "Надорванное расписание"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=3ebf248b2c3f20b2
 
 - name:
     original: "Catch Your Breath"
+    translated: "Переводя дыхание"
   level: 4
   icon: 61411
   url:
@@ -2467,15 +2483,16 @@
     name: "Мимишу"
   - id: 1001992
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1489848b161f6014
-    name: "Oswell"
+    name: "Освел"
   quest_items:
   - id: 2000410
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=91f981355a1ff9bc
-    name: "package to Horizon"
+    name: "Груз из Горизонта"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=91f981355a1ff9bc
 
 - name:
     original: "Leves of Horizon"
+    translated: "Поручения Горизонта"
   level: 10
   icon: 61419
   url:
@@ -2485,13 +2502,14 @@
   actors:
   - id: 1001794
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fb7673ff51665d00
-    name: "Эстас"
+    name: "Юстас"
   - id: 1001796
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a3b700bff3289e4f
     name: "Тотонова"
 
 - name:
     original: "Help Me, Lord of the Dance"
+    translated: "Помоги мне, повелитель танца"
   level: 14
   icon: 61411
   url:
@@ -2504,16 +2522,16 @@
     name: "Сосотта"
   - id: 1007798
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6161aafde6a512ef
-    name: "Guillaunaux"
+    name: "Голлинье"
   - id: 1007799
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b6e37e7fab675919
     name: "П'молминн"
   - id: 1007800
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=daf69f156dc09b0d
-    name: "willowy woman"
+    name: "Отчаявшаяся женщина"
   - id: 1007801
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5366f9ff7bbb5f45
-    name: "luscious lady"
+    name: "Полная достоинства леди"
   - id: 1007993
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1c32609ef34381ae
     name: "П'молминн"
@@ -2586,6 +2604,7 @@
 
 - name:
     original: "Gone to Pieces"
+    translated: "На части"
   level: 30
   icon: 61419
   url:
@@ -2598,7 +2617,7 @@
     name: "Синтгот"
   - id: 1009295
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=572aebf88bf2f9c6
-    name: "Nesting Heron"
+    name: "Спящая Цапля"
 
 - name:
     original: "Hold for Customer Support"
@@ -2846,6 +2865,7 @@
 
 - name:
     original: "Nor Rain nor Heat nor Gloom of Night"
+    translated: "Что мне снег, что мне зной"
   level: 4
   icon: 61411
   url:
@@ -2855,22 +2875,22 @@
   actors:
   - id: 1001992
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1489848b161f6014
-    name: "Oswell"
+    name: "Освел"
   quest_items:
   - id: 2000148
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=9755e867225e1029
-    name: "East Aldenard Trading Company cargo crate"
+    name: "Ящик Восточной торговой компании"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=9755e867225e1029
   eobjects:
   - id: 2000738
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=3c649971929144b1
-    name: "EATC cargo crate"
+    name: "Ящик с буквами «В.Т.К.А.»"
   - id: 2000739
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=e70c4b3c0171758b
-    name: "EATC cargo crate"
+    name: "Ящик с буквами «В.Т.К.А.»"
   - id: 2000740
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=32668a1a120fdaf4
-    name: "EATC cargo crate"
+    name: "Ящик с буквами «В.Т.К.А.»"
 
 - name:
     original: "A Dab'll Do Ya"
@@ -2944,7 +2964,7 @@
   actors:
   - id: 1001992
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1489848b161f6014
-    name: "Oswell"
+    name: "Освел"
   - id: 1002014
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fe1ffc91eda9bce3
     name: "Кикипу"

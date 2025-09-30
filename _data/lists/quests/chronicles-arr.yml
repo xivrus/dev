@@ -509,40 +509,9 @@
   level: 50
   icon: 61419
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-011-gaiusd102_01160/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=3855b4246fa9782a
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=ea84790bf7741b6f
-  cutscenes:
-  - name: "Кат-сцена 1"
-    start: "100"
-    end: "110"
-    url: https://translate.xivrus.ru/projects/xivrus/quest-011-gaiusd101_01159/
-  - name: "Кат-сцена 2"
-    start: "120"
-    end: "128"
-    url: https://translate.xivrus.ru/projects/xivrus/quest-011-gaiusd101_01159/
-  - name: "Кат-сцена 3"
-    start: "140"
-    end: "147"
-    url: https://translate.xivrus.ru/projects/xivrus/quest-011-gaiusd101_01159/
-  - name: "Кат-сцена 4"
-    start: "160"
-    end: "176"
-    url: https://translate.xivrus.ru/projects/xivrus/quest-011-gaiusd101_01159/
-  - name: "Кат-сцена 5"
-    start: "200"
-    end: "208"
-    url: https://translate.xivrus.ru/projects/xivrus/quest-011-gaiusd101_01159/
-  actors:
-  - id: 1007478
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4c4ab1f9d0302d46
-    name: "Урианже"
-  - id: 1007684
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9ab1bbaba7aac642
-    name: "Ализе"
-  - id: 1008180
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cc327bb271ada42f
-    name: "Урианже"
+    quest_name: 
 
 - name:
     original: "Another Turn in the Coil"
