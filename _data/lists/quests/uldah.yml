@@ -2306,7 +2306,7 @@
   actors:
   - id: 1001685
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=87804e9c345d4768
-    name: "Этельвайн"
+    name: "Эфельвайн"
   - id: 1001914
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=20d73639ecf0ab69
     name: "Аубелет"
@@ -2321,7 +2321,7 @@
     name: "Додомун"
   - id: 1001942
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d49cf2c844411bd6
-    name: "Bobolan"
+    name: "Боболан"
   - id: 1001945
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6b5a67e8cc69693b
     name: "Люсью"
@@ -2894,6 +2894,7 @@
 
 - name:
     original: "A Dab'll Do Ya"
+    translated: "И так сойдёт"
   level: 4
   icon: 61411
   url:
@@ -2903,7 +2904,7 @@
   actors:
   - id: 1002006
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=df8d3fd87f0586dc
-    name: "Guntram"
+    name: "Гантрам"
   enemies:
   - id: 1045
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=cfa2f71a2fd43a5a
@@ -2911,11 +2912,12 @@
   quest_items:
   - id: 2000149
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=5956ce1b14c606da
-    name: "bottle of cactuar blood"
+    name: "Склянка крови кактуара"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=5956ce1b14c606da
 
 - name:
     original: "Ticked Off"
+    translated: "Жёлтые дальнобойщики"
   level: 4
   icon: 61411
   url:
@@ -2925,10 +2927,10 @@
   actors:
   - id: 1002001
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8c5790a05884d9f4
-    name: "Imme"
+    name: "Имме"
   - id: 1002005
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=27ee0d4c1d8e8915
-    name: "Slugger"
+    name: "Бусинка"
   enemies:
   - id: 1046
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=2b756cd158cde44d
@@ -2936,6 +2938,7 @@
 
 - name:
     original: "Where the Heart Is (The Goblet)"
+    translated: "Тепло очага (Кубок)"
   level: 5
   icon: 61419
   url:
@@ -2945,10 +2948,10 @@
   actors:
   - id: 1002001
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8c5790a05884d9f4
-    name: "Imme"
+    name: "Имме"
   - id: 1005531
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cd542c6fdf957a67
-    name: "Momoraji"
+    name: "Момораджи"
   - id: 1005880
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a2a83b3616bc5a76
     name: "Рекрут Пламени"
@@ -2975,11 +2978,11 @@
   quest_items:
   - id: 2000354
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=7646658f52e0e556
-    name: "letter to Kikipu"
+    name: "Письмо, адресованное Кикипу"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=7646658f52e0e556
   - id: 2000355
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=23b11939de15d3f5
-    name: "hammer beak tailfeather"
+    name: "Хвостовое перо молотоклюва"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=23b11939de15d3f5
 
 - name:
