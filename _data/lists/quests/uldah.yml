@@ -2987,6 +2987,7 @@
 
 - name:
     original: "Reasonable /Doubt"
+    translated: "Обоснованные сомнения"
   level: 4
   icon: 61411
   url:
@@ -2999,19 +3000,20 @@
     name: "Кикипу"
   - id: 1003681
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4acbfcd0eec3ace5
-    name: "riled worker"
+    name: "Мутный работяга"
   - id: 1003682
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1e6c57202041ba99
-    name: "riled worker"
+    name: "Мутный работяга"
   - id: 1003683
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=85befef6bdaafce9
-    name: "riled worker"
+    name: "Мутный работяга"
   - id: 1003684
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d5bbadfd3f440be4
-    name: "riled worker"
+    name: "Мутный работяга"
 
 - name:
     original: "Greasing the Cogs"
+    translated: "Смазать шестерни"
   level: 4
   icon: 61411
   url:
@@ -3024,7 +3026,7 @@
     name: "Фафафоно"
   - id: 1002049
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=45005c89392bb0b8
-    name: "Adelard"
+    name: "Аделард"
   enemies:
   - id: 1041
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=21bb00cd84bce2b5
@@ -3032,11 +3034,12 @@
   quest_items:
   - id: 2000164
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=bb30a57556b817bf
-    name: "bottle of coblyn grease"
+    name: "Бутыль смазки из коблина"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=bb30a57556b817bf
 
 - name:
     original: "Getting Your Bearings"
+    translated: "Некуда плыть"
   level: 4
   icon: 61411
   url:
@@ -3049,7 +3052,7 @@
     name: "Даниэл"
   - id: 1002044
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8f232ccbe1d2c365
-    name: "Galfridus"
+    name: "Галфридус"
   enemies:
   - id: 113
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=9936a137984021d6
@@ -3057,21 +3060,22 @@
   quest_items:
   - id: 2000153
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=6153947333887f13
-    name: "chunk of magnetite"
+    name: "Кусочек магнетита"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=6153947333887f13
   eobjects:
   - id: 2001276
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=48715a4cfb0354c9
-    name: "magnetite"
+    name: "Магнетит"
   - id: 2001356
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=960b74e0ee2a37cc
-    name: "magnetite"
+    name: "Магнетит"
   - id: 2001357
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=f64bf235b7a6259c
-    name: "magnetite"
+    name: "Магнетит"
 
 - name:
     original: "So Close yet So Far"
+    translated: "Отвратный сервис"
   level: 4
   icon: 61411
   url:
@@ -3085,18 +3089,18 @@
   quest_items:
   - id: 2000150
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=daf030d2f9f6b5e6
-    name: "piece of Fafafono's baggage"
+    name: "Элемент поклажи Фафафоно"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=daf030d2f9f6b5e6
   eobjects:
   - id: 2001273
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=855bb1cca8c124c8
-    name: "Fafafono's baggage"
+    name: "Элемент багажа"
   - id: 2001274
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=812ad5852882e50a
-    name: "Fafafono's baggage"
+    name: "Элемент багажа"
   - id: 2001275
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=a339f82832ddc74e
-    name: "Fafafono's baggage"
+    name: "Элемент багажа"
 
 - name:
     original: "Tackle the Problem"
@@ -3109,7 +3113,7 @@
   actors:
   - id: 1002044
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8f232ccbe1d2c365
-    name: "Galfridus"
+    name: "Галфридус"
   enemies:
   - id: 1360
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=e4e70a0814eafd40
@@ -3143,7 +3147,7 @@
     name: "Kenrick"
   - id: 1002044
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8f232ccbe1d2c365
-    name: "Galfridus"
+    name: "Галфридус"
   - id: 1003685
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=284ec0f4d455c240
     name: "Kenrick"
