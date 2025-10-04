@@ -3104,6 +3104,7 @@
 
 - name:
     original: "Tackle the Problem"
+    translated: "Попытка решить проблему"
   level: 4
   icon: 61411
   url:
@@ -3121,11 +3122,12 @@
   quest_items:
   - id: 2000154
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=8d2657684f779a93
-    name: "copper lure"
+    name: "Медная блесна"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=8d2657684f779a93
 
 - name:
     original: "Search and Seizure"
+    translated: "Всё под снос"
   level: 4
   icon: 61411
   url:
@@ -3144,17 +3146,17 @@
     name: "Фафафоно"
   - id: 1002033
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=96743338c982a827
-    name: "Kenrick"
+    name: "Кенрик"
   - id: 1002044
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8f232ccbe1d2c365
     name: "Галфридус"
   - id: 1003685
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=284ec0f4d455c240
-    name: "Kenrick"
+    name: "Кенрик"
   enemies:
   - id: 914
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=d3a1c2cbda7fe6f8
-    name: "hired hand"
+    name: "Наёмник"
   quest_items:
   - id: 2000165
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=22b09c3f130018f8
@@ -3162,21 +3164,21 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=22b09c3f130018f8
   - id: 2000413
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=ad88b29cb600653c
-    name: "writ of seizure"
+    name: "Уведомление о сносе"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=ad88b29cb600653c
   eobjects:
   - id: 2001456
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=aa2b191237039803
-    name: "writ of seizure"
+    name: "Уведомление о сносе"
   - id: 2001457
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=ec8c8ad0902fc7c0
-    name: "writ of seizure"
+    name: "Уведомление о сносе"
   - id: 2001458
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=1e7c437a8ebd9a4d
-    name: "writ of seizure"
+    name: "Уведомление о сносе"
   - id: 2001459
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=9d9a1a4c216ce279
-    name: "writ of seizure"
+    name: "Уведомление о сносе"
 
 - name:
     original: "Simply the Hest"
@@ -3198,6 +3200,7 @@
 
 - name:
     original: "By the Toe"
+    translated: "Хвать за пальчик"
   level: 10
   icon: 61411
   url:
@@ -3210,28 +3213,29 @@
     name: "Фафалапа"
   - id: 1002064
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=29674715166baeb3
-    name: "Chechezan"
+    name: "Чечезан"
   quest_items:
   - id: 2000373
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=05a643e25383828c
-    name: "iron leg trap"
+    name: "Железный капкан"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=05a643e25383828c
   eobjects:
   - id: 2001374
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=699a936fc4e98557
-    name: "trap point"
+    name: "Подходящее место"
   - id: 2001375
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=03849a78b98f1c38
-    name: "trap point"
+    name: "Подходящее место"
   - id: 2001376
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=72098031f07896a4
-    name: "trap point"
+    name: "Подходящее место"
   - id: 2001377
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=84919bc4e9f8e3a4
-    name: "trap point"
+    name: "Подходящее место"
 
 - name:
     original: "For Their Eyes Only"
+    translated: "Глаза, пожалуйста"
   level: 10
   icon: 61411
   url:
@@ -3241,7 +3245,7 @@
   actors:
   - id: 1002056
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8ff0c0702a7cf2c1
-    name: "Зюзютиро"
+    name: "Зазатиро"
   enemies:
   - id: 1037
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=db3a960a91dcd761
@@ -3263,7 +3267,7 @@
   actors:
   - id: 1002064
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=29674715166baeb3
-    name: "Chechezan"
+    name: "Чечезан"
   - id: 1003814
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e0131367bfdb05b4
     name: "Nononzo"
