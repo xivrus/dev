@@ -1,5 +1,6 @@
 - name:
     original: "The Slaying of the Shrews"
+    translated: "Убийство землероек"
   level: 4
   icon: 61411
   url:
@@ -9,7 +10,7 @@
   actors:
   - id: 1001457
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b058ebe9c42ca017
-    name: "Hihiyaja"
+    name: "Хихияджа"
   enemies:
   - id: 1049
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=e1d6dc3c582cb886
@@ -17,16 +18,17 @@
   eobjects:
   - id: 2000372
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=5fa3cc0891c4c14c
-    name: "shrewhill"
+    name: "Земляной холмик"
   - id: 2000373
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=55aa9b9b6b528545
-    name: "shrewhill"
+    name: "Земляной холмик"
   - id: 2000374
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=7fe615573b9b443d
-    name: "shrewhill"
+    name: "Земляной холмик"
 
 - name:
     original: "The Tasting of the Shrews"
+    translated: "На вкус как землеройка"
   level: 4
   icon: 61411
   url:
@@ -36,7 +38,7 @@
   actors:
   - id: 1001460
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4b96346d5447d642
-    name: "Wowobaru"
+    name: "Вовобару"
   enemies:
   - id: 1049
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=e1d6dc3c582cb886
@@ -44,18 +46,19 @@
   quest_items:
   - id: 2000211
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=eadab7cdb23f0467
-    name: "cut of fresh shrew meat"
+    name: "Отрез свежего мяса землеройки"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=eadab7cdb23f0467
   eobjects:
   - id: 2000741
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=b85938e5d7826d28
-    name: "barrel trap"
+    name: "Кротовья ловушка"
   - id: 2000742
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=fead4f162e59cf06
-    name: "barrel trap"
+    name: "Кротовья ловушка"
 
 - name:
     original: "Listen to Your Fish"
+    translated: "Когда сердце лежит к рыбе"
   level: 4
   icon: 61411
   url:
@@ -65,10 +68,10 @@
   actors:
   - id: 1001457
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b058ebe9c42ca017
-    name: "Hihiyaja"
+    name: "Хихияджа"
   - id: 1001460
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4b96346d5447d642
-    name: "Wowobaru"
+    name: "Вовобару"
   enemies:
   - id: 1135
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=81927f2a3515019b
@@ -76,11 +79,12 @@
   quest_items:
   - id: 2000214
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=711705e107c5b739
-    name: "slice of fatty orobon"
+    name: "Мясо жирного оробона"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=711705e107c5b739
 
 - name:
     original: "Bloodied and Bowed"
+    translated: "Гордость не пострадала"
   level: 4
   icon: 61411
   url:
@@ -90,13 +94,14 @@
   actors:
   - id: 1001434
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d9a5149655956ed9
-    name: "Aethelgyth"
+    name: "Этелгит"
   - id: 1001445
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a139886ed1e8b489
     name: "Осберт"
 
 - name:
     original: "In the Court of the Rat King"
+    translated: "Владения крысиного короля"
   level: 4
   icon: 61411
   url:
@@ -106,7 +111,7 @@
   actors:
   - id: 1001439
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2e439a74b5f87647
-    name: "Zezeda"
+    name: "Зезеда"
   quest_items:
   - id: 2000216
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=c607e10b90f04d1a
@@ -125,6 +130,7 @@
 
 - name:
     original: "Sometimes the Old Ways Are Best"
+    translated: "Как предки велели"
   level: 4
   icon: 61411
   url:
@@ -134,10 +140,10 @@
   actors:
   - id: 1001436
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d3f65ebbc33f3dfb
-    name: "Beringaer"
+    name: "Берингар"
   - id: 1001439
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2e439a74b5f87647
-    name: "Zezeda"
+    name: "Зезеда"
   enemies:
   - id: 1038
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=fd430c71ced99d92
@@ -145,11 +151,12 @@
   quest_items:
   - id: 2000177
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=ef658e15907442ca
-    name: "hammer beak rib"
+    name: "Рёбрышки молотоклюва"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=ef658e15907442ca
 
 - name:
     original: "Need Not Apply in Person"
+    translated: "Личное присутствие необязательно"
   level: 10
   icon: 61411
   url:
@@ -159,18 +166,19 @@
   actors:
   - id: 1001436
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d3f65ebbc33f3dfb
-    name: "Beringaer"
+    name: "Берингар"
   - id: 1001603
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4ad3a974d223a634
-    name: "Hamund"
+    name: "Хамунд"
   quest_items:
   - id: 2000380
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=8fa68095e42e4e77
-    name: "Hamund's application"
+    name: "Резюме Хамунда"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=8fa68095e42e4e77
 
 - name:
     original: "Alternative Medicine"
+    translated: "Альтернативная медицина"
   level: 10
   icon: 61411
   url:
@@ -180,7 +188,7 @@
   actors:
   - id: 1001602
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1149c8100bed0377
-    name: "Blayves"
+    name: "Блайвес"
   enemies:
   - id: 1040
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=a55abdcac1638292
@@ -188,7 +196,7 @@
   quest_items:
   - id: 2000379
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=295ef6a3992f67ff
-    name: "vial of gigantoad secretions"
+    name: "Склянка выделений гайганжабы"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=295ef6a3992f67ff
 
 - name:
@@ -222,6 +230,7 @@
 
 - name:
     original: "Forging the Spirit"
+    translated: "Закалка духа"
   level: 19
   icon: 61419
   url:
@@ -235,6 +244,7 @@
 
 - name:
     original: "Waking the Spirit"
+    translated: "Пробуждение духа"
   level: 19
   icon: 61419
   url:
@@ -248,6 +258,7 @@
 
 - name:
     original: "Marvelously Mutable Materia"
+    translated: "Великолепно изменчивая материя"
   level: 19
   icon: 61419
   url:
@@ -264,6 +275,7 @@
 
 - name:
     original: "Melding Materia Muchly"
+    translated: "Сверхнормативная материя"
   level: 25
   icon: 61419
   url:
@@ -3258,6 +3270,7 @@
 
 - name:
     original: "The Scent of a Mongrel"
+    translated: "Запах пёсьей крови"
   level: 10
   icon: 61411
   url:
@@ -3270,7 +3283,7 @@
     name: "Чечезан"
   - id: 1003814
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e0131367bfdb05b4
-    name: "Nononzo"
+    name: "Нононзо"
   enemies:
   - id: 2756
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=e75d95779cb434c0
@@ -3283,6 +3296,7 @@
 
 - name:
     original: "No Tool Gets Left Behind"
+    translated: "Инструменты не бросаем"
   level: 10
   icon: 61411
   url:
@@ -3292,33 +3306,34 @@
   actors:
   - id: 1002062
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=38b6e27c517f5220
-    name: "Torrid Whisper"
+    name: "Пылкий Шёпот"
   quest_items:
   - id: 2000370
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=2e938d86d92ef56f
-    name: "sharpened pickaxe"
+    name: "Острая кирка"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=2e938d86d92ef56f
   - id: 2000371
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=5913961df7cdc96a
-    name: "old hammer"
+    name: "Старый молот"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=5913961df7cdc96a
   - id: 2000372
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=a360b010bf69f164
-    name: "heavy sledgehammer"
+    name: "Тяжёлая кувалда"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=a360b010bf69f164
   eobjects:
   - id: 2001371
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=7032e07b5ea71ca3
-    name: "sharpened pickaxe"
+    name: "Острая кирка"
   - id: 2001372
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=0e8ebe14fad9b0fd
-    name: "old hammer"
+    name: "Старый молот"
   - id: 2001373
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=6f6c3a9b75413438
-    name: "heavy sledgehammer"
+    name: "Тяжёлая кувалда"
 
 - name:
     original: "This Fishwife's Life"
+    translated: "Непросто быть женой рыболова"
   level: 10
   icon: 61411
   url:
@@ -3328,20 +3343,21 @@
   actors:
   - id: 1002070
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fb28eb40d1dfdda1
-    name: "Edalene"
+    name: "Эдалин"
   eobjects:
   - id: 2001385
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=7228c2e99abaa6a8
-    name: "flotsam"
+    name: "Обломки"
   - id: 2001386
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=fb4d17b324a18cdb
-    name: "flotsam"
+    name: "Обломки"
   - id: 2001387
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=7d1e526d82b3819e
-    name: "flotsam"
+    name: "Обломки"
 
 - name:
     original: "Lominsan Rubbish"
+    translated: "Хлам из Лимсы нанесло"
   level: 10
   icon: 61411
   url:
@@ -3351,35 +3367,36 @@
   actors:
   - id: 1002069
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5ac3f8f64e0fa101
-    name: "Osment"
+    name: "Осмент"
   eobjects:
   - id: 2001382
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=ba3f439ccb72b563
-    name: "splintered crate"
+    name: "Развалившийся ящик"
   - id: 2001383
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=4c3af54799d8dd7b
-    name: "decaying vegetables"
+    name: "Гниющие овощи"
   - id: 2001384
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=3806e4c202a671d7
-    name: "bottomless toolbox"
+    name: "Коробка с дырявым дном"
   - id: 2001475
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=fe5ecbdbb20c53f7
-    name: "unsold pot"
+    name: "Негодный горшок"
   - id: 2001476
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=685de99ae44349de
-    name: "decaying vegetables"
+    name: "Гниющие овощи"
   - id: 2001477
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=adf2d9dae0fb99f7
-    name: "empty decanter"
+    name: "Пустой графин"
   - id: 2001478
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=9d3a9b666909cea8
-    name: "holey cup"
+    name: "Дырявая ёмкость"
   - id: 2001479
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=aec5facb15cc20e6
-    name: "moth-eaten sack"
+    name: "Проеденный молью мешок"
 
 - name:
     original: "Angling Ankle-biters"
+    translated: "Лодыжки в безопасности"
   level: 10
   icon: 61411
   url:
@@ -3462,6 +3479,7 @@
 
 - name:
     original: "Seeds of Change"
+    translated: "Семена перемен"
   level: 17
   icon: 61411
   url:
@@ -3471,22 +3489,22 @@
   actors:
   - id: 1008758
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=59fb880ff01555ea
-    name: "Tatafu"
+    name: "Татафу"
   - id: 1008760
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=64e70b9a1528e9ff
-    name: "Nanalai"
+    name: "Наналай"
   quest_items:
   - id: 2001240
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=368b19843d8bcca5
-    name: "large sack"
+    name: "Крупный свёрток"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=368b19843d8bcca5
   - id: 2001241
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=6d078051d8c70f5b
-    name: "small sack"
+    name: "Маленький свёрток"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=6d078051d8c70f5b
   - id: 2001242
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=fe747ce7c3a0a643
-    name: "Nanalai's payment"
+    name: "Деньги от Наналая"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=fe747ce7c3a0a643
 
 - name:
