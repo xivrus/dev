@@ -7294,9 +7294,51 @@
   level: 80
   icon: 62411
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-032-luckbc011_03220/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=e46ae763bb69f5e7
-    quest_name: 
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=2dd1218d636d47af
+  actors:
+  - id: 1011895
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=83db293fdea74fac
+    name: "Хильда"
+  - id: 1012251
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4052eab69bedcbcf
+    name: "Хильда"
+  - id: 1014577
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6b673544d972705e
+    name: "Стефанивьян"
+  - id: 1014581
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9f35195d5515a0d5
+    name: "Джой"
+  - id: 1014582
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=00e59ce6dee5a7de
+    name: "Джой"
+  - id: 1014803
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=150a6910fa5c91d6
+    name: "Стефанивьян"
+  - id: 1015572
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a2838025e31e70b2
+    name: "Стефанивьян"
+  - id: 1021318
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e9496004872972ec
+    name: "Muscadain"
+  - id: 1028096
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e9558efa5cfa430d
+    name: "Стефанивьян"
+  enemies:
+  - id: 8401
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=b4042815037e6a48
+    name: "battle-scarred bergthurs"
+  eobjects:
+  - id: 2009739
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=d7755c2d5bde61c7
+    name: "Цель"
+  - id: 2009740
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=f39dbc1ba40f431b
+    name: "Цель"
+  - id: 2009741
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=b3425a4ee1e4c614
+    name: "Цель"
 
 - name:
     original: "The Way of the Samurai"
