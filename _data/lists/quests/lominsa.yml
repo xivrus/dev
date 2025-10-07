@@ -1168,9 +1168,25 @@
   level: 50
   icon: 61411
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-002-subsea923_00246/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=ebdfdd7d2c28f68b
-    quest_name: 
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=96b84b9ce81b1a80
+  actors:
+  - id: 1000856
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bda434921234a5de
+    name: "Вавалаго"
+  - id: 1000857
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e8a913e371ade18b
+    name: "Сисипу"
+  - id: 1003585
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e9b63a508ca961eb
+    name: "steersman"
+  - id: 1005414
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=21b175c9f6dce1a1
+    name: "saltworn captain"
+  - id: 1008882
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=63a6bbd1b552014c
+    name: "Ascelyn"
 
 - name:
     original: "An Egi by Any Other Name"
@@ -2341,12 +2357,8 @@
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=295227fa64a3b1e0
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=d7f724c76a4c13c7
   actors:
-  - id: 1006324
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c3733e9607651734
-    name: "Благибал"
-  - id: 1006325
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2edf4e9ff02fc1a7
-    name: "Блоэдин"
+  - id: 0
+  - id: 0
   enemies:
   - id: 1980
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=4abc54c4c2180275
@@ -3224,9 +3236,8 @@
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8de7dbe5aea92b12
     name: "У'джугал"
   enemies:
-  - id: 2181
-    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=5f8ee741d9ccdd8e
-    name: "Дразнагл Тяжёлый Шаг"
+  - id: 0
+  - id: 0
 
 - name:
     original: "Serpent's Tongue-lashing"
