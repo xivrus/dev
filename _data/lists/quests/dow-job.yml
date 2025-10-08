@@ -6329,6 +6329,7 @@
 
 - name:
     original: "Always the Last Place You Look"
+    translated: "Спрятано в надёжном месте"
   level: 35
   icon: 62411
   url:
@@ -6372,22 +6373,23 @@
   enemies:
   - id: 4113
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=dcf5929977cb16a8
-    name: "jungle midge cloud"
+    name: "Джунглевый рой мошек"
   - id: 4114
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=cee45559c645704b
     name: "Джунглевый гоббуль"
   quest_items:
   - id: 2001814
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=67809c3ab187d4e3
-    name: "magitek gyroscope #41"
+    name: "магитеховый гироскоп #41"
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=67809c3ab187d4e3
   logmessages:
   - id: 3689
     url: https://translate.xivrus.ru/translate/xivrus/logmessage/ru/?checksum=b0b9aa461dda02a7
-    name: "You find a magitek gyroscope on the goobbue!"
+    name: "Вы нашли магитеховый гироскоп на теле гоббуля!"
 
 - name:
     original: "Rook Before You Reap"
+    translated: "Ход ладьёй"
   level: 40
   icon: 62411
   url:

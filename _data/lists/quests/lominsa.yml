@@ -2357,8 +2357,12 @@
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=295227fa64a3b1e0
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=d7f724c76a4c13c7
   actors:
-  - id: 0
-  - id: 0
+  - id: 1006324
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c3733e9607651734
+    name: "Благибал"
+  - id: 1006325
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2edf4e9ff02fc1a7
+    name: "Блоэдин"
   enemies:
   - id: 1980
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=4abc54c4c2180275
@@ -3236,8 +3240,9 @@
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8de7dbe5aea92b12
     name: "У'джугал"
   enemies:
-  - id: 0
-  - id: 0
+  - id: 2181
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=5f8ee741d9ccdd8e
+    name: "Дразнагл Тяжёлый Шаг"
 
 - name:
     original: "Serpent's Tongue-lashing"
