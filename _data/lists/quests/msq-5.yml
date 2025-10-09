@@ -119,9 +119,48 @@
   level: 70
   icon: 61412
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-032-luckma103_03281/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=31ff061329eedc96
-    quest_name: 
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=909cad713e85bf90
+  cutscenes:
+  - name: "Кат-сцена 1"
+    start: "000780"
+    end: "001060"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-050-voiceman_05000/
+  - name: "Кат-сцена 2"
+    start: "001070"
+    end: "001360"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-050-voiceman_05000/
+  - name: "Кат-сцена 3"
+    start: "001380"
+    end: "001640"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-050-voiceman_05000/
+  - name: "Кат-сцена 4"
+    start: "001650"
+    end: "001830"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-050-voiceman_05000/
+  actors:
+  - id: 1028923
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=816b1a2668babdc3
+    name: "Экзарх"
+  - id: 1028925
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e797b86af2c9ed72
+    name: "Экзарх"
+  - id: 1028926
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=31d2c61498ae86ae
+    name: "Экзарх"
+  - id: 1028927
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=928e5066047fea57
+    name: "Экзарх"
+  - id: 1029797
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=59672b546318a782
+    name: "Специалист «Шестерёнок»"
+  - id: 1030533
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e115011ae3f6f54f
+    name: "Страж Кристариума"
+  - id: 1030610
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c1c82b9d828de9d5
+    name: "Распорядитель таверны"
 
 - name:
     original: "In Search of Alphinaud"
