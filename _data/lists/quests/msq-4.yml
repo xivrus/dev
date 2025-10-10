@@ -121,9 +121,111 @@
   level: 60
   icon: 61412
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-024-stmbda102_02447/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=c2be42c4720801cc
-    quest_name: 
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=bf584cf47283b6c1
+  cutscenes:
+  - name: "Кат-сцена"
+    start: "000510"
+    end: "000530"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-040-voiceman_04000/
+  actors:
+  - id: 1011887
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cd379fadf38ce2ae
+    name: "Альфино"
+  - id: 1011889
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ad7b108d02c9e80e
+    name: "Я'штола"
+  - id: 1015833
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d237db6491bd6ad1
+    name: "Крайл"
+  - id: 1017687
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=160c04a80e3370af
+    name: "Ализе"
+  - id: 1020308
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=176fddee90d1e012
+    name: "Крайл"
+  - id: 1020309
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bac0c8c8e920e807
+    name: "Альфино"
+  - id: 1020310
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=de18a43fa1524e0b
+    name: "Ализе"
+  - id: 1020311
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7c1a71097ea6d7e3
+    name: "Лиз"
+  - id: 1020312
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b2a10662825aea78
+    name: "Я'штола"
+  - id: 1020313
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e7686bc822ae0c0c
+    name: "Крайл"
+  - id: 1020314
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=943841b3cd1fc7d1
+    name: "Альфино"
+  - id: 1020315
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fe6af26a1e646b9a
+    name: "Ализе"
+  - id: 1020316
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3970a30225976981
+    name: "Лиз"
+  - id: 1020317
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8881cd1a87dd02f3
+    name: "Я'штола"
+  - id: 1020318
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=86329105df7f05d6
+    name: "Крайл"
+  - id: 1020319
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bfaa8e0e35c61ffe
+    name: "Альфино"
+  - id: 1020320
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=da911f5390871a88
+    name: "Ализе"
+  - id: 1020321
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5c6a8cb3eca9f7ca
+    name: "Лиз"
+  - id: 1020322
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=30d5d01f2b983f43
+    name: "Я'штола"
+  - id: 1020323
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e4a57e01d4079681
+    name: "Крайл"
+  - id: 1020324
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e9c3b79de2dbcab6
+    name: "Альфино"
+  - id: 1020325
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=50e4cfc3fa3c1ea9
+    name: "Ализе"
+  - id: 1020326
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=62ca3c89b2520869
+    name: "Лиз"
+  - id: 1020327
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a0775baba83521f5
+    name: "Я'штола"
+  - id: 1020328
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5e1676875aceae5d
+    name: "Крайл"
+  - id: 1020329
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5cd0393d6ab8e034
+    name: "Конрад"
+  - id: 1020330
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7ca289df0de85ac6
+    name: "М'нааго"
+  - id: 1020331
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=079cce369bcbadd0
+    name: "Меффрид"
+  - id: 1020495
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d42cab9ca12fff22
+    name: "Я'штола"
+  - id: 1020525
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7e2e68eaecf6633a
+    name: "Альфино"
+  - id: 1020526
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1ede4c5e9e09b45b
+    name: "Ализе"
+  - id: 1020527
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=81187338021d2285
+    name: "Лиз"
 
 - name:
     original: "The Promise of a New Beginning"
