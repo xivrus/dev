@@ -1779,39 +1779,9 @@
   level: 4
   icon: 61412
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-005-manwil005_00550/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=0a8e1bc386e00ccc
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=315e6aefedf019a0
-  cutscenes:
-  - name: "Кат-сцена"
-    start: "200240"
-    end: "200320"
-    url: https://translate.xivrus.ru/projects/xivrus/quest-004-manfst005_00445/
-  actors:
-  - id: 1003995
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=090420d74a277701
-    name: "Папашан"
-  - id: 1003996
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=757e107e1908ec26
-    name: "Лалафель в тюрбане"
-  - id: 1004001
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e06005f93b038366
-    name: "Лилира"
-  - id: 1006167
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d6657b7f4e41793d
-    name: "侍女A"
-  - id: 1006168
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9d661811e18c5f1b
-    name: "近衛A"
-  - id: 1006169
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7aa2d3be0121d852
-    name: "近衛B"
-  - id: 1006170
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d70f0f2775bf3ffc
-    name: "近衛C"
-  - id: 1006171
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cc4349aae3efdbc4
-    name: "Лилира"
+    quest_name: 
 
 - name:
     original: "Step Nine"
@@ -5334,8 +5304,18 @@
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=4d06f3d43fb3d250
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=59e771e8df607c30
   actors:
-  - id: 0
-  - id: 0
+  - id: 1006384
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7645ca9384cab703
+    name: "Оршефан"
+  - id: 1006412
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b70f998acab186f6
+    name: "Рикман"
+  - id: 1006413
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ff9d7ee02e45b3d8
+    name: "Апатичный перевозчик"
+  - id: 1006414
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5e2dbce84db0fb28
+    name: "Прямодушный перевозчик"
   quest_items:
   - id: 2000711
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=272962eb165dfad7
