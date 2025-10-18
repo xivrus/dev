@@ -1865,9 +1865,60 @@
   level: 56
   icon: 62408
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-021-jobsmn560_02103/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=4b30066c61bc6700
-    quest_name: 
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=60f25e56f997bf7c
+  actors:
+  - id: 1006756
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=608c1b499e43e45a
+    name: "Я'митра"
+  - id: 1013845
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c1ba4b995c38e5a1
+    name: "Dancing Wolf"
+  - id: 1014027
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ea932d5519197181
+    name: "Я'митра"
+  - id: 1014028
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=44bc03341c45e34e
+    name: "Dancing Wolf"
+  - id: 1014032
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7d755db8efcd7c95
+    name: "Я'митра"
+  - id: 1014033
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6024e63904807eff
+    name: "Dancing Wolf"
+  - id: 1014034
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1751ad3c5e72849d
+    name: "courier decoy"
+  - id: 1014036
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=25832d9410d53dfe
+    name: "Я'митра"
+  - id: 1014037
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=be85b61bae4a2644
+    name: "Dancing Wolf"
+  - id: 1014632
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f726779cfab9ad16
+    name: "Образ Ифрита"
+  - id: 1014636
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fb78739a03e3048a
+    name: "Асцианец Двенадцатой Чаши"
+  - id: 1014921
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4fc0204fd490d9df
+    name: "Я'митра"
+  - id: 1014922
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d4abee4610bf1bd7
+    name: "Образ Ифрита"
+  enemies:
+  - id: 1402
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=f7d23cf8fac9589a
+    name: "Образ Ифрита"
+  - id: 4124
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=7648a2aa7232c2c3
+    name: "ebon-clad summoner"
+  eobjects:
+  - id: 2005972
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=d3d7bc360a8e8d71
+    name: "Цель"
 
 - name:
     original: "I Could Have Tranced All Night"
