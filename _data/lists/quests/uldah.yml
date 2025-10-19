@@ -322,6 +322,7 @@
 
 - name:
     original: "Leves of Camp Drybone"
+    translated: "Поручения Сухих Костей"
   level: 15
   icon: 61419
   url:
@@ -335,6 +336,7 @@
 
 - name:
     original: "A Dying Wish"
+    translated: "Предсмертное желание"
   level: 17
   icon: 61411
   url:
@@ -347,7 +349,7 @@
     name: "Тутуси"
   - id: 1004575
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0956b37fd4dadae6
-    name: "Zozoru"
+    name: "Зозору"
   enemies:
   - id: 2050
     url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=91fa979eb3f25295
@@ -925,7 +927,7 @@
     name: "Эрмигарда"
   - id: 1004575
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0956b37fd4dadae6
-    name: "Zozoru"
+    name: "Зозору"
   - id: 1006355
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8debde10da514338
     name: "Отец Илиуд"
