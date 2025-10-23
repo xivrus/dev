@@ -5326,9 +5326,13 @@
   level: 50
   icon: 62412
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-021-jobdrk299_02110/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=536ab2e9bfdbccbe
-    quest_name: 
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=c56b807163833863
+  actors:
+  - id: 1014873
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9afe1f98704a15db
+    name: "Горожанин Ишгарда"
 
 - name:
     original: "Our End"
@@ -5563,15 +5567,8 @@
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b2df92a188c84a55
     name: "Непреклонный рыцарь"
   enemies:
-  - id: 787
-    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=55f354887496cda3
-    name: "Великан-провидец"
-  - id: 4394
-    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=6c1a2af961c809f6
-    name: "Гигант-носильщик"
-  - id: 4395
-    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=329fd10eb3f68352
-    name: "Гигант-каменщик"
+  - id: 0
+  - id: 0
   eobjects:
   - id: 2006305
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=5aa683e3fa1cfc10
