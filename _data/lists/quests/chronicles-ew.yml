@@ -230,8 +230,24 @@
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=df9ec0b6f26b3517
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=16834b5aa45404e9
   actors:
-  - id: 0
-  - id: 0
+  - id: 1038064
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b24908ff2fb5accb
+    name: "Темис"
+  - id: 1043489
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5471742e3967bac7
+    name: "Erichthonios"
+  - id: 1043490
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=880603ac4aef0deb
+    name: "Themis"
+  - id: 1043491
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e1cf5d2b57ff07b2
+    name: "Erichthonios"
+  - id: 1043492
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2cde637b64a7e1c3
+    name: "Themis"
+  - id: 1043493
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=03acccb490f91fd4
+    name: "Lahabrea"
 
 - name:
     original: "A Keyward's Gaol"
