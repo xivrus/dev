@@ -2218,9 +2218,34 @@
   level: 15
   icon: 61411
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-052-fespdx001_05237/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=96dcc415aedc42e4
-    quest_name: 
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=df6c1585ad873209
+  actors:
+  - id: 1051884
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=52a2a8e5bd18ad93
+    name: "Королевский сенешаль"
+  - id: 1051889
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a535b01f896ee1c5
+    name: "Пико"
+  - id: 1051890
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a23d4fd2ba18f42b
+    name: "Марабель"
+  - id: 1051891
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=56cbc6e9ba2c73e3
+    name: "Охотница за скидками"
+  - id: 1051892
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f1f76ebed404fa14
+    name: "Богато одетая дворянка"
+  - id: 1051893
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d1eb03a7924d0858
+    name: "Отдыхающая официантка"
+  - id: 1051894
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7df320fce4edef79
+    name: "Пико"
+  - id: 1052039
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=165af2a9df0793c2
+    name: "Пико"
 
 - name:
     original: "A Princely Debut"
