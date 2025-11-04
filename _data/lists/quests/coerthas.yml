@@ -1994,27 +1994,9 @@
   level: 56
   icon: 61411
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-018-heavnz624_01892/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=1bbf7079a4a484d3
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=d37498c56944971e
-  actors:
-  - id: 1014133
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bf024f316861e78b
-    name: "sly scout"
-  - id: 1014146
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=978e5de3af1567de
-    name: "Margyt"
-  enemies:
-  - id: 4055
-    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=2e5efc0e8449e6f1
-    name: "vengeful archaeornis"
-  eobjects:
-  - id: 2006019
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=62c2d6eddbc381a6
-    name: "decaying wyvern"
-  - id: 2006181
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=e6bca9b7e7a74a72
-    name: "decaying wyvern"
+    quest_name: 
 
 - name:
     original: "A Noble Purpose"
