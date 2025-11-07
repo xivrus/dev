@@ -10823,9 +10823,19 @@
   level: 15
   icon: 61413
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-031-fesxms402_03174/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=bfc73db0735bf9ac
-    quest_name: 
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=da8785c979749c72
+  actors:
+  - id: 1026629
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bf7f3dac365a6076
+    name: "Ванефельд"
+  - id: 1026630
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2551ffce33ab60ec
+    name: "Помощник Звёздного Света"
+  - id: 1026631
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=301e33e89f2025fe
+    name: "Сотрудник Звёздного Света"
 
 - name:
     original: "Theatgrhythdaniam"
