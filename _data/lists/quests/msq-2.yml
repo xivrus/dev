@@ -8125,9 +8125,37 @@
   level: 50
   icon: 61412
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-014-gaiuse311_01452/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=5f29654b54db9a41
-    quest_name: 
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=11099cdd213e87d4
+  cutscenes:
+  - name: "Кат-сцена 1"
+    start: "800010"
+    end: "800210"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-023-voiceman_02300/
+  - name: "Кат-сцена 2"
+    start: "900010"
+    end: "900070"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-023-voiceman_02300/
+  actors:
+  - id: 1009097
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e2ef9f99d550b342
+    name: "Лейтенант Ордена Двух Змей"
+  - id: 1009116
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d8a6d9980585059e
+    name: "Ида"
+  - id: 1009117
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3f4eba53b30b55e5
+    name: "Максио"
+  - id: 1009119
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ae615af15817222e
+    name: "Папалимо"
+  - id: 1009120
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4a6d583cdd435b4a
+    name: "Танкред"
+  - id: 1009121
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2a38e5fb44a32202
+    name: "Я'штола"
 
 - name:
     original: "What Little Gods Are Made Of"
