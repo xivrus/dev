@@ -89,6 +89,10 @@ quest_list: hildibrand
 
 <ul markdown="0">
 	{% include quest.liquid quest_name = "The Case of the Displaced Inspector" %}
+	{% include quest.liquid quest_name = "Wizened Testimony" %}
+	{% include quest.liquid quest_name = "The Case of the Fiendish Fugitives" %}
+	{% include quest.liquid quest_name = "A Vandal in the Wild" %}
+	{% include quest.liquid quest_name = "On the Trail of Destruction" %}
 </ul>
 
 _Продолжение следует..._

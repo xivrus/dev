@@ -731,6 +731,12 @@ quest_list: seasonal
 
 ## Праздник Звёздного Света / Starlight Celebration {#starlight-celebration}
 
+### 2025 {#starlight-celebration-2025}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "We Three Kinderpunsch" %}
+</ul>
+
 ### 2024 {#starlight-celebration-2024}
 
 <ul markdown="0">

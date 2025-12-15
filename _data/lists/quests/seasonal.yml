@@ -9886,6 +9886,88 @@
     name: "warding lantern"
 
 - name:
+    original: "We Three Kinderpunsch"
+  level: 15
+  icon: 61411
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-052-fesxmx101_05231/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=c197bc7cfb47496d
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=9d266a8ede1b044d
+  actors:
+  - id: 1033617
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=807455c402ad40cc
+    name: "Миунна"
+  - id: 1040594
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b9e8ee8af2b41862
+    name: "Руди"
+  - id: 1040595
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f7aab0306d441b38
+    name: "Риссай"
+  - id: 1045739
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a8fb17ff7ec334fe
+    name: "Святой Нимейя"
+  - id: 1054219
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=029d7d25001be339
+    name: "Joultain"
+  - id: 1054220
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=daa788e97d9b93e7
+    name: "bright girl"
+  - id: 1054221
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b9b4a33eba82e6c5
+    name: "quiet girl"
+  - id: 1054222
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4818f615897faee4
+    name: "amiable boy"
+  - id: 1054223
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=29d2db0ea1addd5b
+    name: "bold boy"
+  - id: 1054224
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8af5f9946086e370
+    name: "saturnine Starlight Celebrant"
+  - id: 1054361
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5c5f01914cf81dab
+    name: "Amh Garanjy"
+  - id: 1054362
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bbc56b8460f08a0c
+    name: "Amh Garanjy"
+  - id: 1054363
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f4861113e6f6a4c2
+    name: "Starlight Stalls guide"
+  - id: 1054364
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e7c7111535044b91
+    name: "Starlight Stalls guide"
+  - id: 1054365
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8c079024ee71e4a8
+    name: "Lominsan chef"
+  - id: 1054366
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=35ce80f03f98664b
+    name: "Ul'dahn lady"
+  - id: 1054367
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a7f05bab1e20cedb
+    name: "Ul'dahn merchant"
+  - id: 1054368
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0306ab2b4c368654
+    name: "Joultain"
+  - id: 1054369
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=31ba6399c72d9361
+    name: "Joultain"
+  - id: 1054370
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=efa04b2aa6a65605
+    name: "bright girl"
+  - id: 1054371
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=837472997dfdb5e2
+    name: "quiet girl"
+  - id: 1054374
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0cd14134c68fc1bc
+    name: "saturnine Starlight celebrant"
+  - id: 1054381
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=97b32767c1533953
+    name: "Starlight celebrant"
+  - id: 1054382
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=daead49831ba9d9d
+    name: "Starlight celebrant"
+
+- name:
     original: "Reach for the Stalls"
     translated: "Ярмарка под звёздами"
   level: 15
