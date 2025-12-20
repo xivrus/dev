@@ -4,8 +4,261 @@
   level: 70
   icon: 61412
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-032-luckma101_03279/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-031-stmbdf104_03182/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=77fd17eb4c98a08c
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=1cd7142b42eeb39f
+  cutscenes:
+  - name: "Кат-сцена 1"
+    start: "001800"
+    end: "002010"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-045-voiceman_04500/
+  - name: "Кат-сцена 2"
+    start: "002020"
+    end: "002420"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-045-voiceman_04500/
+  - name: "Кат-сцена 3"
+    start: "002430"
+    end: "002970"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-045-voiceman_04500/
+  actors:
+  - id: 1025000
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3093e008eb443f96
+    name: "Хакуро"
+  - id: 1025354
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d304623bef3b39c3
+    name: "Страж Кинкана"
+  - id: 1025545
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2d2ad91e1a7c75ae
+    name: "Югири"
+  - id: 1025597
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=54031625df3c054f
+    name: "Хиен"
+  - id: 1026259
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cc2a04d0e8f1e6e6
+    name: "Ализе"
+  - id: 1026804
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=362be6dc7928a353
+    name: "Боец Сопротивления"
+  - id: 1026805
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=03f3f616f607fa29
+    name: "Лиз"
+  - id: 1026806
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c8e4b3bb09ef01f7
+    name: "Робанн"
+  - id: 1026807
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=66ea4389a2ca079f
+    name: "Ализе"
+  - id: 1026808
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fc70ea69951f2fc2
+    name: "Хиен"
+  - id: 1026815
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=48d158750b838aa0
+    name: "Ализе"
+  - id: 1026816
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e89429ad8ce663b9
+    name: "Кан-Э-Сенна"
+  - id: 1026817
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=33dee4716b0cdf48
+    name: "Мёлвиб"
+  - id: 1026818
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=911e360fba030300
+    name: "Нанамо Ул Намо"
+  - id: 1026819
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f1f210c405272917
+    name: "Робанн"
+  - id: 1026820
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=413315e07a61eb3e
+    name: "Лиз"
+  - id: 1026821
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=42b77ccff811fab7
+    name: "Хиен"
+  - id: 1026822
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=02919ee068041163
+    name: "Эмерик"
+  - id: 1026823
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=41d13f4c2bbb69ba
+    name: "Лиз"
+  - id: 1026984
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f52854a02166124b
+    name: "Боец Сопротивления"
+  - id: 1027000
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cfd69adf9dc400a9
+    name: "Хиен"
+  - id: 1027001
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=73775a586996582a
+    name: "Ализе"
+
+- name:
+    original: "City of the First"
+    translated: "Город Первого"
+  level: 70
+  icon: 61412
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-031-stmbdf105_03183/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=a1208fbc823103e5
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=f1bb34fcb258ade9
+  cutscenes:
+  - name: "Кат-сцена 1"
+    start: "002980"
+    end: "003201"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-045-voiceman_04500/
+  - name: "Кат-сцена 2"
+    start: "003210"
+    end: "003320"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-045-voiceman_04500/
+  actors:
+  - id: 1026804
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=362be6dc7928a353
+    name: "Боец Сопротивления"
+  - id: 1026808
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fc70ea69951f2fc2
+    name: "Хиен"
+  - id: 1026823
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=41d13f4c2bbb69ba
+    name: "Лиз"
+  - id: 1026825
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=35d1c733bd0a39f2
+    name: "Робанн"
+  - id: 1026845
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=558f87c8285a63e8
+    name: "Робанн"
+  - id: 1026846
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=43125f2925c701e0
+    name: "Белый Валун"
+  - id: 1026958
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ece675749bcef401
+    name: "Командир Сопротивления"
+
+- name:
+    original: "Travelers of Norvrandt"
+    translated: "Странники Норврандта"
+  level: 70
+  icon: 61412
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-031-stmbdg101_03184/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=31ff061329eedc96
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=2fe22f0159f92c52
+  actors:
+  - id: 1026794
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d2cc44723645c85a
+    name: "Максима"
+  - id: 1026797
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=610cc43386278857
+    name: "Сид"
+  - id: 1026798
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ddfd2a77d279d713
+    name: "Максима"
+  - id: 1026804
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=362be6dc7928a353
+    name: "Боец Сопротивления"
+  - id: 1026846
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=43125f2925c701e0
+    name: "Белый Валун"
+
+- name:
+    original: "In Search of Alphinaud"
+    translated: "В поисках Альфино"
+  level: 70
+  icon: 61412
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-031-stmbdg102_03185/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=b1b503b64536149d
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=12fbd2803a18d988
+  cutscenes:
+  - name: "Кат-сцена 1"
+    start: "003330"
+    end: "003515"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-045-voiceman_04505/
+  - name: "Кат-сцена 2"
+    start: "003640"
+    end: "003690"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-045-voiceman_04505/
+  - name: "Кат-сцена 3"
+    start: "003700"
+    end: "003810"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-045-voiceman_04505/
+  - name: "Кат-сцена 4"
+    start: "003820"
+    end: "004010"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-045-voiceman_04505/
+  - name: "Кат-сцена 5"
+    start: "004020"
+    end: "004190"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-045-voiceman_04505/
+  - name: "Кат-сцена 6"
+    start: "004200"
+    end: "004320"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-045-voiceman_04505/
+  - name: "Кат-сцена 7"
+    start: "004330"
+    end: "004380"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-045-voiceman_04505/
+  actors:
+  - id: 1012163
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3c22da614a3d1fec
+    name: "Ондолье"
+  - id: 1012337
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1fbee80bd83dca23
+    name: "Дворецкий Фортамов"
+  - id: 1017026
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c86d0c076661ed49
+    name: "Сальетта"
+  - id: 1018138
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cf965ee650559dae
+    name: "Эмманельен"
+  - id: 1018139
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ccdd7f031aa7f0df
+    name: "Онорье"
+  - id: 1020622
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=91c1cc54b8e02b5f
+    name: "Хэнкок"
+  - id: 1026787
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=861d6685a8f29f32
+    name: "Граф Эдмонт де Фортам"
+  - id: 1026804
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=362be6dc7928a353
+    name: "Боец Сопротивления"
+  - id: 1026845
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=558f87c8285a63e8
+    name: "Робанн"
+  - id: 1026990
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=11d2bdbb6c7d4581
+    name: "Татару"
+
+- name:
+    original: "In Search of Alisaie"
+    translated: "В поисках Ализе"
+  level: 70
+  icon: 61412
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-032-luckma206_03287/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=c4c4dd0f453238e4
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=eada65634d0d889c
+  actors:
+  - id: 1029312
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=04ada986b8277ee0
+    name: "Пылкий слуга"
+  - id: 1029832
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=033abecae111d13d
+    name: "Альфино"
+  - id: 1029833
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=691e338a34b9f08a
+    name: "Дружелюбная женщина"
+  - id: 1029834
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=dd1a15fef6f85cce
+    name: "Пылкий слуга"
+  - id: 1029836
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=eaef866c016dd9d7
+    name: "Пылкий слуга"
+
+- name:
+    original: "A Still Tide"
+    translated: "Недвижные Волны"
+  level: 70
+  icon: 61412
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-032-luckma101_03279/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=1dbb0b019d57a6c1
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=483382ed251ca96e
   cutscenes:
   - name: "Кат-сцена 1"
@@ -72,13 +325,13 @@
     name: "Резкая стражница"
 
 - name:
-    original: "City of the First"
-    translated: "Город Первого"
+    original: "Open Arms, Closed Gate"
+    translated: "Раскрытые Объятия, закрытые врата"
   level: 70
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-032-luckma102_03280/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=a1208fbc823103e5
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=055f0cd1ea444750
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=6d9ff3d7f354cb8b
   actors:
   - id: 1027224
@@ -114,13 +367,13 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=44c7e4432bd60728
 
 - name:
-    original: "Travelers of Norvrandt"
-    translated: "Странники Норврандта"
+    original: "A Fickle Existence"
+    translated: "Жалкое существование"
   level: 70
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-032-luckma103_03281/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=31ff061329eedc96
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=0977762c99c7a480
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=909cad713e85bf90
   cutscenes:
   - name: "Кат-сцена 1"
@@ -163,13 +416,13 @@
     name: "Распорядитель таверны"
 
 - name:
-    original: "In Search of Alphinaud"
-    translated: "В поисках Альфино"
+    original: "City of Final Pleasures"
+    translated: "Город последних наслаждений"
   level: 70
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-032-luckma201_03282/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=b1b503b64536149d
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=0c308c4234178740
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=24379a1453f42500
   cutscenes:
   - name: "Кат-сцена"
@@ -196,56 +449,13 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=4c8a98218688a6bf
 
 - name:
-    original: "In Search of Alisaie"
-    translated: "В поисках Ализе"
-  level: 70
-  icon: 61412
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-032-luckma301_03291/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=c4c4dd0f453238e4
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=ce7ffe829d3f7762
-  cutscenes:
-  - name: "Кат-сцена"
-    start: "003310"
-    end: "003340"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-050-voiceman_05000/
-  actors:
-  - id: 1027854
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cbd67c75733fd79b
-    name: "Кассард"
-  - id: 1028124
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ad465f17554ed591
-    name: "Кассард"
-  - id: 1028923
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=816b1a2668babdc3
-    name: "Экзарх"
-  - id: 1028961
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=27072258f6ee7033
-    name: "Кассард"
-  - id: 1028962
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a884fbb7c3dca9af
-    name: "Кассард"
-  - id: 1028963
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f239a2ae5f9a0619
-    name: "Кассард"
-  quest_items:
-  - id: 2002542
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=4349d7a175bc1780
-    name: "Запечатанное письмо"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=4349d7a175bc1780
-  eobjects:
-  - id: 2009842
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=98f0e6c6acdab928
-    name: "Цель"
-
-- name:
-    original: "A Still Tide"
-    translated: "Недвижные Волны"
+    original: "Free to Sightsee"
+    translated: "Свободный наблюдатель"
   level: 70
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-032-luckma202_03283/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=1dbb0b019d57a6c1
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=8956dccc25091681
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=dce57d236760fda0
   cutscenes:
   - name: "Кат-сцена"
@@ -289,13 +499,13 @@
     name: "Запертая дверь"
 
 - name:
-    original: "Open Arms, Closed Gate"
-    translated: "Раскрытые Объятия, закрытые врата"
+    original: "A Taste of Honey"
+    translated: "Вкус мёда"
   level: 70
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-032-luckma203_03284/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=055f0cd1ea444750
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=6ec4b60ac7086b84
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=ea922e8551b4a961
   cutscenes:
   - name: "Кат-сцена"
@@ -340,13 +550,13 @@
     name: "Булькающий котёл"
 
 - name:
-    original: "A Fickle Existence"
-    translated: "Жалкое существование"
+    original: "A Blessed Instrument"
+    translated: "Благословенный голос"
   level: 70
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-032-luckma204_03285/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=0977762c99c7a480
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=e1a75e00e962d245
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=34bd51d373a772e8
   cutscenes:
   - name: "Кат-сцена"
@@ -400,13 +610,13 @@
     name: "Отыщите мистела!"
 
 - name:
-    original: "City of Final Pleasures"
-    translated: "Город последних наслаждений"
+    original: "Emergent Splendor"
+    translated: "Невероятная роскошь"
   level: 70
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-032-luckma205_03286/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=0c308c4234178740
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=9a5c4f7dc33854a3
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=762ef40beb8874b8
   cutscenes:
   - name: "Кат-сцена 1"
@@ -490,39 +700,13 @@
     name: "Душ"
 
 - name:
-    original: "Free to Sightsee"
-    translated: "Свободный наблюдатель"
-  level: 70
-  icon: 61412
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-032-luckma206_03287/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=8956dccc25091681
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=eada65634d0d889c
-  actors:
-  - id: 1029312
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=04ada986b8277ee0
-    name: "Пылкий слуга"
-  - id: 1029832
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=033abecae111d13d
-    name: "Альфино"
-  - id: 1029833
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=691e338a34b9f08a
-    name: "Дружелюбная женщина"
-  - id: 1029834
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=dd1a15fef6f85cce
-    name: "Пылкий слуга"
-  - id: 1029836
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=eaef866c016dd9d7
-    name: "Пылкий слуга"
-
-- name:
-    original: "A Taste of Honey"
-    translated: "Вкус мёда"
+    original: "City of the Mord"
+    translated: "Морд, город в пустыне"
   level: 70
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-032-luckma207_03288/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=6ec4b60ac7086b84
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=11f70a598b8a8482
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=6dbe3e3a21f77e64
   actors:
   - id: 1026568
@@ -551,13 +735,13 @@
     name: "Пылкий слуга"
 
 - name:
-    original: "A Blessed Instrument"
-    translated: "Благословенный голос"
+    original: "Working Off the Meal"
+    translated: "Работа за еду"
   level: 70
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-032-luckma208_03289/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=e1a75e00e962d245
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=2f070958f6da4f20
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=6e73fd3d081eaef6
   actors:
   - id: 1027588
@@ -592,13 +776,13 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=12eec5ac2c9e157f
 
 - name:
-    original: "Emergent Splendor"
-    translated: "Невероятная роскошь"
+    original: "A Desert Crossing"
+    translated: "Путь через пустыню"
   level: 70
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-032-luckma209_03290/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=9a5c4f7dc33854a3
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=41de0e22e9faa6b0
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=65f40837b8f39360
   cutscenes:
   - name: "Кат-сцена"
@@ -653,13 +837,56 @@
     name: "Альфино"
 
 - name:
-    original: "City of the Mord"
-    translated: "Морд, город в пустыне"
+    original: "Following in Her Footprints"
+    translated: "По её следам"
+  level: 70
+  icon: 61412
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-032-luckma301_03291/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=93279f81a6726215
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=ce7ffe829d3f7762
+  cutscenes:
+  - name: "Кат-сцена"
+    start: "003310"
+    end: "003340"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-050-voiceman_05000/
+  actors:
+  - id: 1027854
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cbd67c75733fd79b
+    name: "Кассард"
+  - id: 1028124
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ad465f17554ed591
+    name: "Кассард"
+  - id: 1028923
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=816b1a2668babdc3
+    name: "Экзарх"
+  - id: 1028961
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=27072258f6ee7033
+    name: "Кассард"
+  - id: 1028962
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a884fbb7c3dca9af
+    name: "Кассард"
+  - id: 1028963
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f239a2ae5f9a0619
+    name: "Кассард"
+  quest_items:
+  - id: 2002542
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=4349d7a175bc1780
+    name: "Запечатанное письмо"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=4349d7a175bc1780
+  eobjects:
+  - id: 2009842
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=98f0e6c6acdab928
+    name: "Цель"
+
+- name:
+    original: "Culling Their Ranks"
+    translated: "Проредить стаи"
   level: 70
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-032-luckma302_03292/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=11f70a598b8a8482
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=8c5623f1875d9aa3
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=899db19adb5e47c0
   cutscenes:
   - name: "Кат-сцена"
@@ -706,13 +933,13 @@
     name: "Осмотрите товары!"
 
 - name:
-    original: "Working Off the Meal"
-    translated: "Работа за еду"
+    original: "A Purchase of Fruit"
+    translated: "За фруктами"
   level: 70
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-032-luckma303_03293/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=2f070958f6da4f20
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=1616a45a71cf431a
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=5f38ff4f80b8055f
   actors:
   - id: 1028124
@@ -772,13 +999,13 @@
     name: "Стопка ящиков с оружием"
 
 - name:
-    original: "A Desert Crossing"
-    translated: "Путь через пустыню"
+    original: "The Time Left to Us"
+    translated: "Отведённое нам время"
   level: 70
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-032-luckma304_03294/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=41de0e22e9faa6b0
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=3fd01c32c766c50e
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=99e5e255b47df02b
   actors:
   - id: 1028976
@@ -815,13 +1042,13 @@
     name: "Цель"
 
 - name:
-    original: "Following in Her Footprints"
-    translated: "По её следам"
+    original: "Tears on the Sand"
+    translated: "Слёзы на песке"
   level: 70
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-032-luckma305_03295/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=93279f81a6726215
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=26093bc0ca6b6396
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=8e47a9660d0b6b40
   cutscenes:
   - name: "Кат-сцена"
@@ -853,13 +1080,13 @@
     name: "Маленькие следы"
 
 - name:
-    original: "Culling Their Ranks"
-    translated: "Проредить стаи"
+    original: "The Lightwardens"
+    translated: "Стражи Света"
   level: 70
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-032-luckma306_03296/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=8c5623f1875d9aa3
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=6b635cb574d0b254
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=dc11261b66cb5df9
   actors:
   - id: 1029001
@@ -890,13 +1117,13 @@
     name: "Цель"
 
 - name:
-    original: "A Purchase of Fruit"
-    translated: "За фруктами"
+    original: "Warrior of Darkness"
+    translated: "Воин Тьмы"
   level: 70
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-032-luckma307_03297/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=1616a45a71cf431a
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=533cb48c86763653
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=6a68d14aee476435
   cutscenes:
   - name: "Кат-сцена"
@@ -947,13 +1174,13 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=78d8a1dc503a2553
 
 - name:
-    original: "The Time Left to Us"
-    translated: "Отведённое нам время"
+    original: "An Unwelcome Guest"
+    translated: "Нежеланные гости"
   level: 70
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-032-luckma308_03298/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=3fd01c32c766c50e
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=d9ec96bde1319055
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=04aec21360dd30e6
   cutscenes:
   - name: "Кат-сцена 1"
@@ -1017,13 +1244,13 @@
     name: "Цель"
 
 - name:
-    original: "Tears on the Sand"
-    translated: "Слёзы на песке"
+    original: "The Crystarium's Resolve"
+    translated: "Кристариумно ясно"
   level: 70
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-032-luckma309_03299/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=26093bc0ca6b6396
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=5b10e740f74d9bc2
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=610ec0b4164730a7
   actors:
   - id: 1026567
@@ -1067,13 +1294,13 @@
     name: "Альфино"
 
 - name:
-    original: "The Lightwardens"
-    translated: "Стражи Света"
+    original: "Logistics of War"
+    translated: "Военная логистика"
   level: 71
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckma401_03300/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=6b635cb574d0b254
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=25638dbd88072192
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=94d02c053a89d79a
   cutscenes:
   - name: "Кат-сцена 1"
@@ -1131,13 +1358,13 @@
     name: "Лина"
 
 - name:
-    original: "Warrior of Darkness"
-    translated: "Воин Тьмы"
+    original: "The Oracle of Light"
+    translated: "Оракул Света"
   level: 71
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckma402_03301/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=533cb48c86763653
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=78cff980db3e835b
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=876efb7eab301043
   cutscenes:
   - name: "Кат-сцена 1"
@@ -1218,13 +1445,13 @@
     name: "Гиотт"
 
 - name:
-    original: "An Unwelcome Guest"
-    translated: "Нежеланные гости"
+    original: "Il Mheg, the Faerie Kingdom"
+    translated: "Ил Мегг, королевство фей"
   level: 72
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmb101_03302/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=d9ec96bde1319055
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=e9885679f24ee410
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=e577dd6d7f2a715c
   cutscenes:
   - name: "Кат-сцена"
@@ -1279,13 +1506,13 @@
     name: "Неохватный шкаф"
 
 - name:
-    original: "The Crystarium's Resolve"
-    translated: "Кристариумно ясно"
+    original: "Sul Uin's Request"
+    translated: "Просьба Сул Юн"
   level: 72
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmb102_03303/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=5b10e740f74d9bc2
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=4258208933976ea1
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=9c1f960a5b3966ce
   cutscenes:
   - name: "Кат-сцена"
@@ -1321,13 +1548,13 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=6661dca33b42414a
 
 - name:
-    original: "Logistics of War"
-    translated: "Военная логистика"
+    original: "Ys Iala's Errand"
+    translated: "Задачка Ис Ялы"
   level: 72
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmb103_03304/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=25638dbd88072192
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=a4dc6d744632cdc8
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=b2fd774f66f73c6a
   actors:
   - id: 1027246
@@ -1359,13 +1586,13 @@
     name: "Спокойный амаро"
 
 - name:
-    original: "The Oracle of Light"
-    translated: "Оракул Света"
+    original: "Oul Sigun's Plea"
+    translated: "Просьба Оль Сигун"
   level: 72
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmb104_03305/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=78cff980db3e835b
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=445020adfaf9fa88
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=b519683321d9d2fd
   cutscenes:
   - name: "Кат-сцена 1"
@@ -1422,13 +1649,13 @@
     name: "Корм с добавкой"
 
 - name:
-    original: "Il Mheg, the Faerie Kingdom"
-    translated: "Ил Мегг, королевство фей"
+    original: "Unto the Truth"
+    translated: "Скрытые истины"
   level: 72
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmb105_03306/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=e9885679f24ee410
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=2c19cd6a0949cd57
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=82bd94efe870f1f5
   cutscenes:
   - name: "Кат-сцена"
@@ -1482,13 +1709,13 @@
     desc: "Магия феи овладелавами и теперь ваша воля не полностью принадлежит вам."
 
 - name:
-    original: "Sul Uin's Request"
-    translated: "Просьба Сул Юн"
+    original: "Courting Cooperation"
+    translated: "Заручаясь поддержкой"
   level: 72
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmb106_03307/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=4258208933976ea1
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=b4273d610c8fb87b
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=f1a934d46b4225e2
   actors:
   - id: 1027654
@@ -1511,13 +1738,13 @@
     name: "Цель"
 
 - name:
-    original: "Ys Iala's Errand"
-    translated: "Задачка Ис Ялы"
+    original: "The Key to the Castle"
+    translated: "Ключ от замка"
   level: 72
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmb107_03308/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=a4dc6d744632cdc8
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=11042c178785443d
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=a13eb166b53646a6
   actors:
   - id: 1027655
@@ -1541,13 +1768,13 @@
     name: "Звондерево"
 
 - name:
-    original: "Oul Sigun's Plea"
-    translated: "Просьба Оль Сигун"
+    original: "A Visit to the Nu Mou"
+    translated: "В гости к ну моу"
   level: 72
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmb108_03309/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=445020adfaf9fa88
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=ab9474e9fb32ac44
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=27b1f21748a9b407
   actors:
   - id: 1027656
@@ -1574,13 +1801,13 @@
     name: "Лиственный человечек"
 
 - name:
-    original: "Unto the Truth"
-    translated: "Скрытые истины"
+    original: "A Fitting Payment"
+    translated: "Вот так сделка"
   level: 72
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmb109_03310/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=2c19cd6a0949cd57
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=0378db6774cacedd
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=76334d44844e8b69
   cutscenes:
   - name: "Кат-сцена 1"
@@ -1631,13 +1858,13 @@
     name: "Цель"
 
 - name:
-    original: "Courting Cooperation"
-    translated: "Заручаясь поддержкой"
+    original: "Spore Sweeper"
+    translated: "Чистка спор"
   level: 72
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmb110_03311/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=b4273d610c8fb87b
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=daa948a5074cab30
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=0558d7c275ff68b1
   cutscenes:
   - name: "Кат-сцена 1"
@@ -1695,13 +1922,13 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=f722cfe1513eca87
 
 - name:
-    original: "The Key to the Castle"
-    translated: "Ключ от замка"
+    original: "The Lawless Ones"
+    translated: "Беззаконие"
   level: 73
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmb111_03312/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=11042c178785443d
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=f71f827adb98f93e
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=ed407f31a2364232
   cutscenes:
   - name: "Кат-сцена 1"
@@ -1758,13 +1985,13 @@
     name: "Неприкасаемые врата"
 
 - name:
-    original: "A Visit to the Nu Mou"
-    translated: "В гости к ну моу"
+    original: "The Elder's Answer"
+    translated: "Ответ старейшины"
   level: 73
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmb112_03313/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=ab9474e9fb32ac44
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=1fef1146c702a8e9
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=e3a3b2d76c6bdb50
   actors:
   - id: 1029162
@@ -1798,13 +2025,13 @@
     desc: "Заклинание предотвращает обнаружение существами фей."
 
 - name:
-    original: "A Fitting Payment"
-    translated: "Вот так сделка"
+    original: "A Resounding Roar"
+    translated: "Могучий рык"
   level: 73
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmb113_03314/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=0378db6774cacedd
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=9c6e818499ac539f
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=23c53aec3407f526
   actors:
   - id: 1029564
@@ -1833,13 +2060,13 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=7d498ba1b29871a1
 
 - name:
-    original: "Spore Sweeper"
-    translated: "Чистка спор"
+    original: "Memento of a Friend"
+    translated: "Память о друге"
   level: 73
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmb114_03315/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=daa948a5074cab30
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=77f1a8dbca6bb600
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=daa5a6d538f1fab4
   actors:
   - id: 1029573
@@ -1863,13 +2090,13 @@
     name: "Огнеспора"
 
 - name:
-    original: "The Lawless Ones"
-    translated: "Беззаконие"
+    original: "Acht-la Ormh Inn"
+    translated: "«Акх-ла орм инн»"
   level: 73
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmb115_03316/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=f71f827adb98f93e
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=4d6f0c127bbbd5b0
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=faa638c2e42ae3a7
   cutscenes:
   - name: "Кат-сцена"
@@ -1906,13 +2133,13 @@
     name: "Невидимые чернила"
 
 - name:
-    original: "The Elder's Answer"
-    translated: "Ответ старейшины"
+    original: "The Wheel Turns"
+    translated: "Поворот судьбы"
   level: 73
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmb116_03317/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=1fef1146c702a8e9
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=95aedc1835fcba4f
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=2edc5d06eda11f1a
   actors:
   - id: 1027666
@@ -1950,13 +2177,13 @@
     name: "Громадный амаро"
 
 - name:
-    original: "A Resounding Roar"
-    translated: "Могучий рык"
+    original: "A Party Soon Divided"
+    translated: "Скорое расставание"
   level: 73
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmb117_03318/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=9c6e818499ac539f
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=c661436c971af518
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=1de5247ec49eca7f
   actors:
   - id: 1027690
@@ -1992,13 +2219,13 @@
     name: "Прощённая лживость"
 
 - name:
-    original: "Memento of a Friend"
-    translated: "Память о друге"
+    original: "A Little Faith"
+    translated: "Обломки веры"
   level: 73
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmb118_03319/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=77f1a8dbca6bb600
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=d51712848587cac8
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=fd1081a07f1cad12
   cutscenes:
   - name: "Кат-сцена"
@@ -2035,13 +2262,13 @@
     name: "Блестящий объект"
 
 - name:
-    original: "Acht-la Ormh Inn"
-    translated: "«Акх-ла орм инн»"
+    original: "Into the Dark"
+    translated: "Во тьму"
   level: 73
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmb119_03320/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=4d6f0c127bbbd5b0
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=ac870bd4a527251c
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=cb1b790415ac43c2
   cutscenes:
   - name: "Кат-сцена 1"
@@ -2086,13 +2313,13 @@
     name: "Цель"
 
 - name:
-    original: "The Wheel Turns"
-    translated: "Поворот судьбы"
+    original: "A Day in the Neighborhood"
+    translated: "Один день из жизни Братьев Ночи"
   level: 73
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmb120_03321/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=95aedc1835fcba4f
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=1b7a18a48c1592b7
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=0ae6c4532863e02e
   cutscenes:
   - name: "Кат-сцена 1"
@@ -2142,13 +2369,13 @@
     name: "Распорядитель таверны"
 
 - name:
-    original: "A Party Soon Divided"
-    translated: "Скорое расставание"
+    original: "A Helping Hand"
+    translated: "Рука помощи"
   level: 74
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmc101_03322/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=c661436c971af518
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=8115ac50c69f0187
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=28f2edf85dc9c09f
   cutscenes:
   - name: "Кат-сцена"
@@ -2188,13 +2415,13 @@
     name: "Ализе"
 
 - name:
-    original: "A Little Faith"
-    translated: "Обломки веры"
+    original: "Lost but Not Forgotten"
+    translated: "Вечная память"
   level: 74
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmc102_03323/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=d51712848587cac8
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=289e9776a0522e4d
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=be054137f83b7d56
   actors:
   - id: 1026569
@@ -2255,13 +2482,13 @@
     name: "Отыщите потёртую табличку!"
 
 - name:
-    original: "Into the Dark"
-    translated: "Во тьму"
+    original: "Saying Good-bye"
+    translated: "Прощание"
   level: 74
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmc103_03324/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=ac870bd4a527251c
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=d48748efc62ea350
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=45a57471038449b8
   cutscenes:
   - name: "Кат-сцена 1"
@@ -2346,13 +2573,13 @@
     name: "Цель"
 
 - name:
-    original: "A Day in the Neighborhood"
-    translated: "Один день из жизни Братьев Ночи"
+    original: "Stirring Up Trouble"
+    translated: "Разворошенный улей"
   level: 74
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmc104_03325/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=1b7a18a48c1592b7
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=986de1613ea3fc9b
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=22c0733458b0f85b
   actors:
   - id: 1026572
@@ -2387,13 +2614,13 @@
     name: "Бабуля"
 
 - name:
-    original: "A Helping Hand"
-    translated: "Рука помощи"
+    original: "A Beeautiful Plan"
+    translated: "Жужжащий план"
   level: 74
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmc105_03326/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=8115ac50c69f0187
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=bea1f24a2d4adf76
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=6e846b94dbbcce7a
   actors:
   - id: 1026572
@@ -2431,13 +2658,13 @@
     desc: "Переноска предмета в руках и утомление с каждой секундой."
 
 - name:
-    original: "Lost but Not Forgotten"
-    translated: "Вечная память"
+    original: "An Unwanted Proposal"
+    translated: "Неприятное предложение"
   level: 74
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmc106_03327/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=289e9776a0522e4d
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=5d45212ed3f696aa
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=0c990ddfc3c7cb17
   actors:
   - id: 1026572
@@ -2503,13 +2730,13 @@
     name: "Куча листьев"
 
 - name:
-    original: "Saying Good-bye"
-    translated: "Прощание"
+    original: "Put to the Proof"
+    translated: "Если ты друг, входи"
   level: 74
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmc107_03328/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=d48748efc62ea350
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=43c964ff8dff1608
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=7eb6d43bff056add
   cutscenes:
   - name: "Кат-сцена"
@@ -2555,13 +2782,13 @@
     name: "Цель"
 
 - name:
-    original: "Stirring Up Trouble"
-    translated: "Разворошенный улей"
+    original: "Into the Wood"
+    translated: "В чащу"
   level: 74
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmc108_03329/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=986de1613ea3fc9b
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=6c14d226b53aee56
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=7ffaba10f041b6b0
   actors:
   - id: 1026569
@@ -2647,13 +2874,13 @@
     name: "Улей"
 
 - name:
-    original: "A Beeautiful Plan"
-    translated: "Жужжащий план"
+    original: "Top of the Tree"
+    translated: "На верхушке дерева"
   level: 74
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmc109_03330/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=bea1f24a2d4adf76
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=c3f2d7d256bcbe71
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=1abcb809a8a2b623
   cutscenes:
   - name: "Кат-сцена"
@@ -2704,13 +2931,13 @@
     name: "Осмотрите фрески!"
 
 - name:
-    original: "An Unwanted Proposal"
-    translated: "Неприятное предложение"
+    original: "Look to the Stars"
+    translated: "Взгляд на звёзды"
   level: 74
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmc110_03331/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=5d45212ed3f696aa
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=6b7aeb97b4a88d07
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=5bd577ddbd368656
   cutscenes:
   - name: "Кат-сцена 1"
@@ -2759,13 +2986,13 @@
     name: "Цель"
 
 - name:
-    original: "Put to the Proof"
-    translated: "Если ты друг, входи"
+    original: "Mi Casa, Toupasa"
+    translated: "Дом мудреца Топаса"
   level: 74
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmc111_03332/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=43c964ff8dff1608
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=99656d4f4f1d3d45
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=3683874bc83ccd5a
   actors:
   - id: 1026569
@@ -2829,13 +3056,13 @@
     desc: "Древняя порча наносит периодический урон."
 
 - name:
-    original: "Into the Wood"
-    translated: "В чащу"
+    original: "Legend of the Not-so-hidden Temple"
+    translated: "Легенда о... не таком уж и скрытом храме"
   level: 75
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmc112_03333/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=6c14d226b53aee56
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=f538ec2b10fbe191
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=246bb3ed29b80daa
   cutscenes:
   - name: "Кат-сцена"
@@ -2894,13 +3121,13 @@
     name: "Цель"
 
 - name:
-    original: "Top of the Tree"
-    translated: "На верхушке дерева"
+    original: "The Aftermath"
+    translated: "После"
   level: 75
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmc113_03334/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=c3f2d7d256bcbe71
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=fe94d005495a1d7b
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=c75d99eb683c6b86
   actors:
   - id: 1026569
@@ -2967,13 +3194,13 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=a1d25ccc09ac0c76
 
 - name:
-    original: "Look to the Stars"
-    translated: "Взгляд на звёзды"
+    original: "In Good Faith"
+    translated: "Добрые надежды"
   level: 75
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmc114_03335/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=6b7aeb97b4a88d07
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=82a03d5ee1abcc83
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=2121efe36bf696d8
   actors:
   - id: 1026571
@@ -3057,13 +3284,13 @@
     name: "Статуя опо-опо"
 
 - name:
-    original: "Mi Casa, Toupasa"
-    translated: "Дом мудреца Топаса"
+    original: "The Burden of Knowledge"
+    translated: "Достойные того, чтобы знать правду"
   level: 75
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmc115_03336/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=99656d4f4f1d3d45
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=163053bd7b98d240
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=5b4bee078493eeeb
   actors:
   - id: 1026571
@@ -3113,13 +3340,13 @@
     desc: "Переноска предмета в руках и утомление с каждой секундой."
 
 - name:
-    original: "Legend of the Not-so-hidden Temple"
-    translated: "Легенда о... не таком уж и скрытом храме"
+    original: "Bearing with It"
+    translated: "Нелёгкая правда"
   level: 75
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmc116_03337/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=f538ec2b10fbe191
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=d16706393cdcb2d9
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=d1d1cbe801f84101
   cutscenes:
   - name: "Кат-сцена"
@@ -3150,13 +3377,13 @@
     name: "Симет"
 
 - name:
-    original: "The Aftermath"
-    translated: "После"
+    original: "Out of the Wood"
+    translated: "Путь из леса"
   level: 75
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmc117_03338/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=fe94d005495a1d7b
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=3543e0739d79ce4f
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=d17bf5d255f6a928
   actors:
   - id: 1026569
@@ -3205,13 +3432,13 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=8961f06b206f6c26
 
 - name:
-    original: "In Good Faith"
-    translated: "Добрые надежды"
+    original: "When It Rains"
+    translated: "Под дождём"
   level: 75
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmc118_03339/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=82a03d5ee1abcc83
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=260f0f77c2e87a27
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=a25e51a490f13334
   cutscenes:
   - name: "Кат-сцена 1"
@@ -3273,13 +3500,13 @@
     name: "Резонирующее место"
 
 - name:
-    original: "The Burden of Knowledge"
-    translated: "Достойные того, чтобы знать правду"
+    original: "Word from On High"
+    translated: "Голос свыше"
   level: 75
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmc119_03340/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=163053bd7b98d240
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=024bc5668965415b
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=e0943328abe2e254
   cutscenes:
   - name: "Кат-сцена"
@@ -3368,13 +3595,13 @@
     name: "Вход в Китарский лабиринт"
 
 - name:
-    original: "Bearing with It"
-    translated: "Нелёгкая правда"
+    original: "Small Favors"
+    translated: "Дела малые"
   level: 75
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmc120_03341/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=d16706393cdcb2d9
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=4d93912169f9497c
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=6b5f1f67379a8843
   cutscenes:
   - name: "Кат-сцена"
@@ -3429,13 +3656,13 @@
     name: "Урианже"
 
 - name:
-    original: "Out of the Wood"
-    translated: "Путь из леса"
+    original: "The Best Way Out"
+    translated: "Лучший выход из положения"
   level: 76
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-033-luckmc121_03342/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=3543e0739d79ce4f
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=61ef0894a0a5df51
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=c7cb8da599945e41
   cutscenes:
   - name: "Кат-сцена 1"
@@ -3501,13 +3728,13 @@
     name: "Цель"
 
 - name:
-    original: "When It Rains"
-    translated: "Под дождём"
+    original: "Free Trade"
+    translated: "Свободная торговля"
   level: 76
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmd101_03606/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=260f0f77c2e87a27
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=b39f2f1c6a06ca66
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=f233f9b0325de5f6
   cutscenes:
   - name: "Кат-сцена 1"
@@ -3558,13 +3785,13 @@
     name: "Якорь"
 
 - name:
-    original: "Word from On High"
-    translated: "Голос свыше"
+    original: "The Trolley Problem"
+    translated: "Проблема с железной дорогой"
   level: 76
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmd102_03607/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=024bc5668965415b
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=b34dc1f91b7e4664
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=bebf50bc887cf0dd
   cutscenes:
   - name: "Кат-сцена"
@@ -3601,13 +3828,13 @@
     name: "Умирающий стражник"
 
 - name:
-    original: "Small Favors"
-    translated: "Дела малые"
+    original: "Rust and Ruin"
+    translated: "Ржавчина и разруха"
   level: 76
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmd103_03608/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=4d93912169f9497c
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=3b1b65565a031045
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=d996b87602bbc1d4
   actors:
   - id: 1026569
@@ -3669,112 +3896,79 @@
     name: "Пахучее растение"
 
 - name:
-    original: "The Best Way Out"
-    translated: "Лучший выход из положения"
-  level: 76
+    original: "On Track"
+    translated: "Рельсы, рельсы"
+  level: 95
   icon: 61412
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmd104_03609/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=61ef0894a0a5df51
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=2dac556da357088a
-  cutscenes:
-  - name: "Кат-сцена 1"
-    start: "000450"
-    end: "000870"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-050-voiceman_05003/
-  - name: "Кат-сцена 2"
-    start: "000880"
-    end: "000910"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-050-voiceman_05003/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-049-kingmd102_04913/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=87d4e5e26bd89172
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=12324dacacea52ab
   actors:
-  - id: 1026567
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=730f10e257ed7e99
-    name: "Ализе"
-  - id: 1026568
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6872e138009be976
-    name: "Альфино"
-  - id: 1026569
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=eebbe52cc1c6cd48
-    name: "Танкред"
-  - id: 1026570
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8f486062c613186c
-    name: "Урианже"
-  - id: 1026571
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4194cfef98c18e5f
-    name: "Я'штола"
-  - id: 1026572
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3707ba648792178b
-    name: "Минфилия"
-  - id: 1028305
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0eaf527b024fc43b
-    name: "Хардисс"
-  - id: 1028923
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=816b1a2668babdc3
-    name: "Экзарх"
-  - id: 1029016
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cc012346c64ecb50
-    name: "Альфино"
-  - id: 1029597
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=24ab0cf66191cb97
-    name: "Минфилия"
-  - id: 1029598
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=270f87edca02929c
-    name: "Урианже"
-  - id: 1029609
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=759c703d23376edc
-    name: "Минфилия"
-  - id: 1029610
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bf4bcb06ae3a893c
-    name: "Я'штола"
-  - id: 1029611
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0c5ad74c088bc066
-    name: "Танкред"
-  - id: 1029612
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2e878a7967f58c8f
-    name: "Минфилия"
-  - id: 1029613
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d56797d12aacb021
-    name: "Урианже"
-  - id: 1029614
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=17d97be12755b43b
-    name: "Минфилия"
-  - id: 1029615
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d0031f2246582e7b
-    name: "Танкред"
-  - id: 1029616
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=267352d398c57f56
-    name: "Урианже"
-  - id: 1029853
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ba69132334b7d45e
-    name: "Танкред"
-  - id: 1030367
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e131582bbae1860c
-    name: "Эмет-Селх"
-  - id: 1030564
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=10dc18d3bdca0d51
-    name: "Ализе"
-  - id: 1031597
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6f93102902a1e6a9
-    name: "Танкред"
-  - id: 1031598
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6863ee95e113253c
-    name: "Минфилия"
-  - id: 1031599
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7acc9eb77ba650b4
-    name: "Урианже"
-  eobjects:
-  - id: 2009903
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=b95ef33e81a7ec01
-    name: "Цель"
+  - id: 1036997
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=242dfd4ea228c4b5
+    name: "Эренвилль"
+  - id: 1046949
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=86397f57d75f6b5c
+    name: "Загорелый хозяин стойл"
+  - id: 1046952
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=77b57be8d0daadd9
+    name: "Эренвилль"
+  - id: 1046953
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=527f23e90812b5e1
+    name: "Дородный работник"
+  - id: 1046954
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b1ba7e02d02360ce
+    name: "Эренвилль"
+  - id: 1046957
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=98979576c2c26f72
+    name: "Шетона с синими волосами"
+  - id: 1046958
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7177cba281ef589b
+    name: "Эренвилль"
+  - id: 1046963
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4fdc000b4f4e1e07
+    name: "Намикка"
+  - id: 1046964
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fb0073e7c7c72cc8
+    name: "Эренвилль"
+  - id: 1046965
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a34c87311051015d
+    name: "Эренвилль"
+  - id: 1046991
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c169804a735e3fd3
+    name: "Ийаате"
+  - id: 1047302
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f58013ea37fafd57
+    name: "Вук Ламат"
+  - id: 1047348
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f28edaef66474686
+    name: "Намикка"
+  - id: 1050928
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=04cb18ff64e8aaa7
+    name: "Бандит тонававта"
+  - id: 1050929
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=58e5b9fbf433e54a
+    name: "Бандит хетсарро"
+  - id: 1050930
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e0bd62567dd7c435
+    name: "Бандит тонававта"
+  enemies:
+  - id: 13515
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=f23c7c8b4468a6a0
+    name: "Головорез хетсарро"
+  - id: 13516
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=abc80a3ed18b7595
+    name: "Головорез тонававта"
 
 - name:
-    original: "Free Trade"
-    translated: "Свободная торговля"
+    original: "Down for Maintenance"
+    translated: "Техническое обслуживание"
   level: 76
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmd105_03610/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=b39f2f1c6a06ca66
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=bb898fb830f40b31
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=cb25dbb4bdd89248
   actors:
   - id: 1026569
@@ -3834,13 +4028,13 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=f4f3125a9a0a87e7
 
 - name:
-    original: "The Trolley Problem"
-    translated: "Проблема с железной дорогой"
+    original: "The Truth Hurts"
+    translated: "Суровая правда"
   level: 76
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmd106_03611/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=b34dc1f91b7e4664
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=fb0468a388747ec7
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=429c3402af694573
   actors:
   - id: 1026569
@@ -3928,13 +4122,13 @@
     name: "Чашка"
 
 - name:
-    original: "Rust and Ruin"
-    translated: "Ржавчина и разруха"
+    original: "A Convenient Distraction"
+    translated: "Отвлекающая задачка"
   level: 76
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmd107_03612/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=3b1b65565a031045
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=09a3d900c9934cab
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=a31e7d8b4fb7f6b4
   actors:
   - id: 1026569
@@ -4012,74 +4206,73 @@
     name: "Длинношеий форускос"
 
 - name:
-    original: "On Track"
-    translated: "Рельсы, рельсы"
-  level: 95
+    original: "A Dirty Job"
+    translated: "Грязная работёнка"
+  level: 76
   icon: 61412
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-049-kingmd106_04917/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=87d4e5e26bd89172
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=ad852665dd843d97
-  cutscenes:
-  - name: "Кат-сцена"
-    start: "001080"
-    end: "001360"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-070-voiceman_07003/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmd108_03613/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=9e8753e52951ac1a
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=4879b157a8e3415f
   actors:
-  - id: 1036997
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=242dfd4ea228c4b5
-    name: "Эренвилль"
-  - id: 1046965
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a34c87311051015d
-    name: "Эренвилль"
-  - id: 1046975
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c13516c04df97b91
-    name: "Эренвилль"
-  - id: 1046976
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=33a354684de16e4a
-    name: "Зекова"
-  - id: 1046980
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2c8bcb28a022605c
-    name: "Железнодорожный инженер"
-  - id: 1046981
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ad57115b055622b8
-    name: "Эренвилль"
-  - id: 1046982
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6344d5fd0ea1b928
-    name: "Эренвилль"
-  - id: 1046983
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=16499fccf80fffd0
-    name: "Шенза"
-  - id: 1046984
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2563caf0a49909ba
-    name: "Завпья"
-  - id: 1046985
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4188d756d20fbd3d
-    name: "Нитовикве"
-  - id: 1046991
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c169804a735e3fd3
-    name: "Ийаате"
-  - id: 1048057
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c59ba3dc7bae03a8
-    name: "Намикка"
-  - id: 1049677
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=aef8c3a6c7bf3806
-    name: "Зекова"
-  - id: 1050391
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4f017a3d3da3cd52
-    name: "Квикана"
-  - id: 1050392
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=de328d8a377fc1d0
-    name: "Ливине"
+  - id: 1028871
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=78b544d71d7083e6
+    name: "Джерик"
+  - id: 1029635
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=abac1bc304ab66a5
+    name: "Магнус"
+  - id: 1029636
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3646f1e5ce9fce7b
+    name: "Танкред"
+  - id: 1029637
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=08b45bc00abdaf12
+    name: "Минфилия"
+  - id: 1029638
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f1bf47b91a28449d
+    name: "Урианже"
+  - id: 1029639
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5379166a911ec0f4
+    name: "Таффе"
+  - id: 1029640
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d9e8d875f95a2a71
+    name: "Джерик"
+  - id: 1029641
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d92b0824bf0d149f
+    name: "Джерик"
+  - id: 1029642
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=42e5aa5af7339b38
+    name: "Джерик"
+  - id: 1029643
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f9e5226ee4fd5dac
+    name: "Джерик"
+  enemies:
+  - id: 8450
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=5ff6afc9771c86b5
+    name: "Пустынный стервятник"
+  quest_items:
+  - id: 2002559
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=041c06a0d6e29ea8
+    name: "Огромный ящик с инструментами"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=041c06a0d6e29ea8
+  eobjects:
+  - id: 2009910
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=cdb74ddf10c5c0f3
+    name: "Гнездо стервятника"
+  - id: 2009911
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=e8e82dd119cfd266
+    name: "Гнездо стервятника"
+  - id: 2009912
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=ba0257249612e6f3
+    name: "Гнездо стервятника"
 
 - name:
-    original: "Down for Maintenance"
-    translated: "Техническое обслуживание"
+    original: "Have a Heart"
+    translated: "Дела сердечные"
   level: 76
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmd109_03614/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=bb898fb830f40b31
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=9a972286abcebd50
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=2d7ca36304225fac
   actors:
   - id: 1026569
@@ -4123,13 +4316,13 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=9ee50a7fd917bd5d
 
 - name:
-    original: "The Truth Hurts"
-    translated: "Суровая правда"
+    original: "Full Steam Ahead"
+    translated: "Полный вперёд"
   level: 76
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmd110_03615/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=fb0468a388747ec7
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=5eece32fe1829826
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=e4eef6f963229b78
   cutscenes:
   - name: "Кат-сцена"
@@ -4172,74 +4365,132 @@
     name: "Минфилия"
 
 - name:
-    original: "A Convenient Distraction"
-    translated: "Отвлекающая задачка"
-  level: 77
+    original: "Crossroads"
+    translated: "На перепутье"
+  level: 100
   icon: 61412
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmd111_03616/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=09a3d900c9934cab
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=5788c3e47db5c8df
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-052-kingmg103_05246/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=214493dc10818f61
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=cbc30915569cc94e
+  cutscenes:
+  - name: "Кат-сцена"
+    start: "000380"
+    end: "000720"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-071-voiceman_07100/
   actors:
-  - id: 1026569
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=eebbe52cc1c6cd48
-    name: "Танкред"
-  - id: 1028148
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2639ce42c188580b
-    name: "Гутйон"
-  - id: 1029649
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f11bc253ae754c19
-    name: "Урианже"
-  - id: 1029650
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=675c96a5daca8c9d
-    name: "Минфилия"
-  - id: 1029651
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=601ca8922526ec68
-    name: "Таффе"
-  - id: 1029754
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d3bc4b490d2d7d9b
-    name: "Магнус"
-  - id: 1029755
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5f703cc374a52b2c
-    name: "Танкред"
-  - id: 1029756
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=dd24a7f9af17dbc2
-    name: "Танкред"
-  - id: 1029757
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f8705ab154230f05
-    name: "Гутйон"
-  - id: 1029758
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9906d830e6e02ef2
-    name: "Танкред"
+  - id: 1047302
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f58013ea37fafd57
+    name: "Вук Ламат"
+  - id: 1048161
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b4027241e0ee19a2
+    name: "Шейл"
+  - id: 1052185
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5b13875a31afe624
+    name: "Гулуул Джа"
+  - id: 1052198
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bfe9c584477a94bd
+    name: "Вук Ламат"
+  - id: 1052199
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a17c7db9a22b9bc1
+    name: "Альфино"
+  - id: 1052200
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7f4e65c06600ef28
+    name: "Ализе"
+  - id: 1052201
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0561f5ffd7e64e36
+    name: "Крайл"
+  - id: 1052202
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f01709f3afdb31f6
+    name: "Г'раха Тиа"
+  - id: 1052203
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d7e4bbf40ef9a645
+    name: "Гулуул Джа"
+  - id: 1052204
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e775eb90f1e04f32
+    name: "Разговорчивая шетона"
+  - id: 1052205
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6710435f2c0c388f
+    name: "Тонававта средних лет"
+  - id: 1052206
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ceea9aaa3e2521fb
+    name: "Юный тонававта"
+  - id: 1052207
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c829e0e982efd0b3
+    name: "Гулуул Джа"
+  - id: 1052208
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ea364eb3d45eadfe
+    name: "Вук Ламат"
+  - id: 1052209
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c237e13b58a6216d
+    name: "Альфино"
+  - id: 1052210
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e1d03876912de0c7
+    name: "Ализе"
+  - id: 1052211
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ad3264d5957acf77
+    name: "Крайл"
+  - id: 1052212
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bbc880991c886414
+    name: "Г'раха Тиа"
+  - id: 1052213
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=17528d91f867b1a6
+    name: "Гулуул Джа"
+  - id: 1052214
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cfa6c4ace7ce53ec
+    name: "Вук Ламат"
+  - id: 1052215
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e1fea486a9d7f520
+    name: "Альфино"
+  - id: 1052216
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=da1d0ed1d8a434e1
+    name: "Ализе"
+  - id: 1052217
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f28b752f54602b53
+    name: "Крайл"
+  - id: 1052218
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0a9ed0ca98f6fdb0
+    name: "Г'раха Тиа"
+  - id: 1052240
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8a56bd2aae82825a
+    name: "Килуса"
+  - id: 1052346
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=21e1d9a7bb6c989f
+    name: "Вук Ламат"
+  - id: 1052347
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=635673402141ab51
+    name: "Альфино"
+  - id: 1052348
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8e527690567e4f9e
+    name: "Ализе"
+  - id: 1052349
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0c27c9c011bd44ae
+    name: "Крайл"
+  - id: 1052350
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=88293ea6044823f6
+    name: "Г'раха Тиа"
   quest_items:
-  - id: 2002561
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=ed65257214c8e958
-    name: "Вебуртский чекан"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=ed65257214c8e958
-  eobjects:
-  - id: 2009913
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=0594c13233ec1099
-    name: "Густые тени"
-  - id: 2009914
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=9548c775e564b80f
-    name: "Густые тени"
-  - id: 2009915
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=fc09f2a25562195c
-    name: "Густые тени"
-  statuses:
-  - id: 1152
-    url: https://translate.xivrus.ru/translate/xivrus/status/ru/?checksum=06e517f87a09ae7b
-    name: "Darksight"
-    desc: "Можно видеть при слабом освещении."
+  - id: 2003712
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=34148fb11503a891
+    name: "«Мамулджа-женщина»"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=34148fb11503a891
+  - id: 2003713
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=f122281c4f1d6b72
+    name: "«Преданное Зораалу Джа поселение»"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=f122281c4f1d6b72
+  - id: 2003714
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=4ff35c606790811d
+    name: "«Битва с видраалем до появления купола»"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=4ff35c606790811d
 
 - name:
-    original: "A Dirty Job"
-    translated: "Грязная работёнка"
+    original: "A Fresh Start"
+    translated: "Начнём с чистого листа"
   level: 77
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmd112_03617/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=9e8753e52951ac1a
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=834096951327ec2f
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=47c01deefb5d3b15
   cutscenes:
   - name: "Кат-сцена"
@@ -4311,13 +4562,13 @@
     name: "Обломки"
 
 - name:
-    original: "Have a Heart"
-    translated: "Дела сердечные"
+    original: "More than a Hunch"
+    translated: "Не просто предчувствие"
   level: 77
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmd113_03618/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=9a972286abcebd50
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=6564b5f19f99d786
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=dd2332c979e6d245
   cutscenes:
   - name: "Кат-сцена 1"
@@ -4390,13 +4641,13 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=0348d407f350d538
 
 - name:
-    original: "Full Steam Ahead"
-    translated: "Полный вперёд"
+    original: "Return to Eulmore"
+    translated: "Возвращение в Юлмор"
   level: 77
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmd114_03619/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=5eece32fe1829826
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=fe4adc66bb096352
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=31933572ebcf3768
   cutscenes:
   - name: "Кат-сцена 1"
@@ -4476,94 +4727,71 @@
     name: "Джерик"
 
 - name:
-    original: "Crossroads"
-    translated: "На перепутье"
-  level: 100
+    original: "A Feast of Lies"
+    translated: "Пир лжи"
+  level: 77
   icon: 61412
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-052-kingmg107_05250/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=214493dc10818f61
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=05773671b5f8e128
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmd115_03620/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=5cfa4d6cb99dfef3
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=7fa5684bf15ff5a1
   cutscenes:
   - name: "Кат-сцена 1"
-    start: "001470"
-    end: "001910"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-071-voiceman_07100/
+    start: "002440"
+    end: "002440"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-050-voiceman_05003/
   - name: "Кат-сцена 2"
-    start: "001920"
-    end: "002370"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-071-voiceman_07100/
+    start: "002450"
+    end: "002840"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-050-voiceman_05003/
   - name: "Кат-сцена 3"
-    start: "002380"
-    end: "002420"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-071-voiceman_07100/
+    start: "002850"
+    end: "003160"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-050-voiceman_05003/
   actors:
-  - id: 1026571
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4194cfef98c18e5f
+  - id: 1027137
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=37204e9408aa1b56
+    name: "Рин"
+  - id: 1029775
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=51d85c981b2fb3b0
+    name: "Минфилия"
+  - id: 1029776
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3d3f9785f88cde7b
+    name: "Минфилия"
+  - id: 1029777
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=99ccc1fba792fcd0
+    name: "Минфилия"
+  - id: 1029778
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5b9db245605748d2
+    name: "Танкред"
+  - id: 1029779
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7edde0b3290802ca
+    name: "Урианже"
+  - id: 1029780
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9c9de336509231f9
     name: "Я'штола"
-  - id: 1047302
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f58013ea37fafd57
-    name: "Вук Ламат"
-  - id: 1047677
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4836000d1a1d4c4b
-    name: "Геод"
-  - id: 1048161
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b4027241e0ee19a2
-    name: "Шейл"
-  - id: 1052261
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9b763d900352fdb1
-    name: "Вук Ламат"
-  - id: 1052262
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=345a2afe6ffb8cce
-    name: "Эренвилль"
-  - id: 1052264
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ebcd172a6303f97e
-    name: "Г'раха Тиа"
-  - id: 1052265
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3565b574ece9ea4b
-    name: "Вук Ламат"
-  - id: 1052266
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=06d18e10bdbc8a49
-    name: "Эренвилль"
-  - id: 1052267
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f7a33461ef70085f
-    name: "Крайл"
-  - id: 1052268
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8020d1ab032c636d
-    name: "Гулуул Джа"
-  - id: 1052269
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=294369e42175fc21
-    name: "Я'штола"
-  - id: 1052270
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bf4238c729474529
-    name: "Гулуул Джа"
-  - id: 1052271
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9881f88228eda439
-    name: "Геод"
-  - id: 1052272
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7b9d8a3a1a134cf7
-    name: "Вук Ламат"
-  - id: 1052273
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=276d8dd3ddf62c89
+  - id: 1029781
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=aa498f9d0e21d573
     name: "Альфино"
-  - id: 1052274
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c14a05e10a930eda
+  - id: 1029782
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=24b94b1d37dc1591
     name: "Ализе"
-  - id: 1052521
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ab03c866778b1c67
-    name: "Г'раха Тиа"
-  - id: 1052522
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d47093af80aeb0d9
-    name: "Эренвилль"
+  - id: 1031600
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=604fcced4b9a5630
+    name: "Минфилия"
+  eobjects:
+  - id: 2009921
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=a802dd5e06d11109
+    name: "Цель"
 
 - name:
-    original: "A Fresh Start"
-    translated: "Начнём с чистого листа"
+    original: "Paradise Fallen"
+    translated: "Разрушенный рай"
   level: 77
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmd116_03621/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=834096951327ec2f
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=7251b2688fe93770
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=1baf4ed4350949c3
   cutscenes:
   - name: "Кат-сцена"
@@ -4649,13 +4877,13 @@
     name: "Цель"
 
 - name:
-    original: "More than a Hunch"
-    translated: "Не просто предчувствие"
+    original: "The Ladder"
+    translated: "Ступень в небо"
   level: 77
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmd117_03622/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=6564b5f19f99d786
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=819c561ff42078ea
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=d29233374373a42f
   cutscenes:
   - name: "Кат-сцена"
@@ -4698,13 +4926,13 @@
     name: "Распорядитель таверны"
 
 - name:
-    original: "Return to Eulmore"
-    translated: "Возвращение в Юлмор"
+    original: "The View from Above"
+    translated: "Вид с высоты"
   level: 77
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckme101_03630/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=fe4adc66bb096352
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=003806f3d05e6cb1
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=443bb3211ca89a5a
   cutscenes:
   - name: "Кат-сцена"
@@ -4757,13 +4985,13 @@
     name: "Зомбированный житель"
 
 - name:
-    original: "A Feast of Lies"
-    translated: "Пир лжи"
+    original: "In Mt. Gulg's Shadow"
+    translated: "В тени горы Гулг"
   level: 77
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckme102_03631/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=5cfa4d6cb99dfef3
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=939d87aa534db1e9
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=cd67334e2997e176
   cutscenes:
   - name: "Кат-сцена 1"
@@ -4847,13 +5075,13 @@
     name: "Обезумевший житель"
 
 - name:
-    original: "Paradise Fallen"
-    translated: "Разрушенный рай"
+    original: "A Gigantic Undertaking"
+    translated: "Масштабное начинание"
   level: 77
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckme103_03632/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=7251b2688fe93770
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=76486d5788767288
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=5a7d86574a39dd06
   cutscenes:
   - name: "Кат-сцена"
@@ -4901,13 +5129,13 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=0f4f5542be8b6e37
 
 - name:
-    original: "The Ladder"
-    translated: "Ступень в небо"
+    original: "Meet the Tholls"
+    translated: "Привет вам, Толлы"
   level: 78
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckme104_03633/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=819c561ff42078ea
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=78c4f2f57c03ff22
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=033f2c7d7f78beb6
   actors:
   - id: 1027288
@@ -4968,13 +5196,13 @@
     name: "Стопка древесины"
 
 - name:
-    original: "The View from Above"
-    translated: "Вид с высоты"
+    original: "A-Digging We Will Go"
+    translated: "Вперёд, копатели!"
   level: 78
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckme105_03634/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=003806f3d05e6cb1
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=b3190d8767b9b2cd
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=28997d80a3b42a77
   cutscenes:
   - name: "Кат-сцена"
@@ -5052,13 +5280,13 @@
     name: "Отыщите загадочного человека!"
 
 - name:
-    original: "In Mt. Gulg's Shadow"
-    translated: "В тени горы Гулг"
+    original: "The Duergar's Tewel"
+    translated: "Забой Дургара"
   level: 78
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckme106_03635/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=939d87aa534db1e9
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=84861f8fa42c9b25
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=21969a356f5a04c4
   cutscenes:
   - name: "Кат-сцена"
@@ -5124,13 +5352,13 @@
     name: "Цель"
 
 - name:
-    original: "A Gigantic Undertaking"
-    translated: "Масштабное начинание"
+    original: "Rich Veins of Hope"
+    translated: "Драгоценная жила надежды"
   level: 78
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckme107_03636/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=76486d5788767288
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=5223f63c5dbbd692
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=618ffac50b69ff01
   cutscenes:
   - name: "Кат-сцена"
@@ -5179,13 +5407,13 @@
     name: "Чай-Нузз"
 
 - name:
-    original: "Meet the Tholls"
-    translated: "Привет вам, Толлы"
+    original: "That None Shall Ever Again"
+    translated: "Только тебе под силу"
   level: 78
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckme108_03637/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=78c4f2f57c03ff22
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=cd974fee1704ba30
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=c17c8b2b8c41c890
   actors:
   - id: 1027296
@@ -5224,13 +5452,13 @@
     name: "Стрельни по дворфу!"
 
 - name:
-    original: "A-Digging We Will Go"
-    translated: "Вперёд, копатели!"
+    original: "A Breath of Respite"
+    translated: "Короткая передышка"
   level: 78
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckme109_03638/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=b3190d8767b9b2cd
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=53e2f795d414e724
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=6c95366b3dc06546
   actors:
   - id: 1027296
@@ -5253,13 +5481,13 @@
     name: "Корутт"
 
 - name:
-    original: "The Duergar's Tewel"
-    translated: "Забой Дургара"
+    original: "Extinguishing the Last Light"
+    translated: "Уничтожение последнего Света"
   level: 78
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckme110_03639/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=84861f8fa42c9b25
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=1b2084233c94e4d6
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=1691f3d6d84b44f2
   actors:
   - id: 1029406
@@ -5301,13 +5529,13 @@
     desc: "Тело пропускает свет, делая вас невидимым для противников."
 
 - name:
-    original: "Rich Veins of Hope"
-    translated: "Драгоценная жила надежды"
+    original: "Reassuring the Masses"
+    translated: "Унять страхи людей"
   level: 78
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckme111_03640/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=5223f63c5dbbd692
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=47b2400c9bb4bf87
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=07ef7082c56c2992
   actors:
   - id: 1027296
@@ -5365,13 +5593,13 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=1a67018a67e06390
 
 - name:
-    original: "That None Shall Ever Again"
-    translated: "Только тебе под силу"
+    original: "In His Garden"
+    translated: "В его саду"
   level: 78
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckme112_03641/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=cd974fee1704ba30
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=bf9abc4ab9c37c34
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=ac24a8ae7b447ed1
   actors:
   - id: 1030238
@@ -5404,13 +5632,13 @@
     name: "Знакомые украшения"
 
 - name:
-    original: "A Breath of Respite"
-    translated: "Короткая передышка"
+    original: "The Unbroken Thread"
+    translated: "Бесконечная нить"
   level: 78
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckme113_03642/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=53e2f795d414e724
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=d51963e7b7c9d744
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=9a7b1edbc2cacd39
   cutscenes:
   - name: "Кат-сцена"
@@ -5445,13 +5673,13 @@
     name: "Цель"
 
 - name:
-    original: "Extinguishing the Last Light"
-    translated: "Уничтожение последнего Света"
+    original: "To Storm-tossed Seas"
+    translated: "Глубокое синее море"
   level: 79
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckme114_03643/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=1b2084233c94e4d6
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=a67fd293a8805e41
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=bce1520909731428
   cutscenes:
   - name: "Кат-сцена 1"
@@ -5529,13 +5757,13 @@
     name: "Часовой Кристариума"
 
 - name:
-    original: "Reassuring the Masses"
-    translated: "Унять страхи людей"
+    original: "Waiting in the Depths"
+    translated: "Ожидание в глубинах"
   level: 79
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmf101_03644/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=47b2400c9bb4bf87
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=6312623e8ab25487
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=3ccff0ee559974c8
   actors:
   - id: 1027224
@@ -5558,13 +5786,13 @@
     name: "Глинард"
 
 - name:
-    original: "In His Garden"
-    translated: "В его саду"
+    original: "City of the Ancients"
+    translated: "Город Древних"
   level: 79
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmf102_03645/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=bf9abc4ab9c37c34
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=924ec0f5676eb19d
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=178a758790f200a4
   cutscenes:
   - name: "Кат-сцена"
@@ -5593,13 +5821,13 @@
     name: "Цель"
 
 - name:
-    original: "The Unbroken Thread"
-    translated: "Бесконечная нить"
+    original: "The Light of Inspiration"
+    translated: "Свет вдохновения"
   level: 79
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmf103_03646/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=d51963e7b7c9d744
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=68d66641f5e9b003
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=9c523a2e69ddbfea
   cutscenes:
   - name: "Кат-сцена 1"
@@ -5661,13 +5889,13 @@
     name: "Страж Кристариума"
 
 - name:
-    original: "To Storm-tossed Seas"
-    translated: "Глубокое синее море"
+    original: "The Illuminated Land"
+    translated: "Земли, залитые светом"
   level: 79
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmf104_03647/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=a67fd293a8805e41
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=7b56bd5c48af6e2a
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=7441b065f3fbe774
   cutscenes:
   - name: "Кат-сцена 1"
@@ -5752,13 +5980,13 @@
     name: "Путешествие в Пучину"
 
 - name:
-    original: "Waiting in the Depths"
-    translated: "Ожидание в глубинах"
+    original: "The End of a World"
+    translated: "Конец света"
   level: 79
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmf105_03648/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=6312623e8ab25487
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=2c4d1579d8545448
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=58654f8c2e648b4c
   actors:
   - id: 1026567
@@ -5839,13 +6067,13 @@
     name: "Синий пловец"
 
 - name:
-    original: "City of the Ancients"
-    translated: "Город Древних"
+    original: "A Greater Purpose"
+    translated: "Ради великой цели"
   level: 79
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmf106_03649/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=924ec0f5676eb19d
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=2cd8ffce985dbc1a
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=d0782c9c9252c778
   actors:
   - id: 1026571
@@ -5885,13 +6113,13 @@
     name: "Осмотрите здания!"
 
 - name:
-    original: "The Light of Inspiration"
-    translated: "Свет вдохновения"
+    original: "Shadowbringers"
+    translated: "Царство теней"
   level: 79
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmf107_03650/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=68d66641f5e9b003
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=c37a18bf7b7b228f
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=3e9922028fcb87a8
   actors:
   - id: 1027758
@@ -5908,13 +6136,13 @@
     name: "Гренольт"
 
 - name:
-    original: "The Illuminated Land"
-    translated: "Земли, залитые светом"
+    original: "Shaken Resolve"
+    translated: "Пошатнувшаяся решимость"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmf108_03651/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=7b56bd5c48af6e2a
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=a73ef5f49ecae8d5
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=366cc17557e2582f
   cutscenes:
   - name: "Кат-сцена 1"
@@ -6026,13 +6254,13 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=e678a5b0a9662bb2
 
 - name:
-    original: "The End of a World"
-    translated: "Конец света"
+    original: "A Grand Adventure"
+    translated: "Большое приключение"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmf109_03652/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=2c4d1579d8545448
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=9f82917b9d3e6f47
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=6869083a78dcc86f
   actors:
   - id: 1026567
@@ -6116,13 +6344,13 @@
     name: "Лифт вниз"
 
 - name:
-    original: "A Greater Purpose"
-    translated: "Ради великой цели"
+    original: "A Welcome Guest"
+    translated: "Долгожданный гость"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmf110_03653/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=2cd8ffce985dbc1a
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=4519a7a4f838e931
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=fffd0d107a76937f
   cutscenes:
   - name: "Кат-сцена"
@@ -6190,13 +6418,13 @@
     name: "Свободное место"
 
 - name:
-    original: "Shadowbringers"
-    translated: "Царство теней"
+    original: "Good for the Soul"
+    translated: "Пища для души"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmf111_03654/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=c37a18bf7b7b228f
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=2c496b755df84891
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=6bd51829148de064
   cutscenes:
   - name: "Кат-сцена 1"
@@ -6299,13 +6527,13 @@
     name: "Татару"
 
 - name:
-    original: "Shaken Resolve"
-    translated: "Пошатнувшаяся решимость"
+    original: "Nowhere to Turn"
+    translated: "Не к кому обратиться"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmg101_03673/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=a73ef5f49ecae8d5
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=305e9a600bf50681
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=ded62486e6cdb5c4
   cutscenes:
   - name: "Кат-сцена 1"
@@ -6346,13 +6574,13 @@
     name: "Эфимия"
 
 - name:
-    original: "A Grand Adventure"
-    translated: "Большое приключение"
+    original: "A Notable Absence"
+    translated: "Неожиданный уход"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmg102_03674/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=9f82917b9d3e6f47
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=5a871fdc8f752d1f
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=27197e19f53f46fd
   cutscenes:
   - name: "Кат-сцена"
@@ -6404,13 +6632,13 @@
     name: "Альфино"
 
 - name:
-    original: "A Welcome Guest"
-    translated: "Долгожданный гость"
+    original: "For the People"
+    translated: "Для людей"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmg103_03675/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=4519a7a4f838e931
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=3d410fd1baf8a3d1
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=49b1fbd710708341
   cutscenes:
   - name: "Кат-сцена"
@@ -6488,13 +6716,13 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=4dfd7cd15cc94631
 
 - name:
-    original: "Good for the Soul"
-    translated: "Пища для души"
+    original: "Finding Good Help"
+    translated: "В поисках хороших помощников"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmg104_03676/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=2c496b755df84891
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=54be02d2f0a60631
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=39ec1861daeea281
   cutscenes:
   - name: "Кат-сцена"
@@ -6565,13 +6793,13 @@
     name: "Цель"
 
 - name:
-    original: "Nowhere to Turn"
-    translated: "Не к кому обратиться"
+    original: "Moving Forward"
+    translated: "Двигаться вперёд"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmg105_03677/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=305e9a600bf50681
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=2af2362b898c0447
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=ecac9e2db3ac26fa
   cutscenes:
   - name: "Кат-сцена"
@@ -6599,13 +6827,13 @@
     name: "Халрик"
 
 - name:
-    original: "A Notable Absence"
-    translated: "Неожиданный уход"
+    original: "Vows of Virtue, Deeds of Cruelty"
+    translated: "Благородные клятвы, жестокие дела"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmg106_03678/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=5a871fdc8f752d1f
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=9145217592d543c7
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=41e68010e55de223
   actors:
   - id: 1027544
@@ -6653,13 +6881,13 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=a9693d41f2e98b05
 
 - name:
-    original: "For the People"
-    translated: "Для людей"
+    original: "Old Enemies, New Threats"
+    translated: "Старые враги, новые угрозы"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmg107_03679/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=3d410fd1baf8a3d1
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=64a3d31fd26c0b9a
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=cd95c861dd4c2e34
   cutscenes:
   - name: "Кат-сцена"
@@ -6732,13 +6960,13 @@
     name: "Чай-Нузз"
 
 - name:
-    original: "Finding Good Help"
-    translated: "В поисках хороших помощников"
+    original: "The Way Home"
+    translated: "Путь домой"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmg108_03680/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=54be02d2f0a60631
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=09eaad26be7727d4
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=cdb7b59247d23c26
   cutscenes:
   - name: "Кат-сцена"
@@ -6822,13 +7050,13 @@
     name: "Помогите господину Чаю!"
 
 - name:
-    original: "Moving Forward"
-    translated: "Двигаться вперёд"
+    original: "Seeking Counsel"
+    translated: "Совет другу"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmg109_03681/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=2af2362b898c0447
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=780f88944b0983cb
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=e6841c8e0d21da47
   cutscenes:
   - name: "Кат-сцена"
@@ -6892,13 +7120,13 @@
     name: "Кай-Ширр"
 
 - name:
-    original: "Vows of Virtue, Deeds of Cruelty"
-    translated: "Благородные клятвы, жестокие дела"
+    original: "Facing the Truth"
+    translated: "Рассказать им правду"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-036-luckmg110_03682/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=9145217592d543c7
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=cc71c1ab984b913f
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=aecec74aef70d625
   cutscenes:
   - name: "Кат-сцена 1"
@@ -6951,13 +7179,13 @@
     name: "Бек Лугг"
 
 - name:
-    original: "Old Enemies, New Threats"
-    translated: "Старые враги, новые угрозы"
+    original: "A Sleep Disturbed"
+    translated: "Нарушенный покой"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-037-luckmh101_03761/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=64a3d31fd26c0b9a
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=29099bb977464210
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=41d136a065103b7e
   cutscenes:
   - name: "Кат-сцена"
@@ -6994,13 +7222,13 @@
     name: "Офицер Сопротивления"
 
 - name:
-    original: "The Way Home"
-    translated: "Путь домой"
+    original: "An Old Friend"
+    translated: "Старый знакомый"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-037-luckmh102_03762/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=09eaad26be7727d4
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=87ecd686a43fe15f
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=dfd7e132df6a21da
   cutscenes:
   - name: "Кат-сцена"
@@ -7016,13 +7244,13 @@
     name: "Крайл"
 
 - name:
-    original: "Seeking Counsel"
-    translated: "Совет другу"
+    original: "Deep Designs"
+    translated: "Подводные загадки"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-037-luckmh103_03763/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=780f88944b0983cb
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=23f169ad2508b12d
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=c71e459cc4920a7e
   cutscenes:
   - name: "Кат-сцена 1"
@@ -7090,13 +7318,13 @@
     name: "Альфино"
 
 - name:
-    original: "Facing the Truth"
-    translated: "Рассказать им правду"
+    original: "A Whale's Tale"
+    translated: "Китовьи истории"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-037-luckmh104_03764/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=cc71c1ab984b913f
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=1dfef068a09cc8b5
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=ef54eb56a403c6d6
   cutscenes:
   - name: "Кат-сцена 1"
@@ -7167,13 +7395,13 @@
     name: "Альфино"
 
 - name:
-    original: "A Sleep Disturbed"
-    translated: "Нарушенный покой"
+    original: "Beneath the Surface"
+    translated: "В глубинах"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-037-luckmh105_03765/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=29099bb977464210
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=265e23b4001898b6
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=3cdf10296290f01b
   cutscenes:
   - name: "Кат-сцена 1"
@@ -7251,13 +7479,13 @@
     name: "Я'штола"
 
 - name:
-    original: "An Old Friend"
-    translated: "Старый знакомый"
+    original: "Echoes of a Fallen Star"
+    translated: "Эхо расколотой планеты"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-037-luckmh106_03766/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=87ecd686a43fe15f
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=1ec58b7359239f54
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=7e2c2c18cb2a141b
   cutscenes:
   - name: "Кат-сцена"
@@ -7305,13 +7533,13 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=4485cb00e4c39029
 
 - name:
-    original: "Deep Designs"
-    translated: "Подводные загадки"
+    original: "In the Name of the Light"
+    translated: "Во имя Света"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-037-luckmh107_03767/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=23f169ad2508b12d
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=5266f13c6b27ddf8
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=6e5288b77e49f02a
   actors:
   - id: 1026567
@@ -7415,13 +7643,13 @@
     name: "Испачканный ящик"
 
 - name:
-    original: "A Whale's Tale"
-    translated: "Китовьи истории"
+    original: "Heroic Dreams"
+    translated: "Героические мечты"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-037-luckmh108_03768/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=1dfef068a09cc8b5
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=e121ea5a21e42d44
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=b43c6721aa885c92
   actors:
   - id: 1026570
@@ -7508,13 +7736,13 @@
     name: "Надоедливый моллюск"
 
 - name:
-    original: "Beneath the Surface"
-    translated: "В глубинах"
+    original: "Fraying Threads"
+    translated: "Нити истончаются"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-037-luckmh109_03769/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=265e23b4001898b6
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=21b6c0c6235878e6
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=b353375ac24e3f0d
   cutscenes:
   - name: "Кат-сцена"
@@ -7588,13 +7816,13 @@
     name: "Вход в Ноэсис"
 
 - name:
-    original: "Echoes of a Fallen Star"
-    translated: "Эхо расколотой планеты"
+    original: "Food for the Soul"
+    translated: "Пища для души"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-037-luckmh110_03770/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=1ec58b7359239f54
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=85319c67e76c0241
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=2168d0d91c0c8db3
   cutscenes:
   - name: "Кат-сцена 1"
@@ -7693,13 +7921,13 @@
     name: "Вонард"
 
 - name:
-    original: "In the Name of the Light"
-    translated: "Во имя Света"
+    original: "Faded Memories"
+    translated: "Поблекшие воспоминания"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-037-luckmi101_03771/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=5266f13c6b27ddf8
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=583820963420fc01
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=92238d568ed6fc60
   actors:
   - id: 1027226
@@ -7779,13 +8007,13 @@
     name: "Мелкий виноград"
 
 - name:
-    original: "Heroic Dreams"
-    translated: "Героические мечты"
+    original: "Etched in the Stars"
+    translated: "Начертано среди звёзд"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-037-luckmi102_03772/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=e121ea5a21e42d44
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=21a6fc3561ff791f
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=1959c4aa9bb31b22
   cutscenes:
   - name: "Кат-сцена"
@@ -7872,13 +8100,13 @@
     name: "Цель"
 
 - name:
-    original: "Fraying Threads"
-    translated: "Нити истончаются"
+    original: "The Converging Light"
+    translated: "Сопряжение Света"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-037-luckmi103_03773/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=21b6c0c6235878e6
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=7abe596b4c7fbe03
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=9da57cd45fb815d0
   cutscenes:
   - name: "Кат-сцена"
@@ -7928,13 +8156,13 @@
     name: "Вход в Покои Рассвета"
 
 - name:
-    original: "Food for the Soul"
-    translated: "Пища для души"
+    original: "Hope's Confluence"
+    translated: "Средоточие надежды"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-037-luckmi104_03774/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=85319c67e76c0241
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=d641c802e2ee58a9
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=777845da0abda5a9
   cutscenes:
   - name: "Кат-сцена 1"
@@ -7995,13 +8223,13 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=0bb6c49a329fd3f7
 
 - name:
-    original: "Faded Memories"
-    translated: "Поблекшие воспоминания"
+    original: "Nothing Unsaid"
+    translated: "Никаких недосказанностей"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-037-luckmi105_03775/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=583820963420fc01
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=ccd2f5dc4f7db178
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=150e7b13edc52f43
   cutscenes:
   - name: "Кат-сцена 1"
@@ -8058,13 +8286,13 @@
     name: "Эфирный поток"
 
 - name:
-    original: "Etched in the Stars"
-    translated: "Начертано среди звёзд"
+    original: "The Journey Continues"
+    translated: "Путешествие продолжается"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-037-luckmi106_03776/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=21a6fc3561ff791f
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=ed3aeea5e2c0d212
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=70a14f05589f49d6
   cutscenes:
   - name: "Кат-сцена"
@@ -8102,13 +8330,13 @@
     name: "Кристалл с причудливым узором"
 
 - name:
-    original: "The Converging Light"
-    translated: "Сопряжение Света"
+    original: "Unto the Morrow"
+    translated: "Завтрашний день"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-037-luckmi107_03777/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=7abe596b4c7fbe03
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=ab76b4ef21864af8
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=079a29ab65ea23c3
   cutscenes:
   - name: "Кат-сцена 1"
@@ -8214,13 +8442,13 @@
     name: "Экзарх"
 
 - name:
-    original: "Hope's Confluence"
-    translated: "Средоточие надежды"
+    original: "Reflections in Crystal"
+    translated: "Отражения в кристалле"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-037-luckmi108_03778/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=d641c802e2ee58a9
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=02858200bbd40ae1
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=cbfd2b83c80bf1d7
   cutscenes:
   - name: "Кат-сцена 1"
@@ -8265,13 +8493,13 @@
     name: "Урианже"
 
 - name:
-    original: "Nothing Unsaid"
-    translated: "Никаких недосказанностей"
+    original: "Alisaie's Quest"
+    translated: "Задачка для Ализе"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-037-luckmi109_03779/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=ccd2f5dc4f7db178
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=cfde81f156eafb04
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=e23e6715a26b5ce6
   cutscenes:
   - name: "Кат-сцена"
@@ -8350,13 +8578,13 @@
     name: "Ализе"
 
 - name:
-    original: "The Journey Continues"
-    translated: "Путешествие продолжается"
+    original: "The Wisdom of Allag"
+    translated: "Мудрость Аллага"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-037-luckmi110_03780/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=ed3aeea5e2c0d212
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=535ffbb76f875ed5
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=c63f746dc90f0890
   cutscenes:
   - name: "Кат-сцена"
@@ -8389,13 +8617,13 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=a04c73015bb6562e
 
 - name:
-    original: "Unto the Morrow"
-    translated: "Завтрашний день"
+    original: "Reviving the Legacy"
+    translated: "Возрождённое наследие"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-037-luckmi111_03781/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=ab76b4ef21864af8
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=6469adc561eeb315
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=bff39e2774208ba2
   cutscenes:
   - name: "Кат-сцена 1"
@@ -8451,13 +8679,13 @@
     name: "Урианже"
 
 - name:
-    original: "Reflections in Crystal"
-    translated: "Отражения в кристалле"
+    original: "Forget Us Not"
+    translated: "Не забывай"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-037-luckmi112_03782/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=02858200bbd40ae1
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=1c54493ad2174599
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=5287dba04e68ad70
   cutscenes:
   - name: "Кат-сцена 1"
@@ -8513,13 +8741,13 @@
     name: "Г'раха Тиа"
 
 - name:
-    original: "Alisaie's Quest"
-    translated: "Задачка для Ализе"
+    original: "Like Master, Like Pupil"
+    translated: "Вся в учительницу"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-040-luckmj101_04007/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=cfde81f156eafb04
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=cac94683b4d8559d
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=d382a875846b8743
   cutscenes:
   - name: "Кат-сцена"
@@ -8550,13 +8778,13 @@
     name: "Г'раха Тиа"
 
 - name:
-    original: "The Wisdom of Allag"
-    translated: "Мудрость Аллага"
+    original: "The Admiral's Resolve"
+    translated: "Решение Адмирала"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-040-luckmj102_04008/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=535ffbb76f875ed5
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=97b9b1d417308282
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=99a97bbcb300f4a9
   actors:
   - id: 1035344
@@ -8598,13 +8826,13 @@
     name: "Точка стагнации молнии"
 
 - name:
-    original: "Reviving the Legacy"
-    translated: "Возрождённое наследие"
+    original: "The Search for Sicard"
+    translated: "Скользкий Сигард"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-040-luckmj103_04009/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=6469adc561eeb315
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=a075e1a7b64c96fc
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=0547b0a9c34e92cf
   cutscenes:
   - name: "Кат-сцена 1"
@@ -8681,13 +8909,13 @@
     name: "Цель"
 
 - name:
-    original: "Forget Us Not"
-    translated: "Не забывай"
+    original: "On Rough Seas"
+    translated: "Суровое море"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-040-luckmj104_04010/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=1c54493ad2174599
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=e7ed3d2e0547ab88
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=d7db4da24ee26bde
   cutscenes:
   - name: "Кат-сцена 1"
@@ -8725,13 +8953,13 @@
     name: "Я'штола"
 
 - name:
-    original: "Like Master, Like Pupil"
-    translated: "Вся в учительницу"
+    original: "The Great Ship Vylbrand"
+    translated: "Вилбренд, наше общее судно"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-040-luckmj105_04011/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=cac94683b4d8559d
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=c085fb2ea499c78a
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=9fe0f95b0b42b697
   cutscenes:
   - name: "Кат-сцена 1"
@@ -8799,13 +9027,13 @@
     name: "Г'раха Тиа"
 
 - name:
-    original: "The Admiral's Resolve"
-    translated: "Решение Адмирала"
+    original: "Futures Rewritten"
+    translated: "Переписанное будущее"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-040-luckmj106_04012/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=97b9b1d417308282
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=bfe1e0e2c84d1e0d
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=733a1cfa00684663
   actors:
   - id: 1000915
@@ -8840,13 +9068,13 @@
     name: "Г'раха Тиа"
 
 - name:
-    original: "The Search for Sicard"
-    translated: "Скользкий Сигард"
+    original: "Unto the Breach"
+    translated: "Переломный момент"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-040-luckmj107_04013/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=a075e1a7b64c96fc
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=7a609d2d0b6c9a34
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=6279b2367936b2f4
   actors:
   - id: 1035386
@@ -8869,13 +9097,13 @@
     name: "Ализе"
 
 - name:
-    original: "On Rough Seas"
-    translated: "Суровое море"
+    original: "Here Be Dragons"
+    translated: "Осторожно, драконы"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-040-luckmj108_04014/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=e7ed3d2e0547ab88
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=609486bcfb7bb57c
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=399e4f6577a80b70
   cutscenes:
   - name: "Кат-сцена"
@@ -8912,13 +9140,13 @@
     name: "Эйнзар"
 
 - name:
-    original: "The Great Ship Vylbrand"
-    translated: "Вилбренд, наше общее судно"
+    original: "Righteous Indignation"
+    translated: "Праведное негодование"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-040-luckmj109_04015/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=c085fb2ea499c78a
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=8420de92bc627110
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=fc218c7a251211fa
   cutscenes:
   - name: "Кат-сцена 1"
@@ -8986,13 +9214,13 @@
     name: "Эйнзар"
 
 - name:
-    original: "Futures Rewritten"
-    translated: "Переписанное будущее"
+    original: "For Vengeance"
+    translated: "Во имя отмщения"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-040-luckmj110_04016/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=bfe1e0e2c84d1e0d
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=5605074106f8e8d3
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=b6828f81ff7cd025
   cutscenes:
   - name: "Кат-сцена 1"
@@ -9084,13 +9312,13 @@
     name: "Я'штола"
 
 - name:
-    original: "Unto the Breach"
-    translated: "Переломный момент"
+    original: "The Flames of War"
+    translated: "Пламень войны"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-040-luckmk101_04058/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=7a609d2d0b6c9a34
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=feec9d018dd1edb8
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=738cbe4d954f7696
   cutscenes:
   - name: "Кат-сцена 1"
@@ -9134,13 +9362,13 @@
     name: "Я'штола"
 
 - name:
-    original: "Here Be Dragons"
-    translated: "Осторожно, драконы"
+    original: "When the Dust Settles"
+    translated: "Когда оседает пыль сражения"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-040-luckmk102_04059/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=609486bcfb7bb57c
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=b93c450a35722b40
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=47187294a408477a
   cutscenes:
   - name: "Кат-сцена"
@@ -9198,13 +9426,13 @@
     name: "Г'раха Тиа"
 
 - name:
-    original: "Righteous Indignation"
-    translated: "Праведное негодование"
+    original: "The Company We Keep"
+    translated: "Какой Компании мы верны"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-040-luckmk103_04060/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=8420de92bc627110
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=24d10563cdba69f5
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=a0095b4129d63c57
   cutscenes:
   - name: "Кат-сцена"
@@ -9274,13 +9502,13 @@
     name: "Цель"
 
 - name:
-    original: "For Vengeance"
-    translated: "Во имя отмщения"
+    original: "On Official Business"
+    translated: "Официальный визит"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-040-luckmk104_04061/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=5605074106f8e8d3
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=3f076c9d7a94a6ac
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=576008ff02feb29d
   cutscenes:
   - name: "Кат-сцена"
@@ -9324,13 +9552,13 @@
     name: "Терминал Ядра"
 
 - name:
-    original: "The Flames of War"
-    translated: "Пламень войны"
+    original: "Death Unto Dawn"
+    translated: "Погибель рассвета"
   level: 80
   icon: 61412
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-040-luckmk105_04062/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=feec9d018dd1edb8
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=25a3825a1ba8c26a
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=ea8b088d5440c7d4
   cutscenes:
   - name: "Кат-сцена 1"
@@ -9401,325 +9629,5 @@
     name: "Г'раха Тиа"
   - id: 1036387
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3986ca5bfd964e20
-    name: "Эстиниен"
-
-- name:
-    original: "When the Dust Settles"
-    translated: "Когда оседает пыль сражения"
-  level: 80
-  icon: 61412
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-040-luckmk106_04063/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=b93c450a35722b40
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=82a9d1425fe83462
-  cutscenes:
-  - name: "Кат-сцена 1"
-    start: "001740"
-    end: "001920"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-055-voiceman_05500/
-  - name: "Кат-сцена 2"
-    start: "001930"
-    end: "002130"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-055-voiceman_05500/
-  - name: "Кат-сцена 3"
-    start: "002140"
-    end: "002500"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-055-voiceman_05500/
-  - name: "Кат-сцена 4"
-    start: "002505"
-    end: "002620"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-055-voiceman_05500/
-  actors:
-  - id: 1003873
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ccc1c65a4fa8441e
-    name: "Папашан"
-  - id: 1022448
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=011aec4456632ab2
-    name: "Нанамо Ул Намо"
-  - id: 1036374
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=dc1903fe8104f900
-    name: "Пилот Бессмертного Пламени"
-  - id: 1036375
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=48692924203c2acf
-    name: "Танкред"
-  - id: 1036376
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c8be270513f7b58f
-    name: "Альфино"
-  - id: 1036377
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=853d5e962bd16636
-    name: "Ализе"
-  - id: 1036378
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=40af6f8dd15b650b
-    name: "Урианже"
-  - id: 1036379
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=33c7832fb120f306
-    name: "Я'штола"
-  - id: 1036380
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=765a8f1560179d20
-    name: "Г'раха Тиа"
-  - id: 1036387
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3986ca5bfd964e20
-    name: "Эстиниен"
-  - id: 1036388
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=08bacf135ddb32d0
-    name: "Медик «Фрондэйля»"
-  - id: 1036389
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b6df5fe6cc1211d2
-    name: "Эстиниен"
-  - id: 1036390
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b06c784353d9180e
-    name: "Фордола"
-  - id: 1036391
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ba843d8c27e50b8f
-    name: "Альфино"
-  - id: 1036392
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2f8f5e600d897389
-    name: "Ализе"
-  - id: 1036393
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=439034427fa2736c
-    name: "Танкред"
-  - id: 1036394
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=511398ca64e8a13a
-    name: "Альфино"
-  - id: 1036395
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=abab36d1e3c98791
-    name: "Урианже"
-  - id: 1036396
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a5b3fe35b0e4d156
-    name: "Я'штола"
-  - id: 1036397
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4986822e71edbeaf
-    name: "Г'раха Тиа"
-  - id: 1036398
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4f044149cf9adc5a
-    name: "Эстиниен"
-  - id: 1036399
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f698b6ca9c8c8948
-    name: "Татару"
-  - id: 1036400
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=578b94daf3fb9938
-    name: "Ализе"
-  - id: 1036503
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b53bcaf546e5ec97
-    name: "Гонец Пламени"
-
-- name:
-    original: "The Company We Keep"
-    translated: "Какой Компании мы верны"
-  level: 80
-  icon: 61412
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-040-luckml101_04064/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=24d10563cdba69f5
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=d2b98ee82f4c5616
-  cutscenes:
-  - name: "Кат-сцена"
-    start: "002630"
-    end: "003020"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-055-voiceman_05505/
-  actors:
-  - id: 1024065
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0292f2f598c430ce
-    name: "Страж Сопротивления"
-  - id: 1036325
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3d392f14ffd62754
-    name: "Альфино"
-  - id: 1036326
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ad3432a66b0b9f2a
-    name: "Ализе"
-  - id: 1036327
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=460899d96109e3c5
-    name: "Г'раха Тиа"
-  - id: 1036399
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f698b6ca9c8c8948
-    name: "Татару"
-  - id: 1036400
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=578b94daf3fb9938
-    name: "Ализе"
-  - id: 1036416
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4f637da70ea2776a
-    name: "Урианже"
-  - id: 1036418
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d10080331e5ee963
-    name: "Эстиниен"
-  - id: 1036421
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e561f0f177529ee7
-    name: "Танкред"
-  - id: 1036422
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4105488d6e928cae
-    name: "Я'штола"
-  - id: 1036424
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=425818fe9f43f902
-    name: "Риол"
-  - id: 1036425
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=21c3796c7d951d16
-    name: "Алианна"
-  - id: 1036426
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2d0b3625e8ae2b6d
-    name: "Альфино"
-  - id: 1037011
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b793e5d3408904f8
-    name: "Ализе"
-  - id: 1037012
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a4e79c48b17ab5cc
-    name: "Альфино"
-  - id: 1037013
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b71eadf6be19443b
-    name: "Г'раха Тиа"
-
-- name:
-    original: "On Official Business"
-    translated: "Официальный визит"
-  level: 80
-  icon: 61412
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-040-luckml102_04065/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=3f076c9d7a94a6ac
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=18734c3d29fdab1a
-  cutscenes:
-  - name: "Кат-сцена"
-    start: "003030"
-    end: "003410"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-055-voiceman_05505/
-  actors:
-  - id: 1000460
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ce95253104e26b98
-    name: "Молчаливый элементалист"
-  - id: 1003027
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=94ec1047ac9b723d
-    name: "Кан-Э-Сенна"
-  - id: 1005577
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cfe68b801766668a
-    name: "Фриксио"
-  - id: 1036426
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2d0b3625e8ae2b6d
-    name: "Альфино"
-  - id: 1036428
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=050bdec993ac7ac9
-    name: "Ализе"
-  - id: 1036429
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=61956d1eb1be37a6
-    name: "Альфино"
-  - id: 1036430
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2cbba03ae86ea46f
-    name: "Г'раха Тиа"
-  - id: 1036431
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b20bf8d9f6c84601
-    name: "Ализе"
-  - id: 1036432
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=000dccd5657f7050
-    name: "Г'раха Тиа"
-  - id: 1036433
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=da4dcd5b10a7edbc
-    name: "Альфино"
-  - id: 1036434
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a5447f43c6c8e78f
-    name: "Ализе"
-  - id: 1036435
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5e0af4df26800382
-    name: "Г'раха Тиа"
-  - id: 1036436
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=65de2fbfa030906a
-    name: "Ализе"
-  - id: 1036437
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=940b854ab0c1fcae
-    name: "Альфино"
-  - id: 1036438
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=75b21aad986025a7
-    name: "Г'раха Тиа"
-  - id: 1036954
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5f8d9f60dd5fdbfd
-    name: "Риол"
-  - id: 1036955
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7147f481751f7e26
-    name: "Алианна"
-
-- name:
-    original: "Death Unto Dawn"
-    translated: "Погибель рассвета"
-  level: 80
-  icon: 61412
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-040-luckml103_04066/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=25a3825a1ba8c26a
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=2b3d0ee2d4d0e613
-  cutscenes:
-  - name: "Кат-сцена 1"
-    start: "003420"
-    end: "003680"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-055-voiceman_05505/
-  - name: "Кат-сцена 2"
-    start: "003690"
-    end: "003780"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-055-voiceman_05505/
-  - name: "Кат-сцена 3"
-    start: "003790"
-    end: "003940"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-055-voiceman_05505/
-  - name: "Кат-сцена 4"
-    start: "003945"
-    end: "004040"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-055-voiceman_05505/
-  - name: "Кат-сцена 5"
-    start: "004050"
-    end: "004150"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-055-voiceman_05505/
-  actors:
-  - id: 1000460
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ce95253104e26b98
-    name: "Молчаливый элементалист"
-  - id: 1003027
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=94ec1047ac9b723d
-    name: "Кан-Э-Сенна"
-  - id: 1036399
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f698b6ca9c8c8948
-    name: "Татару"
-  - id: 1036433
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=da4dcd5b10a7edbc
-    name: "Альфино"
-  - id: 1036434
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a5447f43c6c8e78f
-    name: "Ализе"
-  - id: 1036435
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5e0af4df26800382
-    name: "Г'раха Тиа"
-  - id: 1036439
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2ab1449326701625
-    name: "Альфино"
-  - id: 1036440
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e5fc63d115dc35c5
-    name: "Фордола"
-  - id: 1036441
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=79233f47dc0905d4
-    name: "Ализе"
-  - id: 1036442
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1efa67ff3f35c254
-    name: "Г'раха Тиа"
-  - id: 1036443
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e94f1344819e6d2c
-    name: "Альфино"
-  - id: 1036444
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d35749cbbb308749
-    name: "Эмерик"
-  - id: 1036445
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=707482f87462fd5f
-    name: "Ализе"
-  - id: 1036446
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=af638cbf883f632f
-    name: "Альфино"
-  - id: 1036447
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e1a50fc211a2bb39
-    name: "Г'раха Тиа"
-  - id: 1036448
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1133ea17b99a035e
-    name: "Танкред"
-  - id: 1036449
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c51d66f24ac56d9e
-    name: "Я'штола"
-  - id: 1036450
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8127721357f87a88
-    name: "Урианже"
-  - id: 1036451
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=166aa2c7e6780bdf
     name: "Эстиниен"
 

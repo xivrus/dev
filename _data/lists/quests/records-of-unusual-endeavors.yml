@@ -1,58 +1,73 @@
 - name:
     original: "Seeking Sanctuary"
     translated: "В поисках убежища"
-  level: 1
-  icon: 61419
+  level: 80
+  icon: 61921
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-046-aktkua101_04643/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-039-luckht022_03983/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=f7da8e8cbe4ad1e0
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=2230b4e008579e5f
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=7c97c13885ed55eb
   actors:
-  - id: 1043621
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=785852f3ac2de564
-    name: "Балдин"
-  - id: 1043622
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c24eb106b476298f
-    name: "Татару"
-  - id: 1043623
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f37d84d50169c7ca
-    name: "Доброжелательный пушистик"
-  - id: 1043789
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4e3230222a11d54b
-    name: "Невежественный глашатай"
-  - id: 1043904
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c88ed63e9242d817
-    name: "Татару"
+  - id: 1032950
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a317ba18e769687c
+    name: "Neillemard"
+  - id: 1032951
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fb697e28a80e3ed5
+    name: "Nimie"
+  - id: 1032952
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d93d101bf455e5d8
+    name: "Denys"
+  - id: 1035012
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=99255466b27805ae
+    name: "Emeny"
+  - id: 1035013
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1b4f451b0a56bafc
+    name: "Joellie"
 
 - name:
     original: "The Land, Wind, and Sea"
     translated: "Земля, ветер и море"
-  level: 1
-  icon: 61411
+  level: 80
+  icon: 61419
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-046-aktkua201_04645/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-039-luckht023_03984/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=1393868b4962dc8a
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=f147a469d96b61a0
-  cutscenes:
-  - name: "Кат-сцена"
-    start: "60"
-    end: "64"
-    url: https://translate.xivrus.ru/projects/xivrus/quest-046-aktkua101_04643/
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=e0dc4cd1da61bf61
   actors:
-  - id: 1043617
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=56de3972cf1808b7
-    name: "Татару"
-  - id: 1043727
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5f997eb5fe47609d
-    name: "Эйнзар"
-  - id: 1043728
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0ddcae82fb6e5b6e
-    name: "Хиллфир"
-  - id: 1044156
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5038a7da279dedb8
-    name: "Любопытный курьер"
-  eobjects:
-  - id: 2013035
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=9021cf5a48850e8d
-    name: "Цель"
+  - id: 1007675
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9f4f31c277483fc9
+    name: "Франсель"
+  - id: 1014579
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ae3e16276c9b6d19
+    name: "Стефанивьян"
+  - id: 1018496
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1e5312659b28bc89
+    name: "Rowena"
+  - id: 1031686
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0a955b005cbe0aa4
+    name: "Франсель"
+  - id: 1032898
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0be6607fd5e96d80
+    name: "Neillemard"
+  - id: 1032950
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a317ba18e769687c
+    name: "Neillemard"
+  - id: 1032951
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fb697e28a80e3ed5
+    name: "Nimie"
+  - id: 1032952
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d93d101bf455e5d8
+    name: "Denys"
+  - id: 1035013
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1b4f451b0a56bafc
+    name: "Joellie"
+  - id: 1035015
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b84c6b0cb8318022
+    name: "Emeny"
+  - id: 1035016
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=837fa4f5e9ea2c8a
+    name: "Joellie"
+  - id: 1035017
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=734a5be3f4c203f2
+    name: "Spanner"
 
