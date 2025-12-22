@@ -1,1071 +1,6 @@
 - name:
     original: "Way of the Gladiator"
     translated: "Путь гладиатора"
-  level: 90
-  icon: 61411
-  id: 5152
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-051-kingzf004_05152/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=15dfa05eeb990fb8
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=cb2bdf3f2237de07
-  actors:
-  - id: 1050660
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d319b939dd15f268
-    name: "veteran hunter"
-  - id: 1050661
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4d321e05c17a9daa
-    name: "trainee hunter"
-  - id: 1050662
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f5d7ea52247e3ddd
-    name: "trainee hunter"
-  - id: 1050721
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d552db4c9292e3f4
-    name: "trainee hunter"
-  - id: 1050727
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a32a498c20a0f655
-    name: "trainee hunter"
-
-- name:
-    original: "So You Want to Be a Gladiator"
-    translated: "Так ты хочешь стать гладиатором"
-  level: 1
-  icon: 62302
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-001-clspgl001_00178/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=0b9b2271cbf69f81
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=0dd7421d61e808cc
-
-- name:
-    original: "Way of the Gladiator"
-    translated: "Путь гладиатора"
-  level: 90
-  icon: 61419
-  id: 5153
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-051-kingzf005_05153/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=2d60440ffc4602fe
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=7c0a4747710dac25
-  actors:
-  - id: 1049443
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5f657b16072a2555
-    name: "Dorian"
-  - id: 1050664
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=030f063e5f9e2700
-    name: "ill-fated hunter"
-  enemies:
-  - id: 13502
-    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=23a11cabf7761af8
-    name: "wrecked sentry S5"
-
-- name:
-    original: "My First Gladius"
-    translated: "Мой первый клинок"
-  level: 90
-  icon: 61411
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-051-kingzf006_05154/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=c66da32da0165887
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=82266b9e98082ec1
-  actors:
-  - id: 1051378
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8f38e4366bef8025
-    name: "Cornservant"
-  - id: 1051379
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=eae0c57545a42bbd
-    name: "hungry Milalla"
-  - id: 1051380
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=02e985870994de40
-    name: "Cornservant"
-
-- name:
-    original: "Kicking the Hornet's Nest"
-    translated: "Разворошить осиное гнездо"
-  level: 90
-  icon: 61419
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-051-kingzf201_05160/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=9a9f518214351ec6
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=7ba3ff492f844255
-  actors:
-  - id: 1050803
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bb3ba0e027f4530e
-    name: "Shaloaci"
-  - id: 1050805
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2df82dd643502912
-    name: "Nakente"
-  - id: 1050945
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=eb8fdea6ffe3a218
-    name: "Shaloaci"
-  - id: 1050946
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6359b19d1306d810
-    name: "Nakente"
-  enemies:
-  - id: 13505
-    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=1de17d14b2d4e803
-    name: "Заряженная грозовая гончая"
-
-- name:
-    original: "Ul'dah's Most Wanted"
-    translated: "Разыскиваемый в Уль'де"
-  level: 90
-  icon: 61411
-  id: 5161
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-051-kingzf202_05161/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=798df4467d142bce
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=c36663da24e2e0e9
-  actors:
-  - id: 1050802
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=81d8984fd3a60bde
-    name: "Nakente"
-  - id: 1050806
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6760f16bb52c3b68
-    name: "Shaloaci"
-  - id: 1050807
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2d6a08b620903f00
-    name: "Shaloaci"
-  - id: 1050808
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e758402aea2e256c
-    name: "Shaloaci"
-  eobjects:
-  - id: 2014035
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=3c77cd59b230cd9c
-    name: "soft soil"
-  - id: 2014036
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=77e3445870ee019c
-    name: "warm soil"
-  - id: 2014037
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=533fc14a6228cadb
-    name: "crumbly soil"
-
-- name:
-    original: "Ul'dah's Most Wanted"
-    translated: "Разыскиваемый в Уль'де"
-  level: 90
-  icon: 61411
-  id: 5162
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-051-kingzf203_05162/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=387e472a3c87cb40
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=652d363b31837369
-  actors:
-  - id: 1050802
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=81d8984fd3a60bde
-    name: "Nakente"
-  - id: 1050806
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6760f16bb52c3b68
-    name: "Shaloaci"
-  - id: 1050809
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9e603341ede3c2aa
-    name: "Shaloaci"
-  - id: 1050810
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=667f2dcf837c4c2f
-    name: "Shaloaci"
-
-- name:
-    original: "That Old Familiar Feeling"
-    translated: "То знакомое чувство"
-  level: 90
-  icon: 61411
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-051-kingzf204_05163/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=bc6f6eb6d990036e
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=e9d880e9ca619771
-  actors:
-  - id: 1050802
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=81d8984fd3a60bde
-    name: "Nakente"
-  - id: 1050806
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6760f16bb52c3b68
-    name: "Shaloaci"
-  - id: 1050811
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=34b60cc502fe32e9
-    name: "Shaloaci"
-  - id: 1050812
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a5a30e782c263395
-    name: "Nakente"
-  - id: 1050957
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4e6ac68946b3bf5f
-    name: "Shaloaci"
-  enemies:
-  - id: 13506
-    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=43b4c2be27f84cd5
-    name: "noble exoray"
-  eobjects:
-  - id: 2014063
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=269edca8eac093b3
-    name: "Цель"
-  - id: 2014077
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=77d93ec72ab2364f
-    name: "Цель"
-
-- name:
-    original: "The Face of Thal"
-    translated: "Посланник Талла"
-  level: 90
-  icon: 61411
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-051-kingzf101_05155/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=2c9a72a09950fdeb
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=8e86e47ebdf06f12
-  actors:
-  - id: 1049500
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=17afe8d2cdd20e41
-    name: "Wezetonyi"
-  quest_items:
-  - id: 2003596
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=c2518862f669fa74
-    name: "silver necklace"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=c2518862f669fa74
-  eobjects:
-  - id: 2014091
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=157fc914d628c82d
-    name: "mountain of debris"
-  - id: 2014092
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=08c9dc50e2dc5c06
-    name: "broken streetlamp"
-  - id: 2014093
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=5a65d6270afb8439
-    name: "enshadowed wreckage"
-
-- name:
-    original: "On Holy Ground"
-    translated: "На святой земле"
-  level: 90
-  icon: 61419
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-051-kingzf102_05156/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=4bdb108d88b0c36b
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=2f66c3ca8edd5329
-  actors:
-  - id: 1049501
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=dd9d13c59753bc24
-    name: "Yyopya"
-  - id: 1050666
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d61a4a469bf07cc8
-    name: "passionate phytologist"
-  enemies:
-  - id: 13503
-    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=cb0b91126b4db17b
-    name: "passionate phytologist"
-  - id: 13504
-    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=549dececddbaa1f5
-    name: "violent gomphotherium"
-  logmessages:
-  - id: 3703
-    url: https://translate.xivrus.ru/translate/xivrus/logmessage/ru/?checksum=89e1fffb4587160e
-    name: "You have lost your charge. Duty failed."
-
-- name:
-    original: "The Rematch"
-    translated: "Реванш"
-  level: 90
-  icon: 61411
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-051-kingzf103_05157/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=ba2465c76b0146ae
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=408d44f7fda33626
-  actors:
-  - id: 1049488
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=77547c31b8fb9ad0
-    name: "Zilekke"
-  - id: 1050667
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=615322a43f9f7401
-    name: "captivated courier"
-
-- name:
-    original: "Way of the Pugilist"
-    translated: "Путь борца"
-  level: 90
-  icon: 61411
-  id: 5158
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-051-kingzf104_05158/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=49a201d010764228
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=902a6bba97dc815b
-  actors:
-  - id: 1049489
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6a4786ec8fd28b30
-    name: "Cinnabar"
-  enemies:
-  - id: 117
-    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=cd0f1c2ed610e4d9
-    name: "Дух молнии"
-  - id: 13111
-    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=d4192db3345bfc85
-    name: "Молниевый дух"
-  - id: 13264
-    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=37d95748fdaa4088
-    name: "cenote slammer"
-  - id: 13265
-    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=a141e41adb31fdc9
-    name: "cenote leafkin"
-
-- name:
-    original: "So You Want to Be a Pugilist"
-    translated: "Так ты хочешь стать борцом"
-  level: 1
-  icon: 62303
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-001-clsexc001_00179/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=e774c93dfcd5d1ca
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=dba08d68a1751801
-
-- name:
-    original: "Way of the Pugilist"
-    translated: "Путь борца"
-  level: 90
-  icon: 61419
-  id: 5159
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-051-kingzf105_05159/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=1b8c1645624e6c4e
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=3af89e1b45a6da75
-  actors:
-  - id: 1049505
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=aa52c5b7dda74314
-    name: "Ui'she"
-  - id: 1050668
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fb49d99775769d50
-    name: "graveyard visitor"
-  eobjects:
-  - id: 2014094
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=6158aa62dede4de7
-    name: "grimy gravestone"
-  - id: 2014095
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=90b4e92855b92d59
-    name: "grimy gravestone"
-  - id: 2014096
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=62db08c52a4d013a
-    name: "grimy gravestone"
-  - id: 2014217
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=a7eacc83be4ead6d
-    name: "grimy gravestone"
-
-- name:
-    original: "My First Hora"
-    translated: "Мой первый кастет"
-  level: 90
-  icon: 61411
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-051-kingzg001_05164/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=c142d8ea9b344afc
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=d91b0d0312fd8e1a
-  actors:
-  - id: 1050492
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c028a09a3c5e0091
-    name: "Clerk P5-0910"
-  - id: 1051388
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fe284da130f38381
-    name: "concierge"
-  quest_items:
-  - id: 2003689
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=6e684511d9087c93
-    name: "consignment of supplies"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=6e684511d9087c93
-
-- name:
-    original: "Harder than Rock"
-    translated: "Твёрже камня"
-  level: 90
-  icon: 61411
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-051-kingzg002_05165/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=0ff7d0809450d1a2
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=0529680bb0bf88f7
-  actors:
-  - id: 1051389
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=85878a0edeeadc9a
-    name: "careworn cleaner"
-  - id: 1051390
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3d32fe7ef5d1f314
-    name: "careworn cleaner"
-  - id: 1051391
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e3157248352057ec
-    name: "leering delinquent"
-  - id: 1051392
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4fe662de1ff900f5
-    name: "unsavory thug"
-  quest_items:
-  - id: 2003701
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=c96a83a3654222bd
-    name: "True Vue refuse sack"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=c96a83a3654222bd
-  eobjects:
-  - id: 2014338
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=e5098e2f184a43c6
-    name: "refuse receptacle"
-  - id: 2014339
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=6f3b54213c19fde2
-    name: "refuse receptacle"
-  - id: 2014340
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=54892e43ac99dd37
-    name: "refuse receptacle"
-
-- name:
-    original: "Burning Up the Quarter Malm"
-    translated: "Пылающий взгляд, стремительный кулак"
-  level: 90
-  icon: 61411
-  id: 5166
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-051-kingzg003_05166/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=5d006b2177774ad1
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=59d4a350eb9ef160
-  actors:
-  - id: 1049092
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8b8685c233d02eae
-    name: "Leander"
-  - id: 1051393
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=573db27997b214d0
-    name: "wayward child"
-  - id: 1051395
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=737d8ad280020a68
-    name: "concerned mother"
-  - id: 1051483
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=02d3052b7a7ad054
-    name: "wayward child"
-
-- name:
-    original: "Burning Up the Quarter Malm"
-    translated: "Пылающий взгляд, стремительный кулак"
-  level: 90
-  icon: 61411
-  id: 5167
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-051-kingzg004_05167/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=88e8f2fc44b4650e
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=720437f81b841994
-  actors:
-  - id: 1048081
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=14b9868ade5eecc0
-    name: "Меланхолия"
-  - id: 1049242
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5cd267e16cad1fec
-    name: "Делия"
-  - id: 1051396
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=de0831cdfaddbb64
-    name: "downhearted youth"
-  quest_items:
-  - id: 2003690
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=6e67c998f40681fe
-    name: "engraved metal tag"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=6e67c998f40681fe
-  - id: 2003691
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=27a4a7122413ab60
-    name: "bottle of luxury liquor"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=27a4a7122413ab60
-  - id: 2003692
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=cd42c6246dd1afe6
-    name: "message"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=cd42c6246dd1afe6
-
-- name:
-    original: "The Spirit Is Willing"
-    translated: "Видит око, да зуб неймёт"
-  level: 90
-  icon: 61411
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-051-kingzg005_05168/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=c8e74db05ce4b3a0
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=c1bdcbf50c09ee01
-  actors:
-  - id: 1051397
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ec05a6149508145c
-    name: "overwhelmed official"
-  - id: 1051398
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=af3524608ab6c028
-    name: "anxious Eldite"
-  - id: 1051399
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=74f1fbb5843e71d2
-    name: "miffed Milalla"
-  - id: 1051400
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b894085ec4e9fe10
-    name: "perplexed Hyune"
-  quest_items:
-  - id: 2003693
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=38f973ae2b629c76
-    name: "note concerning lack of employment"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=38f973ae2b629c76
-  - id: 2003694
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=548753269cb412c7
-    name: "note concerning soul reserves"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=548753269cb412c7
-  - id: 2003695
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=7f95b1fc925af4d3
-    name: "note concerning memories"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=7f95b1fc925af4d3
-
-- name:
-    original: "Keeping the Spirit Alive"
-    translated: "Старая школа"
-  level: 90
-  icon: 61411
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-051-kingzg006_05169/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=85c4595455d93319
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=51759450efa0f3b1
-  actors:
-  - id: 1048081
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=14b9868ade5eecc0
-    name: "Меланхолия"
-  - id: 1051401
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5baee582df8d76ec
-    name: "grief-stricken Shetona"
-  - id: 1051402
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a9b07081912d32f0
-    name: "Nexus Arcade shopkeep"
-  - id: 1051403
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=25d9f0caa8318bcd
-    name: "grief-stricken Shetona"
-  quest_items:
-  - id: 2003696
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=a14ca2287cdabd7a
-    name: "sack of coin"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=a14ca2287cdabd7a
-  - id: 2003697
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=ea729df8158bf67d
-    name: "bottle of Alexandrian wine"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=ea729df8158bf67d
-
-- name:
-    original: "Star-crossed Rivals"
-    translated: "Разлученные соперники"
-  level: 90
-  icon: 61411
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-051-kingzg007_05170/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=225c94d0aa693400
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=16dd03b3fc934ac0
-  actors:
-  - id: 1049154
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=16373d97200e92c8
-    name: "Unakite"
-  - id: 1051404
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=225547d0e683c305
-    name: "distraught youth"
-  - id: 1051405
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=82e22fb3a6a736c2
-    name: "attentive engineer"
-  - id: 1051406
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f4cac283c314183e
-    name: "stricken sentry"
-  - id: 1051409
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e2c639d03d666afa
-    name: "stricken sentry"
-  - id: 1051486
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=71b47c0828b69d0a
-    name: "stricken sentry"
-  quest_items:
-  - id: 2003698
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=4536554a92155768
-    name: "pouch of parts money"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=4536554a92155768
-  - id: 2003699
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=9629cf13f9854d0a
-    name: "set of sentry parts"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=9629cf13f9854d0a
-
-- name:
-    original: "Return of the Holyfist"
-    translated: "Возвращение Светлого Кулака"
-  level: 90
-  icon: 61411
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-051-kingzg008_05171/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=8bc63bc0ebbe11cd
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=cddd22e31c163115
-  actors:
-  - id: 1051407
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9e0899acc5576018
-    name: "wistful woman"
-  quest_items:
-  - id: 2003700
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=7a1ac695618b6c47
-    name: "heirloom ring"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=7a1ac695618b6c47
-  eobjects:
-  - id: 2014345
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=945125521829b305
-    name: "heirloom ring"
-
-- name:
-    original: "Way of the Marauder"
-    translated: "Путь мародёра"
-  level: 90
-  icon: 61411
-  id: 5172
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-051-kingzg009_05172/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=98fe384e24755ef9
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=d0570566b9bd72af
-  actors:
-  - id: 1028873
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6768c3bc6f1b28e6
-    name: "Танкред"
-  - id: 1051069
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=05c4b0b39052074b
-    name: "worried woman"
-  - id: 1051070
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2f4daa838299e301
-    name: "runaway cat"
-  quest_items:
-  - id: 2003676
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=81d95436da395714
-    name: "runaway cat"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=81d95436da395714
-  eobjects:
-  - id: 2014292
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=3fa62fb6848c15fd
-    name: "Цель"
-
-- name:
-    original: "So You Want to Be a Marauder"
-    translated: "Так ты хочешь стать мародёром"
-  level: 1
-  icon: 62304
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-001-clslnc999_00180/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=2bf0603fc53cbdf7
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=039bb4f80b3b02a4
-
-- name:
-    original: "Way of the Marauder"
-    translated: "Путь мародёра"
-  level: 90
-  icon: 61411
-  id: 5173
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-051-kingzg010_05173/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=509637506a1c3d7f
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=c06d03a97fb44ed9
-  actors:
-  - id: 1051117
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=426af2033ffd7d85
-    name: "Cornservant"
-  - id: 1051381
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=519bc396ecd24a30
-    name: "Cornservant"
-  - id: 1051382
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7f04af88e281d543
-    name: "disgruntled Hyune"
-  - id: 1051383
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4ce19e32d3d51329
-    name: "disgruntled Milalla"
-  - id: 1051384
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5949deeb8b4d1070
-    name: "disgruntled Shetona"
-  - id: 1051385
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=325670cf6c265d7b
-    name: "disgruntled woman"
-  - id: 1051386
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3323475e07f0d0e3
-    name: "Cornservant"
-
-- name:
-    original: "My First Axe"
-    translated: "Мой первый топор"
-  level: 100
-  icon: 61419
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-050-kingyr103_05005/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=991aa40cc6e2b721
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=c9ccbc6d44470601
-  actors:
-  - id: 1049466
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3d5efbae4e36b77a
-    name: "eccentric researcher"
-  - id: 1051454
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4375d422bc7dbeda
-    name: "eccentric researcher"
-
-- name:
-    original: "Axe in the Stone"
-    translated: "Нашёл топор на камень"
-  level: 100
-  icon: 61419
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-050-kingyx102_05014/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=7ef7acd05e79b8b0
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=5a5802b2e8b86164
-  actors:
-  - id: 1051440
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5468fdcdbcf30ae9
-    name: "Ностальгия"
-  - id: 1051441
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bf6c2ba093936084
-    name: "Ностальгия"
-  - id: 1051442
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=19ea238e800f21f6
-    name: "Ностальгия"
-  - id: 1051443
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=80f4f616e31860ab
-    name: "Констанс"
-  eobjects:
-  - id: 2014334
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=e9a5fe18993a6a71
-    name: "Цель"
-
-- name:
-    original: "Wake of Destruction"
-    translated: "Начало разрушений"
-  level: 90
-  icon: 61419
-  id: 5240
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-052-kingsf102_05240/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=b8b90c22bb8f7315
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=2b386ecb51657c02
-  actors:
-  - id: 1049679
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e1fff470c62351ab
-    name: "Шенза"
-  - id: 1049680
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=10d8888aa8429caf
-    name: "Вавлика"
-  - id: 1049681
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=afd92391436cff8b
-    name: "Завпья"
-  - id: 1049682
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d6e48141b4fba432
-    name: "Нитовикве"
-  - id: 1049690
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e77f582f8fdeb860
-    name: "Вайаккве"
-  - id: 1050247
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6b80ba0a17cfc822
-    name: "Генольт"
-  - id: 1051495
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c18c249f8a184029
-    name: "Вавлика"
-  - id: 1051496
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9f7547e0422063b1
-    name: "Шенза"
-  - id: 1051497
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f01313c99a8db302
-    name: "Завпья"
-  - id: 1048605
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2a91250f35182768
-    name: "Нитовикве"
-  - id: 1048606
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=83d2355803eaccfa
-    name: "Peyapewi"
-  - id: 1048608
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1003325010647462
-    name: "Нитовикве"
-  - id: 1052019
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9c042974b1aa4358
-    name: "outskirts envoy"
-  eobjects:
-  - id: 2014456
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=4d326e75aff80213
-    name: "Цель"
-
-- name:
-    original: "Wake of Destruction"
-    translated: "Начало разрушений"
-  level: 90
-  icon: 61419
-  id: 5241
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-052-kingsf103_05241/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=aab63b855ecdd314
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=76a993197aa6fdc3
-  actors:
-  - id: 1051495
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c18c249f8a184029
-    name: "Вавлика"
-  - id: 1051497
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f01313c99a8db302
-    name: "Завпья"
-
-- name:
-    original: "Brutal Strength"
-    translated: "Брутальная сила"
-  level: 90
-  icon: 61419
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-051-kingzh001_05174/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=7c8ae3eed0a07469
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=d44f14a40d79176f
-  actors:
-  - id: 1050617
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a78bfcdb40ef302b
-    name: "tenacious tour guide"
-  - id: 1050618
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bb3d66b89b138ff6
-    name: "tenacious tour guide"
-  - id: 1050619
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e8f8186e36e2e5f0
-    name: "tenacious tour guide"
-  quest_items:
-  - id: 2003566
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=5edda25a676326a9
-    name: "old coin"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=5edda25a676326a9
-  eobjects:
-  - id: 2013899
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=6c2fa90caaa1df0c
-    name: "wishing spot"
-
-- name:
-    original: "The Mountain That Strides"
-    translated: "Живая гора"
-  level: 90
-  icon: 61411
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-051-kingzh002_05175/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=a9042fa3db76735b
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=790b2fa9bc45b9b0
-  actors:
-  - id: 1050598
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6fccf2b354325a58
-    name: "amiable elder"
-  - id: 1050620
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=92d00e5caa6309da
-    name: "Daguerreo archivist"
-  quest_items:
-  - id: 2003567
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=7132d08737e1eb1c
-    name: "copy of The Medical Applications of Electrical Energy"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=7132d08737e1eb1c
-  - id: 2003568
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=087d584ca1e577b8
-    name: "copy of A History of Alexandrian Medicine"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=087d584ca1e577b8
-  - id: 2003569
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=681aa8b252799acf
-    name: "copy of Aetheric Imbalance and Its Symptoms"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=681aa8b252799acf
-  eobjects:
-  - id: 2013901
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=4fb216c7ff5bd9c6
-    name: "faded folio"
-  - id: 2013902
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=9a46897fbac82857
-    name: "timeworn tome"
-  - id: 2013903
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=6e9c10053ac3c84c
-    name: "mint condition monograph"
-
-- name:
-    original: "Bleeder of the Pack"
-    translated: "Кровавый пляж"
-  level: 90
-  icon: 61419
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-051-kingzh003_05176/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=32f789304805c85c
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=3b311e60d83177fd
-  actors:
-  - id: 1050598
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6fccf2b354325a58
-    name: "amiable elder"
-  - id: 1050621
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=41202aa8ca2079f3
-    name: "lively lass"
-  - id: 1050622
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2aaaa817b1164bcc
-    name: "lively lass"
-  quest_items:
-  - id: 2003570
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=14a89ac68224a8b0
-    name: "hidden clue"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=14a89ac68224a8b0
-  - id: 2003571
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=3ca640335b012a7f
-    name: "hidden clue"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=3ca640335b012a7f
-  - id: 2003572
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=f9bc97eeb8eaa89b
-    name: "hidden clue"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=f9bc97eeb8eaa89b
-  eobjects:
-  - id: 2013904
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=fafd91db02cb599d
-    name: "stack of crates"
-  - id: 2013905
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=fbc27561f845441c
-    name: "western streetlamp"
-  - id: 2013906
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=6eceadc96007d228
-    name: "northern streetlamp"
-  - id: 2013907
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=659279b09c1162b0
-    name: "eastern streetlamp"
-  - id: 2013908
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=2028698d0652bff7
-    name: "southern streetlamp"
-  - id: 2013909
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=dc9c8d87fbc8e2e0
-    name: "hidden bed of shrubs"
-
-- name:
-    original: "Bringing Down the Mountain"
-    translated: "Свалить гору"
-  level: 90
-  icon: 61411
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-051-kingzh004_05177/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=7ee3c7ac3d93207f
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=b721f2e118d5aef7
-  actors:
-  - id: 1050595
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d66f5aa0d53b5267
-    name: "clever youngling"
-  - id: 1050598
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6fccf2b354325a58
-    name: "amiable elder"
-  - id: 1050623
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c01d8772e2ed9839
-    name: "clever youngling"
-  - id: 1050624
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=71296ebc690f25be
-    name: "clever youngling"
-
-- name:
-    original: "Way of the Lancer"
-    translated: "Путь копейщика"
-  level: 90
-  icon: 61419
-  id: 5178
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-051-kingzh005_05178/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=dabf9af02f34c256
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=2e8f67ac20bf577c
-  actors:
-  - id: 1050598
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6fccf2b354325a58
-    name: "amiable elder"
-  - id: 1050625
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b1dd9ddba4194971
-    name: "restless Milalla"
-  - id: 1050626
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9c18bb7c7bd036e2
-    name: "restless Milalla"
-  - id: 1050627
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b7a5668075b26f0e
-    name: "restless Milalla"
-  - id: 1050631
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cd9d6a42859c930e
-    name: "restless Milalla"
-  enemies:
-  - id: 13507
-    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=22208c042bcdd461
-    name: "volcanic scorpion"
-
-- name:
-    original: "So You Want to Be a Lancer"
-    translated: "Так ты хочешь стать копейщиком"
-  level: 1
-  icon: 62305
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-001-clsarc999_00181/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=4052156755adc58b
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=cda1f1356670b39b
-
-- name:
-    original: "Way of the Lancer"
-    translated: "Путь копейщика"
-  level: 90
-  icon: 61419
-  id: 5179
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-051-kingzh006_05179/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=2e802ae541cc3aba
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=e7f8004d823049f7
-  actors:
-  - id: 1050598
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6fccf2b354325a58
-    name: "amiable elder"
-  - id: 1050632
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=efe9ada8d94b6309
-    name: "exhausted engineer"
-  - id: 1050633
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=47e15e49a9c4c946
-    name: "exhausted engineer"
-  quest_items:
-  - id: 2003573
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=ea412108fde65886
-    name: "set of terminal blueprints"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=ea412108fde65886
-  eobjects:
-  - id: 2013913
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=8b31ab980c8de17b
-    name: "detailed documentation"
-  - id: 2013914
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=5e3b1ed19a1eac39
-    name: "ice cream illustration"
-  - id: 2013915
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=cc672ac992e8f932
-    name: "arena advertisement"
-
-- name:
-    original: "My First Spear"
-    translated: "Моё первое копьё"
-  level: 90
-  icon: 61411
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-051-kingzh007_05180/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=52f4bdacc474ca08
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=4b6c2a163e0f877e
-  actors:
-  - id: 1050634
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0ea2497e8dbd0e94
-    name: "amiable elder"
-  - id: 1050635
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=427e4b51a3aa4903
-    name: "amiable elder"
-  - id: 1050636
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=876d4f34a40675f7
-    name: "amiable elder"
-  - id: 1050813
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7ab998de9085aad8
-    name: "amiable elder"
-
-- name:
-    original: "Spear of the Fearless"
-    translated: "На острие бесстрашия"
-  level: 90
-  icon: 61411
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-051-kingzh008_05181/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=c6453ffed07bd44d
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=08e0d01f77abbda3
-  actors:
-  - id: 1050637
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=107e2226bbf32b2c
-    name: "budding botanist"
-  - id: 1050814
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=18f43285af8e353b
-    name: "budding botanist"
-  quest_items:
-  - id: 2003574
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=03d2c08fbabcb8ab
-    name: "sack of banana leaves"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=03d2c08fbabcb8ab
-  - id: 2003575
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=641559a434b45cad
-    name: "sack of nepheletta fronds"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=641559a434b45cad
-  - id: 2003576
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=77515db3b5b964a5
-    name: "sack of irenaris leaves"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=77515db3b5b964a5
-  eobjects:
-  - id: 2013916
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=7f2d7b0567d2b5b4
-    name: "banana tree"
-  - id: 2013917
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=46ed0fe4c7ec41a1
-    name: "nepheletta tree"
-  - id: 2013918
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=8c3b751f25e39ffc
-    name: "irenaris shrub"
-
-- name:
-    original: "Courage of Stone"
-    translated: "Камень храбрости"
   level: 1
   icon: 62301
   id: 285
@@ -1086,8 +21,18 @@
     name: "В ваш охотничий журнал добавлена новая страница."
 
 - name:
-    original: "Courage of Stone"
-    translated: "Камень храбрости"
+    original: "So You Want to Be a Gladiator"
+    translated: "Так ты хочешь стать гладиатором"
+  level: 1
+  icon: 62301
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-001-clsgla001_00177/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=a4e28bb4954a9164
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=c2641e9bb994b393
+
+- name:
+    original: "Way of the Gladiator"
+    translated: "Путь гладиатора"
   level: 1
   icon: 62301
   id: 253
@@ -1118,8 +63,8 @@
     name: "В ваш охотничий журнал добавлена новая страница."
 
 - name:
-    original: "A Dangerous Proposition"
-    translated: "Опасное предложение"
+    original: "My First Gladius"
+    translated: "Мой первый клинок"
   level: 1
   icon: 62301
   url:
@@ -1142,8 +87,8 @@
     name: "Сурок-орехокол"
 
 - name:
-    original: "Lance of Destiny"
-    translated: "Копьё предназначения"
+    original: "Kicking the Hornet's Nest"
+    translated: "Разворошить осиное гнездо"
   level: 5
   icon: 62301
   url:
@@ -1202,10 +147,11 @@
     name: "Украденные товары"
 
 - name:
-    original: "Questions and Lancers"
-    translated: "Предания копейщиков"
+    original: "Ul'dah's Most Wanted"
+    translated: "Разыскиваемый в Уль'де"
   level: 10
   icon: 62301
+  id: 261
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-002-clsgla100_00261/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=d3117bfb999d4e0d
@@ -1233,10 +179,11 @@
     name: "Цель"
 
 - name:
-    original: "Proof of Might"
-    translated: "Доказательство силы"
+    original: "Ul'dah's Most Wanted"
+    translated: "Разыскиваемый в Уль'де"
   level: 10
   icon: 62301
+  id: 288
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-002-clsgla101_00288/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=cd6b4ec59394b86f
@@ -1264,11 +211,10 @@
     name: "Цель"
 
 - name:
-    original: "Way of the Archer"
-    translated: "Путь лучника"
+    original: "That Old Familiar Feeling"
+    translated: "То знакомое чувство"
   level: 15
   icon: 62301
-  id: 262
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-002-clsgla150_00262/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=d8cb787afcff3753
@@ -1298,21 +244,10 @@
     name: "Амал'джа-разбойник"
 
 - name:
-    original: "So You Want to Be an Archer"
-    translated: "Так ты хочешь стать лучником"
-  level: 1
-  icon: 62306
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-001-clscnj999_00182/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=8cfbd7de61e15e33
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=7cb1a1de11e723b1
-
-- name:
-    original: "Way of the Archer"
-    translated: "Путь лучника"
+    original: "The Face of Thal"
+    translated: "Посланник Талла"
   level: 20
   icon: 62301
-  id: 263
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-002-clsgla200_00263/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=1714bbcd8b8ba300
@@ -1354,8 +289,8 @@
     name: "Место засады"
 
 - name:
-    original: "My First Bow"
-    translated: "Мой первый лук"
+    original: "On Holy Ground"
+    translated: "На святой земле"
   level: 25
   icon: 62301
   url:
@@ -1381,8 +316,8 @@
     name: "Чистота Алакрана"
 
 - name:
-    original: "A Matter of Perspective"
-    translated: "Дело перспективы"
+    original: "The Rematch"
+    translated: "Реванш"
   level: 30
   icon: 62301
   url:
@@ -1445,10 +380,11 @@
     name: "Фиал с «Желчью Ралгра»"
 
 - name:
-    original: "School of Hard Nocks"
-    translated: "Знай врага своего"
+    original: "Way of the Pugilist"
+    translated: "Путь борца"
   level: 1
   icon: 62302
+  id: 532
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-005-clspgl011_00532/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=56765042024027ba
@@ -1466,10 +402,21 @@
     name: "В ваш охотничий журнал добавлена новая страница."
 
 - name:
-    original: "Training with Leih"
-    translated: "Тренировка с Ли"
+    original: "So You Want to Be a Pugilist"
+    translated: "Так ты хочешь стать борцом"
   level: 1
   icon: 62302
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-001-clspgl001_00178/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=0b9b2271cbf69f81
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=0dd7421d61e808cc
+
+- name:
+    original: "Way of the Pugilist"
+    translated: "Путь борца"
+  level: 1
+  icon: 62302
+  id: 533
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-005-clspgl020_00533/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=e005d1a7fefce4df
@@ -1497,8 +444,8 @@
     name: "В ваш охотничий журнал добавлена новая страница."
 
 - name:
-    original: "Violators Will Be Shot"
-    translated: "Преступатели будут застрелены"
+    original: "My First Hora"
+    translated: "Мой первый кастет"
   level: 1
   icon: 62302
   url:
@@ -1521,8 +468,8 @@
     name: "Сурок-орехокол"
 
 - name:
-    original: "To Catch a Poacher"
-    translated: "Поймать браконьера"
+    original: "Harder than Rock"
+    translated: "Твёрже камня"
   level: 5
   icon: 62302
   url:
@@ -1572,10 +519,11 @@
     name: "Камень испытаний"
 
 - name:
-    original: "Homecoming"
-    translated: "Возвращение домой"
+    original: "Burning Up the Quarter Malm"
+    translated: "Пылающий взгляд, стремительный кулак"
   level: 10
   icon: 62302
+  id: 555
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-005-clspgl100_00555/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=6747b832e99a9614
@@ -1624,10 +572,11 @@
     name: "Тренировочный манекен"
 
 - name:
-    original: "The One That Got Away"
-    translated: "Сбежавшая"
+    original: "Burning Up the Quarter Malm"
+    translated: "Пылающий взгляд, стремительный кулак"
   level: 10
   icon: 62302
+  id: 698
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-006-clspgl101_00698/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=186cc412250cdcc0
@@ -1679,18 +628,8 @@
     name: "Тренировочный манекен"
 
 - name:
-    original: "So You Want to Be a Rogue"
-    translated: "Так ты хочешь стать разбойником"
-  level: 1
-  icon: 62301
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-001-clsgla001_00177/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=a4e28bb4954a9164
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=c2641e9bb994b393
-
-- name:
-    original: "My First Daggers"
-    translated: "Мои первые кинжалы"
+    original: "The Spirit Is Willing"
+    translated: "Видит око, да зуб неймёт"
   level: 15
   icon: 62302
   url:
@@ -1743,8 +682,8 @@
     name: "Цель"
 
 - name:
-    original: "Stabbers in Yer Fambles"
-    translated: "Береги пальцы"
+    original: "Keeping the Spirit Alive"
+    translated: "Старая школа"
   level: 20
   icon: 62302
   url:
@@ -1785,8 +724,8 @@
     name: "Подозрительная выемка"
 
 - name:
-    original: "A Dainty Dilemma"
-    translated: "Что такое благородство"
+    original: "Star-crossed Rivals"
+    translated: "Разлученные соперники"
   level: 25
   icon: 62302
   url:
@@ -1823,8 +762,8 @@
     name: "Цель"
 
 - name:
-    original: "Stray into the Shadows"
-    translated: "Бродяжка из теней"
+    original: "Return of the Holyfist"
+    translated: "Возвращение Светлого Кулака"
   level: 30
   icon: 62302
   url:
@@ -1856,10 +795,11 @@
     name: "Песчаный червь"
 
 - name:
-    original: "Stifled Screams"
-    translated: "Задушенные крики"
+    original: "Way of the Marauder"
+    translated: "Путь мародёра"
   level: 1
   icon: 62303
+  id: 310
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-003-clsexc011_00310/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=ad3dfa405662d09f
@@ -1877,10 +817,21 @@
     name: "В ваш охотничий журнал добавлена новая страница."
 
 - name:
-    original: "Slave to the Code"
-    translated: "Рабы кодекса"
+    original: "So You Want to Be a Marauder"
+    translated: "Так ты хочешь стать мародёром"
   level: 1
   icon: 62303
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-001-clsexc001_00179/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=e774c93dfcd5d1ca
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=dba08d68a1751801
+
+- name:
+    original: "Way of the Marauder"
+    translated: "Путь мародёра"
+  level: 1
+  icon: 62303
+  id: 311
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-003-clsexc020_00311/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=efe890572a3e98ca
@@ -1908,8 +859,8 @@
     name: "В ваш охотничий журнал добавлена новая страница."
 
 - name:
-    original: "Grinners in the Mist"
-    translated: "Псы в тумане"
+    original: "My First Axe"
+    translated: "Мой первый топор"
   level: 1
   icon: 62303
   url:
@@ -1932,8 +883,8 @@
     name: "dirty rat"
 
 - name:
-    original: "Sweet Sorrows"
-    translated: "Сладкие Слёзы"
+    original: "Axe in the Stone"
+    translated: "Нашёл топор на камень"
   level: 5
   icon: 62303
   url:
@@ -1992,10 +943,11 @@
     name: "Твёрдый камень"
 
 - name:
-    original: "Market for Death"
-    translated: "Продавец кошмаров"
+    original: "Wake of Destruction"
+    translated: "Начало разрушений"
   level: 10
   icon: 62303
+  id: 314
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-003-clsexc100_00314/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=1f278e148692e574
@@ -2017,10 +969,11 @@
     name: "Перевёрнутая повозка"
 
 - name:
-    original: "Cloying Victory"
-    translated: "Победа в подарок"
+    original: "Wake of Destruction"
+    translated: "Начало разрушений"
   level: 10
   icon: 62303
+  id: 315
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-003-clsexc101_00315/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=f4c38eea15d8c156
@@ -2040,4 +993,1298 @@
   - id: 2000287
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=ba77b45a9446fe74
     name: "Перевёрнутая повозка"
+
+- name:
+    original: "Brutal Strength"
+    translated: "Брутальная сила"
+  level: 15
+  icon: 62303
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-003-clsexc150_00316/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=8a5815eb1cabcb6c
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=d57c749b3a871755
+  actors:
+  - id: 1000927
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b6908335328c605e
+    name: "Вирнзон"
+  - id: 1002110
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3cc349c954687041
+    name: "Рейнфред"
+  - id: 1002111
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9a15cce1d9e30762
+    name: "Скафгим"
+  enemies:
+  - id: 1071
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=fb91a3bac0e4b775
+    name: "Трюфельный куэрл"
+  eobjects:
+  - id: 2000288
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=0f4dee7e4dac65d2
+    name: "Цель"
+  - id: 2001486
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=641666b4483503eb
+    name: "Недвижимый валун"
+  - id: 2001494
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=7e842f235c0372cc
+    name: "Недвижимый валун"
+
+- name:
+    original: "The Mountain That Strides"
+    translated: "Живая гора"
+  level: 20
+  icon: 62303
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-003-clsexc200_00317/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=afcd5f234cddaf45
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=b7c305ca12d9e34e
+  actors:
+  - id: 1000927
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b6908335328c605e
+    name: "Вирнзон"
+  - id: 1002112
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=dcca3a8d9da1a93f
+    name: "Нэддард"
+  - id: 1002113
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4d82d164fc8594c0
+    name: "Пфарстим"
+  - id: 1002674
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=01397b5d24fcbe1b
+    name: "Сигард"
+  - id: 1002682
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1943644cfb6b5d21
+    name: "Солквиб"
+  - id: 1002683
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8293579282c7569d
+    name: "Солквиб"
+  - id: 1002684
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=82eb3491c3375ee6
+    name: "Солквиб"
+  - id: 1002696
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bf48349f0a16d1da
+    name: "Солквиб"
+  - id: 1003546
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3fe02ddf2d6ab1c6
+    name: "Сигард"
+  - id: 1003547
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bbc06faa54360d71
+    name: "Вирнзон"
+  - id: 1003548
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f9731e5158951543
+    name: "Солквиб"
+  enemies:
+  - id: 2757
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=a84a45c57e5deccb
+    name: "Голодный стервятник"
+  quest_items:
+  - id: 2000525
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=7fa15c74169483dc
+    name: "Бурдюк Сигарда"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=7fa15c74169483dc
+  - id: 2000526
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=0dc6593d49664f0c
+    name: "Сумка Сигарда"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=0dc6593d49664f0c
+  eobjects:
+  - id: 2000289
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=b337fa002d44d95e
+    name: "Бурдюк Сигарда"
+  - id: 2000290
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=d282d36e3312d01f
+    name: "Сумка Сигарда"
+  - id: 2000294
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=f3f6d7d4291b308a
+    name: "Топорик Сигарда"
+
+- name:
+    original: "Bleeder of the Pack"
+    translated: "Кровавый пляж"
+  level: 25
+  icon: 62303
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-003-clsexc250_00318/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=c6a88cbf01890ef2
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=25ff57b195db5fcb
+  actors:
+  - id: 1000927
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b6908335328c605e
+    name: "Вирнзон"
+  - id: 1002682
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1943644cfb6b5d21
+    name: "Солквиб"
+  - id: 1002685
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=365227d6a4346224
+    name: "Солквиб"
+  - id: 1002696
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bf48349f0a16d1da
+    name: "Солквиб"
+
+- name:
+    original: "Bringing Down the Mountain"
+    translated: "Свалить гору"
+  level: 30
+  icon: 62303
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-003-clsexc300_00319/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=351cfa561b06aaf1
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=1738b1244173821a
+  actors:
+  - id: 1000927
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b6908335328c605e
+    name: "Вирнзон"
+  - id: 1002112
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=dcca3a8d9da1a93f
+    name: "Нэддард"
+  - id: 1002115
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5825ce13d04cc5e5
+    name: "Сигард"
+  - id: 1002680
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9f5bdd8a9739ea1b
+    name: "Бронбар"
+  - id: 1002686
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1e3f406cf141e0f1
+    name: "Солквиб"
+  - id: 1002689
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=776b7217907d6012
+    name: "Вирнзон"
+  - id: 1002696
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bf48349f0a16d1da
+    name: "Солквиб"
+  - id: 1002713
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=52b37421eb0eb7bc
+    name: "Бронбар"
+  - id: 1002714
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b8d1b3f59e810270
+    name: "Солквиб"
+  - id: 1002715
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7f5c3a0dcaf9ab9a
+    name: "Бронбар"
+  enemies:
+  - id: 1316
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=09255f5bfea62347
+    name: "Огромный клюворуб"
+  - id: 2012
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=58e401889a1cf17d
+    name: "Хищный раптор"
+  - id: 2757
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=a84a45c57e5deccb
+    name: "Голодный стервятник"
+  eobjects:
+  - id: 2000296
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=49d9149661f5c076
+    name: "Разбитый горшок"
+  - id: 2000297
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=db54ddf0026400e4
+    name: "Разбитая бочка"
+  - id: 2000298
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=7280e6650afefb76
+    name: "Раздавленный ящик"
+  - id: 2000299
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=2d17f3fe5d4f3609
+    name: "Перевёрнутая повозка"
+
+- name:
+    original: "Way of the Lancer"
+    translated: "Путь копейщика"
+  level: 1
+  icon: 62304
+  id: 132
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-001-clslnc998_00132/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=a88aaf1a39dd5407
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=8b7328d1008c5a45
+  actors:
+  - id: 1000251
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4f92232803c227f0
+    name: "Джиллиан"
+  - id: 1000254
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=41582f060c2b79a5
+    name: "Ивейн"
+  logmessages:
+  - id: 1007
+    url: https://translate.xivrus.ru/translate/xivrus/logmessage/ru/?checksum=edd6cfb3e1abbfaa
+    name: "В ваш охотничий журнал добавлена новая страница."
+
+- name:
+    original: "So You Want to Be a Lancer"
+    translated: "Так ты хочешь стать копейщиком"
+  level: 1
+  icon: 62304
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-001-clslnc999_00180/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=2bf0603fc53cbdf7
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=039bb4f80b3b02a4
+
+- name:
+    original: "Way of the Lancer"
+    translated: "Путь копейщика"
+  level: 1
+  icon: 62304
+  id: 23
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-clslnc000_00023/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=a4e728e616900c63
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=30e645f9c0d64fbf
+  actors:
+  - id: 1000251
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4f92232803c227f0
+    name: "Джиллиан"
+  - id: 1000254
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=41582f060c2b79a5
+    name: "Ивейн"
+  enemies:
+  - id: 199
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=227eebb622378d98
+    name: "Спотыкающаяся грибница"
+  - id: 1046
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=2b756cd158cde44d
+    name: "loverly ladybird"
+  - id: 1101
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=8b9784b4c50d5e39
+    name: "pack rat"
+  logmessages:
+  - id: 1007
+    url: https://translate.xivrus.ru/translate/xivrus/logmessage/ru/?checksum=edd6cfb3e1abbfaa
+    name: "В ваш охотничий журнал добавлена новая страница."
+
+- name:
+    original: "My First Spear"
+    translated: "Моё первое копьё"
+  level: 1
+  icon: 62304
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-002-clslnc100_00218/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=371fcc8ca65b003a
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=1faac8be6ee3f178
+  actors:
+  - id: 1000254
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=41582f060c2b79a5
+    name: "Ивейн"
+  enemies:
+  - id: 199
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=227eebb622378d98
+    name: "Спотыкающаяся грибница"
+  - id: 1046
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=2b756cd158cde44d
+    name: "loverly ladybird"
+  - id: 1101
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=8b9784b4c50d5e39
+    name: "pack rat"
+
+- name:
+    original: "Spear of the Fearless"
+    translated: "На острие бесстрашия"
+  level: 5
+  icon: 62304
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-clslnc001_00047/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=e5c673e39c24ff0e
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=a4662cdcc15a5bd1
+  actors:
+  - id: 1000251
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4f92232803c227f0
+    name: "Джиллиан"
+  - id: 1000254
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=41582f060c2b79a5
+    name: "Ивейн"
+  enemies:
+  - id: 486
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=5c7a62026e6dcc66
+    name: "Рой жалящих мух"
+  - id: 1040
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=a55abdcac1638292
+    name: "Рассерженная жаба"
+  - id: 1084
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=8f32386a3cd77e22
+    name: "yarzon biter"
+  quest_items:
+  - id: 2000230
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=7b8085702c2570e9
+    name: "мешок с дурнопахнущей приманкой"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=7b8085702c2570e9
+  eobjects:
+  - id: 2000908
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=decf8b942870503e
+    name: "Гнездо ярзонов"
+  - id: 2000909
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=026af3983d26f6e8
+    name: "Гнездо ярзонов"
+  - id: 2000910
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=2356c6a169e63c8d
+    name: "Гнездо ярзонов"
+  - id: 2000911
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=3d68929245806e14
+    name: "Гнездо ярзонов"
+  - id: 2000914
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=99934b5d93ee4499
+    name: "Рухнувшая колонна"
+  - id: 2000915
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=eaae18b7a087b0af
+    name: "Рухнувшая колонна"
+  - id: 2000916
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=27a78f89bb4577f1
+    name: "Рухнувшая колонна"
+
+- name:
+    original: "Courage of Stone"
+    translated: "Камень храбрости"
+  level: 10
+  icon: 62304
+  id: 35
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-clslnc002_00035/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=0965ca26f409a0f7
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=89e81c1d96f73096
+  actors:
+  - id: 1000254
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=41582f060c2b79a5
+    name: "Ивейн"
+  - id: 1003009
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6e044f6d5d8b0e3f
+    name: "Фульк"
+  enemies:
+  - id: 605
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=3660bce67193e997
+    name: "Молодой анолис"
+  - id: 2169
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=18722996a3edfcc2
+    name: "gaunt slaveling"
+  quest_items:
+  - id: 2000102
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=1d4e920243881dc5
+    name: "Камень храбрости"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=1d4e920243881dc5
+  eobjects:
+  - id: 2000917
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=9d7020a6773497ef
+    name: "Камень храбрости"
+  - id: 2000966
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=e7a15911d6ae2e21
+    name: "Камень храбрости"
+
+- name:
+    original: "Courage of Stone"
+    translated: "Камень храбрости"
+  level: 10
+  icon: 62304
+  id: 143
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-001-clslnc997_00143/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=c075d905366315d5
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=7f3bc11d682082b3
+  actors:
+  - id: 1000254
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=41582f060c2b79a5
+    name: "Ивейн"
+  - id: 1003009
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6e044f6d5d8b0e3f
+    name: "Фульк"
+  enemies:
+  - id: 605
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=3660bce67193e997
+    name: "Молодой анолис"
+  - id: 2169
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=18722996a3edfcc2
+    name: "gaunt slaveling"
+  quest_items:
+  - id: 2000122
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=9b6553043715d5f2
+    name: "Камень храбрости"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=9b6553043715d5f2
+  eobjects:
+  - id: 2000918
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=878bd652cc04d03a
+    name: "Камень храбрости"
+  - id: 2000967
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=8442e65d21043ffc
+    name: "Камень храбрости"
+
+- name:
+    original: "A Dangerous Proposition"
+    translated: "Опасное предложение"
+  level: 15
+  icon: 62304
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-clslnc003_00055/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=5514e1bb17949a94
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=72b1241f8c4b5346
+  actors:
+  - id: 1000254
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=41582f060c2b79a5
+    name: "Ивейн"
+  - id: 1001194
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ed6b79cf6ccea203
+    name: "Фульк"
+  enemies:
+  - id: 3343
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=4cde79d6c84ac569
+    name: "Солодовый энт"
+  quest_items:
+  - id: 2000235
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=8df81c810a58faa6
+    name: "алхимическое зелье"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=8df81c810a58faa6
+  eobjects:
+  - id: 2000919
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=62f48d3bf3de4215
+    name: "Открытые корни"
+  - id: 2000920
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=a2c4509b74f388a4
+    name: "Цель"
+
+- name:
+    original: "Lance of Destiny"
+    translated: "Копьё предназначения"
+  level: 20
+  icon: 62304
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-clslnc004_00056/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=413f69e8fb8c4dd6
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=ad7b08c4aaa21f75
+  actors:
+  - id: 1000254
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=41582f060c2b79a5
+    name: "Ивейн"
+  - id: 1003009
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6e044f6d5d8b0e3f
+    name: "Фульк"
+  - id: 1003038
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5ee7cbcaf8b7a9e8
+    name: "???"
+  enemies:
+  - id: 502
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=b8d8d790a39cb0da
+    name: "greedy hog"
+  quest_items:
+  - id: 2000236
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=0563ba93313760b5
+    name: "окровавленный кабаний клык"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=0563ba93313760b5
+  eobjects:
+  - id: 2000089
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=79a8c87745e5e79c
+    name: "Утоптанная земля"
+  - id: 2000977
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=79a63b0d957ca9e4
+    name: "Цель"
+  - id: 2000978
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=ce2a789ba58b376e
+    name: "Окровавленные кабаньи клыки"
+
+- name:
+    original: "Questions and Lancers"
+    translated: "Предания копейщиков"
+  level: 25
+  icon: 62304
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-004-clslnc005_00438/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=48162957e1091343
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=9358825562c3972f
+  actors:
+  - id: 1000254
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=41582f060c2b79a5
+    name: "Ивейн"
+  - id: 1000590
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=676fe32a6d71c575
+    name: "Баскаррон"
+  - id: 1000756
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9596de4ec71bc7d3
+    name: "Матеоми"
+  - id: 1002815
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4b14b8c63bece68f
+    name: "Воксклерт"
+  enemies:
+  - id: 613
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=92d910db1cff9344
+    name: "Красный шар"
+  - id: 963
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=ed8163813e6b2393
+    name: "Светоч"
+  - id: 1146
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=caf8649253db3f9a
+    name: "wingrat"
+  quest_items:
+  - id: 2000232
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=0c61b82b2cf8a2cb
+    name: "бутылка полноцветной медовухи"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=0c61b82b2cf8a2cb
+  - id: 2000233
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=910337a9bee55347
+    name: "палец воздушного шара"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=910337a9bee55347
+  - id: 2000243
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=04a54df005b1c6f5
+    name: "бутылка заговорённой крови"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=04a54df005b1c6f5
+  eobjects:
+  - id: 2000921
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=d286bd107e99aee6
+    name: "Мисталево Копьё"
+  - id: 2000922
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=6b4331e90af2d1c9
+    name: "Потухший костёр"
+  - id: 2000923
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=204f9d4ff4be289b
+    name: "Потухший костёр"
+  - id: 2000963
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=4e43707bc4e90f31
+    name: "Цель"
+
+- name:
+    original: "Proof of Might"
+    translated: "Доказательство силы"
+  level: 30
+  icon: 62304
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-004-clslnc006_00439/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=8b608580092c6623
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=06cdbae8e0698727
+  actors:
+  - id: 1000254
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=41582f060c2b79a5
+    name: "Ивейн"
+  - id: 1000448
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=faebe2305f3e549a
+    name: "Фульк"
+  - id: 1003080
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=21f85791bc5d4f63
+    name: "Эддард"
+  eobjects:
+  - id: 2000924
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=6c01da836b2690a3
+    name: "Поцарапанное копьё"
+
+- name:
+    original: "Way of the Archer"
+    translated: "Путь лучника"
+  level: 1
+  icon: 62305
+  id: 131
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-001-clsarc998_00131/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=fabadbb40996c128
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=2f7f01ab230b6a16
+  actors:
+  - id: 1000197
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=76ce02378a945f98
+    name: "Афелина"
+  - id: 1000200
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bb83a516d54ce52b
+    name: "Люсиана"
+  logmessages:
+  - id: 1008
+    url: https://translate.xivrus.ru/translate/xivrus/logmessage/ru/?checksum=8b6874bf2f13b39b
+    name: "В ваш охотничий журнал добавлена новая страница."
+
+- name:
+    original: "So You Want to Be an Archer"
+    translated: "Так ты хочешь стать лучником"
+  level: 1
+  icon: 62305
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-001-clsarc999_00181/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=4052156755adc58b
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=cda1f1356670b39b
+
+- name:
+    original: "Way of the Archer"
+    translated: "Путь лучника"
+  level: 1
+  icon: 62305
+  id: 21
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-clsarc000_00021/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=a95eb093e4121bc3
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=a92347e9acd3975b
+  actors:
+  - id: 1000197
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=76ce02378a945f98
+    name: "Афелина"
+  - id: 1000200
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bb83a516d54ce52b
+    name: "Люсиана"
+  enemies:
+  - id: 199
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=227eebb622378d98
+    name: "Спотыкающаяся грибница"
+  - id: 1046
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=2b756cd158cde44d
+    name: "loverly ladybird"
+  - id: 1101
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=8b9784b4c50d5e39
+    name: "pack rat"
+  logmessages:
+  - id: 1008
+    url: https://translate.xivrus.ru/translate/xivrus/logmessage/ru/?checksum=8b6874bf2f13b39b
+    name: "В ваш охотничий журнал добавлена новая страница."
+
+- name:
+    original: "My First Bow"
+    translated: "Мой первый лук"
+  level: 1
+  icon: 62305
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-002-clsarc100_00219/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=c2495054deb53ed8
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=5e3863e9a4ed80b2
+  actors:
+  - id: 1000200
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bb83a516d54ce52b
+    name: "Люсиана"
+  enemies:
+  - id: 199
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=227eebb622378d98
+    name: "Спотыкающаяся грибница"
+  - id: 1046
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=2b756cd158cde44d
+    name: "loverly ladybird"
+  - id: 1101
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=8b9784b4c50d5e39
+    name: "pack rat"
+
+- name:
+    original: "A Matter of Perspective"
+    translated: "Дело перспективы"
+  level: 5
+  icon: 62305
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-clsarc001_00046/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=d7d8634fc6bcbee9
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=327ca2e82f57c6a9
+  actors:
+  - id: 1000200
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bb83a516d54ce52b
+    name: "Люсиана"
+  enemies:
+  - id: 184
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=a4ad13ebc769fce3
+    name: "Опо-опо Южной Рощи"
+  - id: 203
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=b0cc34f92a92533e
+    name: "Виноградная микрочу"
+  eobjects:
+  - id: 2000925
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=c13344ee5b8999e4
+    name: "Мишень"
+  - id: 2000926
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=eee3e33eb5e95d21
+    name: "Мишень"
+  - id: 2000927
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=8f1bc3f70ceaa86e
+    name: "Мишень"
+  - id: 2000928
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=4894cbd23bda3ab0
+    name: "Мишень"
+  - id: 2000929
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=00c65849f35b105a
+    name: "Мишень"
+  - id: 2000930
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=749cd180ac89515c
+    name: "Мишень"
+  - id: 2000931
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=63439648a8648a61
+    name: "Мишень"
+  - id: 2000934
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=8793552bda9f6086
+    name: "Мишень"
+
+- name:
+    original: "School of Hard Nocks"
+    translated: "Знай врага своего"
+  level: 10
+  icon: 62305
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-clsarc002_00067/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=31e5995b46bb057a
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=0216153c36017a01
+  actors:
+  - id: 1000199
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9936a548566ed37e
+    name: "Ли Алиапо"
+  - id: 1000200
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bb83a516d54ce52b
+    name: "Люсиана"
+  - id: 1000204
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7673ea0391e28e1b
+    name: "Сильвер"
+  enemies:
+  - id: 962
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=5548988a207e21c8
+    name: "Береговой слизень"
+  - id: 2757
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=a84a45c57e5deccb
+    name: "Голодный стервятник"
+  eobjects:
+  - id: 2000936
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=9070306295de3add
+    name: "Мишень"
+  - id: 2000937
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=e24ccabf642b4922
+    name: "Мишень"
+  - id: 2000938
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=e26e463d105dd95b
+    name: "Мишень"
+  - id: 2000939
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=0d3d82c8737de3c9
+    name: "Мишень"
+  - id: 2000940
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=0ce75971652f5bac
+    name: "Мишень"
+  - id: 2001171
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=ff89a4ac75b370b1
+    name: "Мишень"
+  - id: 2001173
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=900369c0d53e4874
+    name: "Мишень"
+  - id: 2001174
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=6529ec63ee5f97c4
+    name: "Мишень"
+
+- name:
+    original: "Training with Leih"
+    translated: "Тренировка с Ли"
+  level: 10
+  icon: 62305
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-001-clsarc997_00134/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=d2d951701335b41b
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=c534f20820db726b
+  actors:
+  - id: 1000199
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9936a548566ed37e
+    name: "Ли Алиапо"
+  - id: 1000200
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bb83a516d54ce52b
+    name: "Люсиана"
+  - id: 1000204
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7673ea0391e28e1b
+    name: "Сильвер"
+  enemies:
+  - id: 962
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=5548988a207e21c8
+    name: "Береговой слизень"
+  - id: 2757
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=a84a45c57e5deccb
+    name: "Голодный стервятник"
+  eobjects:
+  - id: 2000955
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=03cd6931e054cf46
+    name: "Мишень"
+  - id: 2000956
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=2bf54cd71e7b4db2
+    name: "Мишень"
+  - id: 2000957
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=b324664fc8f4eba3
+    name: "Мишень"
+  - id: 2000958
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=151829569206c452
+    name: "Мишень"
+  - id: 2000959
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=cca7a02ea7878504
+    name: "Мишень"
+  - id: 2001175
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=8949b4059f34066d
+    name: "Мишень"
+  - id: 2001177
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=1b9e3946f8ee918a
+    name: "Мишень"
+  - id: 2001178
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=5c2e328e09a433cd
+    name: "Мишень"
+
+- name:
+    original: "Violators Will Be Shot"
+    translated: "Преступатели будут застрелены"
+  level: 15
+  icon: 62305
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-clsarc003_00068/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=45300b38f066c8e5
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=474eb84653bc3bc9
+  actors:
+  - id: 1000199
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9936a548566ed37e
+    name: "Ли Алиапо"
+  - id: 1000200
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bb83a516d54ce52b
+    name: "Люсиана"
+  - id: 1000204
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7673ea0391e28e1b
+    name: "Сильвер"
+  eobjects:
+  - id: 2000941
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=7cd2e479e6b950ca
+    name: "Мишень"
+  - id: 2000942
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=70d14dc2783259fe
+    name: "Мишень"
+  - id: 2000943
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=3ecc25ac853461a4
+    name: "Мишень"
+  - id: 2000944
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=edfe84030644d1ac
+    name: "Мишень"
+  - id: 2000945
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=cd4c466a521d7770
+    name: "Мишень"
+  - id: 2000946
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=7e11ef26b660ecd4
+    name: "Мишень"
+  - id: 2000962
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=4d6cb7245b9fcad8
+    name: "Цель"
+  - id: 2001179
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=1d72391926e10d1e
+    name: "Мишень"
+  - id: 2001180
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=6a184cab6dbf5d93
+    name: "Мишень"
+
+- name:
+    original: "To Catch a Poacher"
+    translated: "Поймать браконьера"
+  level: 20
+  icon: 62305
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-clsarc004_00070/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=1eac0c72cb405538
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=3c6887d762450f54
+  actors:
+  - id: 1000199
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9936a548566ed37e
+    name: "Ли Алиапо"
+  - id: 1000200
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bb83a516d54ce52b
+    name: "Люсиана"
+  - id: 1000204
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7673ea0391e28e1b
+    name: "Сильвер"
+  - id: 1000590
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=676fe32a6d71c575
+    name: "Баскаррон"
+  - id: 1000731
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fdfc7257d663a472
+    name: "Сильвер"
+  - id: 1000732
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=68585717f1d459f1
+    name: "Ли Алиапо"
+  eobjects:
+  - id: 2000136
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=705b965a72f1f8d1
+    name: "Еле видные следы"
+  - id: 2000947
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=21c115cfca121b3d
+    name: "Железный капкан"
+  - id: 2000948
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=f884d76f3c901daa
+    name: "Стрела браконьера"
+  - id: 2000949
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=e70a18b4bcab8b9b
+    name: "Пустые бутылки из-под медовухи"
+  - id: 2001105
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=7e9adb7464dea171
+    name: "Цель"
+
+- name:
+    original: "Homecoming"
+    translated: "Возвращение домой"
+  level: 25
+  icon: 62305
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-clsarc005_00071/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=358393f0f10f3b17
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=97a3b6133c1faaec
+  actors:
+  - id: 1000199
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9936a548566ed37e
+    name: "Ли Алиапо"
+  - id: 1000200
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bb83a516d54ce52b
+    name: "Люсиана"
+  - id: 1000204
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7673ea0391e28e1b
+    name: "Сильвер"
+  - id: 1000534
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=65dbb91bebd1dc8e
+    name: "Ли Алиапо"
+  - id: 1001284
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1daeaf7cfd8db74a
+    name: "Пава Муджуук"
+  eobjects:
+  - id: 2000951
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=245be384fea8ec86
+    name: "Цель"
+
+- name:
+    original: "The One That Got Away"
+    translated: "Сбежавшая"
+  level: 30
+  icon: 62305
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-clsarc006_00076/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=6f76ad194b481b74
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=eef2be6884e35c98
+  actors:
+  - id: 1000199
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9936a548566ed37e
+    name: "Ли Алиапо"
+  - id: 1000200
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bb83a516d54ce52b
+    name: "Люсиана"
+  - id: 1000204
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7673ea0391e28e1b
+    name: "Сильвер"
+  - id: 1000795
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=62b6e7180fd483f3
+    name: "Сильвер"
+  - id: 1003066
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a57c286eb8dc1d6f
+    name: "Сильвер"
+  - id: 1003067
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=731ce46e4d2db7de
+    name: "Ли Алиапо"
+  - id: 1003068
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=331bc80093c28fe4
+    name: "Пава Муджуук"
+  eobjects:
+  - id: 2000709
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=8d6d422bbcb80314
+    name: "Цель"
+
+- name:
+    original: "So You Want to Be a Rogue"
+    translated: "Так ты хочешь стать разбойником"
+  level: 1
+  icon: 62309
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-001-clsrog001_00101/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=6c718891d0cc8e29
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=e71e096b9efc17b7
+
+- name:
+    original: "My First Daggers"
+    translated: "Мои первые кинжалы"
+  level: 1
+  icon: 62309
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-001-clsrog011_00102/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=ab3388fa820fc521
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=abab2ded5f48f019
+  actors:
+  - id: 1009943
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1e03cea6150ab399
+    name: "Джеки"
+  - id: 1009944
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1f30fe422adc5e7d
+    name: "Лонуорд"
+  logmessages:
+  - id: 1020
+    url: https://translate.xivrus.ru/translate/xivrus/logmessage/ru/?checksum=1da9f0a8e92bf6e0
+    name: "В ваш охотничий журнал добавлена новая страница."
+
+- name:
+    original: "Stabbers in Yer Fambles"
+    translated: "Береги пальцы"
+  level: 1
+  icon: 62309
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-001-clsrog021_00104/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=a0fe5963439038ed
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=119e68b9b1dcfdc9
+  actors:
+  - id: 1009943
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1e03cea6150ab399
+    name: "Джеки"
+  enemies:
+  - id: 1098
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=2dbf8063902c5217
+    name: "wild ram"
+  - id: 1236
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=fdfae5129ffd543a
+    name: "dirty rat"
+  - id: 2021
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=5bd358a765d21e9d
+    name: "Лепидот"
+
+- name:
+    original: "A Dainty Dilemma"
+    translated: "Что такое благородство"
+  level: 5
+  icon: 62309
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-001-clsrog050_00110/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=d375074c022901f9
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=2f6cd899b2e62136
+  actors:
+  - id: 1005411
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c69a753df270706b
+    name: "И'толванн"
+  - id: 1009943
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1e03cea6150ab399
+    name: "Джеки"
+  - id: 1010197
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fc6238881fe4f1d4
+    name: "Периму Хориму"
+  - id: 1010205
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d24bc610b9d90cbc
+    name: "Периму Хориму"
+  - id: 1010206
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e10c0c34d4120d84
+    name: "Периму Хориму"
+  enemies:
+  - id: 1103
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=79f6748a0d2f47c9
+    name: "Морская аурелия"
+  - id: 1360
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=e4e70a0814eafd40
+    name: "Гоблин-торговец"
+  quest_items:
+  - id: 2001507
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=033aa58824a57f41
+    name: "спусковой механизм #43"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=033aa58824a57f41
+
+- name:
+    original: "Stray into the Shadows"
+    translated: "Бродяжка из теней"
+  level: 10
+  icon: 62309
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-001-clsrog101_00126/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=97749ad5e0211805
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=0623ab75a0e30caf
+  actors:
+  - id: 1000868
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d65aac9ecb95bc1d
+    name: "Реренасу"
+  - id: 1000956
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e986b1cbd8f2eced
+    name: "Ныряющая Змея"
+  - id: 1003253
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=32c8dc0310d31ec5
+    name: "Герульф"
+  - id: 1009943
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1e03cea6150ab399
+    name: "Джеки"
+  - id: 1010198
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=789a73fe0c65e323
+    name: "В'кеббе"
+  - id: 1010211
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c937cd6cccfe3ba1
+    name: "В'кеббе"
+  - id: 1010212
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b540380366c6fa0d
+    name: "Самая обыкновенная рыбачка"
+  - id: 1010213
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b95f4a1523b921e7
+    name: "В'кеббе"
+  statuses:
+  - id: 614
+    url: https://translate.xivrus.ru/translate/xivrus/status/ru/?checksum=dbf749271a76fca0
+    name: "Hidden"
+    desc: "Невозможно обнаружить. Скорость передвижения значительно снижена."
+
+- name:
+    original: "Stifled Screams"
+    translated: "Задушенные крики"
+  level: 15
+  icon: 62309
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-001-clsrog150_00144/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=a2c0ffa4bb444c16
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=acd960573dd0e2d1
+  actors:
+  - id: 1009943
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1e03cea6150ab399
+    name: "Джеки"
+  - id: 1010197
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fc6238881fe4f1d4
+    name: "Периму Хориму"
+  - id: 1010198
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=789a73fe0c65e323
+    name: "В'кеббе"
+  - id: 1010199
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=58609a3e76ed9195
+    name: "Сварсинт"
+  - id: 1010218
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a6f84a4d82fc39bb
+    name: "Джеки"
+  - id: 1010220
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b64a7b06d751e58d
+    name: "Офицер Водоворота"
+  - id: 1010221
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=56e7522d248809ea
+    name: "Офицер Водоворота"
+  eobjects:
+  - id: 2004861
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=2130b3e2b9bc0703
+    name: "Цель"
+
+- name:
+    original: "Slave to the Code"
+    translated: "Рабы кодекса"
+  level: 15
+  icon: 62309
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-001-clsrog151_00145/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=227086b6a371404e
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=93028d04c48c2d8e
+  actors:
+  - id: 1009943
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1e03cea6150ab399
+    name: "Джеки"
+  - id: 1010218
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a6f84a4d82fc39bb
+    name: "Джеки"
+  - id: 1010228
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f8fbbf5f67f6574f
+    name: "Нищий пацан"
+  - id: 1010229
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1ac2cd1ad428d013
+    name: "Нищая девушка"
+
+- name:
+    original: "Grinners in the Mist"
+    translated: "Псы в тумане"
+  level: 20
+  icon: 62309
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-001-clsrog200_00146/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=26dce1c68bd18078
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=e2f93df6f7be044d
+  actors:
+  - id: 1009943
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1e03cea6150ab399
+    name: "Джеки"
+  - id: 1010198
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=789a73fe0c65e323
+    name: "В'кеббе"
+  - id: 1010237
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=23f1f89e3798a49c
+    name: "Джеки"
+  - id: 1010238
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b172b8faefd7333c
+    name: "Периму Хориму"
+  - id: 1010240
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e8085deec91be2f3
+    name: "Жёлтая Жилетка"
+  - id: 1010241
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8cff1026f7112816
+    name: "Жёлтая Жилетка"
+  - id: 1010242
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=81ec92be91781a57
+    name: "Торговец чёрного рынка"
+  - id: 1010243
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=578d6e4a17ae2e14
+    name: "Капитан Грозных Псов"
+  - id: 1010249
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8597e667fd1daa7c
+    name: "Милала"
+  - id: 1010541
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=55f2d0480c977cb9
+    name: "В'кеббе"
+  enemies:
+  - id: 3183
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=73ae0bef03987c91
+    name: "Кикирн-разрезатель"
+  - id: 3184
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=b0deabcb057a8b25
+    name: "Кикирн-страж"
+  statuses:
+  - id: 614
+    url: https://translate.xivrus.ru/translate/xivrus/status/ru/?checksum=dbf749271a76fca0
+    name: "Hidden"
+    desc: "Невозможно обнаружить. Скорость передвижения значительно снижена."
+
+- name:
+    original: "Sweet Sorrows"
+    translated: "Сладкие Слёзы"
+  level: 25
+  icon: 62309
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-001-clsrog250_00148/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=ef6c0a2817444366
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=b3e790a0c6fb2ae4
+  actors:
+  - id: 1009943
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1e03cea6150ab399
+    name: "Джеки"
+  - id: 1010198
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=789a73fe0c65e323
+    name: "В'кеббе"
+  - id: 1010250
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e4a5aec1b1cf625a
+    name: "Джеки"
+  - id: 1010251
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=855c270b4c4b85ac
+    name: "В'кеббе"
+  - id: 1010252
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f284e124c0cb8b7f
+    name: "Торговец чёрного рынка"
+  enemies:
+  - id: 2686
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=675415dc2fbfe5cd
+    name: "kobold outlaw"
+  quest_items:
+  - id: 2001510
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=d65fcd59648a26a8
+    name: "Мешочек монет"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=d65fcd59648a26a8
+
+- name:
+    original: "Market for Death"
+    translated: "Продавец кошмаров"
+  level: 30
+  icon: 62309
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-001-clsrog300_00154/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=0b17fa4778045a91
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=62c53c921c4e3397
+  actors:
+  - id: 1009943
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1e03cea6150ab399
+    name: "Джеки"
+  - id: 1010261
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c6dd73f847010db8
+    name: "Джеки"
+  - id: 1010265
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2b738fb7b99edd7b
+    name: "Багровый Рубака"
+  - id: 1010267
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d2753eda8c4fa72b
+    name: "Милала"
+  enemies:
+  - id: 3153
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=773d45df2ddfaa23
+    name: "Багровый Рубака - матрос"
+  - id: 3154
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=eeed8ca7635f3088
+    name: "Багровый Рубака - вымогатель"
+  eobjects:
+  - id: 2004916
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=e1a9e60fe9d88a1c
+    name: "Торговец чёрного рынка"
+
+- name:
+    original: "Cloying Victory"
+    translated: "Победа в подарок"
+  level: 30
+  icon: 62309
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-001-clsrog301_00155/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=4879f1b6e35dc52f
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=f888a798025cc722
+  actors:
+  - id: 1005411
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c69a753df270706b
+    name: "И'толванн"
+  - id: 1009943
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1e03cea6150ab399
+    name: "Джеки"
+  - id: 1009945
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7073fccdfb755921
+    name: "Бочард"
+  eobjects:
+  - id: 2004863
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=378099321c0e19c0
+    name: "Цель"
 

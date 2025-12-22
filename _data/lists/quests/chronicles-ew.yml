@@ -1,500 +1,5 @@
 - name:
     original: "The Crystal from Beyond"
-  level: 80
-  icon: 61419
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-040-luckta502_04035/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=f401876825d2abe6
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=396b18b29ae14fba
-  actors:
-  - id: 1035135
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2c8dbc8c227380cb
-    name: "dig site chief"
-  - id: 1035136
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=60f53e79483739ba
-    name: "2B"
-  - id: 1035137
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=eb99ed2d1e19c180
-    name: "9S"
-  - id: 1035138
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b6810ecf552d66df
-    name: "Anogg"
-  - id: 1035142
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=692b53753593d190
-    name: "dig site chief"
-  eobjects:
-  - id: 2011440
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=3f2d239be504e555
-    name: "entrance to the bridge"
-
-- name:
-    original: "Where Familiars Dare"
-  level: 80
-  icon: 61419
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-040-luckta503_04036/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=779d3b71d186799d
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=72170dacd12986a3
-  actors:
-  - id: 1032227
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a90e927f5ac77e9e
-    name: "dig site chief"
-  - id: 1034046
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=19d6587ee9b7bac9
-    name: "pod"
-  - id: 1035133
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a08472ecbdfe3a73
-    name: "dig site chief"
-  - id: 1035141
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=67ea21ead8a7eded
-    name: "Konogg"
-  - id: 1035142
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=692b53753593d190
-    name: "dig site chief"
-  - id: 1035144
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1c3ca9c0bf7e4a59
-    name: "demanding dwarf"
-  - id: 1035145
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5fec14d8cc6325b0
-    name: "dour dwarf"
-  - id: 1035146
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3966fbcafa2caff3
-    name: "decisive dwarf"
-  - id: 1035147
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e2405384c0d297ba
-    name: "dismayed dwarf"
-  - id: 1035148
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fefa8371845790e8
-    name: "doomsaying dwarf"
-  - id: 1035629
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c6aab262a548629e
-    name: "Глагг"
-  - id: 1035630
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=641f82d9bd08ceb4
-    name: "dig site chief"
-  - id: 1036652
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=547c996e71842977
-    name: "Konogg"
-  quest_items:
-  - id: 2003061
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=05130e2a97fd2992
-    name: "ticking timepiece"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=05130e2a97fd2992
-  eobjects:
-  - id: 2011441
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=fe44fe86e025278e
-    name: "Цель"
-
-- name:
-    original: "Under the Surface"
-  level: 80
-  icon: 61419
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-040-luckta510_04043/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=56c6c4aa08fcea0e
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=75ee01e09d97a826
-  actors:
-  - id: 1032227
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a90e927f5ac77e9e
-    name: "dig site chief"
-  - id: 1036042
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=77824ed37b34942f
-    name: "doomsaying dwarf"
-
-- name:
-    original: "The Fires of Creation"
-  level: 80
-  icon: 61921
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-040-luckta521_04050/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=23f25a03e1d7ef63
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=bb114ae890c6b596
-  actors:
-  - id: 1036042
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=77824ed37b34942f
-    name: "doomsaying dwarf"
-  quest_items:
-  - id: 2003062
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=ffdff4d9388227f2
-    name: "machine lifeform wreckage"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=ffdff4d9388227f2
-  eobjects:
-  - id: 2011456
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=cfcd33d116ad382e
-    name: "machine lifeform wreckage"
-  - id: 2011457
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=974a7a59f98d22b0
-    name: "machine lifeform wreckage"
-
-- name:
-    original: "Who Wards the Warders?"
-  level: 80
-  icon: 61921
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-040-luckta522_04051/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=430fdc45fa9dcec3
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=101de487b090f76f
-  actors:
-  - id: 1036043
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=aa74745d3a42e691
-    name: "dour dwarf"
-  quest_items:
-  - id: 2003064
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=20d72a315f8a575e
-    name: "stack of indecipherable tomes"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=20d72a315f8a575e
-  - id: 2003065
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=4ed4036c4c98e42d
-    name: "set of unidentified machine parts"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=4ed4036c4c98e42d
-  - id: 2003068
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=508ee20e1ebd9980
-    name: "heavy container"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=508ee20e1ebd9980
-  eobjects:
-  - id: 2011458
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=beeb96f4dd9ff16d
-    name: "indecipherable tomes"
-  - id: 2011459
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=3a604b3a5916bf94
-    name: "unidentified machine parts"
-  - id: 2011477
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=8cdc039d823975b1
-    name: "heavy container"
-
-- name:
-    original: "An Unwelcome Visitor"
-  level: 80
-  icon: 61921
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-040-luckta523_04052/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=5883e512448d0975
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=a5b846009bc48c20
-  actors:
-  - id: 1036042
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=77824ed37b34942f
-    name: "doomsaying dwarf"
-  - id: 1036043
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=aa74745d3a42e691
-    name: "dour dwarf"
-  - id: 1036044
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=833d6b52eed8d763
-    name: "decisive dwarf"
-  enemies:
-  - id: 8517
-    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=a10185879f492bb5
-    name: "ironbeard"
-  quest_items:
-  - id: 2003071
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=f68abbdc012cdfea
-    name: "hempen sack"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=f68abbdc012cdfea
-  - id: 2003072
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=8ed029c542561c5e
-    name: "automaton-filled sack"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=8ed029c542561c5e
-
-- name:
-    original: "Masks of the Father"
-  level: 80
-  icon: 61419
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-040-luckta601_04053/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=df9ec0b6f26b3517
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=99a6f10a3c38b365
-  actors:
-  - id: 1032227
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a90e927f5ac77e9e
-    name: "dig site chief"
-  - id: 1036045
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f76e86288dc5fb9e
-    name: "bourgeois merchant"
-
-- name:
-    original: "A Keyward's Gaol"
-  level: 80
-  icon: 61419
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-037-luckyw101_03783/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=a292c66ce7129693
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=99131657b4274bbf
-  actors:
-  - id: 1026804
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=362be6dc7928a353
-    name: "Боец Сопротивления"
-  - id: 1032581
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=af17fcc448ed3a77
-    name: "Офицер Сопротивления"
-  - id: 1032582
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3592654d2e911c3d
-    name: "Гай"
-  - id: 1032583
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=119426300b3c6c16
-    name: "Valdeaulin"
-  - id: 1032584
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ef7181c977fe9af8
-    name: "Severa"
-  - id: 1032585
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e613f4c8420622e2
-    name: "Resistance escort"
-  - id: 1032586
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d78569c47e200545
-    name: "Офицер Сопротивления"
-  - id: 1032764
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e9a472252f4c860f
-    name: "warmachina fanatic"
-  - id: 1032851
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e783d6bbcc3b68bd
-    name: "Гай"
-  - id: 1032852
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=777626bbb417c74c
-    name: "Valdeaulin"
-  - id: 1032853
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=47768d87acefa643
-    name: "Severa"
-  - id: 1032861
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1d39300be517359f
-    name: "Гай"
-
-- name:
-    original: "Servant of Violence"
-  level: 80
-  icon: 61419
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-038-luckyw201_03895/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=881ccb3f85c33fb9
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=2a1f0b28e610ccf0
-  actors:
-  - id: 1026804
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=362be6dc7928a353
-    name: "Боец Сопротивления"
-  - id: 1032586
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d78569c47e200545
-    name: "Офицер Сопротивления"
-  - id: 1032851
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e783d6bbcc3b68bd
-    name: "Гай"
-  - id: 1032852
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=777626bbb417c74c
-    name: "Valdeaulin"
-  - id: 1032853
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=47768d87acefa643
-    name: "Severa"
-  - id: 1033626
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=932bf47b89130c96
-    name: "Severa"
-  - id: 1033627
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=af2e949f9ee3168b
-    name: "Сид"
-  - id: 1033629
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=dfe20a114513b0a1
-    name: "Гай"
-  - id: 1033630
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4f2a3e1dc199c3ce
-    name: "Valdeaulin"
-  - id: 1033631
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=47c76ee19512e223
-    name: "Severa"
-  - id: 1033632
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=653d02ba699e52de
-    name: "Valdeaulin"
-  - id: 1033633
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3c5a4246ff4de190
-    name: "Гай"
-  - id: 1033634
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=55915682722c2e90
-    name: "Valdeaulin"
-  - id: 1033635
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=de5ba70ba19268d3
-    name: "Severa"
-  - id: 1035005
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fe8dbe94df0ef8fc
-    name: "Ironworks technician"
-  - id: 1035243
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=26f021bff03edd36
-    name: "Resistance escort"
-
-- name:
-    original: "One Final Wish"
-  level: 80
-  icon: 61419
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-039-luckyw301_03980/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=9fb3b9c770c46410
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=e83c2e30743b3567
-  actors:
-  - id: 1032586
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d78569c47e200545
-    name: "Офицер Сопротивления"
-  - id: 1033629
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=dfe20a114513b0a1
-    name: "Гай"
-  - id: 1033630
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4f2a3e1dc199c3ce
-    name: "Valdeaulin"
-  - id: 1033631
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=47c76ee19512e223
-    name: "Severa"
-  - id: 1033633
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3c5a4246ff4de190
-    name: "Гай"
-  - id: 1033634
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=55915682722c2e90
-    name: "Valdeaulin"
-  - id: 1035243
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=26f021bff03edd36
-    name: "Resistance escort"
-  - id: 1035319
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=074c94f8de3a85b1
-    name: "Пилот «Шестерёнок»"
-  - id: 1035320
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1b0c11f5111fdf40
-    name: "Гай"
-  - id: 1035321
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0e4576f2fd2562e5
-    name: "Гай"
-  - id: 1035322
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f5ca7e46d2bc42a9
-    name: "Valdeaulin"
-  - id: 1035576
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7e09f73808ab673c
-    name: "Гай"
-  - id: 1035577
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d612b8fbecef84c2
-    name: "Severa"
-  - id: 1035580
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c35eb3a07db9b607
-    name: "Severa"
-
-- name:
-    original: "Truth Imperfect"
-  level: 80
-  icon: 61419
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-039-luckyw311_03981/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=c8f7f026bc59b68e
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=0df0804c02732ab5
-  actors:
-  - id: 1032586
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d78569c47e200545
-    name: "Офицер Сопротивления"
-  - id: 1035120
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=03b8cb7c5c8c78f7
-    name: "despondent civilian"
-  - id: 1035243
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=26f021bff03edd36
-    name: "Resistance escort"
-  - id: 1035323
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c8709b39a2570b81
-    name: "burly engineer"
-  - id: 1035578
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d5c254c7a36813d3
-    name: "Avilina"
-
-- name:
-    original: "Eater of Souls"
-  level: 80
-  icon: 61419
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-040-luckyw401_04031/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=98b3d657a10a3161
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=4ac347f9f50ebb8b
-  actors:
-  - id: 1020337
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f6cdeb925a1dab85
-    name: "М'нааго"
-  - id: 1032586
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d78569c47e200545
-    name: "Офицер Сопротивления"
-  - id: 1033629
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=dfe20a114513b0a1
-    name: "Гай"
-  - id: 1033631
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=47c76ee19512e223
-    name: "Severa"
-  - id: 1033633
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3c5a4246ff4de190
-    name: "Гай"
-  - id: 1035243
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=26f021bff03edd36
-    name: "Resistance escort"
-  - id: 1036275
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5a9b9df079a5d620
-    name: "Revolutionary commander"
-  - id: 1036277
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2d41c73c422e8d54
-    name: "Revolutionary soldier"
-  - id: 1036279
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=59c42b69e4dc36bc
-    name: "Severa"
-  - id: 1036280
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7f4d939ff37c15e5
-    name: "Гай"
-  - id: 1036281
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=338f1cf01766b0df
-    name: "Пилот «Шестерёнок»"
-  - id: 1036283
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6fc0a6a531612bec
-    name: "Гай"
-  - id: 1036284
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0bb5c1457d2f3953
-    name: "Сид"
-  - id: 1036285
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cf6696290fd8bd20
-    name: "Valdeaulin"
-  - id: 1036286
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=165a4253f57dbdf4
-    name: "Severa"
-  - id: 1036322
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3ad318a3acb933ae
-    name: "Пилот «Шестерёнок»"
-  - id: 1036410
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=68a5f05cb9d1b39d
-    name: "Severa"
-  - id: 1036411
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=355c9e963162bad7
-    name: "Avilina"
-
-- name:
-    original: "Pandæmonium Awakens"
-  level: 80
-  icon: 61419
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-040-luckyw402_04032/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=9e8f430ef86d39d6
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=9ff7731c1667159a
-  actors:
-  - id: 1032586
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d78569c47e200545
-    name: "Офицер Сопротивления"
-  - id: 1035243
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=26f021bff03edd36
-    name: "Resistance escort"
-  - id: 1036285
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cf6696290fd8bd20
-    name: "Valdeaulin"
-  - id: 1036286
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=165a4253f57dbdf4
-    name: "Severa"
-  - id: 1036287
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c6ec58753c540d8d
-    name: "Гай"
-  - id: 1036288
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0a9bd614bce2a205
-    name: "Элли"
-  - id: 1036323
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1f62d9068c7cb4d0
-    name: "Avilina"
-  - id: 1036412
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c73f000f9be36acc
-    name: "Avilina"
-  eobjects:
-  - id: 2011480
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=858c36dcc41f18a3
-    name: "Цель"
-
-- name:
-    original: "The Emissary's Judgment"
   level: 90
   icon: 61419
   url:
@@ -532,7 +37,7 @@
     name: "Цель"
 
 - name:
-    original: "A Mother's Touch"
+    original: "Where Familiars Dare"
   level: 90
   icon: 61419
   url:
@@ -566,7 +71,7 @@
     name: "Темис"
 
 - name:
-    original: "Guided by the Past"
+    original: "Under the Surface"
   level: 90
   icon: 61419
   url:
@@ -594,7 +99,7 @@
     name: "Темис"
 
 - name:
-    original: "A Present from the Present"
+    original: "The Fires of Creation"
   level: 90
   icon: 61419
   url:
@@ -622,7 +127,7 @@
     name: "Темис"
 
 - name:
-    original: "A Mission in Mor Dhona"
+    original: "Who Wards the Warders?"
   level: 90
   icon: 61419
   url:
@@ -677,7 +182,7 @@
     name: "Claudien"
 
 - name:
-    original: "The Realm of the Gods"
+    original: "An Unwelcome Visitor"
   level: 90
   icon: 61419
   url:
@@ -717,7 +222,7 @@
     name: "Themis"
 
 - name:
-    original: "A Divine Dilemma"
+    original: "Masks of the Father"
   level: 90
   icon: 61419
   url:
@@ -745,7 +250,7 @@
     name: "Lahabrea"
 
 - name:
-    original: "The Face of an Explorer"
+    original: "A Keyward's Gaol"
   level: 90
   icon: 61419
   url:
@@ -785,7 +290,7 @@
     name: "Lahabrea"
 
 - name:
-    original: "Return to the Phantom Realm"
+    original: "Servant of Violence"
   level: 90
   icon: 61419
   url:
@@ -825,7 +330,7 @@
     name: "Lahabrea"
 
 - name:
-    original: "In Heavenly Company"
+    original: "One Final Wish"
   level: 90
   icon: 61419
   url:
@@ -859,7 +364,7 @@
     name: "Themis"
 
 - name:
-    original: "Divine Nonintervention"
+    original: "Truth Imperfect"
   level: 90
   icon: 61419
   url:
@@ -917,7 +422,7 @@
     name: "Themis"
 
 - name:
-    original: "The Secret of the Twelve"
+    original: "Eater of Souls"
   level: 90
   icon: 61419
   url:
@@ -970,7 +475,7 @@
     name: "Цель"
 
 - name:
-    original: "The Heart of the Myth"
+    original: "Pandæmonium Awakens"
   level: 90
   icon: 61419
   url:
@@ -1037,7 +542,7 @@
     name: "Lahabrea"
 
 - name:
-    original: "Embraced by Gods"
+    original: "The Emissary's Judgment"
   level: 90
   icon: 61419
   url:
@@ -1080,55 +585,1067 @@
     name: "Erichthonios"
 
 - name:
-    original: "A Heartless Hypothesis"
-  level: 70
+    original: "A Mother's Touch"
+  level: 90
   icon: 61419
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-029-stmbdr103_02930/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=1ff861836c2337ff
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=fcc1bf7d4b04dec2
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-047-aktkra304_04759/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=3f419c8f1229044a
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=e6f62e27bd88624a
   actors:
-  - id: 1021942
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b7508af466cd0b92
-    name: "Сид"
-  - id: 1021943
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=942f89f76eaf9bae
-    name: "Неро тол Сцева"
-  - id: 1021946
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3e9d83a5c0d8426f
+  - id: 1038063
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8a817f8aad8159c6
+    name: "Erichthonios"
+  - id: 1038064
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b24908ff2fb5accb
+    name: "Темис"
+  - id: 1040697
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f20966f86551a918
+    name: "Nemjiji"
+  - id: 1040699
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d91894c3a24370f7
+    name: "Ruissenaud"
+  - id: 1043481
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bd0a02c3bce25478
+    name: "Lahabrea"
+  - id: 1045350
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5a6a94bfba1b5c41
+    name: "Themis"
+  - id: 1045351
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6e323873cf641c09
+    name: "Erichthonios"
+  - id: 1045352
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=01fbe16e53ff8942
+    name: "Lahabrea"
+  - id: 1045353
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bd7690080e7fc21d
+    name: "Themis"
+  - id: 1045354
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1254a99b5470d84e
+    name: "Nemjiji"
+  - id: 1045355
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b931a8c5827015f7
+    name: "Ruissenaud"
+  - id: 1045356
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=10231f71d25fdd47
+    name: "Lahabrea"
+  - id: 1045357
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7d7ecee7f28cda14
+    name: "Themis"
+  - id: 1045383
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f9d10442bca38927
+    name: "Lahabrea"
+  - id: 1045384
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=94f0f128ed85c802
+    name: "Erichthonios"
+
+- name:
+    original: "Guided by the Past"
+  level: 90
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-047-aktkra305_04760/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=f1e8a207b6aff5bb
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=c9d867f2a4bd7193
+  cutscenes:
+  - name: "Кат-сцена 1"
+    start: "000070"
+    end: "000300"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-064-voiceman_06401/
+  - name: "Кат-сцена 2"
+    start: "000310"
+    end: "000350"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-064-voiceman_06401/
+  actors:
+  - id: 1038063
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8a817f8aad8159c6
+    name: "Erichthonios"
+  - id: 1038064
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b24908ff2fb5accb
+    name: "Темис"
+  - id: 1040697
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f20966f86551a918
+    name: "Nemjiji"
+  - id: 1040699
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d91894c3a24370f7
+    name: "Ruissenaud"
+  - id: 1041259
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=406740004e3aa869
+    name: "Ruissenaud"
+  - id: 1043481
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bd0a02c3bce25478
+    name: "Lahabrea"
+  - id: 1045332
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b9b74924f4268880
+    name: "Claudien"
+  - id: 1045333
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=56c69a29814b03ad
+    name: "Hegemone"
+  - id: 1045354
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1254a99b5470d84e
+    name: "Nemjiji"
+  - id: 1045355
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b931a8c5827015f7
+    name: "Ruissenaud"
+  - id: 1045356
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=10231f71d25fdd47
+    name: "Lahabrea"
+  - id: 1045357
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7d7ecee7f28cda14
+    name: "Themis"
+  - id: 1045359
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1e3f5607c1d9ac81
+    name: "Nemjiji"
+  - id: 1045360
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=889b2053ab46ed81
+    name: "Ruissenaud"
+  - id: 1045361
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=14fc378511450986
+    name: "Themis"
+  - id: 1045362
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8ba8cde65a0e79b4
+    name: "Claudien"
+  - id: 1045363
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8c208afda6ef1c0b
+    name: "Erichthonios"
+  - id: 1045364
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ce447b3eb2ab3d66
+    name: "Lahabrea"
+  - id: 1045365
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=21f8b094d00154f3
+    name: "Themis"
+  - id: 1045366
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=df1f9f7eac69da0a
+    name: "Erichthonios"
+  - id: 1045367
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1051dc0896d686f1
+    name: "Lahabrea"
+  - id: 1045368
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=79813e5d31427e40
+    name: "Themis"
+  - id: 1045369
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3de9bf752dbc5ada
+    name: "Hegemone"
+  - id: 1045370
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=172ad5a01e9b2285
+    name: "Themis"
+  - id: 1045371
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=91f19495b760fb84
+    name: "Claudien"
+  - id: 1045372
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=36030a610427ce2d
+    name: "Themis"
+
+- name:
+    original: "A Present from the Present"
+  level: 90
+  icon: 61411
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-052-aktkra401_05252/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=743b0f13844858de
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=4705e49f76b6d5ab
+  actors:
+  - id: 1038063
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8a817f8aad8159c6
+    name: "Erichthonios"
+  - id: 1040697
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f20966f86551a918
+    name: "Nemjiji"
+  - id: 1040698
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=05f531870dee4bcb
+    name: "Claudien"
+  - id: 1040699
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d91894c3a24370f7
+    name: "Ruissenaud"
+  - id: 1043510
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=86e6a88af12cefa6
+    name: "Hegemone"
+  - id: 1045332
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b9b74924f4268880
+    name: "Claudien"
+  - id: 1048609
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6196828b4cafc12e
+    name: "affable researcher"
+  - id: 1048610
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1b8742567eb3971f
+    name: "Hegemone"
+  - id: 1049740
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0189e275f0dd1beb
+    name: "diligent warder"
+  eobjects:
+  - id: 2014542
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=22dc344112012f82
+    name: "Цель"
+
+- name:
+    original: "A Mission in Mor Dhona"
+  level: 90
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-045-aktkea101_04536/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=e3220d709707cf3a
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=5aa30a408bec9497
+  actors:
+  - id: 1015833
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d237db6491bd6ad1
+    name: "Крайл"
+  - id: 1022781
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=74120553e5619fdc
+    name: "Рамброс"
+  - id: 1032779
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c91559f6c0e4b4f9
+    name: "Г'раха Тиа"
+  - id: 1040696
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=70a382aa81e8ec16
+    name: "Ожика Сунжика"
+  - id: 1042233
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f5eab6c42e9ec4af
+    name: "Deryk"
+  - id: 1042235
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=536bc2b7bd0ce629
+    name: "baby opo-opo"
+  - id: 1042236
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=70c5c3e26f392b97
+    name: "fresh-faced Student"
+  - id: 1042267
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=55904fb0026c8c73
+    name: "fresh-faced Student"
+  - id: 1042268
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=608f10dd79e87223
+    name: "baby opo-opo"
+  - id: 1042269
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d8ee6f6790c690dc
+    name: "Г'раха Тиа"
+  - id: 1042270
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d23a7c5299ade9ce
+    name: "Deryk"
+  - id: 1042271
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=328b14403676a58c
+    name: "baby opo-opo"
+  - id: 1042272
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=939c5b16ab369367
+    name: "Г'раха Тиа"
+  - id: 1042273
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1a898e64f7d35b98
+    name: "Deryk"
+  - id: 1042274
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bc6c38653c0e115f
+    name: "baby opo-opo"
+  eobjects:
+  - id: 2011707
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=a0ef37b93f510b4c
+    name: "Вход"
+  - id: 2012860
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=98aed6ae666ad61e
+    name: "Цель"
+  - id: 2012861
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=ad2276754074d297
+    name: "Точка интереса"
+  - id: 2012862
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=cf3ee81b0d4d19a5
+    name: "Точка интереса"
+  - id: 2012863
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=f5e4f389651d7b25
+    name: "mysterious monument"
+  - id: 2012864
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=a848329b28af8c17
+    name: "enigmatic structure"
+  - id: 2012865
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=72988cbad28713f5
+    name: "Возвышенность"
+
+- name:
+    original: "The Realm of the Gods"
+  level: 90
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-045-aktkea102_04537/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=7dd632f79101eeff
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=18b8b4e62c3163be
+  actors:
+  - id: 1015833
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d237db6491bd6ad1
+    name: "Крайл"
+  - id: 1032779
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c91559f6c0e4b4f9
+    name: "Г'раха Тиа"
+  - id: 1042233
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f5eab6c42e9ec4af
+    name: "Deryk"
+  - id: 1042235
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=536bc2b7bd0ce629
+    name: "baby opo-opo"
+  - id: 1042273
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1a898e64f7d35b98
+    name: "Deryk"
+  - id: 1042275
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1b265ae4418d7326
+    name: "Г'раха Тиа"
+  - id: 1042276
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=074234947ebeea5c
+    name: "Г'раха Тиа"
+  - id: 1042277
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fdce2b6e1c4122b3
+    name: "Deryk"
+  - id: 1042278
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=166311cfc59eca3d
+    name: "Крайл"
+  - id: 1042279
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9ff22ecd85b8dca9
+    name: "Г'раха Тиа"
+  - id: 1042280
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ddf6783ac61f4ca2
+    name: "Deryk"
+
+- name:
+    original: "A Divine Dilemma"
+  level: 90
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-045-aktkea103_04538/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=73021ea09e3b2f80
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=48c243c66a97efcf
+  actors:
+  - id: 1015833
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d237db6491bd6ad1
+    name: "Крайл"
+  - id: 1032779
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c91559f6c0e4b4f9
+    name: "Г'раха Тиа"
+  - id: 1042233
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f5eab6c42e9ec4af
+    name: "Deryk"
+  - id: 1042235
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=536bc2b7bd0ce629
+    name: "baby opo-opo"
+  - id: 1042245
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9bba52fb8d8535b6
+    name: "Марджори"
+  - id: 1042278
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=166311cfc59eca3d
+    name: "Крайл"
+  - id: 1042279
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9ff22ecd85b8dca9
+    name: "Г'раха Тиа"
+  - id: 1042280
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ddf6783ac61f4ca2
+    name: "Deryk"
+  - id: 1042281
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b4e0795b2084a8a9
+    name: "Крайл"
+  - id: 1042282
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1ea82a6ff6668e1c
+    name: "Deryk"
+  - id: 1042283
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=72f8c720a20177f3
+    name: "Дружелюбный боец Сопротивления"
+  - id: 1042284
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8f2fed869a0fe541
+    name: "scholarly woman"
+  - id: 1042285
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=02bff801d275d885
+    name: "Deryk"
+  - id: 1043345
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1203dec9b14efaaf
+    name: "Hyuran scholar"
+  quest_items:
+  - id: 2003398
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=5a283a1ff889aea9
+    name: "copy of Destructivity"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=5a283a1ff889aea9
+  eobjects:
+  - id: 2012866
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=713be88ac50cfe36
+    name: "Bloodstorm"
+  - id: 2012867
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=0296bbe177f1ec1d
+    name: "Цель"
+
+- name:
+    original: "The Face of an Explorer"
+  level: 90
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-045-aktkea104_04539/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=6edb990078c2beb2
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=e5e29e17bbb5d01c
+  actors:
+  - id: 1015833
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d237db6491bd6ad1
+    name: "Крайл"
+  - id: 1032779
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c91559f6c0e4b4f9
+    name: "Г'раха Тиа"
+  - id: 1042233
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f5eab6c42e9ec4af
+    name: "Deryk"
+  - id: 1042234
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=570b868c1aa133b9
+    name: "Snoegeim"
+  - id: 1042235
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=536bc2b7bd0ce629
+    name: "baby opo-opo"
+  - id: 1042264
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=986ed080975443fa
+    name: "Deryk"
+  - id: 1042281
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b4e0795b2084a8a9
+    name: "Крайл"
+  - id: 1042285
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=02bff801d275d885
+    name: "Deryk"
+  - id: 1042286
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=80acaf13f4858ee5
+    name: "Deryk"
+  - id: 1042287
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b69becd7feb88785
+    name: "Deryk"
+  - id: 1042288
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=226707342e4cb179
+    name: "collapsed scholar"
+  - id: 1042289
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=71df9925d18b7814
+    name: "Deryk"
+  - id: 1042290
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=248a5af66529ef43
+    name: "Крайл"
+  - id: 1042591
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=14b8009633588bd8
+    name: "Жрец Ордена Налд'Талла"
+  quest_items:
+  - id: 2003399
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=8d70ba96485a0659
+    name: "nigh-empty waterskin"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=8d70ba96485a0659
+  eobjects:
+  - id: 2012869
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=1526347e93a6fdb5
+    name: "large bag"
+
+- name:
+    original: "Return to the Phantom Realm"
+  level: 90
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-046-aktkea201_04666/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=df9cfa4503e00474
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=791f3a6a0eb2c242
+  actors:
+  - id: 1015833
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d237db6491bd6ad1
+    name: "Крайл"
+  - id: 1032779
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c91559f6c0e4b4f9
+    name: "Г'раха Тиа"
+  - id: 1042233
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f5eab6c42e9ec4af
+    name: "Deryk"
+  - id: 1042234
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=570b868c1aa133b9
+    name: "Snoegeim"
+  - id: 1042235
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=536bc2b7bd0ce629
+    name: "baby opo-opo"
+  - id: 1042264
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=986ed080975443fa
+    name: "Deryk"
+  - id: 1044299
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b7bc13c0cbc9cdf8
+    name: "Г'раха Тиа"
+  - id: 1044300
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=365ff50f8eee1735
+    name: "Deryk"
+  - id: 1044301
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9a88653ff014f9fa
+    name: "Крайл"
+  - id: 1044302
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=dea2f36f537d6ac7
+    name: "Snoegeim"
+  - id: 1044303
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=958b46274cb8f0bf
+    name: "Deryk"
+  - id: 1044304
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d37a0b6012ddf1d6
+    name: "Menphina"
+  - id: 1044305
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=536c4f43ddddbdb4
+    name: "Halone"
+  - id: 1044452
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=32d2bed597d10fa5
+    name: "Г'раха Тиа"
+  - id: 1044463
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1254b4be1386f099
+    name: "Halone"
+  - id: 1044464
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=dccf19af9622f752
+    name: "Menphina"
+
+- name:
+    original: "In Heavenly Company"
+  level: 90
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-046-aktkea202_04667/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=7b54254dfd398aeb
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=e58abd492e67dd14
+  actors:
+  - id: 1015833
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d237db6491bd6ad1
+    name: "Крайл"
+  - id: 1032779
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c91559f6c0e4b4f9
+    name: "Г'раха Тиа"
+  - id: 1042233
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f5eab6c42e9ec4af
+    name: "Deryk"
+  - id: 1042235
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=536bc2b7bd0ce629
+    name: "baby opo-opo"
+  - id: 1043021
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c539d27d0a4eb747
+    name: "baby opo-opo"
+  - id: 1044303
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=958b46274cb8f0bf
+    name: "Deryk"
+  - id: 1044304
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d37a0b6012ddf1d6
+    name: "Menphina"
+  - id: 1044305
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=536c4f43ddddbdb4
+    name: "Halone"
+  - id: 1044306
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4c6ce0663f1a5545
+    name: "Deryk"
+  - id: 1044307
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=da19ea0386bdd8c3
+    name: "Menphina"
+  - id: 1044308
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6de0da842e77bfcd
+    name: "Halone"
+  - id: 1044309
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=38956b484f68054b
+    name: "baby opo-opo"
+  - id: 1044310
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=af85c2e954f2ea7e
+    name: "Deryk"
+  - id: 1044311
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=278883abca5d416e
+    name: "Menphina"
+  - id: 1044312
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c4b0c4a340052b25
+    name: "Halone"
+  - id: 1044313
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=260d36a95ce6feb0
+    name: "baby opo-opo"
+  - id: 1044314
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=89e4eb789f836efb
+    name: "Menphina"
+  - id: 1044315
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5d5fbd25fdf02147
+    name: "Deryk"
+  - id: 1044316
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=79c46cc9738c566b
+    name: "Menphina"
+  - id: 1044317
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f5c3a1142f608c9f
+    name: "Halone"
+  - id: 1044318
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4ae44b2b09a1d8ef
+    name: "baby opo-opo"
+  - id: 1044463
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1254b4be1386f099
+    name: "Halone"
+  - id: 1044464
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=dccf19af9622f752
+    name: "Menphina"
+
+- name:
+    original: "Divine Nonintervention"
+  level: 90
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-046-aktkea203_04668/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=ea8a963d20cfadcc
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=859c735d961d363b
+  actors:
+  - id: 1015833
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d237db6491bd6ad1
+    name: "Крайл"
+  - id: 1032779
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c91559f6c0e4b4f9
+    name: "Г'раха Тиа"
+  - id: 1042233
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f5eab6c42e9ec4af
+    name: "Deryk"
+  - id: 1042235
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=536bc2b7bd0ce629
+    name: "baby opo-opo"
+  - id: 1042243
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bb7d7752ec7fa290
+    name: "Байргот"
+  - id: 1043024
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=73cb203a92e562ae
+    name: "suspicious spriggan"
+  - id: 1044315
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5d5fbd25fdf02147
+    name: "Deryk"
+  - id: 1044316
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=79c46cc9738c566b
+    name: "Menphina"
+  - id: 1044317
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f5c3a1142f608c9f
+    name: "Halone"
+  - id: 1044318
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4ae44b2b09a1d8ef
+    name: "baby opo-opo"
+  - id: 1044319
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0231b0eb4f79a26e
+    name: "Deryk"
+  - id: 1044320
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c19cb18b30bafe0f
+    name: "Menphina"
+  - id: 1044321
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=83f3283d28fb1fb3
+    name: "Halone"
+  - id: 1044322
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=59d5935f154d0944
+    name: "baby opo-opo"
+  - id: 1044323
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3cee012a82f1fa25
+    name: "Halone"
+  - id: 1044324
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=58c69c260cc43188
+    name: "Nophica"
+  - id: 1044325
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c680d8ac48c245c6
+    name: "Deryk"
+  - id: 1044326
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a0ad6804002dd9df
+    name: "Menphina"
+  - id: 1044327
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=08e9b5f3ae032f83
+    name: "baby opo-opo"
+  - id: 1044328
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=19803e583f333ff1
+    name: "Deryk"
+  - id: 1044331
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8878126bf6afef29
+    name: "Deryk"
+  - id: 1044332
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7969d3ce368bb37e
+    name: "Menphina"
+  - id: 1044333
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3b7a5f29da4918f5
+    name: "Halone"
+  - id: 1044334
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f4be35b8b6b970bb
+    name: "baby opo-opo"
+  - id: 1044460
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ef90eb2269f25c8a
+    name: "Nophica"
+  - id: 1044463
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1254b4be1386f099
+    name: "Halone"
+  - id: 1044464
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=dccf19af9622f752
+    name: "Menphina"
+  eobjects:
+  - id: 2013213
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=84cc9540480f12e4
+    name: "rustling undergrowth"
+  - id: 2013214
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=f7820e5d0d47be2d
+    name: "broken barrel"
+
+- name:
+    original: "The Secret of the Twelve"
+  level: 90
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-046-aktkea204_04669/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=9ceac958fd85a4f5
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=137eb3acbd57d187
+  actors:
+  - id: 1015833
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d237db6491bd6ad1
+    name: "Крайл"
+  - id: 1032779
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c91559f6c0e4b4f9
+    name: "Г'раха Тиа"
+  - id: 1042233
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f5eab6c42e9ec4af
+    name: "Deryk"
+  - id: 1042234
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=570b868c1aa133b9
+    name: "Snoegeim"
+  - id: 1042235
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=536bc2b7bd0ce629
+    name: "baby opo-opo"
+  - id: 1042243
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bb7d7752ec7fa290
+    name: "Байргот"
+  - id: 1042264
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=986ed080975443fa
+    name: "Deryk"
+  - id: 1044331
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8878126bf6afef29
+    name: "Deryk"
+  - id: 1044332
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7969d3ce368bb37e
+    name: "Menphina"
+  - id: 1044333
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3b7a5f29da4918f5
+    name: "Halone"
+  - id: 1044334
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f4be35b8b6b970bb
+    name: "baby opo-opo"
+  - id: 1044335
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e63e0c6169632093
+    name: "Г'раха Тиа"
+  - id: 1044336
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=797cde6a25e8d2fa
+    name: "Deryk"
+  - id: 1044337
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9236ac65e4090aa0
+    name: "Крайл"
+  - id: 1044338
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=71b3bf6af58b334c
+    name: "Snoegeim"
+  - id: 1044339
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8c8ac4f7e72bff72
+    name: "baby opo-opo"
+  - id: 1044460
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ef90eb2269f25c8a
+    name: "Nophica"
+  - id: 1044463
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1254b4be1386f099
+    name: "Halone"
+  - id: 1044464
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=dccf19af9622f752
+    name: "Menphina"
+
+- name:
+    original: "The Heart of the Myth"
+  level: 90
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-047-aktkea301_04791/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=d1cf2edb80e984c5
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=7cf8f60b1faebf0a
+  actors:
+  - id: 1015833
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d237db6491bd6ad1
+    name: "Крайл"
+  - id: 1032779
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c91559f6c0e4b4f9
+    name: "Г'раха Тиа"
+  - id: 1042233
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f5eab6c42e9ec4af
+    name: "Deryk"
+  - id: 1042234
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=570b868c1aa133b9
+    name: "Snoegeim"
+  - id: 1042235
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=536bc2b7bd0ce629
+    name: "baby opo-opo"
+  - id: 1042264
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=986ed080975443fa
+    name: "Deryk"
+  - id: 1044463
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1254b4be1386f099
+    name: "Halone"
+  - id: 1045968
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a7036dff961f49a7
+    name: "Snoegeim"
+  - id: 1045969
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=21796af4b9038b5b
+    name: "Deryk"
+  - id: 1045970
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bc0af0fe506d3624
+    name: "baby opo-opo"
+  - id: 1045971
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5083669198f5d728
+    name: "Deryk"
+  - id: 1045972
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2d9c54da5ebefffe
+    name: "Snoegeim"
+  - id: 1045973
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9ff6af78767a4970
+    name: "baby opo-opo"
+  - id: 1045974
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c41605f4bf31a01a
+    name: "Г'раха Тиа"
+  - id: 1045975
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d8dcfeb423caf3ac
+    name: "Крайл"
+  - id: 1045976
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7d74c0589c3fadb8
+    name: "Snoegeim"
+  - id: 1045977
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=03da461eda82299b
+    name: "baby opo-opo"
+  - id: 1045978
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4e27862a3a33edce
+    name: "Г'раха Тиа"
+  - id: 1045979
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=15529ec807e4bb67
+    name: "Крайл"
+  - id: 1045980
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7b237699438f7daa
+    name: "Snoegeim"
+  - id: 1045981
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e913c5c45b493ec1
+    name: "baby opo-opo"
+  - id: 1045982
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f45fe726e40122ff
+    name: "Крайл"
+  - id: 1045983
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=93e0c11902425bf5
+    name: "Г'раха Тиа"
+  - id: 1045984
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6a0fd1c6a0789791
+    name: "Snoegeim"
+  - id: 1045985
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3a32f2ce260bbd91
+    name: "Deryk"
+  - id: 1045986
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fe31a15a04e20de3
+    name: "baby opo-opo"
+  eobjects:
+  - id: 2013455
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=c9bef45167c23edf
+    name: "Цель"
+
+- name:
+    original: "Embraced by Gods"
+  level: 90
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-047-aktkea302_04792/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=b68e5264d415691d
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=6f59d8854756aa21
+  actors:
+  - id: 1015833
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d237db6491bd6ad1
+    name: "Крайл"
+  - id: 1032779
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c91559f6c0e4b4f9
+    name: "Г'раха Тиа"
+  - id: 1042233
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f5eab6c42e9ec4af
+    name: "Deryk"
+  - id: 1042234
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=570b868c1aa133b9
+    name: "Snoegeim"
+  - id: 1042235
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=536bc2b7bd0ce629
+    name: "baby opo-opo"
+  - id: 1044463
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1254b4be1386f099
+    name: "Halone"
+  - id: 1045982
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f45fe726e40122ff
+    name: "Крайл"
+  - id: 1045983
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=93e0c11902425bf5
+    name: "Г'раха Тиа"
+  - id: 1045984
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6a0fd1c6a0789791
+    name: "Snoegeim"
+  - id: 1045985
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3a32f2ce260bbd91
+    name: "Deryk"
+  - id: 1045986
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fe31a15a04e20de3
+    name: "baby opo-opo"
+  - id: 1045987
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a200a9ec28d0b046
+    name: "Крайл"
+  - id: 1045988
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=006999e6f031bd3c
+    name: "Г'раха Тиа"
+  - id: 1045989
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a0867f9355970724
+    name: "Snoegeim"
+  - id: 1045990
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2beebbb740f3243b
+    name: "Deryk"
+  - id: 1045991
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3f66e2f5dd95547a
+    name: "baby opo-opo"
+  - id: 1045992
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b408dc65d7501b18
+    name: "Deryk"
+  - id: 1045993
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=68902bd6c6d9c2bf
+    name: "baby opo-opo"
+  - id: 1045994
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0321f69ff752c385
+    name: "Deryk"
+  - id: 1045995
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a728eebf0a8b5639
+    name: "baby opo-opo"
+  - id: 1045996
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6cfc979a000ca645
+    name: "Deryk"
+  - id: 1045997
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d8fa88ff7b85e680
+    name: "baby opo-opo"
+  - id: 1045998
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=625986f215f325bd
+    name: "Deryk"
+  - id: 1045999
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=41b1eb46dcaabb8e
+    name: "baby opo-opo"
+  eobjects:
+  - id: 2013456
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=dadb295e08177de4
+    name: "Цель"
+  logmessages:
+  - id: 5410
+    url: https://translate.xivrus.ru/translate/xivrus/logmessage/ru/?checksum=ec1c659edafd4b06
+    name: "Цель занята. Не удалось взаимодействовать с ней."
+
+- name:
+    original: "A Heartless Hypothesis"
+  level: 90
+  icon: 61411
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-045-stmbdr601_04586/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=dcffba65bc7b8e13
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=d68a5d0235197b11
+  actors:
+  - id: 1039539
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=50f1e4b18e2e7e88
+    name: "Махти"
+  - id: 1039541
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a64bb1d1b27dddf7
+    name: "Дзинбаха"
+  - id: 1042796
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=65996e15ad0111e7
+    name: "bespectacled technician"
+  - id: 1042797
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=15b399fb19123548
+    name: "bespectacled technician"
+  - id: 1042798
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=79d333e983a7aa8b
     name: "Альфа"
-  - id: 1021947
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=553d85d11e498814
-    name: "Помощник «Шестерёнок»"
+  - id: 1042799
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=21522332a8240ae9
+    name: "Omega"
+  - id: 1042800
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8c9446b4cd4493b0
+    name: "Биггс"
+  - id: 1042801
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6eb9b58e580e7cb4
+    name: "Ведж"
+  - id: 1042802
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a46780445e3ba379
+    name: "Альфа"
+  - id: 1042803
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8d557dfb29c50766
+    name: "Omega"
+  - id: 1042804
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6a87b25f87feb1ab
+    name: "melancholy man"
+  - id: 1042805
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=76f01261e58393d3
+    name: "Nashvan"
+  - id: 1042887
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=729cfaab1904e252
+    name: "Мальчик"
 
 - name:
     original: "Good-bye, ε̆│̆│Δ"
-  level: 70
-  icon: 61419
+  level: 90
+  icon: 61411
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-029-stmbdr104_02931/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=be3d8a0a48d7c2dc
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=e70c4129e7e716f2
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-045-stmbdr602_04587/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=805d7d45b87bcfec
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=bf6bf3f960cd2e8e
   actors:
-  - id: 1012464
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d452ba88f9baf281
-    name: "Мидгардсомр"
-  - id: 1019564
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=332629f810d083a4
-    name: "Неро тол Сцева"
-  - id: 1021678
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2bfedd8c075dc5e6
+  - id: 1038870
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=89b20bb5d228c953
+    name: "Аргос"
+  - id: 1038930
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=dce28e3672a52c2b
+    name: "Смотритель"
+  - id: 1042797
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=15b399fb19123548
+    name: "bespectacled technician"
+  - id: 1042798
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=79d333e983a7aa8b
     name: "Альфа"
-  - id: 1021942
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b7508af466cd0b92
-    name: "Сид"
-  - id: 1021943
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=942f89f76eaf9bae
-    name: "Неро тол Сцева"
-  - id: 1021946
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3e9d83a5c0d8426f
+  - id: 1042799
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=21522332a8240ae9
+    name: "Omega"
+  - id: 1042800
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8c9446b4cd4493b0
+    name: "Биггс"
+  - id: 1042801
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6eb9b58e580e7cb4
+    name: "Ведж"
+  - id: 1042806
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a5d9a25cfc516c22
     name: "Альфа"
-  - id: 1021947
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=553d85d11e498814
-    name: "Помощник «Шестерёнок»"
+  - id: 1042807
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d2409e33dc15fc7f
+    name: "Omega"
+  - id: 1042808
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=07a6d461eddf6373
+    name: "Альфа"
+  - id: 1042809
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=79235be9c6923251
+    name: "Omega"
+  - id: 1042810
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=727f3f1e2ee42ebb
+    name: "Истощённый беженец"
+  - id: 1042811
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ceb11f20f8149a8d
+    name: "Делегат из Сопротивления"
+  - id: 1042812
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2b439cbec0d806a6
+    name: "Альфа"
+  - id: 1042813
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=70b231ecd11fe98b
+    name: "Omega"
+  - id: 1042814
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=724891962014ed2e
+    name: "Солдат 1-го легиона"
+  - id: 1042815
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7700298cbf306b1c
+    name: "Альфа"
+  - id: 1042816
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3d3d43c88f738b21
+    name: "Omega"
+  - id: 1042817
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a69b07ebee6e46f2
+    name: "Альфа"
+  - id: 1042818
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=773e13b66c8eb385
+    name: "Omega"
+  - id: 1042819
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=00f380d969191501
+    name: "Альфа"
+  - id: 1042820
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=99a50b52ee4b7e67
+    name: "Omega"
+  - id: 1042821
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6578fbe1f9128809
+    name: "Альфа"
+  - id: 1042822
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b0b4ea79e840c56b
+    name: "Omega"
+  - id: 1042828
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=893076b1478167d5
+    name: "Альфа"
+  - id: 1042829
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c70abe3197e91db7
+    name: "Omega"
+  - id: 1043125
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2effa9d8d42a4801
+    name: "Альфа"
+  - id: 1043126
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b936e0a58a9e359d
+    name: "Omega"
 

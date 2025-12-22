@@ -4,319 +4,6 @@
   level: 60
   icon: 61412
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-023-heavng101_02356/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=0ab05aa64ff6479f
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=4ff1c302d4923fc1
-  cutscenes:
-  - name: "Кат-сцена 1"
-    start: "001100"
-    end: "001200"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-035-voiceman_03500/
-  - name: "Кат-сцена 2"
-    start: "001210"
-    end: "001620"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-035-voiceman_03500/
-  actors:
-  - id: 1000460
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ce95253104e26b98
-    name: "Молчаливый элементалист"
-  - id: 1012395
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8b4d371597bedc24
-    name: "Альфино"
-  - id: 1012644
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4b41be0363bb05bc
-    name: "Татару"
-  - id: 1017687
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=160c04a80e3370af
-    name: "Ализе"
-  - id: 1017727
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2217081766ca5a9d
-    name: "Альфино"
-  - id: 1017749
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8ec0c0971c57d02b
-    name: "Ализе"
-  - id: 1017804
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e6e2c1a4a1e3aba3
-    name: "Татару"
-
-- name:
-    original: "Lyse Takes the Lead"
-    translated: "Лиз ведёт остальных"
-  level: 60
-  icon: 61412
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-023-heavng102_02357/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=c2be42c4720801cc
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=9d518d5702bedb30
-  cutscenes:
-  - name: "Кат-сцена"
-    start: "001630"
-    end: "001880"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-035-voiceman_03500/
-  actors:
-  - id: 1000107
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=79f97b541e459b2a
-    name: "Хида"
-  - id: 1005521
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9cff975bc438f534
-    name: "Неро тол Сцева"
-  - id: 1011887
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cd379fadf38ce2ae
-    name: "Альфино"
-  - id: 1011896
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6a44c1961e6ae670
-    name: "Югири"
-  - id: 1012189
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ce3ffd14b4bfddd6
-    name: "Татару"
-  - id: 1012395
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8b4d371597bedc24
-    name: "Альфино"
-  - id: 1012644
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4b41be0363bb05bc
-    name: "Татару"
-  - id: 1012811
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0aa77a74d5ca038f
-    name: "Татару"
-  - id: 1013180
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9c53f816ec41dd96
-    name: "Сид"
-  - id: 1015990
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8d5fd77e4a9f4576
-    name: "Ализе"
-  - id: 1017472
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=28fcde3364448ef1
-    name: "Югири"
-  - id: 1017687
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=160c04a80e3370af
-    name: "Ализе"
-  - id: 1018039
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=953be846566afe92
-    name: "Ализе"
-  - id: 1018040
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b87665a6124ed8b6
-    name: "Югири"
-  - id: 1018041
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e02496fdc23a251b
-    name: "Неро тол Сцева"
-  - id: 1018042
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ad029eea9682afea
-    name: "Сид"
-  - id: 1018046
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e787832a27078101
-    name: "Сид"
-  - id: 1018048
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b885da9e8e5855f1
-    name: "Альфино"
-  - id: 1018333
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4306f2652bd94312
-    name: "Неро тол Сцева"
-
-- name:
-    original: "The Promise of a New Beginning"
-    translated: "Многообещающее начинание"
-  level: 60
-  icon: 61412
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-023-heavng103_02358/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=c8d33d6155304f92
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=c9eef7c100115aaa
-  cutscenes:
-  - name: "Кат-сцена 1"
-    start: "001890"
-    end: "002000"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-035-voiceman_03500/
-  - name: "Кат-сцена 2"
-    start: "002010"
-    end: "002140"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-035-voiceman_03500/
-  - name: "Кат-сцена 3"
-    start: "002150"
-    end: "002200"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-035-voiceman_03500/
-  actors:
-  - id: 1005521
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9cff975bc438f534
-    name: "Неро тол Сцева"
-  - id: 1008182
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=058012da6d9346e5
-    name: "Татару"
-  - id: 1011887
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cd379fadf38ce2ae
-    name: "Альфино"
-  - id: 1011896
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6a44c1961e6ae670
-    name: "Югири"
-  - id: 1011900
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a5ff45b09bb873e0
-    name: "Сид"
-  - id: 1012812
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fcf4ae23fdef0e4d
-    name: "Татару"
-  - id: 1013178
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=972152339ee5d364
-    name: "Ализе"
-  - id: 1013179
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=df0d01da8a557f36
-    name: "Татару"
-  - id: 1017687
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=160c04a80e3370af
-    name: "Ализе"
-  - id: 1018011
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0d5b8c147c9478e8
-    name: "Неро тол Сцева"
-  - id: 1018042
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ad029eea9682afea
-    name: "Сид"
-  - id: 1018043
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ab824d6de1633b66
-    name: "Ида"
-  - id: 1018044
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=befe2a0385bbadb1
-    name: "Сид"
-  - id: 1018045
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=43f86c80531330c2
-    name: "Сид"
-  - id: 1018046
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e787832a27078101
-    name: "Сид"
-  - id: 1018048
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b885da9e8e5855f1
-    name: "Альфино"
-  - id: 1018057
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=dfcff8a942f0f6e9
-    name: "Госэцу"
-  - id: 1018221
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=29812ab0a78baedb
-    name: "Югири"
-  - id: 1018321
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=68d53b481b0ac754
-    name: "Ида"
-  - id: 1018322
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=43b29703d5d43675
-    name: "Госэцу"
-  - id: 1018336
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9d71fe232d400807
-    name: "Югири"
-  - id: 1018337
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=61f3df8d2ddf7e9a
-    name: "Альфино"
-  - id: 1018338
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3d009dac93d5c98d
-    name: "Ализе"
-  - id: 1018370
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4ae455922dc8b9a7
-    name: "Неро тол Сцева"
-  - id: 1018375
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=70b7b1c2a204bf0e
-    name: "Госэцу"
-
-- name:
-    original: "A Haven for the Bold"
-    translated: "Укрытие смелых"
-  level: 60
-  icon: 61412
-  url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-023-heavng104_02359/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=357e799f243e93ba
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=6f12235dce45b12d
-  cutscenes:
-  - name: "Кат-сцена"
-    start: "002210"
-    end: "002530"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-035-voiceman_03500/
-  actors:
-  - id: 1000460
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ce95253104e26b98
-    name: "Молчаливый элементалист"
-  - id: 1003027
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=94ec1047ac9b723d
-    name: "Кан-Э-Сенна"
-  - id: 1005521
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9cff975bc438f534
-    name: "Неро тол Сцева"
-  - id: 1011887
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cd379fadf38ce2ae
-    name: "Альфино"
-  - id: 1011896
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6a44c1961e6ae670
-    name: "Югири"
-  - id: 1011900
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a5ff45b09bb873e0
-    name: "Сид"
-  - id: 1012813
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=929cf795523bea8c
-    name: "Крайл"
-  - id: 1013178
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=972152339ee5d364
-    name: "Ализе"
-  - id: 1013179
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=df0d01da8a557f36
-    name: "Татару"
-  - id: 1018017
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=200a0d8b5300c908
-    name: "Альфино"
-  - id: 1018046
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e787832a27078101
-    name: "Сид"
-  - id: 1018048
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b885da9e8e5855f1
-    name: "Альфино"
-  - id: 1018054
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ef39da7a51bd4b00
-    name: "Робанн"
-  - id: 1018055
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=344daf86d900eec0
-    name: "Мёлвиб"
-  - id: 1018056
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=44706c4368c4377f
-    name: "Эмерик"
-  - id: 1018323
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0af5985c422b9562
-    name: "Сид"
-  - id: 1018324
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=40a8e66bac47d214
-    name: "Неро тол Сцева"
-  - id: 1018325
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9d092378d3c2046e
-    name: "Госэцу"
-  - id: 1018326
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1bb4811b7797728d
-    name: "Югири"
-  - id: 1018327
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=778c84a7972e0ce3
-    name: "Лиз"
-  - id: 1018328
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=83b2316e104ef31a
-    name: "Ида"
-  - id: 1018329
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a119ba5313296049
-    name: "Я'штола"
-  - id: 1018330
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8c18a74fd102b7c9
-    name: "Альфино"
-  - id: 1018331
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b273533639f8443e
-    name: "Ализе"
-  - id: 1018332
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3cc6967439508852
-    name: "Татару"
-  - id: 1018375
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=70b7b1c2a204bf0e
-    name: "Госэцу"
-  - id: 1018383
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c8a921a5f8616c32
-    name: "Ида"
-  - id: 1018430
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=13b9b2dfe17dccdd
-    name: "Альфино"
-
-- name:
-    original: "A Bargain Struck"
-    translated: "По рукам"
-  level: 60
-  icon: 61412
-  url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-024-stmbda101_02446/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=52b40593f34e6118
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=84a7dc407c234063
@@ -429,8 +116,8 @@
     name: "Лиз"
 
 - name:
-    original: "A Friend of a Friend in Need"
-    translated: "Друг моего друга в беде"
+    original: "Lyse Takes the Lead"
+    translated: "Лиз ведёт остальных"
   level: 60
   icon: 61412
   url:
@@ -541,8 +228,8 @@
     name: "Лиз"
 
 - name:
-    original: "Signed, Sealed, to Be Delivered"
-    translated: "Вам письмо"
+    original: "The Promise of a New Beginning"
+    translated: "Многообещающее начинание"
   level: 60
   icon: 61412
   url:
@@ -590,8 +277,8 @@
     name: "Меффрид"
 
 - name:
-    original: "Best Served with Cold Steel"
-    translated: "Сталь подаётся холодной"
+    original: "A Haven for the Bold"
+    translated: "Укрытие смелых"
   level: 60
   icon: 61412
   url:
@@ -652,8 +339,8 @@
     name: "Лиз"
 
 - name:
-    original: "Let Fill Your Hearts with Pride"
-    translated: "С гордостью в сердцах"
+    original: "A Bargain Struck"
+    translated: "По рукам"
   level: 60
   icon: 61412
   url:
@@ -701,8 +388,8 @@
     name: "Лиз"
 
 - name:
-    original: "A Familiar Face Forgotten"
-    translated: "Лицо старого знакомого"
+    original: "A Friend of a Friend in Need"
+    translated: "Друг моего друга в беде"
   level: 60
   icon: 61412
   url:
@@ -747,8 +434,8 @@
     name: "Цель"
 
 - name:
-    original: "The Prodigal Daughter"
-    translated: "Блудная дочь"
+    original: "Signed, Sealed, to Be Delivered"
+    translated: "Вам письмо"
   level: 60
   icon: 61412
   url:
@@ -790,8 +477,8 @@
     name: "Пипин"
 
 - name:
-    original: "Hard Country"
-    translated: "Суровое местечко"
+    original: "Best Served with Cold Steel"
+    translated: "Сталь подаётся холодной"
   level: 60
   icon: 61412
   url:
@@ -857,8 +544,8 @@
     name: "Цель"
 
 - name:
-    original: "Death by a Thousand Rocks"
-    translated: "Вес тысячи камней"
+    original: "Let Fill Your Hearts with Pride"
+    translated: "С гордостью в сердцах"
   level: 60
   icon: 61412
   url:
@@ -886,8 +573,8 @@
     name: "М'нааго"
 
 - name:
-    original: "A Life More Ordinary"
-    translated: "Самая обыкновенная жизнь"
+    original: "A Familiar Face Forgotten"
+    translated: "Лицо старого знакомого"
   level: 60
   icon: 61412
   url:
@@ -938,8 +625,8 @@
     name: "Меффрид"
 
 - name:
-    original: "The Color of Angry Qiqirn"
-    translated: "Цвет разъярённых кикирнов"
+    original: "The Prodigal Daughter"
+    translated: "Блудная дочь"
   level: 60
   icon: 61412
   url:
@@ -970,8 +657,8 @@
     name: "Раганфрид"
 
 - name:
-    original: "The Black Wolf's Pups"
-    translated: "Щенки Чёрного Волка"
+    original: "Hard Country"
+    translated: "Суровое местечко"
   level: 60
   icon: 61412
   url:
@@ -1000,8 +687,8 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=8bcccd7951ec7f05
 
 - name:
-    original: "Homeward Bound"
-    translated: "На защиту дома"
+    original: "Death by a Thousand Rocks"
+    translated: "Вес тысячи камней"
   level: 60
   icon: 61412
   url:
@@ -1026,8 +713,8 @@
     name: "Невообразимо тяжёлые мешки"
 
 - name:
-    original: "Where Men Go as One"
-    translated: "Кто шагает дружно в ряд"
+    original: "A Life More Ordinary"
+    translated: "Самая обыкновенная жизнь"
   level: 60
   icon: 61412
   url:
@@ -1079,8 +766,8 @@
     name: "Раздосадованная женщина"
 
 - name:
-    original: "Future Rust, Future Dust"
-    translated: "Нет будущего"
+    original: "The Color of Angry Qiqirn"
+    translated: "Цвет разъярённых кикирнов"
   level: 60
   icon: 61412
   url:
@@ -1143,8 +830,8 @@
     name: "Цель"
 
 - name:
-    original: "A Dash of Green"
-    translated: "Зелёная вспышка"
+    original: "The Black Wolf's Pups"
+    translated: "Щенки Чёрного Волка"
   level: 60
   icon: 61412
   url:
@@ -1196,8 +883,8 @@
     name: "Перо чокобо"
 
 - name:
-    original: "Ye Wayward Brothers"
-    translated: "Заблудшие братья"
+    original: "Homeward Bound"
+    translated: "На защиту дома"
   level: 60
   icon: 61412
   url:
@@ -1237,8 +924,8 @@
     name: "Циничный юноша"
 
 - name:
-    original: "Token of Faith"
-    translated: "Символ веры"
+    original: "Where Men Go as One"
+    translated: "Кто шагает дружно в ряд"
   level: 60
   icon: 61412
   url:
@@ -1310,8 +997,8 @@
     name: "Д'молва"
 
 - name:
-    original: "Crossing the Velodyna"
-    translated: "Переправа"
+    original: "Future Rust, Future Dust"
+    translated: "Нет будущего"
   level: 60
   icon: 61412
   url:
@@ -1341,8 +1028,8 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=e53f60a4def48578
 
 - name:
-    original: "In Crimson It Began"
-    translated: "Алый рассвет"
+    original: "A Dash of Green"
+    translated: "Зелёная вспышка"
   level: 60
   icon: 61412
   url:
@@ -1376,8 +1063,8 @@
     name: "Пахучая трава"
 
 - name:
-    original: "The Fires Fade"
-    translated: "На пепелище"
+    original: "Ye Wayward Brothers"
+    translated: "Заблудшие братья"
   level: 60
   icon: 61412
   url:
@@ -1405,8 +1092,8 @@
     name: "Впечатлительный рекрут"
 
 - name:
-    original: "Bereft of Hearth and Home"
-    translated: "Лишённые крова"
+    original: "Token of Faith"
+    translated: "Символ веры"
   level: 60
   icon: 61412
   url:
@@ -1434,8 +1121,8 @@
     name: "Оберег Разрушителя"
 
 - name:
-    original: "Divide and Conquer"
-    translated: "Разделяй и властвуй"
+    original: "Crossing the Velodyna"
+    translated: "Переправа"
   level: 61
   icon: 61412
   url:
@@ -1499,8 +1186,8 @@
     name: "Ализе"
 
 - name:
-    original: "Lies, Damn Lies, and Pirates"
-    translated: "Море вранья и чёртовы пираты"
+    original: "In Crimson It Began"
+    translated: "Алый рассвет"
   level: 61
   icon: 61412
   url:
@@ -1624,8 +1311,8 @@
     name: "Ализе"
 
 - name:
-    original: "Tales from the Far East"
-    translated: "Истории с Дальнего Востока"
+    original: "The Fires Fade"
+    translated: "На пепелище"
   level: 61
   icon: 61412
   url:
@@ -1670,8 +1357,8 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=4154f83373e790b9
 
 - name:
-    original: "Not without Incident"
-    translated: "Не без происшествий"
+    original: "Bereft of Hearth and Home"
+    translated: "Лишённые крова"
   level: 61
   icon: 61412
   url:
@@ -1741,8 +1428,8 @@
     name: "Медицинские припасы"
 
 - name:
-    original: "The Man from Ul'dah"
-    translated: "Человек из Уль'ды"
+    original: "Divide and Conquer"
+    translated: "Разделяй и властвуй"
   level: 61
   icon: 61412
   url:
@@ -1814,8 +1501,8 @@
     name: "Лиз"
 
 - name:
-    original: "Where the Streets Are Paved with Koban"
-    translated: "Правители улиц"
+    original: "Lies, Damn Lies, and Pirates"
+    translated: "Море вранья и чёртовы пираты"
   level: 61
   icon: 61412
   url:
@@ -1885,8 +1572,8 @@
     name: "Татару"
 
 - name:
-    original: "By the Grace of Lord Lolorito"
-    translated: "Милость лорда Лолорито"
+    original: "Tales from the Far East"
+    translated: "Истории с Дальнего Востока"
   level: 61
   icon: 61412
   url:
@@ -1920,8 +1607,8 @@
     name: "Татару"
 
 - name:
-    original: "A Good Samurai Is Hard to Find"
-    translated: "Хорошего самурая непросто найти"
+    original: "Not without Incident"
+    translated: "Не без происшествий"
   level: 61
   icon: 61412
   url:
@@ -2014,8 +1701,8 @@
     name: "Матрос Кракенов"
 
 - name:
-    original: "It's Probably a Trap"
-    translated: "Возможно, это ловушка"
+    original: "The Man from Ul'dah"
+    translated: "Человек из Уль'ды"
   level: 61
   icon: 61412
   url:
@@ -2081,8 +1768,8 @@
     name: "Татару"
 
 - name:
-    original: "Making the Catfish Sing"
-    translated: "Открывает рыба рот"
+    original: "Where the Streets Are Paved with Koban"
+    translated: "Правители улиц"
   level: 61
   icon: 61412
   url:
@@ -2158,8 +1845,8 @@
     name: "Хэнкок"
 
 - name:
-    original: "Once More, to the Ruby Sea"
-    translated: "Восход над Рубиновым морем"
+    original: "By the Grace of Lord Lolorito"
+    translated: "Милость лорда Лолорито"
   level: 61
   icon: 61412
   url:
@@ -2222,8 +1909,8 @@
     name: "Татару"
 
 - name:
-    original: "Open Water"
-    translated: "Открытые воды"
+    original: "A Good Samurai Is Hard to Find"
+    translated: "Хорошего самурая непросто найти"
   level: 61
   icon: 61412
   url:
@@ -2277,8 +1964,8 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=ae06526b9e254463
 
 - name:
-    original: "Boys with Boats"
-    translated: "Детишки и их лодочки"
+    original: "It's Probably a Trap"
+    translated: "Возможно, это ловушка"
   level: 61
   icon: 61412
   url:
@@ -2349,8 +2036,8 @@
     name: "Хэнкок"
 
 - name:
-    original: "To Bend with the Wind"
-    translated: "Кто не гнётся, тот ломается"
+    original: "Making the Catfish Sing"
+    translated: "Открывает рыба рот"
   level: 61
   icon: 61412
   url:
@@ -2438,8 +2125,8 @@
     name: "Цель"
 
 - name:
-    original: "Confederate Consternation"
-    translated: "Оцепеневшая Конфедерация"
+    original: "Once More, to the Ruby Sea"
+    translated: "Восход над Рубиновым морем"
   level: 62
   icon: 61412
   url:
@@ -2529,8 +2216,8 @@
     name: "Вояка Сэкисэйгуми"
 
 - name:
-    original: "The Solace of the Sea"
-    translated: "Милость моря"
+    original: "Open Water"
+    translated: "Открытые воды"
   level: 62
   icon: 61412
   url:
@@ -2582,8 +2269,8 @@
     name: "Соробан"
 
 - name:
-    original: "The Arrows of Misfortune"
-    translated: "Стрелы не-удачи"
+    original: "Boys with Boats"
+    translated: "Детишки и их лодочки"
   level: 62
   icon: 61412
   url:
@@ -2653,8 +2340,8 @@
     name: "Цель"
 
 - name:
-    original: "The Last Voyage"
-    translated: "Последнее плавание"
+    original: "To Bend with the Wind"
+    translated: "Кто не гнётся, тот ломается"
   level: 62
   icon: 61412
   url:
@@ -2745,8 +2432,8 @@
     name: "Рычащий гиуки"
 
 - name:
-    original: "Alisaie's Stones"
-    translated: "Ализе показывает зубы"
+    original: "Confederate Consternation"
+    translated: "Оцепеневшая Конфедерация"
   level: 62
   icon: 61412
   url:
@@ -2811,8 +2498,8 @@
     name: "Ящик с припасами"
 
 - name:
-    original: "Under the Sea"
-    translated: "В морских глубинах"
+    original: "The Solace of the Sea"
+    translated: "Милость моря"
   level: 62
   icon: 61412
   url:
@@ -2836,8 +2523,8 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=235d4273d26703bc
 
 - name:
-    original: "Of Kojin and Kami"
-    translated: "Кодзин и ками"
+    original: "The Arrows of Misfortune"
+    translated: "Стрелы не-удачи"
   level: 62
   icon: 61412
   url:
@@ -2870,8 +2557,8 @@
     name: "Сейчас нет времени на это!"
 
 - name:
-    original: "In Soroban We Trust"
-    translated: "Соробан не подведёт"
+    original: "The Last Voyage"
+    translated: "Последнее плавание"
   level: 62
   icon: 61412
   url:
@@ -2903,8 +2590,8 @@
     name: "Цель"
 
 - name:
-    original: "Forever and Ever Apart"
-    translated: "Разобщённые"
+    original: "Alisaie's Stones"
+    translated: "Ализе показывает зубы"
   level: 62
   icon: 61412
   url:
@@ -2959,8 +2646,8 @@
     name: "Цель"
 
 - name:
-    original: "In Darkness the Magatama Dreams"
-    translated: "Магатама во тьме"
+    original: "Under the Sea"
+    translated: "В морских глубинах"
   level: 62
   icon: 61412
   url:
@@ -3008,8 +2695,8 @@
     name: "Рашо"
 
 - name:
-    original: "The Whims of the Divine"
-    translated: "Причуды богов"
+    original: "Of Kojin and Kami"
+    translated: "Кодзин и ками"
   level: 62
   icon: 61412
   url:
@@ -3066,8 +2753,8 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=eac0201003296feb
 
 - name:
-    original: "Breaking and Delivering"
-    translated: "Доставка со взломом"
+    original: "In Soroban We Trust"
+    translated: "Соробан не подведёт"
   level: 63
   icon: 61412
   url:
@@ -3106,8 +2793,8 @@
     name: "Соробан"
 
 - name:
-    original: "The Lord of the Revel"
-    translated: "Повелитель поединков"
+    original: "Forever and Ever Apart"
+    translated: "Разобщённые"
   level: 63
   icon: 61412
   url:
@@ -3146,8 +2833,8 @@
     name: "Изоба"
 
 - name:
-    original: "Tide Goes in, Imperials Go Out"
-    translated: "Прилив, сметающий имперцев"
+    original: "In Darkness the Magatama Dreams"
+    translated: "Магатама во тьме"
   level: 63
   icon: 61412
   url:
@@ -3194,8 +2881,8 @@
     name: "Какая-то блестящая ерунда"
 
 - name:
-    original: "A Silence in Three Parts"
-    translated: "Трёхчастная тишина"
+    original: "The Whims of the Divine"
+    translated: "Причуды богов"
   level: 63
   icon: 61412
   url:
@@ -3231,8 +2918,8 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=24c3da41d1ffafbb
 
 - name:
-    original: "Life after Doma"
-    translated: "Жизнь после Домы"
+    original: "Breaking and Delivering"
+    translated: "Доставка со взломом"
   level: 63
   icon: 61412
   url:
@@ -3287,8 +2974,8 @@
     name: "Разведчик Красных кодзинов"
 
 - name:
-    original: "A Glimpse of Madness"
-    translated: "Глоток безумия"
+    original: "The Lord of the Revel"
+    translated: "Повелитель поединков"
   level: 63
   icon: 61412
   url:
@@ -3342,8 +3029,8 @@
     name: "Врата"
 
 - name:
-    original: "The Stubborn Remainder"
-    translated: "Упрямое напоминание"
+    original: "Tide Goes in, Imperials Go Out"
+    translated: "Прилив, сметающий имперцев"
   level: 63
   icon: 61412
   url:
@@ -3379,8 +3066,8 @@
     name: "Лиз"
 
 - name:
-    original: "The Ones We Leave Behind"
-    translated: "Оставленные"
+    original: "A Silence in Three Parts"
+    translated: "Трёхчастная тишина"
   level: 63
   icon: 61412
   url:
@@ -3426,8 +3113,8 @@
     name: "Ализе"
 
 - name:
-    original: "A New Ruby Tithe"
-    translated: "Старые знакомые с Рубинового моря"
+    original: "Life after Doma"
+    translated: "Жизнь после Домы"
   level: 64
   icon: 61412
   url:
@@ -3482,8 +3169,8 @@
     name: "Цель"
 
 - name:
-    original: "The Will to Live"
-    translated: "Воля к жизни"
+    original: "A Glimpse of Madness"
+    translated: "Глоток безумия"
   level: 64
   icon: 61412
   url:
@@ -3519,8 +3206,8 @@
     name: "Боец Фронта освобождения"
 
 - name:
-    original: "Daughter of the Deep"
-    translated: "Дочь глубин"
+    original: "The Stubborn Remainder"
+    translated: "Упрямое напоминание"
   level: 64
   icon: 61412
   url:
@@ -3560,8 +3247,8 @@
     name: "Чигуза"
 
 - name:
-    original: "Path of No Return"
-    translated: "Путь в один конец"
+    original: "The Ones We Leave Behind"
+    translated: "Оставленные"
   level: 64
   icon: 61412
   url:
@@ -3608,8 +3295,8 @@
     name: "Золотистое растение"
 
 - name:
-    original: "The Time between the Seconds"
-    translated: "Короткое мгновение"
+    original: "A New Ruby Tithe"
+    translated: "Старые знакомые с Рубинового моря"
   level: 64
   icon: 61412
   url:
@@ -3703,8 +3390,8 @@
     name: "Разделайтесь с имперским патрулём!"
 
 - name:
-    original: "All the Little Angels"
-    translated: "Маленькие революционеры"
+    original: "The Will to Live"
+    translated: "Воля к жизни"
   level: 64
   icon: 61412
   url:
@@ -3759,8 +3446,8 @@
     name: "Бездонный мешок с униформой"
 
 - name:
-    original: "Here There Be Xaela"
-    translated: "Привет тебе, Зейла"
+    original: "Daughter of the Deep"
+    translated: "Дочь глубин"
   level: 64
   icon: 61412
   url:
@@ -3820,8 +3507,8 @@
     name: "Цель"
 
 - name:
-    original: "The Search for Lord Hien"
-    translated: "В поисках лорда Хиена"
+    original: "Path of No Return"
+    translated: "Путь в один конец"
   level: 64
   icon: 61412
   url:
@@ -3843,8 +3530,8 @@
     name: "Югири"
 
 - name:
-    original: "A Season for War"
-    translated: "Время воевать"
+    original: "The Time between the Seconds"
+    translated: "Короткое мгновение"
   level: 64
   icon: 61412
   url:
@@ -3891,8 +3578,8 @@
     name: "Цель"
 
 - name:
-    original: "An Impossible Dream"
-    translated: "Неисполнимая мечта"
+    original: "All the Little Angels"
+    translated: "Маленькие революционеры"
   level: 64
   icon: 61412
   url:
@@ -3957,8 +3644,8 @@
     name: "Югири"
 
 - name:
-    original: "Stars in the Dark"
-    translated: "Звёзды во тьме"
+    original: "Here There Be Xaela"
+    translated: "Привет тебе, Зейла"
   level: 65
   icon: 61412
   url:
@@ -4015,8 +3702,8 @@
     name: "Госэцу"
 
 - name:
-    original: "A Warrior's Welcome"
-    translated: "Воинское приветствие"
+    original: "The Search for Lord Hien"
+    translated: "В поисках лорда Хиена"
   level: 65
   icon: 61412
   url:
@@ -4059,8 +3746,8 @@
     name: "Цирина"
 
 - name:
-    original: "The Heart of Nations"
-    translated: "Сердце народа"
+    original: "A Season for War"
+    translated: "Время воевать"
   level: 65
   icon: 61412
   url:
@@ -4096,8 +3783,8 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=d20cd0eafc3b14bc
 
 - name:
-    original: "A Trial Before the Trial"
-    translated: "Испытание... перед испытанием"
+    original: "An Impossible Dream"
+    translated: "Неисполнимая мечта"
   level: 65
   icon: 61412
   url:
@@ -4136,8 +3823,8 @@
     name: "Хиен"
 
 - name:
-    original: "In the Footsteps of Bardam the Brave"
-    translated: "По стопам Бардама Храброго"
+    original: "Stars in the Dark"
+    translated: "Звёзды во тьме"
   level: 65
   icon: 61412
   url:
@@ -4197,8 +3884,8 @@
     name: "Госэцу"
 
 - name:
-    original: "The Children of Azim"
-    translated: "Дети Азима"
+    original: "A Warrior's Welcome"
+    translated: "Воинское приветствие"
   level: 65
   icon: 61412
   url:
@@ -4262,8 +3949,8 @@
     name: "Цель"
 
 - name:
-    original: "The Labors of Magnai"
-    translated: "Нелёгкие труды Магная"
+    original: "The Heart of Nations"
+    translated: "Сердце народа"
   level: 65
   icon: 61412
   url:
@@ -4326,8 +4013,8 @@
     name: "Куча с характерным запахом"
 
 - name:
-    original: "For Love of the Moon"
-    translated: "Возлюбленный луны"
+    original: "A Trial Before the Trial"
+    translated: "Испытание... перед испытанием"
   level: 65
   icon: 61412
   url:
@@ -4399,8 +4086,8 @@
     name: "Цель"
 
 - name:
-    original: "Sworn Enemies of the Sun"
-    translated: "Заклятые враги Солнца"
+    original: "In the Footsteps of Bardam the Brave"
+    translated: "По стопам Бардама Храброго"
   level: 65
   icon: 61412
   url:
@@ -4428,8 +4115,8 @@
     name: "Лиз"
 
 - name:
-    original: "The Undying Ones"
-    translated: "Бессмертные"
+    original: "The Children of Azim"
+    translated: "Дети Азима"
   level: 65
   icon: 61412
   url:
@@ -4469,8 +4156,8 @@
     name: "Баату"
 
 - name:
-    original: "A Final Peace"
-    translated: "Вечный покой"
+    original: "The Labors of Magnai"
+    translated: "Нелёгкие труды Магная"
   level: 66
   icon: 61412
   url:
@@ -4531,8 +4218,8 @@
     name: "Остроцвет"
 
 - name:
-    original: "As the Gods Will"
-    translated: "По велению богов"
+    original: "For Love of the Moon"
+    translated: "Возлюбленный луны"
   level: 66
   icon: 61412
   url:
@@ -4575,8 +4262,8 @@
     name: "Лиз"
 
 - name:
-    original: "Naadam"
-    translated: "Наадам"
+    original: "Sworn Enemies of the Sun"
+    translated: "Заклятые враги Солнца"
   level: 66
   icon: 61412
   url:
@@ -4623,8 +4310,8 @@
     name: "Атакующий маншазир"
 
 - name:
-    original: "Glory to the Khagan"
-    translated: "Слава правителю Степи"
+    original: "The Undying Ones"
+    translated: "Бессмертные"
   level: 66
   icon: 61412
   url:
@@ -4663,8 +4350,8 @@
     name: "Госэцу"
 
 - name:
-    original: "In Crimson They Walked"
-    translated: "Багровый поход"
+    original: "A Final Peace"
+    translated: "Вечный покой"
   level: 66
   icon: 61412
   url:
@@ -4700,8 +4387,8 @@
     name: "Тело Гесера"
 
 - name:
-    original: "The Hour of Reckoning"
-    translated: "Час расплаты"
+    original: "As the Gods Will"
+    translated: "По велению богов"
   level: 66
   icon: 61412
   url:
@@ -4762,8 +4449,8 @@
     name: "Баату"
 
 - name:
-    original: "The Room Where It Happened"
-    translated: "Комната, где всё началось"
+    original: "Naadam"
+    translated: "Наадам"
   level: 66
   icon: 61412
   url:
@@ -4839,8 +4526,8 @@
     name: "Дорбей"
 
 - name:
-    original: "How Tataru Got Her Groove Back"
-    translated: "Как Татару возвращала пропажу"
+    original: "Glory to the Khagan"
+    translated: "Слава правителю Степи"
   level: 66
   icon: 61412
   url:
@@ -4904,8 +4591,8 @@
     name: "Дорбей"
 
 - name:
-    original: "Seeds of Despair"
-    translated: "Семена отчаяния"
+    original: "In Crimson They Walked"
+    translated: "Багровый поход"
   level: 66
   icon: 61412
   url:
@@ -4975,8 +4662,8 @@
     name: "Дорбей"
 
 - name:
-    original: "The Limits of Our Endurance"
-    translated: "Пределы наших сил"
+    original: "The Hour of Reckoning"
+    translated: "Час расплаты"
   level: 66
   icon: 61412
   url:
@@ -5043,8 +4730,8 @@
     name: "Лиз"
 
 - name:
-    original: "Broken Steel, Broken Men"
-    translated: "Обломки судеб"
+    original: "The Room Where It Happened"
+    translated: "Комната, где всё началось"
   level: 67
   icon: 61412
   url:
@@ -5083,8 +4770,8 @@
     name: "Татару"
 
 - name:
-    original: "The Doma Within"
-    translated: "Изнанка Домы"
+    original: "How Tataru Got Her Groove Back"
+    translated: "Как Татару возвращала пропажу"
   level: 67
   icon: 61412
   url:
@@ -5137,8 +4824,8 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=59a3acb91db33509
 
 - name:
-    original: "On the Eve of Destiny"
-    translated: "Накануне"
+    original: "Seeds of Despair"
+    translated: "Семена отчаяния"
   level: 67
   icon: 61412
   url:
@@ -5189,8 +4876,8 @@
     name: "Цель"
 
 - name:
-    original: "The Die Is Cast"
-    translated: "Пусть смерть решит"
+    original: "The Limits of Our Endurance"
+    translated: "Пределы наших сил"
   level: 67
   icon: 61412
   url:
@@ -5236,8 +4923,8 @@
     name: "Иссе"
 
 - name:
-    original: "The World Turned Upside Down"
-    translated: "Мир перевернулся"
+    original: "Broken Steel, Broken Men"
+    translated: "Обломки судеб"
   level: 67
   icon: 61412
   url:
@@ -5305,8 +4992,8 @@
     name: "Бронированная обшивка"
 
 - name:
-    original: "A Swift and Secret Departure"
-    translated: "Быстрое и тайное отбытие"
+    original: "The Doma Within"
+    translated: "Изнанка Домы"
   level: 67
   icon: 61412
   url:
@@ -5361,8 +5048,8 @@
     name: "Катана в ножнах"
 
 - name:
-    original: "While You Were Away"
-    translated: "Пока вас не было"
+    original: "On the Eve of Destiny"
+    translated: "Накануне"
   level: 67
   icon: 61412
   url:
@@ -5414,8 +5101,8 @@
     name: "Хиен"
 
 - name:
-    original: "Rhalgr's Beacon"
-    translated: "Звезда Ралгра"
+    original: "The Die Is Cast"
+    translated: "Пусть смерть решит"
   level: 67
   icon: 61412
   url:
@@ -5511,8 +5198,8 @@
     name: "Цель"
 
 - name:
-    original: "The Fortunes of War"
-    translated: "Военные хлопоты"
+    original: "The World Turned Upside Down"
+    translated: "Мир перевернулся"
   level: 67
   icon: 61412
   url:
@@ -5620,8 +5307,8 @@
     name: "Азами"
 
 - name:
-    original: "Rising Fortunes, Rising Spirits"
-    translated: "Похищения и призывы"
+    original: "A Swift and Secret Departure"
+    translated: "Быстрое и тайное отбытие"
   level: 67
   icon: 61412
   url:
@@ -5691,8 +5378,8 @@
     name: "Татару"
 
 - name:
-    original: "The Lure of the Dream"
-    translated: "Сладкие грёзы"
+    original: "While You Were Away"
+    translated: "Пока вас не было"
   level: 67
   icon: 61412
   url:
@@ -5774,8 +5461,8 @@
     name: "Аренвальд"
 
 - name:
-    original: "The Lady of Bliss"
-    translated: "Повелительница неги"
+    original: "Rhalgr's Beacon"
+    translated: "Звезда Ралгра"
   level: 67
   icon: 61412
   url:
@@ -5891,8 +5578,8 @@
     name: "Пылкий молодой боец"
 
 - name:
-    original: "The Silence of the Gods"
-    translated: "Молчание богов"
+    original: "The Fortunes of War"
+    translated: "Военные хлопоты"
   level: 67
   icon: 61412
   url:
@@ -5945,8 +5632,8 @@
     name: "Имперский лакеарий"
 
 - name:
-    original: "The First of Many"
-    translated: "Первая из многих"
+    original: "Rising Fortunes, Rising Spirits"
+    translated: "Похищения и призывы"
   level: 67
   icon: 61412
   url:
@@ -6021,8 +5708,8 @@
     name: "Ализе"
 
 - name:
-    original: "Strong and Unified"
-    translated: "Объединённые силы"
+    original: "The Lure of the Dream"
+    translated: "Сладкие грёзы"
   level: 67
   icon: 61412
   url:
@@ -6074,8 +5761,8 @@
     name: "Важра"
 
 - name:
-    original: "Hells Open"
-    translated: "Ад на земле"
+    original: "The Lady of Bliss"
+    translated: "Повелительница неги"
   level: 67
   icon: 61412
   url:
@@ -6135,8 +5822,8 @@
     name: "Эфирит ананта"
 
 - name:
-    original: "Heavens Weep"
-    translated: "Расколотые небеса"
+    original: "The Silence of the Gods"
+    translated: "Молчание богов"
   level: 67
   icon: 61412
   url:
@@ -6218,8 +5905,8 @@
     name: "Конрад"
 
 - name:
-    original: "The Road Home"
-    translated: "Путь домой"
+    original: "The First of Many"
+    translated: "Первая из многих"
   level: 68
   icon: 61412
   url:
@@ -6303,8 +5990,8 @@
     name: "Рекрут Альянса"
 
 - name:
-    original: "For the Living and the Dead"
-    translated: "Ради мёртвых... ради живущих"
+    original: "Strong and Unified"
+    translated: "Объединённые силы"
   level: 68
   icon: 61412
   url:
@@ -6361,8 +6048,8 @@
     name: "Офицер Водоворота"
 
 - name:
-    original: "Above the Churning Waters"
-    translated: "Спасение от бурных вод"
+    original: "Hells Open"
+    translated: "Ад на земле"
   level: 68
   icon: 61412
   url:
@@ -6417,8 +6104,8 @@
     name: "Цель"
 
 - name:
-    original: "The Path Forward"
-    translated: "Путь вперёд"
+    original: "Heavens Weep"
+    translated: "Расколотые небеса"
   level: 68
   icon: 61412
   url:
@@ -6492,8 +6179,8 @@
     name: "Церметовое укрепление"
 
 - name:
-    original: "With Tired Hands We Toil"
-    translated: "Уставшие, но упорные"
+    original: "The Road Home"
+    translated: "Путь домой"
   level: 68
   icon: 61412
   url:
@@ -6554,8 +6241,8 @@
     name: "Боец Сопротивления"
 
 - name:
-    original: "Where Courage Endures"
-    translated: "Смелость превыше всего"
+    original: "For the Living and the Dead"
+    translated: "Ради мёртвых... ради живущих"
   level: 68
   icon: 61412
   url:
@@ -6613,8 +6300,8 @@
     name: "Офицер Водоворота"
 
 - name:
-    original: "The Price of Freedom"
-    translated: "Цена свободы"
+    original: "Above the Churning Waters"
+    translated: "Спасение от бурных вод"
   level: 68
   icon: 61412
   url:
@@ -6674,8 +6361,8 @@
     name: "Цель"
 
 - name:
-    original: "Raubahn's Invitation"
-    translated: "Приглашение Робанна"
+    original: "The Path Forward"
+    translated: "Путь вперёд"
   level: 68
   icon: 61412
   url:
@@ -6724,8 +6411,8 @@
     name: "Д'молва"
 
 - name:
-    original: "Liberty or Death"
-    translated: "Свобода или смерть"
+    original: "With Tired Hands We Toil"
+    translated: "Уставшие, но упорные"
   level: 68
   icon: 61412
   url:
@@ -6815,8 +6502,8 @@
     name: "Цель"
 
 - name:
-    original: "The Lady in Red"
-    translated: "Женщина в красном"
+    original: "Where Courage Endures"
+    translated: "Смелость превыше всего"
   level: 68
   icon: 61412
   url:
@@ -6871,8 +6558,8 @@
     name: "Лиз"
 
 - name:
-    original: "Upon the Great Loch's Shore"
-    translated: "На берегу Великого Озера"
+    original: "The Price of Freedom"
+    translated: "Цена свободы"
   level: 69
   icon: 61412
   url:
@@ -6980,8 +6667,8 @@
     name: "Цель"
 
 - name:
-    original: "The Key to Victory"
-    translated: "Ключ к победе"
+    original: "Raubahn's Invitation"
+    translated: "Приглашение Робанна"
   level: 69
   icon: 61412
   url:
@@ -7006,8 +6693,8 @@
     name: "Робанн"
 
 - name:
-    original: "The Resonant"
-    translated: "Резонанты"
+    original: "Liberty or Death"
+    translated: "Свобода или смерть"
   level: 69
   icon: 61412
   url:
@@ -7071,8 +6758,8 @@
     name: "Имперский дезертир"
 
 - name:
-    original: "The Legacy of Our Fathers"
-    translated: "Наследие наших отцов"
+    original: "The Lady in Red"
+    translated: "Женщина в красном"
   level: 69
   icon: 61412
   url:
@@ -7127,8 +6814,8 @@
     name: "Цель"
 
 - name:
-    original: "The Measure of His Reach"
-    translated: "Беспощадная хватка"
+    original: "Upon the Great Loch's Shore"
+    translated: "На берегу Великого Озера"
   level: 69
   icon: 61412
   url:
@@ -7179,8 +6866,8 @@
     name: "Д'молва"
 
 - name:
-    original: "Stormblood"
-    translated: "Кровавый шторм"
+    original: "The Key to Victory"
+    translated: "Ключ к победе"
   level: 69
   icon: 61412
   url:
@@ -7244,8 +6931,8 @@
     name: "Ватт"
 
 - name:
-    original: "Arenvald's Adventure"
-    translated: "Авантюра Аренвальда"
+    original: "The Resonant"
+    translated: "Резонанты"
   level: 69
   icon: 61412
   url:
@@ -7311,8 +6998,8 @@
     name: "Вискар"
 
 - name:
-    original: "The Darkness Below"
-    translated: "Тьма под дворцом"
+    original: "The Legacy of Our Fathers"
+    translated: "Наследие наших отцов"
   level: 69
   icon: 61412
   url:
@@ -7390,8 +7077,8 @@
     name: "Вискар"
 
 - name:
-    original: "The Mad King's Trove"
-    translated: "Сокровища Безумного Короля"
+    original: "The Measure of His Reach"
+    translated: "Беспощадная хватка"
   level: 70
   icon: 61412
   url:
@@ -7456,8 +7143,8 @@
     desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=571c602597c7babf
 
 - name:
-    original: "The Butcher's Blood"
-    translated: "Кровь Живодёрки"
+    original: "Stormblood"
+    translated: "Кровавый шторм"
   level: 70
   icon: 61412
   url:
@@ -7568,8 +7255,8 @@
     name: "Робанн"
 
 - name:
-    original: "Echoes of an Echo"
-    translated: "Отголоски Эхо"
+    original: "Arenvald's Adventure"
+    translated: "Авантюра Аренвальда"
   level: 70
   icon: 61412
   url:
@@ -7603,8 +7290,8 @@
     name: "Цель"
 
 - name:
-    original: "A Sultana's Strings"
-    translated: "Ниточки султаны"
+    original: "The Darkness Below"
+    translated: "Тьма под дворцом"
   level: 70
   icon: 61412
   url:
@@ -7644,8 +7331,8 @@
     name: "Аренвальд"
 
 - name:
-    original: "A Sultana's Duty"
-    translated: "Долг султаны"
+    original: "The Mad King's Trove"
+    translated: "Сокровища Безумного Короля"
   level: 70
   icon: 61412
   url:
@@ -7685,8 +7372,8 @@
     name: "Каменная дверь"
 
 - name:
-    original: "A Sultana's Resolve"
-    translated: "Решение султаны"
+    original: "The Butcher's Blood"
+    translated: "Кровь Живодёрки"
   level: 70
   icon: 61412
   url:
@@ -7752,8 +7439,8 @@
     name: "Боец Сопротивления"
 
 - name:
-    original: "Securing the Saltery"
-    translated: "Безопасность Солеварни"
+    original: "Echoes of an Echo"
+    translated: "Отголоски Эхо"
   level: 70
   icon: 61412
   url:
@@ -7824,8 +7511,8 @@
     name: "Упавший кусок бумаги"
 
 - name:
-    original: "A Blissful Arrival"
-    translated: "Благое знамение"
+    original: "A Sultana's Strings"
+    translated: "Ниточки султаны"
   level: 70
   icon: 61412
   url:
@@ -7868,8 +7555,8 @@
     name: "Нанамо Ул Намо"
 
 - name:
-    original: "Return of the Bull"
-    translated: "Возвращение Быка"
+    original: "A Sultana's Duty"
+    translated: "Долг султаны"
   level: 70
   icon: 61412
   url:
@@ -7897,8 +7584,8 @@
     name: "Жизнерадостный бизнесмен"
 
 - name:
-    original: "Tidings from the East"
-    translated: "Дела восточные"
+    original: "A Sultana's Resolve"
+    translated: "Решение султаны"
   level: 70
   icon: 61412
   url:
@@ -7925,8 +7612,8 @@
     name: "Нанамо Ул Намо"
 
 - name:
-    original: "The Sword in the Store"
-    translated: "Меч в ломбарде"
+    original: "Securing the Saltery"
+    translated: "Безопасность Солеварни"
   level: 70
   icon: 61412
   url:
@@ -7982,8 +7669,8 @@
     name: "Выясните больше о фобаде!"
 
 - name:
-    original: "Hope on the Waves"
-    translated: "Приближающаяся надежда"
+    original: "A Blissful Arrival"
+    translated: "Благое знамение"
   level: 70
   icon: 61412
   url:
@@ -8023,8 +7710,8 @@
     name: "Цель"
 
 - name:
-    original: "Elation and Trepidation"
-    translated: "Радость и тревога"
+    original: "Return of the Bull"
+    translated: "Возвращение Быка"
   level: 70
   icon: 61412
   url:
@@ -8111,8 +7798,8 @@
     name: "Цель"
 
 - name:
-    original: "Storm on the Horizon"
-    translated: "Тучи на горизонте"
+    original: "Tidings from the East"
+    translated: "Дела восточные"
   level: 70
   icon: 61412
   url:
@@ -8163,8 +7850,8 @@
     name: "Югири"
 
 - name:
-    original: "His Forgotten Home"
-    translated: "Давно забытый дом"
+    original: "The Sword in the Store"
+    translated: "Меч в ломбарде"
   level: 70
   icon: 61412
   url:
@@ -8213,8 +7900,8 @@
     name: "Хозяин «Шофуку Шичитена»"
 
 - name:
-    original: "A Guilty Conscience"
-    translated: "Нечистая совесть"
+    original: "Hope on the Waves"
+    translated: "Приближающаяся надежда"
   level: 70
   icon: 61412
   url:
@@ -8333,8 +8020,8 @@
     name: "Ёцую"
 
 - name:
-    original: "Rise of a New Sun"
-    translated: "Восход нового солнца"
+    original: "Elation and Trepidation"
+    translated: "Радость и тревога"
   level: 70
   icon: 61412
   url:
@@ -8431,8 +8118,8 @@
     name: "Югири"
 
 - name:
-    original: "Gosetsu and Tsuyu"
-    translated: "Госэцу и Цую"
+    original: "Storm on the Horizon"
+    translated: "Тучи на горизонте"
   level: 70
   icon: 61412
   url:
@@ -8520,8 +8207,8 @@
     name: "Югири"
 
 - name:
-    original: "Gone Like the Morning Dew"
-    translated: "Исчезла, словно иней поутру"
+    original: "His Forgotten Home"
+    translated: "Давно забытый дом"
   level: 70
   icon: 61412
   url:
@@ -8585,8 +8272,8 @@
     name: "Ализе"
 
 - name:
-    original: "Fruits of Her Labor"
-    translated: "Плоды её трудов"
+    original: "A Guilty Conscience"
+    translated: "Нечистая совесть"
   level: 70
   icon: 61412
   url:
@@ -8637,8 +8324,8 @@
     name: "Югири"
 
 - name:
-    original: "Conscripts and Contingencies"
-    translated: "Призывники и предосторожности"
+    original: "Rise of a New Sun"
+    translated: "Восход нового солнца"
   level: 70
   icon: 61412
   url:
@@ -8740,8 +8427,8 @@
     name: "Страж Кинкана"
 
 - name:
-    original: "The Primary Agreement"
-    translated: "Прямое нарушение"
+    original: "Gosetsu and Tsuyu"
+    translated: "Госэцу и Цую"
   level: 70
   icon: 61412
   url:
@@ -8798,8 +8485,8 @@
     name: "Югири"
 
 - name:
-    original: "Under the Moonlight"
-    translated: "Под лунным светом"
+    original: "Gone Like the Morning Dew"
+    translated: "Исчезла, словно иней поутру"
   level: 70
   icon: 61412
   url:
@@ -8848,8 +8535,8 @@
     name: "Цель"
 
 - name:
-    original: "Emissary of the Dawn"
-    translated: "Посланник рассвета"
+    original: "Fruits of Her Labor"
+    translated: "Плоды её трудов"
   level: 70
   icon: 61412
   url:
@@ -8934,8 +8621,8 @@
     name: "Югири"
 
 - name:
-    original: "Sisterly Act"
-    translated: "Сестринская помощь"
+    original: "Conscripts and Contingencies"
+    translated: "Призывники и предосторожности"
   level: 70
   icon: 61412
   url:
@@ -8988,8 +8675,8 @@
     name: "Подозрительная доска"
 
 - name:
-    original: "Feel the Burn"
-    translated: "Ожог"
+    original: "The Primary Agreement"
+    translated: "Прямое нарушение"
   level: 70
   icon: 61412
   url:
@@ -9080,8 +8767,8 @@
     name: "Хиен"
 
 - name:
-    original: "Shadows in the Empire"
-    translated: "Тени в Империи"
+    original: "Under the Moonlight"
+    translated: "Под лунным светом"
   level: 70
   icon: 61412
   url:
@@ -9126,8 +8813,8 @@
     name: "Хиен"
 
 - name:
-    original: "A Power in Slumber"
-    translated: "Дремлющая сила"
+    original: "Emissary of the Dawn"
+    translated: "Посланник рассвета"
   level: 70
   icon: 61412
   url:
@@ -9150,8 +8837,8 @@
     name: "Цель"
 
 - name:
-    original: "The Will of the Moon"
-    translated: "Сила луны"
+    original: "Sisterly Act"
+    translated: "Сестринская помощь"
   level: 70
   icon: 61412
   url:
@@ -9202,8 +8889,8 @@
     name: "Я'штола"
 
 - name:
-    original: "The Call"
-    translated: "Зов"
+    original: "Feel the Burn"
+    translated: "Ожог"
   level: 70
   icon: 61412
   url:
@@ -9257,8 +8944,8 @@
     name: "Я'штола"
 
 - name:
-    original: "Prelude in Violet"
-    translated: "Сиреневая прелюдия"
+    original: "Shadows in the Empire"
+    translated: "Тени в Империи"
   level: 70
   icon: 61412
   url:
@@ -9316,8 +9003,8 @@
     name: "Хакуро"
 
 - name:
-    original: "Soul Searching"
-    translated: "В поисках душ"
+    original: "A Power in Slumber"
+    translated: "Дремлющая сила"
   level: 70
   icon: 61412
   url:
@@ -9377,8 +9064,8 @@
     name: "Я'штола"
 
 - name:
-    original: "A Defector's Tidings"
-    translated: "Вести с той стороны"
+    original: "The Will of the Moon"
+    translated: "Сила луны"
   level: 70
   icon: 61412
   url:
@@ -9450,8 +9137,8 @@
     name: "Цель"
 
 - name:
-    original: "Seiryu's Wall"
-    translated: "Стена Сэйрю"
+    original: "The Call"
+    translated: "Зов"
   level: 70
   icon: 61412
   url:
@@ -9540,8 +9227,8 @@
     name: "Ализе"
 
 - name:
-    original: "Parley on the Front Lines"
-    translated: "Переговоры на границе"
+    original: "Prelude in Violet"
+    translated: "Сиреневая прелюдия"
   level: 70
   icon: 61412
   url:
@@ -9600,8 +9287,8 @@
     name: "Эфимия"
 
 - name:
-    original: "The Face of War"
-    translated: "Лик войны"
+    original: "Soul Searching"
+    translated: "В поисках душ"
   level: 70
   icon: 61412
   url:
@@ -9635,8 +9322,8 @@
     name: "Крайл"
 
 - name:
-    original: "A Brief Reprieve"
-    translated: "Короткая передышка"
+    original: "A Defector's Tidings"
+    translated: "Вести с той стороны"
   level: 70
   icon: 61412
   url:
@@ -9696,8 +9383,8 @@
     name: "Посол из Далмаски"
 
 - name:
-    original: "A Requiem for Heroes"
-    translated: "Реквием по героям"
+    original: "Seiryu's Wall"
+    translated: "Стена Сэйрю"
   level: 70
   icon: 61412
   url:
@@ -9771,4 +9458,231 @@
   - id: 1026803
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=423a30a857b81e9a
     name: "Ализе"
+
+- name:
+    original: "Parley on the Front Lines"
+    translated: "Переговоры на границе"
+  level: 70
+  icon: 61412
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-031-stmbdf104_03182/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=77fd17eb4c98a08c
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=1cd7142b42eeb39f
+  cutscenes:
+  - name: "Кат-сцена 1"
+    start: "001800"
+    end: "002010"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-045-voiceman_04500/
+  - name: "Кат-сцена 2"
+    start: "002020"
+    end: "002420"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-045-voiceman_04500/
+  - name: "Кат-сцена 3"
+    start: "002430"
+    end: "002970"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-045-voiceman_04500/
+  actors:
+  - id: 1025000
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3093e008eb443f96
+    name: "Хакуро"
+  - id: 1025354
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d304623bef3b39c3
+    name: "Страж Кинкана"
+  - id: 1025545
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2d2ad91e1a7c75ae
+    name: "Югири"
+  - id: 1025597
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=54031625df3c054f
+    name: "Хиен"
+  - id: 1026259
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cc2a04d0e8f1e6e6
+    name: "Ализе"
+  - id: 1026804
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=362be6dc7928a353
+    name: "Боец Сопротивления"
+  - id: 1026805
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=03f3f616f607fa29
+    name: "Лиз"
+  - id: 1026806
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c8e4b3bb09ef01f7
+    name: "Робанн"
+  - id: 1026807
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=66ea4389a2ca079f
+    name: "Ализе"
+  - id: 1026808
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fc70ea69951f2fc2
+    name: "Хиен"
+  - id: 1026815
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=48d158750b838aa0
+    name: "Ализе"
+  - id: 1026816
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e89429ad8ce663b9
+    name: "Кан-Э-Сенна"
+  - id: 1026817
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=33dee4716b0cdf48
+    name: "Мёлвиб"
+  - id: 1026818
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=911e360fba030300
+    name: "Нанамо Ул Намо"
+  - id: 1026819
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f1f210c405272917
+    name: "Робанн"
+  - id: 1026820
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=413315e07a61eb3e
+    name: "Лиз"
+  - id: 1026821
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=42b77ccff811fab7
+    name: "Хиен"
+  - id: 1026822
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=02919ee068041163
+    name: "Эмерик"
+  - id: 1026823
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=41d13f4c2bbb69ba
+    name: "Лиз"
+  - id: 1026984
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f52854a02166124b
+    name: "Боец Сопротивления"
+  - id: 1027000
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cfd69adf9dc400a9
+    name: "Хиен"
+  - id: 1027001
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=73775a586996582a
+    name: "Ализе"
+
+- name:
+    original: "The Face of War"
+    translated: "Лик войны"
+  level: 70
+  icon: 61412
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-031-stmbdf105_03183/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=a1208fbc823103e5
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=f1bb34fcb258ade9
+  cutscenes:
+  - name: "Кат-сцена 1"
+    start: "002980"
+    end: "003201"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-045-voiceman_04500/
+  - name: "Кат-сцена 2"
+    start: "003210"
+    end: "003320"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-045-voiceman_04500/
+  actors:
+  - id: 1026804
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=362be6dc7928a353
+    name: "Боец Сопротивления"
+  - id: 1026808
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fc70ea69951f2fc2
+    name: "Хиен"
+  - id: 1026823
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=41d13f4c2bbb69ba
+    name: "Лиз"
+  - id: 1026825
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=35d1c733bd0a39f2
+    name: "Робанн"
+  - id: 1026845
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=558f87c8285a63e8
+    name: "Робанн"
+  - id: 1026846
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=43125f2925c701e0
+    name: "Белый Валун"
+  - id: 1026958
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ece675749bcef401
+    name: "Командир Сопротивления"
+
+- name:
+    original: "A Brief Reprieve"
+    translated: "Короткая передышка"
+  level: 70
+  icon: 61412
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-031-stmbdg101_03184/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=31ff061329eedc96
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=2fe22f0159f92c52
+  actors:
+  - id: 1026794
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d2cc44723645c85a
+    name: "Максима"
+  - id: 1026797
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=610cc43386278857
+    name: "Сид"
+  - id: 1026798
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ddfd2a77d279d713
+    name: "Максима"
+  - id: 1026804
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=362be6dc7928a353
+    name: "Боец Сопротивления"
+  - id: 1026846
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=43125f2925c701e0
+    name: "Белый Валун"
+
+- name:
+    original: "A Requiem for Heroes"
+    translated: "Реквием по героям"
+  level: 70
+  icon: 61412
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-031-stmbdg102_03185/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=b1b503b64536149d
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=12fbd2803a18d988
+  cutscenes:
+  - name: "Кат-сцена 1"
+    start: "003330"
+    end: "003515"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-045-voiceman_04505/
+  - name: "Кат-сцена 2"
+    start: "003640"
+    end: "003690"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-045-voiceman_04505/
+  - name: "Кат-сцена 3"
+    start: "003700"
+    end: "003810"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-045-voiceman_04505/
+  - name: "Кат-сцена 4"
+    start: "003820"
+    end: "004010"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-045-voiceman_04505/
+  - name: "Кат-сцена 5"
+    start: "004020"
+    end: "004190"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-045-voiceman_04505/
+  - name: "Кат-сцена 6"
+    start: "004200"
+    end: "004320"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-045-voiceman_04505/
+  - name: "Кат-сцена 7"
+    start: "004330"
+    end: "004380"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-045-voiceman_04505/
+  actors:
+  - id: 1012163
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3c22da614a3d1fec
+    name: "Ондолье"
+  - id: 1012337
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1fbee80bd83dca23
+    name: "Дворецкий Фортамов"
+  - id: 1017026
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c86d0c076661ed49
+    name: "Сальетта"
+  - id: 1018138
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cf965ee650559dae
+    name: "Эмманельен"
+  - id: 1018139
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ccdd7f031aa7f0df
+    name: "Онорье"
+  - id: 1020622
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=91c1cc54b8e02b5f
+    name: "Хэнкок"
+  - id: 1026787
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=861d6685a8f29f32
+    name: "Граф Эдмонт де Фортам"
+  - id: 1026804
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=362be6dc7928a353
+    name: "Боец Сопротивления"
+  - id: 1026845
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=558f87c8285a63e8
+    name: "Робанн"
+  - id: 1026990
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=11d2bdbb6c7d4581
+    name: "Татару"
 
