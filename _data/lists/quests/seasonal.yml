@@ -1,4 +1,78 @@
 - name:
+    original: "Seize the Neigh"
+  level: 15
+  icon: 61411
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-052-fesnyx201_05229/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=ff85e4abd767560c
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=9f7a42c2a4f6f725
+  actors:
+  - id: 1003550
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2d7d96d78ee28e0a
+    name: "Тракрат"
+  - id: 1003598
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7199e5dfa640b99c
+    name: "Квентенейн"
+  - id: 1051493
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=eac64cf550a9982f
+    name: "uma bugyo"
+  - id: 1052297
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c4b158a0a926ab7a
+    name: "sated citizen"
+  - id: 1052387
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5d358e937bc92baf
+    name: "uma-no-unicolt"
+  - id: 1052388
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7c9b4ffc9ed58281
+    name: "uma yoriki"
+  - id: 1052459
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6e703294dd097ac7
+    name: "uma-no-unicolt"
+  - id: 1052460
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=63361d368ca218b5
+    name: "uma yoriki"
+
+- name:
+    original: "Majesty in Motion"
+  level: 15
+  icon: 61411
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-052-fesnyx202_05230/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=0a052017938a346d
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=411f1bb023c2acf3
+  actors:
+  - id: 1051493
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=eac64cf550a9982f
+    name: "uma bugyo"
+  - id: 1051866
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1b0600d5ed71f6f7
+    name: "uma-no-unicolt"
+  - id: 1051873
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=148b6f2b48b3c7ce
+    name: "uma-no-unicolt"
+  - id: 1051874
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7ac2e5722b7dd203
+    name: "uma-no-unicolt"
+  - id: 1051875
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=39ea14fe55e12b3a
+    name: "uma-no-unicolt"
+  - id: 1052119
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d1eaafaab9277ebe
+    name: "Twin Adder rider"
+  - id: 1052120
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0ad0d0165af9387e
+    name: "Immortal Flames rider"
+  - id: 1052121
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=096972da871932d5
+    name: "Maelstrom rider"
+  - id: 1052295
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ade03a62aea653b1
+    name: "uma yoriki"
+  - id: 1052453
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b786e316302d1642
+    name: "uma-no-unicolt"
+
+- name:
     original: "Heavensssturn Trivia"
     translated: "Что? Где? Змея?"
   level: 15
@@ -892,6 +966,71 @@
   - id: 1005707
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=de435467aad6a2c4
     name: "chief chocowacker"
+
+- name:
+    original: "The Icing on the Cake"
+  level: 15
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-053-fesvlx201_05325/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=b56c959ea563ce42
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=561af87b37d4c5ce
+  actors:
+  - id: 1054046
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b90dcd4c220b8df8
+    name: "Astrid"
+  - id: 1054047
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=812e31ce76edb575
+    name: "Emilie"
+  - id: 1054048
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1304a4d77acbf17e
+    name: "Astrid"
+  - id: 1054049
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=52df1362c0a1e556
+    name: "Emilie"
+  - id: 1054050
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cfee9e5c87b5c230
+    name: "Kupka Kupp"
+  - id: 1054052
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=049d6fdd83578b71
+    name: "Kupna Kuko"
+  - id: 1054053
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=54a5dc065f33ed45
+    name: "Kupka Kupp"
+  - id: 1054054
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9edebdba49758a1a
+    name: "Kupna Kuko"
+  - id: 1054055
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=249190b5af0c2b2a
+    name: "Kupka Kupp"
+  - id: 1054137
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b827ca47ff866dc3
+    name: "Astrid"
+  - id: 1054138
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=73cf5a3f4b5e86fb
+    name: "Emilie"
+  eobjects:
+  - id: 2000020
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=7d18a22356257273
+    name: "Овощное «подношение»"
+  - id: 2000021
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=31c2959959d096a4
+    name: "Овощное «подношение»"
+  - id: 2000022
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=ae43af531c7c98ec
+    name: "Овощное «подношение»"
+  - id: 2000023
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=5b22183ae63757ae
+    name: "Овощное «подношение»"
+  - id: 2000024
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=31cb32565b763a8d
+    name: "Овощное «подношение»"
+  - id: 2000025
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=50248f99e0247abf
+    name: "Овощное «подношение»"
+  - id: 2014714
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=acb1549d333d888c
+    name: "destination"
 
 - name:
     original: "I Promise You a Rose Garden"
@@ -2213,6 +2352,89 @@
     name: "Лизетта де Валентионе"
 
 - name:
+    original: "What Can Eye Do for You"
+  level: 15
+  icon: 61411
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-054-fespdx101_05444/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=2fccfd165cf07b86
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=784ec9dadc9c6a9d
+  actors:
+  - id: 1056458
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3270b4dc1c51de32
+    name: "Dural Tharal"
+  - id: 1056476
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6967216b5982d1e4
+    name: "royal seneschal"
+  - id: 1057901
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1dbef21760cb79f3
+    name: "Dural Tharal"
+  - id: 1057902
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6e4da124e7d94e04
+    name: "Dural Tharal"
+  - id: 1057905
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ddb17e1eb714a4c6
+    name: "Rodolph"
+  - id: 1057906
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d3ebcde3ee9d1e54
+    name: "spirited Ulala fan"
+  - id: 1057909
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cf89414e9dcceb4f
+    name: "devoted Masha fan"
+  - id: 1057911
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6308ce3a611d990d
+    name: "amiable Narumi fan"
+  - id: 1057912
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=636848436d845d3c
+    name: "pining Picot fan"
+  - id: 1058069
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d8ff8cac71cbcfad
+    name: "Aldiytha"
+  fates:
+  - id: 2042
+    url: https://translate.xivrus.ru/translate/xivrus/fate/ru/?checksum=a187d8136b81c36a
+    name: "Live from Ul'dah"
+  - id: 2043
+    url: https://translate.xivrus.ru/translate/xivrus/fate/ru/?checksum=75752e36a8ae8ad3
+    name: "Live from Ul'dah"
+  - id: 2044
+    url: https://translate.xivrus.ru/translate/xivrus/fate/ru/?checksum=8d9ec9ae33a61c3f
+    name: "Live from Ul'dah"
+  - id: 2045
+    url: https://translate.xivrus.ru/translate/xivrus/fate/ru/?checksum=f138325af9487ea1
+    name: "Live from Ul'dah"
+  statuses:
+  - id: 1494
+    url: https://translate.xivrus.ru/translate/xivrus/status/ru/?checksum=f6ae318d689dc8f8
+    name: "Face in the Crowd"
+    desc: "Участие в живом выступлении."
+
+- name:
+    original: "Backstage Chats"
+  level: 15
+  icon: 61413
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-054-fespdx102_05445/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=2df3ce69e37aed80
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=03dafc231acf30eb
+  actors:
+  - id: 1052039
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=165af2a9df0793c2
+    name: "Пико"
+  - id: 1052040
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=50a44ff28c692680
+    name: "Улала"
+  - id: 1052041
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=044a127a7c5bf015
+    name: "Наруми"
+  - id: 1052042
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=841b5c0d20c1fa55
+    name: "Маша Макаракка"
+  - id: 1056476
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6967216b5982d1e4
+    name: "royal seneschal"
+
+- name:
     original: "A Princely Persona"
     translated: "Рождение принца"
   level: 15
@@ -3372,6 +3594,75 @@
   - id: 2003539
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=1ab06ab287cd05c5
     name: "blossoming peach tree"
+
+- name:
+    original: "エッグハントと謎の草"
+  level: 15
+  icon: 61411
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-054-fesesx101_05425/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=e4907c99cbe773a9
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=125369300a9788b3
+  actors:
+  - id: 1056032
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=aa9cad8c7d5bac7e
+    name: "Nonotta"
+  - id: 1056033
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5a9ef9cf219e8fb9
+    name: "Herberin"
+  - id: 1056053
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=71fefddc729b2e62
+    name: "stylish Dreamer"
+  - id: 1056054
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d55a254df059861f
+    name: "Nonotta"
+  - id: 1056055
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a8222afaf71dfa16
+    name: "bespectacled Elezen"
+  - id: 1056056
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=50405d8138aaabf2
+    name: "Jihli Aliapoh"
+  - id: 1056057
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b351b5fde79dc51c
+    name: "levemete assistant"
+  - id: 1056058
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8e1e4dc4b460e369
+    name: "breezy adventurer"
+  - id: 1056059
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=dc6ce2699a17c427
+    name: "soft-spoken server"
+  - id: 1056060
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a1ca18dc922df188
+    name: "Nonotta"
+  - id: 1056061
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4dd6d8aae1b8d949
+    name: "bespectacled Elezen"
+  - id: 1056062
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7e3fbb775ca9aa7d
+    name: "Nonotta"
+  - id: 1056063
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c62b2448698688ca
+    name: "Herberin"
+  - id: 1056064
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=274fdbf1ca53fbc6
+    name: "Nonotta"
+  - id: 1056065
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4e6f9236e459056b
+    name: "Nonotta"
+  - id: 1056066
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5cfaa140ed6d94ca
+    name: "Herberin"
+  - id: 1056323
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d8d2d88b58524853
+    name: "Herberin"
+  - id: 1056324
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e470ec99e1ab4fee
+    name: "Herberin"
+  quest_items:
+  - id: 2003788
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=89849b77738a6610
+    name: "piece of peculiar plant"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=89849b77738a6610
 
 - name:
     original: "In Pursuit of Eggcellence"

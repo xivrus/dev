@@ -168,4 +168,18 @@ quest_list: msq-7
 	{% include quest.liquid quest_name = "The Promise of Tomorrow" %}
 </ul>
 
+# 7.4 --- Into the Mist {#dt-7-4}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "With the Winds" %}
+	{% include quest.liquid quest_name = "Through the Thunder" %}
+	{% include quest.liquid quest_name = "Beyond the Mountains" %}
+	{% include quest.liquid quest_name = "Around the City" %}
+	{% include quest.liquid quest_name = "To Work" %}
+	{% include quest.liquid quest_name = "In Her Heart" %}
+	{% include quest.liquid quest_name = "Toward Trouble" %}
+	{% include quest.liquid quest_name = "Where We Call Home" %}
+	{% include quest.liquid quest_name = "Into the Mist" %}
+</ul>
+
 _Продолжение следует..._

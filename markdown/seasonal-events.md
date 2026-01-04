@@ -6,6 +6,13 @@ quest_list: seasonal
 
 ## Фестиваль духов / Heavensturn {#heavensturn}
 
+### 2026 {#heavensturn-2026}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "Seize the Neigh" %}
+	{% include quest.liquid quest_name = "Majesty in Motion" %}
+</ul>
+
 ### 2025 {#heavensturn-2025}
 
 <ul markdown="0">
@@ -90,6 +97,12 @@ quest_list: seasonal
 </ul>
 
 ## День Валентиона / Valentione's Day {#valentione}
+
+### 2026 {#valentione-2026}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "The Icing on the Cake" %}
+</ul>
 
 ### 2025 {#valentione-2025}
 
@@ -189,6 +202,13 @@ quest_list: seasonal
 
 ## День маленьких дам / Little Ladies' Day {#little-ladies-day}
 
+### 2026 {#little-ladies-day-2026}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "What Can Eye Do for You" %}
+	{% include quest.liquid quest_name = "Backstage Chats" %}
+</ul>
+
 ### 2025 {#little-ladies-day-2025}
 
 <ul markdown="0">
@@ -285,6 +305,12 @@ quest_list: seasonal
 
 
 ## Вылу-пень / Hatching-tide {#hatching-tide}
+
+### 2026 {#hatching-tide-2026}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "エッグハントと謎の草" %}
+</ul>
 
 ### 2025 {#hatching-tide-2025}
 

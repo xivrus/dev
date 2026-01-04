@@ -9806,3 +9806,657 @@
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f9d4a720fdf59ded
     name: "Шейл"
 
+- name:
+    original: "With the Winds"
+  level: 100
+  icon: 61412
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-054-kingmj101_05426/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=e503dc80057d3869
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=fa14ee22996b9825
+  cutscenes:
+  - name: "Кат-сцена 1"
+    start: "000010"
+    end: "000250"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-074-voiceman_07400/
+  - name: "Кат-сцена 2"
+    start: "000260"
+    end: "000590"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-074-voiceman_07400/
+  actors:
+  - id: 1048161
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b4027241e0ee19a2
+    name: "Шейл"
+  - id: 1054044
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d09bfc92714cadf1
+    name: "Сфен"
+  - id: 1056011
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fb8958dbf3ef005d
+    name: "Альфино"
+  - id: 1056115
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=050b49f71276ddba
+    name: "Y'shtola"
+  - id: 1056116
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=864112e70c80211b
+    name: "Krile"
+  - id: 1056117
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2b13a9f7d321d71f
+    name: "G'raha Tia"
+  - id: 1056118
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=583ea6a089fd14ad
+    name: "Sphene"
+  - id: 1056119
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=77ddb410c108971c
+    name: "Erenville"
+  - id: 1056120
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2ed44670bfa89a45
+    name: "Y'shtola"
+  - id: 1056121
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2ec47ba0aa87d338
+    name: "Krile"
+  - id: 1056122
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f75440de20e84e4e
+    name: "G'raha Tia"
+  - id: 1056123
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7feced246a9c171b
+    name: "Sphene"
+  - id: 1056124
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=876dc3d95d96da17
+    name: "Wuk Lamat"
+  - id: 1056125
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c254b7fe86871e43
+    name: "Shale"
+  - id: 1056126
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3ca186508be28b7b
+    name: "Krile"
+  - id: 1056127
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0574ad54cca7a303
+    name: "Y'shtola"
+  - id: 1056128
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5bda102696194e9c
+    name: "G'raha Tia"
+  - id: 1056129
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=59efac1e9ccdc047
+    name: "Sphene"
+  - id: 1056130
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d9d2361ed8756b2b
+    name: "Shale"
+  eobjects:
+  - id: 2014993
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=2f4f3dc501e9c013
+    name: "destination"
+  logmessages:
+  - id: 48
+    url: https://translate.xivrus.ru/translate/xivrus/logmessage/ru/?checksum=6ba953f49634c45d
+    name: "Не удалось отправить запрос на торговлю. Игрок установил свой статус на «Занят»."
+  - id: 49
+    url: https://translate.xivrus.ru/translate/xivrus/logmessage/ru/?checksum=127f0c30c2832a0c
+    name: "Не удалось шепнуть. Игрок <var 29 EA02 /var> установил свой статус на «Занят»."
+  - id: 50
+    url: https://translate.xivrus.ru/translate/xivrus/logmessage/ru/?checksum=b7628991514d7f69
+    name: "Не удалось отправить письмо игроку <var 29 EA02 /var>."
+  - id: 51
+    url: https://translate.xivrus.ru/translate/xivrus/logmessage/ru/?checksum=d22d0767feebfb93
+    name: "Не удалось найти игрока."
+  - id: 52
+    url: https://translate.xivrus.ru/translate/xivrus/logmessage/ru/?checksum=fd8f1b314906b822
+    name: "Вы теперь следуете за <var 08 E909 ((<var 28 ((ObjStr)) E90901 /var>)) EB04 /var>."
+
+- name:
+    original: "Through the Thunder"
+  level: 100
+  icon: 61412
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-054-kingmj102_05427/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=a4700e84644a4532
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=49b00ddba11bd4eb
+  cutscenes:
+  - name: "Кат-сцена"
+    start: "000600"
+    end: "000920"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-074-voiceman_07400/
+  actors:
+  - id: 1026571
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4194cfef98c18e5f
+    name: "Я'штола"
+  - id: 1032779
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c91559f6c0e4b4f9
+    name: "Г'раха Тиа"
+  - id: 1045158
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=42ac7aa1393d9e5f
+    name: "Крайл"
+  - id: 1054044
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d09bfc92714cadf1
+    name: "Сфен"
+  - id: 1054225
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c79214a7e627a1ec
+    name: "Clerk PX-0093"
+  - id: 1056126
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3ca186508be28b7b
+    name: "Krile"
+  - id: 1056127
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0574ad54cca7a303
+    name: "Y'shtola"
+  - id: 1056128
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5bda102696194e9c
+    name: "G'raha Tia"
+  - id: 1056129
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=59efac1e9ccdc047
+    name: "Sphene"
+  - id: 1056130
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d9d2361ed8756b2b
+    name: "Shale"
+  - id: 1056131
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=78cbf7817c7cc2e3
+    name: "Shale"
+  - id: 1056132
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e17f5a8ecaaa33e2
+    name: "Krile"
+  - id: 1056133
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a3bc00dc501ef462
+    name: "Y'shtola"
+  - id: 1056134
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d8ec6197c1f57cf6
+    name: "G'raha Tia"
+  - id: 1056135
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2b101daf57694a81
+    name: "Sphene"
+  - id: 1056136
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=186d07716b43ab86
+    name: "Sphene"
+  - id: 1056137
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=76b7ea44163fbc74
+    name: "Krile"
+  - id: 1056138
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9986da0691f0c835
+    name: "Y'shtola"
+  - id: 1056139
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2062808c2066c7f6
+    name: "G'raha Tia"
+  - id: 1056140
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4d30e39a0ce529bb
+    name: "Clerk PX-0093"
+  - id: 1056141
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d211ac3312dcbcfc
+    name: "Krile"
+  - id: 1056142
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e3d6f9c4069996f4
+    name: "Y'shtola"
+  - id: 1056143
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=98ba7a091176ac4f
+    name: "G'raha Tia"
+  - id: 1056144
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=571516f8629b3e2f
+    name: "Sphene"
+
+- name:
+    original: "Beyond the Mountains"
+  level: 100
+  icon: 61412
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-054-kingmj103_05428/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=b1fc10071de45b1c
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=fbd8dad913137336
+  cutscenes:
+  - name: "Кат-сцена 1"
+    start: "001030"
+    end: "001340"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-074-voiceman_07400/
+  - name: "Кат-сцена 2"
+    start: "001350"
+    end: "001480"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-074-voiceman_07400/
+  actors:
+  - id: 1026571
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4194cfef98c18e5f
+    name: "Я'штола"
+  - id: 1032779
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c91559f6c0e4b4f9
+    name: "Г'раха Тиа"
+  - id: 1054044
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d09bfc92714cadf1
+    name: "Сфен"
+  - id: 1054225
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c79214a7e627a1ec
+    name: "Clerk PX-0093"
+  - id: 1056141
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d211ac3312dcbcfc
+    name: "Krile"
+  - id: 1056142
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e3d6f9c4069996f4
+    name: "Y'shtola"
+  - id: 1056143
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=98ba7a091176ac4f
+    name: "G'raha Tia"
+  - id: 1056144
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=571516f8629b3e2f
+    name: "Sphene"
+  - id: 1056145
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=df79ece150cef2d1
+    name: "Sphene"
+  - id: 1056146
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6044b93fb11fcff9
+    name: "Krile"
+  - id: 1056147
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ba6f1fec1a4eb377
+    name: "Y'shtola"
+  - id: 1056148
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=142eec2ebcd85348
+    name: "G'raha Tia"
+  - id: 1056149
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5a2b9e41c7497420
+    name: "Lumull"
+  - id: 1056150
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=76b9785bd1051bc5
+    name: "G'raha Tia"
+  - id: 1056151
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=dc2cecf85e95b78d
+    name: "Krile"
+  quest_items:
+  - id: 2003793
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=1b7cbb1401b83673
+    name: "cup of Sleepless Rhapsody"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=1b7cbb1401b83673
+
+- name:
+    original: "Around the City"
+  level: 100
+  icon: 61412
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-054-kingmj104_05429/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=7ab28640528ed07e
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=d14dc55796e9e556
+  cutscenes:
+  - name: "Кат-сцена"
+    start: "001490"
+    end: "001770"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-074-voiceman_07400/
+  actors:
+  - id: 1032779
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c91559f6c0e4b4f9
+    name: "Г'раха Тиа"
+  - id: 1045158
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=42ac7aa1393d9e5f
+    name: "Крайл"
+  - id: 1054044
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d09bfc92714cadf1
+    name: "Сфен"
+  - id: 1056149
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5a2b9e41c7497420
+    name: "Lumull"
+  - id: 1056150
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=76b9785bd1051bc5
+    name: "G'raha Tia"
+  - id: 1056151
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=dc2cecf85e95b78d
+    name: "Krile"
+  - id: 1056152
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4dcf8902481b7329
+    name: "dauntless laborer"
+  - id: 1056153
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=38d5c70644721c28
+    name: "reflective fighter"
+  - id: 1056154
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3d5c5bae9e292f0b
+    name: "diligent inspector"
+  - id: 1056155
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f21e7bf614214f9d
+    name: "Krile"
+  - id: 1056157
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0f32c51fd8f5cbf2
+    name: "G'raha Tia"
+  - id: 1056159
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c9209be3a24f2728
+    name: "Krile"
+  - id: 1056160
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=75d49296f065335c
+    name: "G'raha Tia"
+  quest_items:
+  - id: 2003794
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=f57f7a1bcf896a1f
+    name: "portion of Sleepless Rhapsody"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=f57f7a1bcf896a1f
+
+- name:
+    original: "To Work"
+  level: 100
+  icon: 61412
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-054-kingmj105_05430/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=cd12882095d0c9f6
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=6f9ede8c9e32903a
+  cutscenes:
+  - name: "Кат-сцена"
+    start: "001780"
+    end: "001960"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-074-voiceman_07400/
+  actors:
+  - id: 1032779
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c91559f6c0e4b4f9
+    name: "Г'раха Тиа"
+  - id: 1045158
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=42ac7aa1393d9e5f
+    name: "Крайл"
+  - id: 1056149
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5a2b9e41c7497420
+    name: "Lumull"
+  - id: 1056150
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=76b9785bd1051bc5
+    name: "G'raha Tia"
+  - id: 1056151
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=dc2cecf85e95b78d
+    name: "Krile"
+  - id: 1056162
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1656f653f434d020
+    name: "Krile"
+  - id: 1056163
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3c900b4573f5f611
+    name: "G'raha Tia"
+  - id: 1056164
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c3f6bdbdf0a0c376
+    name: "Lumull"
+  - id: 1056165
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c2311f6b5e309644
+    name: "Eyaney"
+  - id: 1056166
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=be1ca0226573ce60
+    name: "affable local"
+  - id: 1056481
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1b3d499bfa44ea9a
+    name: "lightning sprite"
+  - id: 1056482
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e998698802cf0654
+    name: "lightning sprite"
+  - id: 1056483
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=be58c1a977450c70
+    name: "lightning sprite"
+  quest_items:
+  - id: 2003804
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=66bc2b2f83a2b8b8
+    name: "pouch of synthetic desensitizer"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=66bc2b2f83a2b8b8
+  eobjects:
+  - id: 2015170
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=ccc7b01511f9309a
+    name: "vantage point"
+  - id: 2015171
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=cfc1970c5f02bc93
+    name: "vantage point"
+  - id: 2015172
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=56693ea2a7680d19
+    name: "vantage point"
+
+- name:
+    original: "In Her Heart"
+  level: 100
+  icon: 61412
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-054-kingmj106_05431/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=edc359ca9096534c
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=212c63633311982c
+  cutscenes:
+  - name: "Кат-сцена 1"
+    start: "001970"
+    end: "002120"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-074-voiceman_07400/
+  - name: "Кат-сцена 2"
+    start: "002130"
+    end: "002310"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-074-voiceman_07400/
+  actors:
+  - id: 1032779
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c91559f6c0e4b4f9
+    name: "Г'раха Тиа"
+  - id: 1045158
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=42ac7aa1393d9e5f
+    name: "Крайл"
+  - id: 1056165
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c2311f6b5e309644
+    name: "Eyaney"
+  - id: 1056166
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=be1ca0226573ce60
+    name: "affable local"
+  - id: 1056167
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bb5026b60fcc7b67
+    name: "Krile"
+  - id: 1056168
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4cba559673483bf7
+    name: "Krile"
+  - id: 1056267
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4c88bfce72fd3224
+    name: "Krile"
+  eobjects:
+  - id: 2014994
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=e851adb18836eae4
+    name: "destination"
+
+- name:
+    original: "Toward Trouble"
+  level: 100
+  icon: 61412
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-054-kingmj107_05432/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=0943d15701a45a6c
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=605c2e55cd3e9097
+  cutscenes:
+  - name: "Кат-сцена"
+    start: "002320"
+    end: "002620"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-074-voiceman_07400/
+  actors:
+  - id: 1026571
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4194cfef98c18e5f
+    name: "Я'штола"
+  - id: 1032779
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c91559f6c0e4b4f9
+    name: "Г'раха Тиа"
+  - id: 1045158
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=42ac7aa1393d9e5f
+    name: "Крайл"
+  - id: 1054044
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d09bfc92714cadf1
+    name: "Сфен"
+  - id: 1054228
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bb891ca5f5d30bb4
+    name: "Eyaney"
+  - id: 1056165
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c2311f6b5e309644
+    name: "Eyaney"
+  - id: 1056168
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4cba559673483bf7
+    name: "Krile"
+  - id: 1056169
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1935041316dd24c8
+    name: "Krile"
+  - id: 1056170
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=469ce098aed3ea44
+    name: "Y'shtola"
+  - id: 1056171
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4064b6facc70a1a8
+    name: "Sphene"
+  - id: 1056172
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d67a52efadeeed47
+    name: "Lumull"
+  - id: 1056173
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e6f857ce99ca2782
+    name: "cargo operator"
+  - id: 1056194
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=51ef83ba80d5684c
+    name: "Krile"
+  - id: 1056195
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=aa3a9f741dd299ed
+    name: "Y'shtola"
+  eobjects:
+  - id: 2014995
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=d9440c1ad1f5488f
+    name: "destination"
+
+- name:
+    original: "Where We Call Home"
+  level: 100
+  icon: 61412
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-054-kingmj108_05433/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=d158414b938bee97
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=868b0b41e65d57ed
+  cutscenes:
+  - name: "Кат-сцена 1"
+    start: "002630"
+    end: "002670"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-074-voiceman_07400/
+  - name: "Кат-сцена 2"
+    start: "002690"
+    end: "002730"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-074-voiceman_07400/
+  - name: "Кат-сцена 3"
+    start: "002740"
+    end: "002810"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-074-voiceman_07400/
+  - name: "Кат-сцена 4"
+    start: "002820"
+    end: "002900"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-074-voiceman_07400/
+  - name: "Кат-сцена 5"
+    start: "002910"
+    end: "003131"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-074-voiceman_07400/
+  actors:
+  - id: 1056172
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d67a52efadeeed47
+    name: "Lumull"
+  - id: 1056173
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e6f857ce99ca2782
+    name: "cargo operator"
+  - id: 1056174
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c55ab511731914b4
+    name: "Lumull"
+  - id: 1056175
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=50597067000a1770
+    name: "Krile"
+  - id: 1056176
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d1295020b498985e
+    name: "Y'shtola"
+  - id: 1056177
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=61c8cb8f8540f96c
+    name: "G'raha Tia"
+  - id: 1056178
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1befa6e31a120b0f
+    name: "Sphene"
+  - id: 1056268
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=11e73782ccc89ae3
+    name: "Lumull"
+
+- name:
+    original: "Into the Mist"
+  level: 100
+  icon: 61412
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-054-kingmj109_05434/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=ebdee33f19763c83
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=7f5474d738b0233c
+  cutscenes:
+  - name: "Кат-сцена 1"
+    start: "003140"
+    end: "003500"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-074-voiceman_07400/
+  - name: "Кат-сцена 2"
+    start: "003510"
+    end: "003710"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-074-voiceman_07400/
+  - name: "Кат-сцена 3"
+    start: "003800"
+    end: "004290"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-074-voiceman_07400/
+  actors:
+  - id: 1026571
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4194cfef98c18e5f
+    name: "Я'штола"
+  - id: 1032779
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c91559f6c0e4b4f9
+    name: "Г'раха Тиа"
+  - id: 1045158
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=42ac7aa1393d9e5f
+    name: "Крайл"
+  - id: 1050248
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3848bbe5286d09db
+    name: "Шейл"
+  - id: 1054044
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d09bfc92714cadf1
+    name: "Сфен"
+  - id: 1056175
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=50597067000a1770
+    name: "Krile"
+  - id: 1056176
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d1295020b498985e
+    name: "Y'shtola"
+  - id: 1056177
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=61c8cb8f8540f96c
+    name: "G'raha Tia"
+  - id: 1056178
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1befa6e31a120b0f
+    name: "Sphene"
+  - id: 1056179
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=90cbed24c6f25873
+    name: "Miayli"
+  - id: 1056180
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c0160621c984b4c0
+    name: "Y'shtola"
+  - id: 1056181
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5c918f18f5c9ab2e
+    name: "G'raha Tia"
+  - id: 1056182
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7421921541bfa2f7
+    name: "Sphene"
+  - id: 1056183
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e97ba3cf850fa155
+    name: "Krile"
+  - id: 1056184
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ea0fa6699e269bd4
+    name: "Lumull"
+  - id: 1056185
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=aee167b55c1124f0
+    name: "Eyaney"
+  - id: 1056186
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0e07aaccc215f407
+    name: "Y'shtola"
+  - id: 1056187
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=513fcdf41714df02
+    name: "G'raha Tia"
+  - id: 1056188
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fe69e000f178c53c
+    name: "Sphene"
+  - id: 1056189
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=436261eca9058683
+    name: "Krile"
+  - id: 1056190
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=14cfb9322331cfbb
+    name: "Krile"
+  - id: 1056191
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4fcfd93861e1f4b2
+    name: "Y'shtola"
+  - id: 1056192
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=91170e9db9e803f2
+    name: "G'raha Tia"
+  - id: 1056193
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=59ff5d284ed32d51
+    name: "Sphene"
+  - id: 1056199
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=07561eb2678f7532
+    name: "Gossan"
+  - id: 1056200
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=08092f9657e95e91
+    name: "G'raha Tia"
+  - id: 1056201
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=694e611a6d619f21
+    name: "Sphene"
+  - id: 1056202
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d129a3524d5836a8
+    name: "Krile"
+  - id: 1056204
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=906a0b3719ce6e7c
+    name: "Y'shtola"
+  eobjects:
+  - id: 2014998
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=ecaa0ea19c9a85ee
+    name: "destination"
+
