@@ -82,3 +82,21 @@ quest_list: weapon-enhancements
 <ul markdown="0">
 	{% include quest.liquid quest_name = "A Relic Reborn (Omnilex)" %}
 </ul>
+
+# Фантомное оружие {#phantom}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "Arcane Artistry" %}
+	{% include quest.liquid quest_name = " Forging the Phantasmal" %}
+	{% include quest.liquid quest_name = "Keeping the Old Ways Alive" %}
+	{% include quest.liquid quest_name = "Aether, Aether, Everywhere" %}
+	{% include quest.liquid quest_name = " Wrought by Hands Phantasmal" %}
+	{% include quest.liquid quest_name = "Timeworn Techniques" %}
+	{% include quest.liquid quest_name = "In Pursuit of Perfection" %}
+	{% include quest.liquid quest_name = " A Phantom Reborn" %}
+	{% include quest.liquid quest_name = "Under No Illusion" %}
+	{% include quest.liquid quest_name = "Phantoms to Fillet" %}
+	{% include quest.liquid quest_name = " A Phantom Unveiled" %}
+	{% include quest.liquid quest_name = " Final Phantasm" %}
+	{% include quest.liquid quest_name = "All Too Fleeting" %}
+</ul>
