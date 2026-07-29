@@ -309,7 +309,7 @@ quest_list: seasonal
 ### 2026 {#hatching-tide-2026}
 
 <ul markdown="0">
-	{% include quest.liquid quest_name = "エッグハントと謎の草" %}
+	{% include quest.liquid quest_name = "Of Weeds and Whimsy" %}
 </ul>
 
 ### 2025 {#hatching-tide-2025}
@@ -401,6 +401,12 @@ quest_list: seasonal
 
 ## Празднества <<Золотого блюдца>> / Make It Rain {#make-it-rain}
 
+### 2026 {#make-it-rain-2026}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "You Otter Be There" %}
+</ul>
+
 ### 2025 {#make-it-rain-2025}
 
 <ul markdown="0">
@@ -468,6 +474,13 @@ quest_list: seasonal
 </ul>
 
 ## Фестиваль <<Огненной луны>> / Moonfire Faire {#moonfire-faire}
+
+### 2026 {#moonfire-faire-2026}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "Earning Your Water Wings" %}
+	{% include quest.liquid quest_name = "Whoever Floats Your Raft" %}
+</ul>
 
 ### 2025 {#moonfire-faire-2025}
 
@@ -574,6 +587,13 @@ quest_list: seasonal
 
 ## Фестиваль <<Восхождения>> / The Rising {#the-rising}
 
+### 2026 {#the-rising-2026}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "The Symphony of Life" %}
+	{% include quest.liquid quest_name = "Prelude's Call" %}
+</ul>
+
 ### 2025 {#the-rising-2025}
 
 <ul markdown="0">
@@ -654,6 +674,13 @@ quest_list: seasonal
 </ul>
 
 ## Праздник всех святых / All Saints' Wake {#all-saints-wake}
+
+### 2026 {#all-saints-wake-2026}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "We Scare Bears" %}
+	{% include quest.liquid quest_name = "Grim and Grisly Games" %}
+</ul>
 
 ### 2025 {#all-saints-wake-2025}
 
@@ -756,6 +783,13 @@ quest_list: seasonal
 </ul>
 
 ## Праздник Звёздного Света / Starlight Celebration {#starlight-celebration}
+
+### 2026 {#starlight-celebration-2026}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "Dashing through the Starlight" %}
+	{% include quest.liquid quest_name = "Sleigh Bells Ring" %}
+</ul>
 
 ### 2025 {#starlight-celebration-2025}
 
