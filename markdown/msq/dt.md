@@ -182,4 +182,16 @@ quest_list: msq-7
 	{% include quest.liquid quest_name = "Into the Mist" %}
 </ul>
 
+# 7.5 --- Trail to the Heavens{#dt-7-5}
+
+## Часть 1 {#dt-7-5-1}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "In Fate's Footsteps" %}
+	{% include quest.liquid quest_name = "Two Worlds Entwined" %}
+	{% include quest.liquid quest_name = "A Grave Presentiment" %}
+	{% include quest.liquid quest_name = "A Beacon from Beyond" %}
+	{% include quest.liquid quest_name = "Trail to the Heavens" %}
+</ul>
+
 _Продолжение следует..._
