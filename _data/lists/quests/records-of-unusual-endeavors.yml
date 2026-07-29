@@ -5,7 +5,7 @@
   icon: 61419
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-046-aktkua101_04643/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=6e30779b918c99cb
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=742ff06d0e0fe1c3
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=2230b4e008579e5f
   actors:
   - id: 1043621
@@ -31,7 +31,7 @@
   icon: 61411
   url:
     quest: https://translate.xivrus.ru/projects/xivrus/quest-046-aktkua201_04645/
-    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=c1a8d9bb282c1d8d
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=0b103069e67508e6
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=f147a469d96b61a0
   cutscenes:
   - name: "Кат-сцена"
@@ -55,4 +55,669 @@
   - id: 2013035
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=9021cf5a48850e8d
     name: "Цель"
+
+- name:
+    original: "One Last Hurrah"
+    translated: "Последнее плаванье Кетенрамма"
+  level: 100
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-053-kingkd001_05309/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=b32cd64c0f0a2b19
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=269175e554d918c7
+  actors:
+  - id: 1047302
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f58013ea37fafd57
+    name: "Вук Ламат"
+  - id: 1047303
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0a4ec3a11a89e02a
+    name: "Коана"
+  - id: 1038915
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=506bc09740a9ed3a
+    name: "Гонец экспедиции"
+  - id: 1038967
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=135c80e1834cbe17
+    name: "Офангеим"
+  - id: 1039720
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=057be744b453ce54
+    name: "Ketenramm"
+  - id: 1042454
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=05d3c37cd2537290
+    name: "Наблюдатель экспедиции"
+  - id: 1042894
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f2f2ae0780ff22a5
+    name: "Писарь экспедиции"
+  - id: 1046341
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=edd579f6cf5e4dc8
+    name: "Старатель экспедиции"
+  - id: 1046350
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=862ea07010ff7f2e
+    name: "Поставщик экспедиции"
+  - id: 1046369
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3e9fefe5e10f4943
+    name: "Офангеим"
+  - id: 1052325
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=158852b0cc85e724
+    name: "expedition ferryman"
+  - id: 1052330
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9803e7d4a4c1f858
+    name: "Ketenramm"
+  - id: 1052450
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f80ea818f13a2b57
+    name: "Офангеим"
+  - id: 1053689
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=eefc3f08580b16db
+    name: "Кетенрамм"
+  - id: 1053690
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=40cc700919ea013e
+    name: "Офангеим"
+  - id: 1054297
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=51f305fabc2b5a16
+    name: "Гонец экспедиции"
+
+- name:
+    original: "The Phantom Village"
+    translated: "Город-призрак"
+  level: 100
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-053-kingkd002_05310/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=4734775ec5692351
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=b1c0899c7643c805
+  actors:
+  - id: 1052330
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9803e7d4a4c1f858
+    name: "Ketenramm"
+  - id: 1052450
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f80ea818f13a2b57
+    name: "Офангеим"
+  - id: 1052452
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=091266930d9cbc3e
+    name: "Ketenramm"
+  eobjects:
+  - id: 2014645
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=fb1b86a2defc4214
+    name: "Заросшее здание"
+  - id: 2014646
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=c50f29582582c4e1
+    name: "Точка обзора"
+  - id: 2014647
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=68b74b9562609627
+    name: "Тускло светящийся камень"
+
+- name:
+    original: "Unfamiliar Territory"
+    translated: "Секреты и фамильярности"
+  level: 100
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-053-kingkd003_05311/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=a068477069151e44
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=b24da3eaa73ae56a
+  actors:
+  - id: 1053687
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9c0e065eba2219f3
+    name: "Архив"
+  - id: 1053688
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=aa99ab2083e1a727
+    name: "Ирис"
+  - id: 1053689
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=eefc3f08580b16db
+    name: "Кетенрамм"
+  - id: 1053727
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=22ad66a89b2ca268
+    name: "Лидирсеил"
+  - id: 1053728
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=26895f45405b16ed
+    name: "Эрмина"
+  - id: 1053729
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f84511c443956858
+    name: "Додоккули"
+  - id: 1053794
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=aab3d7f078805d05
+    name: "Архив"
+  - id: 1053795
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cee02fb055ad137b
+    name: "Кетенрамм"
+  - id: 1053797
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=33b9bce180ed3bd7
+    name: "Джеффрой"
+
+- name:
+    original: "New Job, Old Tricks"
+    translated: "Профессии былых лет"
+  level: 100
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-053-kingkd004_05312/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=61ef6cf1965d86f2
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=cfdb8797f93c83f4
+  actors:
+  - id: 1053689
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=eefc3f08580b16db
+    name: "Кетенрамм"
+  - id: 1053798
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6b6c0a6211370461
+    name: "Кетенрамм"
+  - id: 1053799
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=550a9f6b51c354c8
+    name: "Архив"
+  - id: 1053808
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=823413664899264b
+    name: "Кетенрамм"
+  - id: 1053915
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6ba12d46d8c8afd4
+    name: "Архив"
+  - id: 1053935
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=599ac6a8234a2668
+    name: "Офангеим"
+  logmessages:
+  - id: 23
+    url: https://translate.xivrus.ru/translate/xivrus/logmessage/ru/?checksum=76913ad305775a5b
+    name: "Вы теперь лидер «<var 08 E909 ((<var 28 ((ObjStr)) E90901 /var>)) EB04 /var>»."
+  - id: 1213
+    url: https://translate.xivrus.ru/translate/xivrus/logmessage/ru/?checksum=dc2739e04fcc5d81
+    name: "Вставка материи провалилась..."
+  - id: 11016
+    url: https://translate.xivrus.ru/translate/xivrus/logmessage/ru/?checksum=0194e3af34bda49f
+    name: "“<var 28 ((DescriptionString)) F204BD0118 /var>” было добавлено в справочник Оккультного Полумесяца."
+
+- name:
+    original: "The Ancient Arts of War"
+    translated: "Бессмертное искусство войны"
+  level: 100
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-053-kingkd005_05313/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=b02eeac5eaf59c32
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=618fa1ec2abca165
+  actors:
+  - id: 1053687
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9c0e065eba2219f3
+    name: "Архив"
+  - id: 1053688
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=aa99ab2083e1a727
+    name: "Ирис"
+  - id: 1053689
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=eefc3f08580b16db
+    name: "Кетенрамм"
+  - id: 1053793
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b0dff42e6019486d
+    name: "Кетенрамм"
+  - id: 1053796
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3a90b6aa6804dc55
+    name: "Архив"
+  - id: 1053800
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=58df27e7de675850
+    name: "Офангеим"
+
+- name:
+    original: "Creatures of the Crescent"
+    translated: "Фауна Полумесяца"
+  level: 100
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-053-kingkd006_05314/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=129b25224abc6a37
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=1e5252a14cbd8802
+  actors:
+  - id: 1053801
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6dc6ad56d735525c
+    name: "Кетенрамм"
+  - id: 1053802
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6751c3b5def90a3b
+    name: "Архив"
+  enemies:
+  - id: 13481
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=d49d420c372b37f6
+    name: "angry Naryordor"
+  - id: 13644
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=3b1272211241f482
+    name: "Ark Angel EV"
+  - id: 13637
+    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=b742641e3bc63941
+    name: "Чёрный чокобо"
+  quest_items:
+  - id: 2003719
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=d3f7210840c9a5ac
+    name: "Заметки о гарулах Полумесяца"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=d3f7210840c9a5ac
+  - id: 2003751
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=b0a201120981c682
+    name: "Заметки о летучих ящерах Полумесяца"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=b0a201120981c682
+  - id: 2003752
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=32565cd95c018387
+    name: "Заметки о бандершмыгах Полумесяца"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=32565cd95c018387
+
+- name:
+    original: "A Ruined Land"
+    translated: "Брошенная земля"
+  level: 100
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-053-kingkd007_05315/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=c5887ec8f1d5a21c
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=feb7098c08f406cb
+  actors:
+  - id: 1053801
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6dc6ad56d735525c
+    name: "Кетенрамм"
+  - id: 1053802
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6751c3b5def90a3b
+    name: "Архив"
+  quest_items:
+  - id: 2003734
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=5920e8b660d53837
+    name: "chunk of aether-imbued stone"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=5920e8b660d53837
+  eobjects:
+  - id: 2014648
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=9e9c3a6bc42992d0
+    name: "aether-imbued stone"
+
+- name:
+    original: "A Common Thread"
+    translated: "Связующее звено"
+  level: 100
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-053-kingkd008_05316/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=cb9d578d32dd40ea
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=e90b0ead7c442ca3
+  actors:
+  - id: 1053801
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6dc6ad56d735525c
+    name: "Кетенрамм"
+  - id: 1053802
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6751c3b5def90a3b
+    name: "Архив"
+  quest_items:
+  - id: 2003735
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=7cb4b627bb33f2dd
+    name: "chunk of aether-imbued stone"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=7cb4b627bb33f2dd
+  - id: 2003736
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=50b97e8dca6947b1
+    name: "chunk of aether-imbued stone"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=50b97e8dca6947b1
+  - id: 2003737
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=3b3374690cd55979
+    name: "chunk of aether-imbued stone"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=3b3374690cd55979
+  eobjects:
+  - id: 2014649
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=5ef55e4f8059cf65
+    name: "aether-imbued stone"
+  - id: 2014650
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=99a5574907243280
+    name: "aether-imbued stone"
+  - id: 2014651
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=bfe2dec5c3290209
+    name: "aether-imbued stone"
+
+- name:
+    original: "Past and Crescent"
+    translated: "Эхо прошлого"
+  level: 100
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-053-kingkd009_05317/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=0a898a8ed719c163
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=81cde0861454149a
+  actors:
+  - id: 1053687
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9c0e065eba2219f3
+    name: "Архив"
+  - id: 1053688
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=aa99ab2083e1a727
+    name: "Ирис"
+  - id: 1053689
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=eefc3f08580b16db
+    name: "Кетенрамм"
+  - id: 1053690
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=40cc700919ea013e
+    name: "Офангеим"
+  - id: 1053801
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6dc6ad56d735525c
+    name: "Кетенрамм"
+  - id: 1053802
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6751c3b5def90a3b
+    name: "Архив"
+  logmessages:
+  - id: 23
+    url: https://translate.xivrus.ru/translate/xivrus/logmessage/ru/?checksum=76913ad305775a5b
+    name: "Вы теперь лидер «<var 08 E909 ((<var 28 ((ObjStr)) E90901 /var>)) EB04 /var>»."
+  - id: 1224
+    url: https://translate.xivrus.ru/translate/xivrus/logmessage/ru/?checksum=714bbf37bebabe19
+    name: "Не удалось начать синтез. Большой Брат считает, что вам пора бы отдохнуть."
+  - id: 11001
+    url: https://translate.xivrus.ru/translate/xivrus/logmessage/ru/?checksum=adf4d1af7cbfda73
+    name: "“<var 28 ((DescriptionString)) F204C80118 /var>” было добавлено в справочник Оккультного Полумесяца."
+
+- name:
+    original: "Mysteries Abide"
+    translated: "Нерешённая загадка"
+  level: 100
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-053-kingkd010_05318/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=bc5510c47efd4340
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=7d85636fc2121bb4
+  actors:
+  - id: 1053803
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8701b96d68c41049
+    name: "Кетенрамм"
+  - id: 1053804
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5aed26566fd27306
+    name: "Архив"
+  - id: 1053805
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4895eef1329c6fa7
+    name: "Гонец экспедиции"
+
+- name:
+    original: "Occult Reunion"
+  level: 100
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-055-kingkd101_05511/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=667babc42ef225a7
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=edcb6e0cf592dbce
+  actors:
+  - id: 1053611
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6de6f016164d9df8
+    name: "Джеффрой"
+  - id: 1053688
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=aa99ab2083e1a727
+    name: "Ирис"
+  - id: 1053805
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4895eef1329c6fa7
+    name: "Гонец экспедиции"
+  - id: 1053808
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=823413664899264b
+    name: "Кетенрамм"
+  - id: 1053915
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6ba12d46d8c8afd4
+    name: "Архив"
+  - id: 1059648
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cd5cfd8acd3159ed
+    name: "Ketenramm"
+
+- name:
+    original: "The North Horn Beckons"
+  level: 100
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-055-kingkd102_05512/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=0111531d26f20b00
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=7c1966ad916eccdf
+  actors:
+  - id: 1053808
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=823413664899264b
+    name: "Кетенрамм"
+  - id: 1053915
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6ba12d46d8c8afd4
+    name: "Архив"
+  - id: 1059622
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5b6f01228ebfaa04
+    name: "Iris"
+  - id: 1059626
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ee5644fce02ebe2a
+    name: "Archive"
+  - id: 1059627
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7281ee0fd547be68
+    name: "Ketenramm"
+  - id: 1059628
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=91bf2846297a576e
+    name: "Iris"
+
+- name:
+    original: "A Confluence Conundrum"
+  level: 100
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-055-kingkd103_05513/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=e30dbd19f0ce3358
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=ba10fece8b76b16c
+  actors:
+  - id: 1053689
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=eefc3f08580b16db
+    name: "Кетенрамм"
+  - id: 1059626
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ee5644fce02ebe2a
+    name: "Archive"
+  - id: 1059627
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7281ee0fd547be68
+    name: "Ketenramm"
+  - id: 1059628
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=91bf2846297a576e
+    name: "Iris"
+  eobjects:
+  - id: 2015445
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=928e1db30ba7d380
+    name: "confluence"
+
+- name:
+    original: "Aetherial Oddities"
+  level: 100
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-055-kingkd104_05514/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=8d4e524f7a904356
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=14cf08ce949ba64a
+  actors:
+  - id: 1053687
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9c0e065eba2219f3
+    name: "Архив"
+  - id: 1053688
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=aa99ab2083e1a727
+    name: "Ирис"
+  - id: 1053689
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=eefc3f08580b16db
+    name: "Кетенрамм"
+  - id: 1059626
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ee5644fce02ebe2a
+    name: "Archive"
+  - id: 1059627
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7281ee0fd547be68
+    name: "Ketenramm"
+  - id: 1059628
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=91bf2846297a576e
+    name: "Iris"
+  eobjects:
+  - id: 2015446
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=2b79c84f1294ee0c
+    name: "confluence"
+  - id: 2015447
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=d5016166a5e26e50
+    name: "confluence"
+  - id: 2015448
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=f9268f8aaebe0b7a
+    name: "confluence"
+  - id: 2015449
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=aed1a482f067858a
+    name: "confluence"
+
+- name:
+    original: "A Familiar Issue"
+  level: 100
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-055-kingkd105_05515/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=3e98127e9795fe7a
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=7de77897940c405d
+  actors:
+  - id: 1059626
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ee5644fce02ebe2a
+    name: "Archive"
+  - id: 1059627
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7281ee0fd547be68
+    name: "Ketenramm"
+  - id: 1059628
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=91bf2846297a576e
+    name: "Iris"
+  quest_items:
+  - id: 2003838
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=4725bd17afe14e28
+    name: "Abductor's horn"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=4725bd17afe14e28
+
+- name:
+    original: "The Observant Servant"
+  level: 100
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-055-kingkd106_05516/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=09096ac35d5b2586
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=47b74810d27abf85
+  actors:
+  - id: 1059626
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ee5644fce02ebe2a
+    name: "Archive"
+  - id: 1059627
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7281ee0fd547be68
+    name: "Ketenramm"
+  - id: 1059628
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=91bf2846297a576e
+    name: "Iris"
+  - id: 1059629
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4329ed7503776d25
+    name: "Iris"
+  - id: 1059630
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bc02afca4c155088
+    name: "Archive"
+  - id: 1059631
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6d0d991d205b2482
+    name: "Ketenramm"
+  - id: 1059632
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ce60e93955e98180
+    name: "Iris"
+  - id: 1059633
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=31a8334333d324ad
+    name: "Archive"
+  - id: 1059634
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=96bb8b7f862abc6f
+    name: "Ketenramm"
+  - id: 1059635
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6e052f2114537147
+    name: "Iris"
+  - id: 1059636
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7ee3ff14390e1026
+    name: "Archive"
+  - id: 1059637
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d4824c8ad85e05b6
+    name: "Ketenramm"
+  - id: 1059638
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4b324d11fdf01218
+    name: "Iris"
+  - id: 1059639
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c569e82899611e97
+    name: "Archive"
+  - id: 1059640
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9996fb4ddf93f906
+    name: "Ketenramm"
+
+- name:
+    original: "In the Shadow of the Tower"
+  level: 100
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-055-kingkd107_05517/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=8014c9a07b79af4d
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=07c167cc5f3a1e00
+  actors:
+  - id: 1053687
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9c0e065eba2219f3
+    name: "Архив"
+  - id: 1053688
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=aa99ab2083e1a727
+    name: "Ирис"
+  - id: 1053689
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=eefc3f08580b16db
+    name: "Кетенрамм"
+  - id: 1059626
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ee5644fce02ebe2a
+    name: "Archive"
+  - id: 1059627
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7281ee0fd547be68
+    name: "Ketenramm"
+  - id: 1059628
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=91bf2846297a576e
+    name: "Iris"
+  - id: 1059639
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c569e82899611e97
+    name: "Archive"
+  - id: 1059640
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9996fb4ddf93f906
+    name: "Ketenramm"
+  - id: 1059814
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f14e8ed4fa6ff9f4
+    name: "Iris"
+  eobjects:
+  - id: 2015450
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=74bde2deba549a04
+    name: "confluence"
+  logmessages:
+  - id: 11033
+    url: https://translate.xivrus.ru/translate/xivrus/logmessage/ru/?checksum=de67333e1a58e06e
+    name: "“<var 28 ((DescriptionString)) F2067B0118 /var>” has been added to the Occult Crescent guide."
+  - id: 11037
+    url: https://translate.xivrus.ru/translate/xivrus/logmessage/ru/?checksum=1d2bb4b1cec2a583
+    name: "“<var 28 ((DescriptionString)) F206DE0118 /var>” has been added to the Occult Crescent guide."
+
+- name:
+    original: "Wisdom's End"
+  level: 100
+  icon: 61419
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-055-kingkd108_05518/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=071654264c96c90c
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=fb58c0f0739169cd
+  actors:
+  - id: 1053689
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=eefc3f08580b16db
+    name: "Кетенрамм"
+  - id: 1053691
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bcf6bf56bb31dbc1
+    name: "Вперёдсмотрящий"
+  - id: 1053805
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4895eef1329c6fa7
+    name: "Гонец экспедиции"
+  - id: 1059626
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ee5644fce02ebe2a
+    name: "Archive"
+  - id: 1059627
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7281ee0fd547be68
+    name: "Ketenramm"
+  - id: 1059628
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=91bf2846297a576e
+    name: "Iris"
+  - id: 1059642
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5c3bf3190c76d579
+    name: "Archive"
+  - id: 1059643
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b4158738c95cdec2
+    name: "Iris"
+  - id: 1059644
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=83ecf3c0bb4dad5d
+    name: "Ofangeim"
+  - id: 1059645
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ca8aa95db4535874
+    name: "Ketenramm"
+  - id: 1059646
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=de2e4c3d9358d588
+    name: "Archive"
+  - id: 1059647
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8dbe830e77360437
+    name: "Iris"
+  - id: 1059648
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cd5cfd8acd3159ed
+    name: "Ketenramm"
+  - id: 1059649
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ee4f605788be3d59
+    name: "Archive"
+  - id: 1059650
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=fb332d72fd354667
+    name: "Iris"
 
