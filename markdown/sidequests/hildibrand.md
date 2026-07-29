@@ -93,6 +93,10 @@ quest_list: hildibrand
 	{% include quest.liquid quest_name = "The Case of the Fiendish Fugitives" %}
 	{% include quest.liquid quest_name = "A Vandal in the Wild" %}
 	{% include quest.liquid quest_name = "On the Trail of Destruction" %}
+	{% include quest.liquid quest_name = "A Need for Speed" %}
+	{% include quest.liquid quest_name = "Meteorites and Meteor-wrongs" %}
+	{% include quest.liquid quest_name = "Detecting a Lead" %}
+	{% include quest.liquid quest_name = "Clotted Crime" %}
 </ul>
 
 _Продолжение следует..._
