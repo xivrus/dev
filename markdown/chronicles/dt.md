@@ -42,4 +42,6 @@ quest_list: chronicles-dt
 	{% include quest.liquid quest_name = "Northward" %}
 	{% include quest.liquid quest_name = "For Whom the Verse Is Sung" %}
 	{% include quest.liquid quest_name = "Apocalypse Nigh" %}
+	{% include quest.liquid quest_name = "The Hollow Promise" %}
+	{% include quest.liquid quest_name = "Distant Promises" %}
 </ul>
