@@ -182,7 +182,7 @@ quest_list: msq-7
 	{% include quest.liquid quest_name = "Into the Mist" %}
 </ul>
 
-# 7.5 --- Trail to the Heavens{#dt-7-5}
+# 7.5 --- Trail to the Heavens {#dt-7-5}
 
 ## Часть 1 {#dt-7-5-1}
 
