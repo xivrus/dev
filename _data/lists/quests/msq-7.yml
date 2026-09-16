@@ -10909,3 +10909,227 @@
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e31137696ce2ef07
     name: "Живчик"
 
+- name:
+    original: "A Winter's Dream"
+  level: 100
+  icon: 61412
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-054-kingml101_05475/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=074a4a22682af8ee
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=30c117b4f4996b28
+  cutscenes:
+  - name: "Кат-сцена 1"
+    start: "000010"
+    end: "010000"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-075-voiceman_07505/
+  - name: "Кат-сцена 2"
+    start: "000280"
+    end: "000417"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-075-voiceman_07505/
+  actors:
+  - id: 1036120
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8a51b8de7c960da0
+    name: "Эстиниен"
+  - id: 1058995
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=152e4cbdd11c32a9
+    name: "Татару"
+  - id: 1058828
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6b8a6730b8c069b3
+    name: "Татару"
+  - id: 1058862
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ecac1556be51f6f9
+    name: "Альфино"
+  - id: 1058863
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=957e3e69e89a646f
+    name: "Эстиниен"
+  - id: 1058982
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=67cae5d57ecd5b5a
+    name: "Эстиниен"
+  eobjects:
+  - id: 2015322
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=3465e8f6c70d7e46
+    name: "destination"
+  logmessages:
+  - id: 56
+    url: https://translate.xivrus.ru/translate/xivrus/logmessage/ru/?checksum=8ff9c18edbca6884
+    name: "Не удалось начать торговлю. Этот игрок находится в вашем чёрном списке."
+
+- name:
+    original: "A Rush of Cold Wind"
+  level: 100
+  icon: 61412
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-054-kingml102_05476/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=28e5e8254778e16d
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=879c3f3722efbf10
+  cutscenes:
+  - name: "Кат-сцена 1"
+    start: "000440"
+    end: "000480"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-075-voiceman_07505/
+  - name: "Кат-сцена 2"
+    start: "000490"
+    end: "000600"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-075-voiceman_07505/
+  - name: "Кат-сцена 3"
+    start: "000610"
+    end: "000968"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-075-voiceman_07505/
+  actors:
+  - id: 1036120
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8a51b8de7c960da0
+    name: "Эстиниен"
+  - id: 1058862
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ecac1556be51f6f9
+    name: "Альфино"
+  - id: 1058863
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=957e3e69e89a646f
+    name: "Эстиниен"
+  - id: 1058864
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e63aa7b6fb32922a
+    name: "Альфино"
+  - id: 1058865
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=eb63359cd5a63e93
+    name: "Эстиниен"
+  - id: 1058866
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=233680bb85826645
+    name: "Альфино"
+  - id: 1058867
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=04f240a0c47e9a13
+    name: "Эстиниен"
+  - id: 1058868
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0187bb8ad6a1a6f0
+    name: "Висна"
+  eobjects:
+  - id: 2015323
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=5bbc31c851db32db
+    name: "icebound tree"
+  - id: 2015324
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=82721e0bc47eebaf
+    name: "icy surface"
+  - id: 2015325
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=7fd36391398a348c
+    name: "vantage point"
+  - id: 2015512
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=190236b12fd809b7
+    name: "path to the unmoored isle"
+
+- name:
+    original: "The World Locked in Ice"
+  level: 100
+  icon: 61412
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-054-kingml103_05477/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=1c6e76f2a86a7681
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=e471f37651b7c8ab
+  cutscenes:
+  - name: "Кат-сцена 1"
+    start: "000970"
+    end: "001220"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-075-voiceman_07505/
+  - name: "Кат-сцена 2"
+    start: "001245"
+    end: "001348"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-075-voiceman_07505/
+  actors:
+  - id: 1058625
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=140a54b7c86a172d
+    name: "Кэтилл"
+  - id: 1058626
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2062286b063532ec
+    name: "brusque skyfarer"
+  - id: 1058627
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=26081841d417f4de
+    name: "candid skyfarer"
+  - id: 1058628
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=dfd753e4e3e67f35
+    name: "lively skyfarer"
+  - id: 1058866
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=233680bb85826645
+    name: "Альфино"
+  - id: 1058867
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=04f240a0c47e9a13
+    name: "Эстиниен"
+  - id: 1058868
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0187bb8ad6a1a6f0
+    name: "Висна"
+  - id: 1058875
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=57baf94e61d0e0e7
+    name: "Альфино"
+  - id: 1058876
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3ddc9e81be62aa33
+    name: "Эстиниен"
+  - id: 1058877
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=922f6763d333ec3c
+    name: "Висна"
+  - id: 1058878
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=39c95b5d23b8ee63
+    name: "lively skyfarer"
+  quest_items:
+  - id: 2003824
+    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=a1308fc48e430391
+    name: "Низкокачественный кристалл"
+    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=a1308fc48e430391
+  eobjects:
+  - id: 2015328
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=ba6aefe7601345d1
+    name: "rimy crystal"
+  - id: 2015329
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=d8b6f074a5abe0ec
+    name: "rimy crystal"
+  - id: 2015330
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=35e802dafbb04436
+    name: "rimy crystal"
+  - id: 2015331
+    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=b17e357c980ee691
+    name: "rimy crystal"
+
+- name:
+    original: "Windborne"
+  level: 100
+  icon: 61412
+  url:
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-054-kingml104_05478/
+    journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=3a422581a08e1340
+    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=43017e1c672821b8
+  cutscenes:
+  - name: "Кат-сцена 1"
+    start: "001700"
+    end: "001920"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-075-voiceman_07505/
+  - name: "Кат-сцена 2"
+    start: "001560"
+    end: "001636"
+    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-075-voiceman_07505/
+  actors:
+  - id: 1036120
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8a51b8de7c960da0
+    name: "Эстиниен"
+  - id: 1058625
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=140a54b7c86a172d
+    name: "Кэтилл"
+  - id: 1058626
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2062286b063532ec
+    name: "brusque skyfarer"
+  - id: 1058627
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=26081841d417f4de
+    name: "candid skyfarer"
+  - id: 1058879
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1add7273f04da291
+    name: "Альфино"
+  - id: 1058880
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=ff532a2a08994f71
+    name: "Эстиниен"
+  - id: 1058881
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=07986509d09dffa8
+    name: "Висна"
+  - id: 1058882
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4f39d44e8ef2fba3
+    name: "lively skyfarer"
+  - id: 1058883
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7a5ee636dc3a78e7
+    name: "Татару"
+  - id: 1058884
+    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=20424666d967bd76
+    name: "Татару"
+

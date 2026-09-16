@@ -194,4 +194,13 @@ quest_list: msq-7
 	{% include quest.liquid quest_name = "Trail to the Heavens" %}
 </ul>
 
-_Продолжение следует..._
+## Часть 2 {#dt-7-5-2}
+
+<ul markdown="0">
+	{% include quest.liquid quest_name = "A Winter's Dream" %}
+	{% include quest.liquid quest_name = "A Rush of Cold Wind" %}
+	{% include quest.liquid quest_name = "The World Locked in Ice" %}
+	{% include quest.liquid quest_name = "Windborne" %}
+</ul>
+
+_Продолжение следует в Evercold..._
