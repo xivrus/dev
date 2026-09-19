@@ -10541,7 +10541,7 @@
   eobjects:
   - id: 2015337
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=294f78abc15a2005
-    name: "destination"
+    name: "Цель"
   logmessages:
   - id: 53
     url: https://translate.xivrus.ru/translate/xivrus/logmessage/ru/?checksum=a6fd40ae4c37d4f2
@@ -10911,6 +10911,7 @@
 
 - name:
     original: "A Winter's Dream"
+    translated: "Мечты о зиме"
   level: 100
   icon: 61412
   url:
@@ -10948,7 +10949,7 @@
   eobjects:
   - id: 2015322
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=3465e8f6c70d7e46
-    name: "destination"
+    name: "Цель"
   logmessages:
   - id: 56
     url: https://translate.xivrus.ru/translate/xivrus/logmessage/ru/?checksum=8ff9c18edbca6884
@@ -10956,6 +10957,7 @@
 
 - name:
     original: "A Rush of Cold Wind"
+    translated: "Дыхание холодного ветра"
   level: 100
   icon: 61412
   url:
@@ -11003,19 +11005,20 @@
   eobjects:
   - id: 2015323
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=5bbc31c851db32db
-    name: "icebound tree"
+    name: "Скованное льдом дерево"
   - id: 2015324
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=82721e0bc47eebaf
-    name: "icy surface"
+    name: "Ледяная поверхность"
   - id: 2015325
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=7fd36391398a348c
-    name: "vantage point"
+    name: "Точка с хорошим обзором"
   - id: 2015512
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=190236b12fd809b7
-    name: "path to the unmoored isle"
+    name: "На плавающий остров"
 
 - name:
     original: "The World Locked in Ice"
+    translated: "Скованный льдом мир"
   level: 100
   icon: 61412
   url:
@@ -11037,13 +11040,13 @@
     name: "Кэтилл"
   - id: 1058626
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2062286b063532ec
-    name: "brusque skyfarer"
+    name: "Грубый небостранник"
   - id: 1058627
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=26081841d417f4de
-    name: "candid skyfarer"
+    name: "Открытый небостранник"
   - id: 1058628
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=dfd753e4e3e67f35
-    name: "lively skyfarer"
+    name: "Энергичный небостранник"
   - id: 1058866
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=233680bb85826645
     name: "Альфино"
@@ -11064,7 +11067,7 @@
     name: "Висна"
   - id: 1058878
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=39c95b5d23b8ee63
-    name: "lively skyfarer"
+    name: "Энергичный небостранник"
   quest_items:
   - id: 2003824
     url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=a1308fc48e430391
@@ -11073,19 +11076,20 @@
   eobjects:
   - id: 2015328
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=ba6aefe7601345d1
-    name: "rimy crystal"
+    name: "Заледеневший кристалл"
   - id: 2015329
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=d8b6f074a5abe0ec
-    name: "rimy crystal"
+    name: "Заледеневший кристалл"
   - id: 2015330
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=35e802dafbb04436
-    name: "rimy crystal"
+    name: "Заледеневший кристалл"
   - id: 2015331
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=b17e357c980ee691
-    name: "rimy crystal"
+    name: "Заледеневший кристалл"
 
 - name:
     original: "Windborne"
+    translated: "Наследники ветра"
   level: 100
   icon: 61412
   url:
@@ -11110,10 +11114,10 @@
     name: "Кэтилл"
   - id: 1058626
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2062286b063532ec
-    name: "brusque skyfarer"
+    name: "Грубый небостранник"
   - id: 1058627
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=26081841d417f4de
-    name: "candid skyfarer"
+    name: "Открытый небостранник"
   - id: 1058879
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1add7273f04da291
     name: "Альфино"
@@ -11125,7 +11129,7 @@
     name: "Висна"
   - id: 1058882
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4f39d44e8ef2fba3
-    name: "lively skyfarer"
+    name: "Энергичный небостранник"
   - id: 1058883
     url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7a5ee636dc3a78e7
     name: "Татару"
