@@ -120,13 +120,13 @@
   eobjects:
   - id: 2000300
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=5c15fef4630cacb0
-    name: "Сундуки «Амаджина и сыновья»"
+    name: "Сундук «Амаджины»"
   - id: 2000753
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=67b22c4f4048c63d
-    name: "Сундуки «Амаджина и сыновья»"
+    name: "Сундук «Амаджины»"
   - id: 2000754
     url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=6d93e878711c5157
-    name: "Сундуки «Амаджина и сыновья»"
+    name: "Сундук «Амаджины»"
 
 - name:
     original: "Sometimes the Old Ways Are Best"
@@ -1574,6 +1574,7 @@
 
 - name:
     original: "Mind Games"
+    translated: "Сознание определяет реальность"
   level: 31
   icon: 61411
   url:
@@ -1600,6 +1601,7 @@
 
 - name:
     original: "U Don't Know Me"
+    translated: "Новый день в оазисе"
   level: 31
   icon: 61411
   url:
@@ -1632,6 +1634,7 @@
 
 - name:
     original: "What's It to U"
+    translated: "Чужой среди своих"
   level: 47
   icon: 61411
   url:
@@ -1657,6 +1660,7 @@
 
 - name:
     original: "Zombies Are People Too"
+    translated: "Зомби — тоже люди"
   level: 47
   icon: 61411
   url:
@@ -1694,6 +1698,7 @@
 
 - name:
     original: "U! Ow! That Stings"
+    translated: "«У»! Больно!"
   level: 47
   icon: 61411
   url:
@@ -1721,6 +1726,7 @@
 
 - name:
     original: "True U"
+    translated: "Свой среди чужих"
   level: 47
   icon: 61411
   url:
@@ -1953,6 +1959,7 @@
 
 - name:
     original: "A Kobold Initiative"
+    translated: "На упреждение по кобольдам"
   level: 47
   icon: 61411
   url:
@@ -1969,6 +1976,7 @@
 
 - name:
     original: "Can't Do It without U"
+    translated: "Тонкости племенной дипломатии"
   level: 47
   icon: 61411
   url:
