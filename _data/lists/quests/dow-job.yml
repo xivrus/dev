@@ -5930,81 +5930,9 @@
   level: 63
   icon: 62412
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-029-jobdrk630_02916/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=1d4c82bc57dbabaf
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=d98f68dc3878196a
-  actors:
-  - id: 1022866
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c3d047d50d9d5831
-    name: "Сидургу"
-  - id: 1022867
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=56794f49f6bce1b9
-    name: "Риэль"
-  - id: 1022868
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6b89f1fd3943fd46
-    name: "Мист"
-  - id: 1022869
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5be04731d02104fc
-    name: "Сидургу"
-  - id: 1022870
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5dc2cccd051a7c32
-    name: "Риэль"
-  - id: 1022871
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9b0b6fce22ac4d68
-    name: "Мист"
-  - id: 1022874
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f4b8d6747b99ca98
-    name: "Риэль"
-  - id: 1022875
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=bdc3a593115fcff3
-    name: "Сидургу"
-  - id: 1022876
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=65614ea432d29075
-    name: "Мист"
-  - id: 1022879
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=c77d391211e01a00
-    name: "Церковный надзиратель"
-  - id: 1022880
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=71963783e7cc04ad
-    name: "Мист"
-  - id: 1022881
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3a1d6f6dc30c5524
-    name: "Риэль"
-  - id: 1022882
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b69003bd04633a83
-    name: "Сидургу"
-  - id: 1022885
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4ad474934f83a305
-    name: "Сидургу"
-  - id: 1022886
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0b55aa865cfa52ab
-    name: "Риэль"
-  - id: 1022887
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=56e95ca37f3ffac9
-    name: "Мист"
-  - id: 1023412
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f62431efc005287e
-    name: "Сидургу"
-  - id: 1023413
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=cbbdb2ba9443b364
-    name: "Риэль"
-  - id: 1023414
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f31e15796c6abc07
-    name: "Мист"
-  enemies:
-  - id: 5854
-    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=7ebdbc490bbeb795
-    name: "Церковный надзиратель"
-  - id: 5855
-    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=d6ec32df5c6f9b54
-    name: "Бродячий рыцарь"
-  eobjects:
-  - id: 2008662
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=535fc365e7e0d062
-    name: "Цель"
-  - id: 2008663
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=afa2662a9d0dcb67
-    name: "Клубящаяся бездна"
+    quest_name: 
 
 - name:
     original: "The Orphans and the Broken Blade"

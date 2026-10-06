@@ -260,29 +260,9 @@
   level: 4
   icon: 61412
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-038-xxafst031_03855/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=33693dd42fb815dc
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=e1b2dd2b0fb37c1e
-  actors:
-  - id: 1000408
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0a9f3bd33f4bc421
-    name: "Цуб Каназом"
-  - id: 1000685
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a27c42cfb2e75d27
-    name: "Паулина"
-  enemies:
-  - id: 605
-    url: https://translate.xivrus.ru/translate/xivrus/bnpcname/ru/?checksum=3660bce67193e997
-    name: "Молодой анолис"
-  quest_items:
-  - id: 2003026
-    url: https://translate.xivrus.ru/translate/xivrus/eventitem/ru/?checksum=acad1346522a12f3
-    name: "яйцо анолиса"
-    desc_url: https://translate.xivrus.ru/translate/xivrus/eventitemhelp/ru/?checksum=acad1346522a12f3
-  eobjects:
-  - id: 2000010
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=499eea87dc7652d0
-    name: "Яйцо анолиса"
+    quest_name: 
 
 - name:
     original: "Spirithold Broken"
@@ -1281,16 +1261,9 @@
   level: 10
   icon: 61412
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-004-subsea115_00412/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=9c92dae8be7fb441
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=a24e1d74f6bbacba
-  actors:
-  - id: 1002238
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=51c343b25541003a
-    name: "Агбирм"
-  - id: 1002274
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=0c49e548ccea50f6
-    name: "Халброда"
+    quest_name: 
 
 - name:
     original: "Righting the Shipwright"
@@ -5186,15 +5159,8 @@
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=9fbdd6b5f23e28c9
     quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=d240d4f529ce3341
   actors:
-  - id: 1006378
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=32624a7c4ae790d5
-    name: "Иосея"
-  - id: 1006379
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=3a816f257af728f0
-    name: "Авторитетный астролог"
-  - id: 1006380
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d5f63370c6ccf508
-    name: "Лорд Портелье"
+  - id: 0
+  - id: 0
 
 - name:
     original: "Three for Three"
