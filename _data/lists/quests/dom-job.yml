@@ -3307,43 +3307,9 @@
   level: 50
   icon: 62413
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-020-jobast502_02020/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=7f40ebd069758642
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=b8f1653388d06ae8
-  actors:
-  - id: 1006376
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=256a740fbd55e80b
-    name: "Эдмель"
-  - id: 1006377
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=a0b36a0193ea08f4
-    name: "Форлемо"
-  - id: 1012222
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=17306b6e4372aae8
-    name: "Жаннкинар"
-  - id: 1014684
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=7005cbea5f66baf4
-    name: "Leveva"
-  - id: 1014685
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=b143201b5e4f6654
-    name: "Quimperain"
-  - id: 1014691
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=6e946682790ff2a2
-    name: "Жаннкинар"
-  - id: 1015127
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=5335052cab3ddf5b
-    name: "Жаннкинар"
-  - id: 1015128
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=86206ea43f2f0413
-    name: "Quimperain"
-  - id: 1015129
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8228bc4cc562445e
-    name: "Leveva"
-  - id: 1015130
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1135d044463f0e1e
-    name: "Old World astrologian"
-  - id: 1015131
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=9f05b8f69e2d5682
-    name: "Quimperain"
+    quest_name: 
 
 - name:
     original: "Empty Nest"

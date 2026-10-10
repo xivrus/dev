@@ -7877,55 +7877,9 @@
   level: 80
   icon: 61412
   url:
-    quest: https://translate.xivrus.ru/projects/xivrus/quest-037-luckmi103_03773/
+    quest: https://translate.xivrus.ru/projects/xivrus/quest-000-/
     journal: https://translate.xivrus.ru/translate/xivrus/completejournal/ru/?checksum=e7ed3d2e0547ab88
-    quest_name: https://translate.xivrus.ru/translate/xivrus/quest/ru/?checksum=9da57cd45fb815d0
-  cutscenes:
-  - name: "Кат-сцена"
-    start: "000490"
-    end: "000660"
-    url: https://translate.xivrus.ru/projects/xivrus/cut_scene-053-voiceman_05300/
-  actors:
-  - id: 1026569
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=eebbe52cc1c6cd48
-    name: "Танкред"
-  - id: 1027248
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=501fe835a6c74192
-    name: "Цессамиль"
-  - id: 1032081
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=1a0171a753ef077b
-    name: "Татару"
-  - id: 1033811
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=2dcae39bf052bf61
-    name: "Экзарх"
-  - id: 1033812
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=4da510ce7d01d574
-    name: "Рин"
-  - id: 1033813
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e64d92df7ed88bb4
-    name: "Рин"
-  - id: 1033814
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=d61ebbe6b5b3c33e
-    name: "Альфино"
-  - id: 1033815
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=73430e9e9e3d224e
-    name: "Ализе"
-  - id: 1033816
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f39636ad2abe5907
-    name: "Экзарх"
-  - id: 1033817
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=8d49c5cedf1b6de6
-    name: "Крайл"
-  - id: 1034900
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=f3e435907b7edbd2
-    name: "Танкред"
-  - id: 1034901
-    url: https://translate.xivrus.ru/translate/xivrus/enpcresident/ru/?checksum=e6fa48b971bb0fbc
-    name: "Рин"
-  eobjects:
-  - id: 2011080
-    url: https://translate.xivrus.ru/translate/xivrus/eobjname/ru/?checksum=5808ba00e5dfbfcc
-    name: "Вход в Покои Рассвета"
+    quest_name: 
 
 - name:
     original: "Food for the Soul"
